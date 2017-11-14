@@ -1,0 +1,1135 @@
+<scripts>
+	<script id="1">
+		<item original="get a package of noodles ." slot="1" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="put the noodles in a pot of water ." slot="2" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put the pot on the stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn the stove to medium heat ." slot="4" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="take the pot off when noodles are done ." slot="5" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="put water in pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="boil water in pan ." slot="2" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put noodles in boiling water ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="let noodles cook until soft ." slot="4" text="cook until" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="drain water from pan ." slot="5" text="drain from" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put noodles in bowl ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="locate cooker ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+		<item original="locate pan ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="locate noodle ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+		</item>
+		<item original="put noodle in pan ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put water in pan ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="boil noodle in pan of water on the cooker ." slot="6" text="boil in of on" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="place noodle in pan ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put pan on stove ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="heat stove ." slot="3" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="open a pack of noodles ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pack" head="pack"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="read the instructions on the pack ." slot="2" text="read on" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+			<ptcp text="pack" head="pack"/>
+		</item>
+		<item original="follow the instructions ." slot="3" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get a pot from cabinet ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="cabinet" head="cabinet"/>
+		</item>
+		<item original="fill pot with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place pot on stove ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove to desired heat ." slot="4" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+			<ptcp text="desired heat" head="heat"/>
+		</item>
+		<item original="place noodles inside pot ." slot="5" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place lid on pot ." slot="6" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="bring water to a boil ." slot="1" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="add salt and oil ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salt" head="salt"/>
+			<ptcp text="oil" head="oil"/>
+		</item>
+		<item original="add the noodles ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="stir occasionally ." slot="4" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="cook until noodles are tender ." slot="5" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="tender" head="tender"/>
+		</item>
+		<item original="drain off the water ." slot="6" text="drain off" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get pan ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="fill pan with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="allow water to boil ." slot="3" text="allow to" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="pour in noodles ." slot="4" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="boil until done ." slot="5" text="boil until" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="boil water in a pan ." slot="1" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="open noodle package ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="put noodles in pan of water ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="boil for one minute ." slot="4" text="boil for" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minute" head="minute"/>
+		</item>
+		<item original="strain noodles ." slot="5" text="strain" head="strain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get a pot ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="fill pot with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put noodles in pot ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pot on stove ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="boil pot ." slot="6" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="strain noodles ." slot="7" text="strain" head="strain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get a pot ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="fill pot with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put noodles in pot ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pot on stove ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="boil pot ." slot="6" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="strain noodles ." slot="7" text="strain" head="strain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="put water in pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put pan on stove burner ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove burner" head="burner"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on burner under pan ." slot="3" text="turn on under" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait for water to come to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="add noodles to boiling water ." slot="5" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook noodles until soft ." slot="6" text="cook until" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="pour cooked noodles into strainer ." slot="7" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooked noodles" head="noodles"/>
+			<ptcp text="strainer" head="strainer"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="boil a pot of water ." slot="1" text="boil of" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="merasure the correct amount of noodles and pour in ." slot="2" text="merasure in of" head="merasure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="check box for cooking time ." slot="3" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="boilfor the correct amount of time ." slot="4" text="boilfor of" head="boilfor">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="put water in a pot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on stove ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put the pot on the stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="when water boils add noodles ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water boils" head="boils"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="test noodles every minute ." slot="5" text="test" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="minute" head="minute"/>
+		</item>
+		<item original="when noodles are soft take pot off of stove ." slot="6" text="take off of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="drain contents of pot using strainer ." slot="7" text="drain of" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="strainer" head="strainer"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="put water in pot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pot on burner ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="turn burner on high ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="put lid on pot ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="bring water to a boil ." slot="5" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="remove lid ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="add noodles ." slot="7" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="fill pot with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place pot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn stove on high ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait for water to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="add noodles to boiling water ." slot="5" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="stir noodles ." slot="6" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="remove when noodles are tender but firm ." slot="7" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="fill large pot with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="set pot on burner ." slot="2" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="turn burner to high ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="wait for water to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="open noodle package ." slot="5" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="empty noodles into boiling water ." slot="6" text="empty into" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="let cook for 11 minutes ." slot="7" text="cook for" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add noodles ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="cook for 15 minutes ." slot="3" text="cook for" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="drain noodles ." slot="4" text="drain" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add noodles ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="cook for 15 minutes ." slot="3" text="cook for" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="drain noodles ." slot="4" text="drain" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add noodles ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="cook for 15 minutes ." slot="3" text="cook for" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="drain noodles ." slot="4" text="drain" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="buy noodles ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="boil water ." slot="2" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="open noodle package ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="place noodles in water ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook noodles until tender ." slot="5" text="cook until" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="tender" head="tender"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook noodles ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="strain noodles ." slot="3" text="strain" head="strain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="serve noodles ." slot="4" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add noodles ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="boil for 5 min ." slot="3" text="boil for" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="min" head="min"/>
+		</item>
+		<item original="drain water ." slot="4" text="drain" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="putting water into pot ." slot="1" text="putting into" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turning on stove ." slot="2" text="turning on" head="turning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="putting the pot on the stove ." slot="3" text="putting on" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="waiting until the water is boiling ." slot="4" text="waiting" head="waiting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="boil noodles ." slot="5" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="let them rest ." slot="6" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rest" head="rest"/>
+		</item>
+		<item original="drain noodles ." slot="7" text="drain" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="put water in a pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put noodle in the water ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put pan on the stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put heat on the burner under the pan ." slot="4" text="put on under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait til water boils for seven minutes then rinse and serve ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="til water boils" head="boils"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="put water in a pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put noodle in the water ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put pan on the stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put heat on the burner under the pan ." slot="4" text="put on under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait til water boils for seven minutes then rinse and serve ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="til water boils" head="boils"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="put water in a pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put noodle in the water ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put pan on the stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put heat on the burner under the pan ." slot="4" text="put on under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait til water boils for seven minutes then rinse and serve ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="til water boils" head="boils"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="put water in a pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put noodle in the water ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put pan on the stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put heat on the burner under the pan ." slot="4" text="put on under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait til water boils for seven minutes then rinse and serve ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="til water boils" head="boils"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="put water in a pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put noodle in the water ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put pan on the stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put heat on the burner under the pan ." slot="4" text="put on under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait til water boils for seven minutes then rinse and serve ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="til water boils" head="boils"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="put water in a pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put noodle in the water ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put pan on the stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put heat on the burner under the pan ." slot="4" text="put on under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait til water boils for seven minutes then rinse and serve ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="til water boils" head="boils"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="put water in pot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on element ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="element" head="element"/>
+		</item>
+		<item original="turn on element ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="element" head="element"/>
+		</item>
+		<item original="let water boil ." slot="4" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water boil" head="boil"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add noodles to water ." slot="5" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook until tender ." slot="6" text="cook until" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tender" head="tender"/>
+		</item>
+		<item original="remove from element and drain ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="element" head="element"/>
+			<ptcp text="drain" head="drain"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="put water in pot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on element ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="element" head="element"/>
+		</item>
+		<item original="turn on element ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="element" head="element"/>
+		</item>
+		<item original="let water boil ." slot="4" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water boil" head="boil"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add noodles to water ." slot="5" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook until tender ." slot="6" text="cook until" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tender" head="tender"/>
+		</item>
+		<item original="remove from element and drain ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="element" head="element"/>
+			<ptcp text="drain" head="drain"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="obtain noodle ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+		</item>
+		<item original="obtain pot ." slot="2" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="fill pot with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place noodle in pot ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="boil noodle until tender ." slot="5" text="boil until" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="tender" head="tender"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="obtain noodle ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+		</item>
+		<item original="obtain pot ." slot="2" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="fill pot with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place noodle in pot ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="boil noodle until tender ." slot="5" text="boil until" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="tender" head="tender"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="put water in pot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on element ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="element" head="element"/>
+		</item>
+		<item original="let water boil ." slot="4" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water boil" head="boil"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add noodles ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="cook until tender ." slot="6" text="cook until" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tender" head="tender"/>
+		</item>
+		<item original="drain ." slot="7" text="drain" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="put water in pot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on element ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="element" head="element"/>
+		</item>
+		<item original="let water boil ." slot="4" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water boil" head="boil"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add noodles ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="cook until tender ." slot="6" text="cook until" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tender" head="tender"/>
+		</item>
+		<item original="drain ." slot="7" text="drain" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="put water in pot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on element ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="element" head="element"/>
+		</item>
+		<item original="let water boil ." slot="4" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water boil" head="boil"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add noodles ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="cook until tender ." slot="6" text="cook until" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tender" head="tender"/>
+		</item>
+		<item original="drain ." slot="7" text="drain" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="get noodle ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+		</item>
+		<item original="get pot ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="get water in pot ." slot="3" text="get in" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="heat water to boil ." slot="4" text="heat to" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="put noodle in water ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="fill pot with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put pot on stove ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="when water boils put in noodles ." slot="4" text="boils in" head="boils">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="cook for 5 minutes ." slot="5" text="cook for" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="after 5 minutes turn off stove ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="fill pot with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put pot on stove ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="when water boils put in noodles ." slot="4" text="boils in" head="boils">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="noodles" head="noodles"/>
+		</item>
+		<item original="cook for 5 minutes ." slot="5" text="cook for" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="after 5 minutes turn off stove ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="take noodle ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+		</item>
+		<item original="place noodle in pot ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noodle" head="noodle"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="heat pot on stove ." slot="3" text="heat on" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+</scripts>

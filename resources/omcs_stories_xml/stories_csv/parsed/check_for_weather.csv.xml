@@ -1,0 +1,724 @@
+<scripts>
+	<script id="1">
+		<item original="go to www weather com ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weather com" head="com"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+		<item original="enter the zipcode of the area you want to know the weather of ." slot="2" text="enter of of" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="zipcode" head="zipcode"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="stick out the arm ." slot="2" text="stick out" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="feel for temperature and rain ." slot="3" text="feel for" head="feel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="temperature" head="temperature"/>
+			<ptcp text="rain" head="rain"/>
+		</item>
+		<item original="look outside for rain and clouds ." slot="4" text="look outside for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rain" head="rain"/>
+			<ptcp text="clouds" head="clouds"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="go to window or door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="make sure there are no obstacles in way ." slot="2" text="make in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="obstacles" head="obstacles"/>
+			<ptcp text="way" head="way"/>
+		</item>
+		<item original="examine sky for clouds ." slot="3" text="examine for" head="examine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+			<ptcp text="clouds" head="clouds"/>
+		</item>
+		<item original="examine wind speed ." slot="4" text="examine" head="examine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wind speed" head="speed"/>
+			<ptcp text="wind" head="wind"/>
+		</item>
+		<item original="examine humidity and percipitation ." slot="5" text="examine" head="examine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="humidity" head="humidity"/>
+			<ptcp text="percipitation" head="percipitation"/>
+		</item>
+		<item original="if any readings above or below normal there is weather ." slot="6" text="is if below" head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="readings" head="readings"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="go outside ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look at the sky ." slot="2" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="draw curtains ." slot="1" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="look outside at sky ." slot="2" text="look outside at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+		</item>
+		<item original="check for rain ." slot="3" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rain" head="rain"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="go outside ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="feel the temperature ." slot="2" text="feel" head="feel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="look for clouds ." slot="3" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clouds" head="clouds"/>
+		</item>
+		<item original="check for rain ." slot="4" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rain" head="rain"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="go to a window using your legs to walk there ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="legs" head="legs"/>
+		</item>
+		<item original="look outside through the window using your eyes ." slot="2" text="look outside through" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="eyes" head="eyes"/>
+		</item>
+		<item original="decide what kind of weather is currently outside ." slot="3" text="decide of" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kind" head="kind"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="go to the tv ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn the tv to the weather channel ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+			<ptcp text="the weather channel" head="channel"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+		<item original="look for news about the weather in your area ." slot="3" text="look for about in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="news" head="news"/>
+			<ptcp text="weather" head="weather"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="note any potential weather activity such as temperature changes or rain ." slot="4" text="note as" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="any potential weather activity" head="activity"/>
+			<ptcp text="weather" head="weather"/>
+			<ptcp text="temperature changes" head="changes"/>
+			<ptcp text="temperature" head="temperature"/>
+			<ptcp text="rain" head="rain"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="turn on the television ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="television" head="television"/>
+		</item>
+		<item original="change the channel to the weather channel ." slot="2" text="change to" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+		<item original="listen to the weather being given ." slot="3" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+		<item original="make note of the important weather information in your area ." slot="4" text="make of in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+			<ptcp text="the important weather information" head="information"/>
+			<ptcp text="weather" head="weather"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="go to weather channel ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="watch tv ." slot="3" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="switch television on ." slot="1" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="television" head="television"/>
+		</item>
+		<item original="switch to correct channel ." slot="2" text="switch" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="switch to text view ." slot="3" text="switch to" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="text view" head="view"/>
+			<ptcp text="text" head="text"/>
+		</item>
+		<item original="move to weather page ." slot="4" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="read weather page ." slot="5" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weather page" head="page"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="turn on the television ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="television" head="television"/>
+		</item>
+		<item original="change television to weather channel ." slot="2" text="change" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="television" head="television"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="wait for weather report ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weather report" head="report"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+		<item original="listen to report ." slot="4" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="report" head="report"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="look out window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="walk to window ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="look out the window ." slot="2" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="look outside at the sky ." slot="1" text="look outside at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="look outside at the sky ." slot="1" text="look outside at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="look outside at the sky ." slot="1" text="look outside at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="look outside at the sky ." slot="1" text="look outside at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="look outside at the sky ." slot="1" text="look outside at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="look outside at the sky ." slot="1" text="look outside at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="look outside at the sky ." slot="1" text="look outside at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="look outside at the sky ." slot="1" text="look outside at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="look out the window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="open window ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="stick hand outside ." slot="2" text="stick outside" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="evalutate sensations from hand ." slot="3" text="evalutate from" head="evalutate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sensations" head="sensations"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="relate sensations to weather conditions ." slot="4" text="relate to" head="relate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sensations" head="sensations"/>
+			<ptcp text="weather conditions" head="conditions"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="open window ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="stick hand outside ." slot="2" text="stick outside" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="evalutate sensations from hand ." slot="3" text="evalutate from" head="evalutate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sensations" head="sensations"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="relate sensations to weather conditions ." slot="4" text="relate to" head="relate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sensations" head="sensations"/>
+			<ptcp text="weather conditions" head="conditions"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="turn on radio ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="radio" head="radio"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="turn on radio ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="radio" head="radio"/>
+		</item>
+		<item original="listen to weather report ." slot="2" text="listen" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="report" head="report"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="goto information ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+		<item original="check for weather ." slot="2" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="turn on the tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="switch to the weather channel ." slot="2" text="switch to" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the weather channel" head="channel"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+		<item original="listen for report on weather in local area ." slot="3" text="listen for on in" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="report" head="report"/>
+			<ptcp text="weather" head="weather"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="tunr off tv ." slot="4" text="tunr off" head="tunr">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="go outside ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look up ." slot="2" text="look up" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="observe sky ." slot="3" text="observe" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sky" head="sky"/>
+		</item>
+		<item original="record data ." slot="4" text="record" head="record">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="data" head="data"/>
+		</item>
+		<item original="look forward ." slot="5" text="look forward" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go inside ." slot="6" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="analyize data ." slot="7" text="analyize" head="analyize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="data" head="data"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="turn on the television ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="television" head="television"/>
+		</item>
+		<item original="put on the weather network ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the weather network" head="network"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+		<item original="wait for weather broadcast ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weather broadcast" head="broadcast"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+		<item original="turn off television ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="television" head="television"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn to weather channel ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="watch until home area is mentioned ." slot="3" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home area" head="area"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="watch weatherman discuss local weather ." slot="4" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weatherman" head="weatherman"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="weather check ." slot="1" text="weather" head="weather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="weather check ." slot="1" text="weather" head="weather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="weather check ." slot="1" text="weather" head="weather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="weather check ." slot="1" text="weather" head="weather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="weather check ." slot="1" text="weather" head="weather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="weather check ." slot="1" text="weather" head="weather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="weather check ." slot="1" text="weather" head="weather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="check magazine ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="magazine" head="magazine"/>
+		</item>
+		<item original="look at newspaper ." slot="3" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="check channel ." slot="4" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="open newspaper ." slot="5" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="open magazine ." slot="6" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="magazine" head="magazine"/>
+		</item>
+		<item original="check weather ." slot="7" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn to weather channel ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="listen to forecast for your area ." slot="3" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open the door to the outside world and see what it looks like ." slot="4" text="open to like" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="world" head="world"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn to weather channel ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="listen to forecast for your area ." slot="3" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open the door to the outside world and see what it looks like ." slot="4" text="open to like" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="world" head="world"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn to weather channel ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="listen to forecast for your area ." slot="3" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open the door to the outside world and see what it looks like ." slot="4" text="open to like" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="world" head="world"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn to weather channel ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="listen to forecast for your area ." slot="3" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open the door to the outside world and see what it looks like ." slot="4" text="open to like" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="world" head="world"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn to weather channel ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="listen to forecast for your area ." slot="3" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open the door to the outside world and see what it looks like ." slot="4" text="open to like" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="world" head="world"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn to weather channel ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="listen to forecast for your area ." slot="3" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open the door to the outside world and see what it looks like ." slot="4" text="open to like" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="world" head="world"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="change to weather channel ." slot="2" text="change" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="look outside the window ." slot="1" text="look outside" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="look outside the window ." slot="1" text="look outside" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="open curtains ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="look out window ." slot="2" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="open curtains ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="look out window ." slot="2" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="open curtains ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="look out window ." slot="2" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="open curtains ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="look out window ." slot="2" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="open curtains ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="look out window ." slot="2" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="look outside ." slot="1" text="look outside" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="check weather ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+	</script>
+</scripts>

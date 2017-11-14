@@ -1,0 +1,808 @@
+<scripts>
+	<script id="1">
+		<item original="find the off switch or knob ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="knob" head="knob"/>
+		</item>
+		<item original="move the switch or knob to the off position ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="knob" head="knob"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="locate the heat switch ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the heat switch" head="switch"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="move to off position ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="find the thermostat ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="flip the thermostat switch to off ." slot="2" text="flip to" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="go to the stove ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn the knob on the stove ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="make sure the fire is gone and there s no gas leaking out ." slot="3" text="make out" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fire" head="fire"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="gas" head="gas"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="locate the rheostat ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rheostat" head="rheostat"/>
+		</item>
+		<item original="approach the rheostat ." slot="2" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rheostat" head="rheostat"/>
+		</item>
+		<item original="locate the heat and cold switch ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="push the switch into the off position ." slot="4" text="push into" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="go to heater ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heater" head="heater"/>
+		</item>
+		<item original="push button to off position ." slot="2" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="go to air conditioner ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="push button to off position ." slot="2" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="go to heater ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heater" head="heater"/>
+		</item>
+		<item original="find on/off button ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press off button ." slot="3" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="locate the heater ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heater" head="heater"/>
+		</item>
+		<item original="locate the power switch ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power switch" head="switch"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="turn the switch to 'off' ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="go to heater ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heater" head="heater"/>
+		</item>
+		<item original="press off button ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="go to heater ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heater" head="heater"/>
+		</item>
+		<item original="turn switch to off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="locating the thermostat ." slot="1" text="locating" head="locating">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="lowering the temperature setting on the thermostat until the heater turns off ." slot="2" text="lowering off setting on" head="lowering">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="temperature" head="temperature"/>
+			<ptcp text="thermostat" head="thermostat"/>
+			<ptcp text="heater" head="heater"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="go to thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn thermostat to off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="go over to the heating control ." slot="1" text="go over to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the heating control" head="control"/>
+			<ptcp text="heating" head="heating"/>
+		</item>
+		<item original="grasp the heating control switch ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the heating control switch" head="switch"/>
+			<ptcp text="heating" head="heating"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="move the control switch to the off position ." slot="3" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the control switch" head="switch"/>
+			<ptcp text="control" head="control"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="go to heater ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heater" head="heater"/>
+		</item>
+		<item original="turn knob to off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="conduct a logical search of the walls in a house for the thermostat ." slot="1" text="conduct of in for" head="conduct">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="search" head="search"/>
+			<ptcp text="walls" head="walls"/>
+			<ptcp text="house" head="house"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="relocate to the thermostat ." slot="2" text="relocate to" head="relocate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="adjust control panel on the thermostat to lower the desired temperature ." slot="3" text="adjust on" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="control panel" head="panel"/>
+			<ptcp text="control" head="control"/>
+			<ptcp text="thermostat" head="thermostat"/>
+			<ptcp text="the desired temperature" head="temperature"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="go the thermostat ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="press the off switch ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="locate thermostat ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="switch to off position ." slot="2" text="switch to" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="locate thermostat ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn down thermostat ." slot="2" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="walk to immediate vicinity of thermostat ." slot="1" text="walk to of" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vicinity" head="vicinity"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn the thermostat down until the heat turns off ." slot="2" text="turn down off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="walk toward heater ." slot="1" text="walk toward" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heater" head="heater"/>
+		</item>
+		<item original="turn switch or knob to off ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="knob" head="knob"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="going to heating system ." slot="1" text="going going to" head="going">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heating system" head="system"/>
+			<ptcp text="heating" head="heating"/>
+		</item>
+		<item original="switching the power off ." slot="2" text="switching off" head="switching">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="locate thermostat ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="locate control dial on thermostat ." slot="2" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="control dial" head="dial"/>
+			<ptcp text="control" head="control"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn control dial to cooler temperature ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="control dial" head="dial"/>
+			<ptcp text="control" head="control"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="wait for heat to be turned off ." slot="4" text="wait off for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="locate the switch ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn off the heat ." slot="2" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="go to the thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="set heat to off ." slot="2" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="walk to switch ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="turn switch off ." slot="2" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="find the thermostat ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="set the temperature lower ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the thermostat ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn the thermostat down ." slot="3" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the thermostat ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn the thermostat down ." slot="3" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the thermostat ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn the thermostat down ." slot="3" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the thermostat ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn the thermostat down ." slot="3" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the thermostat ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn the thermostat down ." slot="3" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the thermostat ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn the thermostat down ." slot="3" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the thermostat ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn the thermostat down ." slot="3" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the thermostat ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn the thermostat down ." slot="3" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="walk to thermometer ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermometer" head="thermometer"/>
+		</item>
+		<item original="turn dial to off or lowest setting ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="off or lowest setting" head="setting"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="turn down thermostat ." slot="1" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="check the current temperature ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="turn the thermostat don to a temperature below the current one ." slot="2" text="turn to below" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="find the heat controller ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the heat controller" head="controller"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="turn it to the off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="find the heat controller ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the heat controller" head="controller"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="turn it to the off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="turn the thermostat to the left ." slot="1" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+			<ptcp text="left" head="left"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="turning the knob ." slot="1" text="turning" head="turning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="turning the knob ." slot="1" text="turning" head="turning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="find thermostat ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn switch labeled 'heat' to  the 'off' position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="labeled heat" head="heat"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="find thermostat ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn switch labeled 'heat' to  the 'off' position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="labeled heat" head="heat"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="go to the thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn dial to off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="go to the thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn dial to off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="go to the thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn dial to off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="go to the thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn dial to off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="go to the thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn dial to off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="go to the thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn dial to off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="turn ." slot="1" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="find thermostat ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="find heat 'on/off' switch ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat onoff switch" head="switch"/>
+			<ptcp text="heat" head="heat"/>
+			<ptcp text="onoff" head="onoff"/>
+		</item>
+		<item original="turn switch to 'off' ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="find thermostat ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="find heat 'on/off' switch ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat onoff switch" head="switch"/>
+			<ptcp text="heat" head="heat"/>
+			<ptcp text="onoff" head="onoff"/>
+		</item>
+		<item original="turn switch to 'off' ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="find thermostat ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="find heat 'on/off' switch ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat onoff switch" head="switch"/>
+			<ptcp text="heat" head="heat"/>
+			<ptcp text="onoff" head="onoff"/>
+		</item>
+		<item original="turn switch to 'off' ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="turn heat switch off ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat switch" head="switch"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="turn heat switch off ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat switch" head="switch"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="find the heat source ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the heat source" head="source"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="reach for the knob switch or button ." slot="2" text="reach for" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="turn the knob switch or button to the off position ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="walk to thermostat ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn off thermostat ." slot="2" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="walk to swich ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="swich" head="swich"/>
+		</item>
+		<item original="pull it ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="turn the switch off ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="don t put anything on top of the stove ." slot="2" text="don on of" head="don">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="t" head="t"/>
+			<ptcp text="anything" head="anything"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="find dial ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+		<item original="turn counter clockwise ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="stop ion the blue section ." slot="3" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ion" head="ion"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="find fan dial ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fan dial" head="dial"/>
+			<ptcp text="fan" head="fan"/>
+		</item>
+		<item original="turn left ." slot="5" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="find dial ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+		<item original="turn counter clockwise ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="stop ion the blue section ." slot="3" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ion" head="ion"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="find fan dial ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fan dial" head="dial"/>
+			<ptcp text="fan" head="fan"/>
+		</item>
+		<item original="turn left ." slot="5" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="find dial ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+		<item original="turn counter clockwise ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="stop ion the blue section ." slot="3" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ion" head="ion"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="find fan dial ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fan dial" head="dial"/>
+			<ptcp text="fan" head="fan"/>
+		</item>
+		<item original="turn left ." slot="5" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="walk to the thermalstat ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermalstat" head="thermalstat"/>
+		</item>
+		<item original="place hand on dial ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+		<item original="turn the dial ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+	</script>
+</scripts>

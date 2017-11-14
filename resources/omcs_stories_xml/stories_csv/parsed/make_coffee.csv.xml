@@ -1,0 +1,994 @@
+<scripts>
+	<script id="1">
+		<item original="go to the kitchen ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="find the coffeemaker ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffeemaker" head="coffeemaker"/>
+		</item>
+		<item original="put ground coffee ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ground coffee" head="coffee"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="fill water in coffeemaker ." slot="4" text="fill in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="coffeemaker" head="coffeemaker"/>
+		</item>
+		<item original="turn coffemaker on ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffemaker" head="coffemaker"/>
+		</item>
+		<item original="wait for coffee to stop dripping ." slot="6" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="pour coffee from pot into cup ." slot="7" text="pour from into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get water ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put water in coffe maker ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="maker" head="maker"/>
+		</item>
+		<item original="get coffee filter ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee filter" head="filter"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="place in holder ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="holder" head="holder"/>
+		</item>
+		<item original="get coffee ." slot="5" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="put coffee in filter ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="turn on coffee maker ." slot="7" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="go to coffee maker ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="fill with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place filter in holder ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="holder" head="holder"/>
+		</item>
+		<item original="place coffee in filter ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="place holder in coffee maker ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="holder" head="holder"/>
+			<ptcp text="coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="turn on coffee maker ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="get coffe bucket from refridgerator ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bucket" head="bucket"/>
+			<ptcp text="refridgerator" head="refridgerator"/>
+		</item>
+		<item original="open coffe bucket ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bucket" head="bucket"/>
+		</item>
+		<item original="put coffee in a filter ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put wather on the coffeemakingmachine ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wather" head="wather"/>
+			<ptcp text="coffeemakingmachine" head="coffeemakingmachine"/>
+		</item>
+		<item original="put coffeefilter on coffepot ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffeefilter" head="coffeefilter"/>
+			<ptcp text="coffepot" head="coffepot"/>
+		</item>
+		<item original="put coffeepot on the coffemakingmachine ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffeepot" head="coffeepot"/>
+			<ptcp text="coffemakingmachine" head="coffemakingmachine"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="locate coffee machine ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="clean coffee machine ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="grind coffee if have beans ." slot="3" text="grind" head="grind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="beans" head="beans"/>
+		</item>
+		<item original="pour ground coffee in machine ." slot="4" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ground coffee" head="coffee"/>
+			<ptcp text="ground" head="ground"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="pour water ." slot="5" text="pour" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on machine ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="walk to the coffee machine ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="make sure the machine has necessary ingredients ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+		<item original="turn on the machine ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="grind the coffee beans ." slot="1" text="grind" head="grind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the coffee beans" head="beans"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="load the ground coffee powder to the coffee machine ." slot="2" text="load to" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the ground coffee powder" head="powder"/>
+			<ptcp text="ground" head="ground"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="the coffee machine" head="machine"/>
+		</item>
+		<item original="turn on the coffee machine ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="press 'start' ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="put a coffee pot under the coffee machine ." slot="5" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="the coffee machine" head="machine"/>
+		</item>
+		<item original="wait until the coffee pot is filled with coffee ." slot="6" text="wait with" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="grind coffee ." slot="1" text="grind" head="grind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="clean coffee machine ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="put in new filter ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put coffee inside filter ." slot="4" text="put inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="pour water in machine ." slot="5" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="turn machine on and wait to brew ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="turn machine off ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get coffee ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="put new filter in coffee machine ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="put coffee in filter ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put water in machine ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="turn on machine ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="wait for coffee to brew ." slot="6" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="turn off machine ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get coffee ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="place coffee inside coffee machine ." slot="2" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="coffee machine" head="machine"/>
+		</item>
+		<item original="pour water in coffee machine ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="turn on machine ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="wait for coffee to be brewed ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="put kettle on ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="get mug ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="put coffee in mug ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="pour boiling water in mug ." slot="4" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="stir ." slot="5" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="find an electric coffee pot ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="an electric coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="place water into the coffee pot ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="the coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="place instant coffee crystals into the coffee pot ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instant coffee crystals" head="crystals"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="the coffee pot" head="pot"/>
+		</item>
+		<item original="turn on the coffee pot ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="wait for the coffee pot to brew the coffee ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="move to coffee machine ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="put water in coffee machine ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="put coffee in coffee machine ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="coffee machine" head="machine"/>
+		</item>
+		<item original="switch coffee machine on ." slot="4" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="put filter in coffee maker ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="put coffee grounds in filter ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee grounds" head="grounds"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put water in coffee maker ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="turn on coffee maker ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="identify coffee pot ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="idenity coffee grounds ." slot="2" text="idenity" head="idenity">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee grounds" head="grounds"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="place coffee grounds in coffee pot ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee grounds" head="grounds"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="coffee pot" head="pot"/>
+		</item>
+		<item original="place water in coffee pot ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="turn on coffee pot ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="when pot is full remove and serve coffee ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="put hot water in a cup ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="pour the coffee ." slot="2" text="pour" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="put ground coffee into a coffee filter ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ground coffee" head="coffee"/>
+			<ptcp text="ground" head="ground"/>
+			<ptcp text="a coffee filter" head="filter"/>
+		</item>
+		<item original="place the coffee filter into the coffee maker ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the coffee filter" head="filter"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="the coffee maker" head="maker"/>
+		</item>
+		<item original="fill the coffee maker reservoir with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the coffee maker reservoir" head="reservoir"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="maker" head="maker"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on the coffee maker ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="wait until the coffee is done brewing ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="brewing" head="brewing"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="plug in coffee maker ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="find filter ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="install filter ." slot="3" text="install" head="install">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="find coffee ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="fill filter with coffee ." slot="5" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="add water ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="watch cup fill up with coffee ." slot="7" text="watch up with" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cup" head="cup"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="put filter in basket ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="basket" head="basket"/>
+		</item>
+		<item original="put coffee in filter ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put water in coffee pot ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="turn on coffee pot ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="wait for coffee to brew ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="pour coffee ." slot="6" text="pour" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="turn coffee pot off ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="pour water into coffee pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="put filter into basket ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="basket" head="basket"/>
+		</item>
+		<item original="add coffee to filter basket ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter basket" head="basket"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="close filter basket ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter basket" head="basket"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="turn coffee pot on ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="grind coffee ." slot="1" text="grind" head="grind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="place filter in basket ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="basket" head="basket"/>
+		</item>
+		<item original="measure coffee into filter ." slot="3" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="add water to cofee maker ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="maker" head="maker"/>
+		</item>
+		<item original="plug in coffee maker ." slot="5" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="turn on coffee maker ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="pour coffee into mug when brewed ." slot="7" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="grind coffee beans ." slot="1" text="grind" head="grind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee beans" head="beans"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="pour coffee beans into filter ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee beans" head="beans"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="brew coffee ." slot="3" text="brew" head="brew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="roast coffee ." slot="1" text="roast " head="roast">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roast" head="roast"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="grind coffee ." slot="2" text="grind" head="grind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="add water to coffee pot ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="add coffee to coffee pot ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="coffee pot" head="pot"/>
+		</item>
+		<item original="turn coffee pot on ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="wait for coffee to brew ." slot="6" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="put filter in coffee pot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="coffee pot" head="pot"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="put coffee into filter ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="add water to machine ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="put pot on burner ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="turn machine on ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="get coffee ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="make coffee ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="put water in kettle and boil ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="kettle" head="kettle"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="put coffee in mug ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="add sugar and milk if required ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sugar" head="sugar"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="pour hot water into mug ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="stir ." slot="5" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="put water in kettle ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="put coffee in mug ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="boil kettle ." slot="3" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="pour water into mug ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="add sugar and milk to taste ." slot="5" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sugar" head="sugar"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="taste" head="taste"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="put filter in coffeepot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="coffeepot" head="coffeepot"/>
+		</item>
+		<item original="put coffee in filter ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="pour water in resevoir ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="resevoir" head="resevoir"/>
+		</item>
+		<item original="put lid down ." slot="4" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place coffe urn under brew spout ." slot="5" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="urn" head="urn"/>
+			<ptcp text="brew" head="brew"/>
+		</item>
+		<item original="set pot to 'auto brew' ." slot="6" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="auto brew" head="brew"/>
+			<ptcp text="auto" head="auto"/>
+		</item>
+		<item original="turn pot on ." slot="7" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="measure coffee ." slot="1" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="put filter in coffee maker ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="coffee maker" head="maker"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="measure water ." slot="3" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on coffee machine ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="coffee in cup ." slot="1" text="coffee in" head="coffee">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="hot water ." slot="2" text="hot " head="hot">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="grind coffee beans ." slot="1" text="grind" head="grind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee beans" head="beans"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="boil water ." slot="2" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add water to coffee ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="grind beans ." slot="1" text="grind" head="grind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="beans" head="beans"/>
+		</item>
+		<item original="boil water ." slot="2" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place water into grind power ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="72">
+		<item original="put filter in coffee machine ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="coffee machine" head="machine"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="place coffee in machine ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="add water ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on machine ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="wait and then serve ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="74">
+		<item original="get coffee bean ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee bean" head="bean"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="grind the coffee beans ." slot="2" text="grind" head="grind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the coffee beans" head="beans"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="filter the grinded coffee ." slot="3" text="filter " head="filter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="run hot water through it ." slot="4" text="run through" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour the coffee out ." slot="5" text="pour out" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+	</script>
+	<script id="77">
+		<item original="put filter in pot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put grounds in filter ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grounds" head="grounds"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="add water to the resevoir ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="resevoir" head="resevoir"/>
+		</item>
+		<item original="turn pot on to its brew mode ." slot="4" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="its brew mode" head="mode"/>
+			<ptcp text="brew" head="brew"/>
+		</item>
+	</script>
+	<script id="80">
+		<item original="fill kettle with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn kettle on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="add instant coffee into mug ." slot="3" text="add into" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="add boiled water to mug ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="add sugar as desired ." slot="5" text="add as" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sugar" head="sugar"/>
+		</item>
+		<item original="audd milk or cream as desired ." slot="6" text="audd as" head="audd">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="cream" head="cream"/>
+		</item>
+	</script>
+	<script id="82">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add coffee ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="pour in cup ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="83">
+		<item original="pour water in the resevoir ." slot="1" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="resevoir" head="resevoir"/>
+		</item>
+		<item original="put filter in the basket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="basket" head="basket"/>
+		</item>
+		<item original="put grounds in the filter ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grounds" head="grounds"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="place pot in the brewer ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="brewer" head="brewer"/>
+		</item>
+		<item original="turn maker on ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="maker" head="maker"/>
+		</item>
+	</script>
+</scripts>

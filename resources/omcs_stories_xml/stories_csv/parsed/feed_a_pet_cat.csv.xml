@@ -1,0 +1,1081 @@
+<scripts>
+	<script id="1">
+		<item original="get food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put food in cat s bowl ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="call cat ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get out the pet food ." slot="1" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pour some pet food into the cat s bowl ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="replace the pet food ." slot="3" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="get cat food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="put cat food into bowl ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="call cat ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="get cat food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="pour cat food in cat bowl ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="cat bowl" head="bowl"/>
+		</item>
+		<item original="call cat ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="open can of cat food ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="put cat food on cat dish ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="cat dish" head="dish"/>
+		</item>
+		<item original="put cat dish with food at the usual place ." slot="3" text="put with at" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat dish" head="dish"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="watch cat eat ." slot="4" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put food into cat s bowl ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put bowl on the floor ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="call cat ." slot="4" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="open can of cat food ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="put cat food in cat dish ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="cat dish" head="dish"/>
+		</item>
+		<item original="get cat ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="prepare cat food ." slot="1" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="put cat food on dish ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="let cat eat ." slot="3" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get the cat food dish ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cat food dish" head="dish"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="open cat food container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food container" head="container"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pour cat food into cat food dish ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="cat food dish" head="dish"/>
+		</item>
+		<item original="put the food dish where the cat eats ." slot="4" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the food dish" head="dish"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get the cat s food bowl ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="food bowl" head="bowl"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="get the cat food can ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="get a can opener ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a can opener" head="opener"/>
+			<ptcp text="can" head="can"/>
+		</item>
+		<item original="use the can opener to open the cat food can ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the can opener" head="opener"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="empty cat food can into the cat s food bowl ." slot="5" text="s into" head="s">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="food bowl" head="bowl"/>
+		</item>
+		<item original="place the bowl near the cat so the cat can eat ." slot="6" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="get cat food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="put food in cat s bowl ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="call cat ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="find cat food ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="find the cat s bowl ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="pour some cat food into the bowl ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="place the bowl on the floor ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="call the cat to come eat the food ." slot="5" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="get the cat s food dish ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="food dish" head="dish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="get a can opener ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a can opener" head="opener"/>
+			<ptcp text="can" head="can"/>
+		</item>
+		<item original="open a can of water packed tuna ." slot="3" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="water packed tuna" head="tuna"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="empty the can of tuna into the cat s food dish ." slot="4" text="empty of into" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="tuna" head="tuna"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="food dish" head="dish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put the cat s food dish down next to the cat ." slot="5" text="put down to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="food dish" head="dish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="locate cat food ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="place cat food in bowl ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="call cat ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="find cat food ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="find cat food dish ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food dish" head="dish"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pour cat food into dish ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="call cat ." slot="4" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="open food container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food container" head="container"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pour food into bowl ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="place food by cat ." slot="3" text="place by" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="getting food ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="open food ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="get bowl ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="pour food into bowl ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="close food container ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food container" head="container"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put food container away ." slot="6" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food container" head="container"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="call the cat ." slot="7" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="get cat food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="open cat food ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="put cat food in bowl ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="find cat food ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="find the cat bowl ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cat bowl" head="bowl"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="put food in bowl ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put bowl on floor ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="get food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="find cat ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="put food in bowl ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put bowl on floor ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="place the cat food in a dish ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="let the cat know that the food is there by making noises with the can opener ." slot="2" text="know by with" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="noises" head="noises"/>
+			<ptcp text="the can opener" head="opener"/>
+			<ptcp text="can" head="can"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="open cat food ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="pour in bowl ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="serve to cat ." slot="3" text="serve to" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="hear hungry cat meowing ." slot="1" text="hear" head="hear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hungry cat meowing" head="meowing"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="find food dish ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food dish" head="dish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="wash and rinse food dish ." slot="3" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food dish" head="dish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="find can opener ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can opener" head="opener"/>
+			<ptcp text="can" head="can"/>
+		</item>
+		<item original="open can of cat food ." slot="5" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="spoon out food into dish ." slot="6" text="spoon into out into" head="spoon">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spoon" head="spoon"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="set dish on floor for cat ." slot="7" text="set on for" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="floor" head="floor"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="get food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="give food to cat ." slot="2" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="buy catfood ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="catfood" head="catfood"/>
+		</item>
+		<item original="place catfood in bowl ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="give bowl to cat ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="buy food ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put food in bowl ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="give bowl to cat ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="get the cat dish ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cat dish" head="dish"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="get the can of cat food ." slot="2" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="open the can of cat food ." slot="3" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="empty the can of cat food into the cat dish ." slot="4" text="empty of into" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="the cat dish" head="dish"/>
+		</item>
+		<item original="put the cat dish down ." slot="5" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cat dish" head="dish"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="buying the tuna ." slot="1" text="buying" head="buying">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tuna" head="tuna"/>
+		</item>
+		<item original="putting it into the bowl ." slot="2" text="putting into" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="calling the cat ." slot="3" text="calling" head="calling">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="watching the  cat eat food ." slot="4" text="watching" head="watching">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="hope the cat doesn t go feral ." slot="5" text="hope" head="hope">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cat doesn t" head="t"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="doesn" head="doesn"/>
+		</item>
+		<item original="clean bowl when cat is done ." slot="6" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="pray cat doesn t throw up on couch ." slot="7" text="pray up on" head="pray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat doesn t" head="t"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="doesn" head="doesn"/>
+			<ptcp text="couch" head="couch"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="open cat food ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="locate cat food bowl ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food bowl" head="bowl"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="tilt bag of cat food into bowl ." slot="3" text="tilt of into" head="tilt">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="get food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="place food in bowl ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="give bowl to cat ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="get a can of food ." slot="1" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="get a bowl ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="open can ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+		</item>
+		<item original="pour food into bowl ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="place bowl on floor ." slot="5" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="get the food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put it in the bowl ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="using a can opener open a can of cat food ." slot="1" text="using of" head="using">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a" head="a"/>
+			<ptcp text="opener" head="opener"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="with a spoon put cat food into cat s dish ." slot="2" text="put with into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spoon" head="spoon"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="open cat food ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="pour cat food in bowl ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="place bowl on the floor ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="clean bowl of food ." slot="1" text="clean of" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="open can of cat food ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="place food in bowl ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="place bowl on the floor ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="put food in bowl ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put water in bowl ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="open cat food ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="place cat food in dish ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="take out pet food ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="place food on dish ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="get food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pour food ." slot="2" text="pour" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="cat eats? ." slot="3" text="eats" head="eats">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="open the cat food box ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cat food box" head="box"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pour food into the food dish ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="the food dish" head="dish"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="open can of cat food ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="place two or three tablespoons full of wet food into bowl ." slot="2" text="place of into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tablespoons" head="tablespoons"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="place one-half cup of dry food into bowl ." slot="3" text="place of into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cup" head="cup"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="call kitty to dinner ." slot="4" text="call to" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitty" head="kitty"/>
+			<ptcp text="dinner" head="dinner"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="obtain food ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="dispense food ." slot="2" text="dispense" head="dispense">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="call cat ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="open cat food bag ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food bag" head="bag"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove cat food ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="place in cat dish ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat dish" head="dish"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="buy cat food ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="place handful of food in bowl ." slot="2" text="place of in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handful" head="handful"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="open cat food ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="put some food in a pet bowl ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="place the bowl where the cat normally eats ." slot="3" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="call the kitty to dinner ." slot="4" text="call to" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitty" head="kitty"/>
+			<ptcp text="dinner" head="dinner"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="clean out bowl ." slot="1" text="clean out" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="get cat food ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="measure out amount needed ." slot="3" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+		<item original="place that amount in bowl ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="clean out water bowl ." slot="5" text="clean out" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water bowl" head="bowl"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="fill up with clean water ." slot="6" text="fill up with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place back in spot ." slot="7" text="place back in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spot" head="spot"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="go to where the food is stored ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take out the food ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="bring food to the food dish ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="the food dish" head="dish"/>
+		</item>
+		<item original="fill up the food dish ." slot="4" text="fill up" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the food dish" head="dish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="bring food back to where it is stored ." slot="5" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="return food ." slot="6" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="the end ." slot="7" text="the " head="the">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="get a tin of cat food ." slot="1" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tin" head="tin"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="get can opener ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can opener" head="opener"/>
+			<ptcp text="can" head="can"/>
+		</item>
+		<item original="use can opener to open tin of food ." slot="3" text="use of" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="opener" head="opener"/>
+			<ptcp text="tin" head="tin"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="get spoon to scoop out food ." slot="4" text="to out" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spoon" head="spoon"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put food in cats dish ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="cats dish" head="dish"/>
+			<ptcp text="cats" head="cats"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="open cat food ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="put cat food in dish ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="place dish on floor ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="call the cat ." slot="4" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="71">
+		<item original="open the bag of cat food ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="pour some into the dish ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="call the cat over ." slot="3" text="call over" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+	</script>
+	<script id="74">
+		<item original="open cabinet ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cabinet" head="cabinet"/>
+		</item>
+		<item original="take canned cat food out ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="canned cat food" head="food"/>
+			<ptcp text="cat" head="cat"/>
+		</item>
+		<item original="pull tab on can upwards ." slot="3" text="pull on" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tab" head="tab"/>
+		</item>
+		<item original="remove tabbed lid on can ." slot="4" text="remove on" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="can" head="can"/>
+		</item>
+		<item original="get cat s bowl ." slot="5" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="pour canned cat food contents in cat bowl ." slot="6" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="canned cat food contents" head="contents"/>
+			<ptcp text="cat" head="cat"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="cat bowl" head="bowl"/>
+		</item>
+	</script>
+</scripts>

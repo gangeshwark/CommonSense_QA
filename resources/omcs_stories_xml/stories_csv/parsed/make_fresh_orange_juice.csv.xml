@@ -1,0 +1,1158 @@
+<scripts>
+	<script id="1">
+		<item original="buy oranges from the store ." slot="1" text="buy from" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="slice each orange in half ." slot="2" text="slice in" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="get out the juicer ." slot="3" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="press the inside of each orange against the juicer ." slot="4" text="press of against" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="inside" head="inside"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="twist the orange ." slot="5" text="twist" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="repeat with each orange half ." slot="6" text="repeat with" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="cut oranges in half ." slot="1" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="get the juicer ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="squeeze the half oranges using the juicer ." slot="3" text="squeeze" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the half oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="pour the fresh juice into a glass ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="take an orange ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut the orange into half ." slot="2" text="cut into" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="squeeze the orange above a container ." slot="3" text="squeeze above" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="cut oranges in half ." slot="1" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="get juicer ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="press oranges with juicer ." slot="3" text="press with" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="pour orange juice into glass ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange juice" head="juice"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="buy fresh oranges ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="cut oranges in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="press half oranges in citrus press ." slot="3" text="press in" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="pour orange juice into glass ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange juice" head="juice"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get oranges ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="cut oranges in two ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="two" head="two"/>
+		</item>
+		<item original="until there are no more oranges do ." slot="3" text="are " head="are">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="put orange half in juicer ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="using lever squeeze ." slot="5" text="using" head="using">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lever squeeze" head="squeeze"/>
+			<ptcp text="lever" head="lever"/>
+		</item>
+		<item original="collect orange juice ." slot="6" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange juice" head="juice"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="clean up ." slot="7" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get the oranges ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="peel the oranges ." slot="2" text="peel" head="peel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="press the juice in a jar ." slot="3" text="press in" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="jar" head="jar"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get a pitcher ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pitcher" head="pitcher"/>
+		</item>
+		<item original="get a knife ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knife" head="knife"/>
+		</item>
+		<item original="get a bag of oranges ." slot="3" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="cut up the oranges ." slot="4" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="get a juicer ." slot="5" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="get the juice glasses ." slot="6" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the juice glasses" head="glasses"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+		<item original="squeeze the cut up oranges on the juicer and pour the juice into the glasses ." slot="7" text="squeeze on into" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cut up oranges" head="oranges"/>
+			<ptcp text="juicer" head="juicer"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="glasses" head="glasses"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="select oranges ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="slice oranges ." slot="2" text="slice" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="squash oranges using fruit juicer ." slot="3" text="squash" head="squash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="fruit juicer" head="juicer"/>
+			<ptcp text="fruit" head="fruit"/>
+		</item>
+		<item original="dispose of used oranges ." slot="4" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="used oranges" head="oranges"/>
+		</item>
+		<item original="pour juice in glass ." slot="5" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="place oranges on counter ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="counter" head="counter"/>
+		</item>
+		<item original="place beverage container on counter ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="beverage container" head="container"/>
+			<ptcp text="beverage" head="beverage"/>
+			<ptcp text="counter" head="counter"/>
+		</item>
+		<item original="cut oranges in half ." slot="3" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="squeeze orange halves over container ." slot="4" text="squeeze over" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="halves" head="halves"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="discard sqeezed orange halves ." slot="5" text="discard" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="halves" head="halves"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get orange ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="get juicer ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="place orange half on top ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="top" head="top"/>
+		</item>
+		<item original="push down and twist orange half ." slot="5" text="push down" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="twist" head="twist"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="remove any pips ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pips" head="pips"/>
+		</item>
+		<item original="pour juice into glass ." slot="7" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="place orange into press ." slot="1" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="press" head="press"/>
+		</item>
+		<item original="press orange ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="collect juice ." slot="3" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="wash the orange ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="slice the orange ." slot="2" text="slice" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="squeeze it in a glass or container ." slot="3" text="squeeze in" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glass" head="glass"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="cut some oranges in half ." slot="1" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="place strainer on top of glass ." slot="2" text="place on of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strainer" head="strainer"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="squeeze each half orange into strainer ." slot="3" text="squeeze into" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="each half orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="strainer" head="strainer"/>
+		</item>
+		<item original="remove strainer ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strainer" head="strainer"/>
+		</item>
+		<item original="fish any seeds out of glass ." slot="5" text="fish of" head="fish">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="seeds" head="seeds"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="slice oranges into halves ." slot="1" text="slice into" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="halves" head="halves"/>
+		</item>
+		<item original="squeeze orange halves into cup ." slot="2" text="squeeze into" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="halves" head="halves"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="select oranges ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="select a container ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="cut oranges into pieces ." slot="3" text="cut into" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="pieces" head="pieces"/>
+		</item>
+		<item original="squeeze oranges onto juicer ." slot="4" text="squeeze onto" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="collect juice in container ." slot="5" text="collect in" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="take orange ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut orange in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="squeese orange into glass ." slot="3" text="squeese into" head="squeese">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="repeat steps 123 until glass is almost full ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="serve glass ." slot="5" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="put orange husks in trash can ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="husks" head="husks"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="clean up self and area ." slot="7" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="self" head="self"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="take orange ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut orange in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="squeese orange into glass ." slot="3" text="squeese into" head="squeese">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="repeat steps 123 until glass is almost full ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="serve glass ." slot="5" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="put orange husks in trash can ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="husks" head="husks"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="clean up self and area ." slot="7" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="self" head="self"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="take orange ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut orange in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="squeese orange into glass ." slot="3" text="squeese into" head="squeese">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="repeat steps 123 until glass is almost full ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="serve glass ." slot="5" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="put orange husks in trash can ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="husks" head="husks"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="clean up self and area ." slot="7" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="self" head="self"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="take orange ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut orange in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="squeese orange into glass ." slot="3" text="squeese into" head="squeese">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="repeat steps 123 until glass is almost full ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="serve glass ." slot="5" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="put orange husks in trash can ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="husks" head="husks"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="clean up self and area ." slot="7" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="self" head="self"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="buy oranges ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="cut oranges ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="squeeze oranges into glass ." slot="3" text="squeeze into" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="drink ." slot="4" text="drink" head="drink">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="buy or pick oranges ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="get a pitcher and juicer ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pitcher" head="pitcher"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="squeeze juice out of the oranges ." slot="3" text="squeeze out of" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="add sugar and or water to taste ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sugar" head="sugar"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="taste" head="taste"/>
+		</item>
+		<item original="stir ." slot="5" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="enjoy ." slot="6" text="enjoy" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="cut oranges ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="squeeze juice ." slot="2" text="squeeze" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="cut oranges ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="squeeze juice ." slot="2" text="squeeze" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="pick a fresh orange from it s tree ." slot="1" text="pick from" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="tree" head="tree"/>
+		</item>
+		<item original="wash the orange ." slot="2" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut the orange into 2 pieces ." slot="3" text="cut into" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="pieces" head="pieces"/>
+		</item>
+		<item original="put a piece of the orange in the squeezer ." slot="4" text="put of in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="squeezer" head="squeezer"/>
+		</item>
+		<item original="squeeze the juice into glass ." slot="5" text="squeeze into" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="buy or pick oranges ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="cut oranges in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="squeeze juice out of oranges into glass ." slot="3" text="squeeze out of into" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="buy or pick oranges ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="cut oranges in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="squeeze juice out of oranges into glass ." slot="3" text="squeeze out of into" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="get orange ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="remove juice ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+		<item original="add juice to cup ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="find orange ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut orange in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="press firts half of orange against squeezer ." slot="3" text="press of against" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="squeezer" head="squeezer"/>
+		</item>
+		<item original="rotate orange ." slot="4" text="rotate" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="repeat for second half ." slot="5" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="pour orange juice in a container ." slot="6" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange juice" head="juice"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="gather oranges ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="get out juicer ." slot="2" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="cut each orange in half ." slot="3" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="press each half onto juicer ." slot="4" text="press onto" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="turn and push on each half ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="discard orange peels ." slot="6" text="discard" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="peels" head="peels"/>
+		</item>
+		<item original="pour orange juice into pitcher ." slot="7" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange juice" head="juice"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="pitcher" head="pitcher"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="cut orange in half ." slot="1" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="put orange half on juicer ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="twist orange from right to left ." slot="3" text="twist from" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="right" head="right"/>
+			<ptcp text="left" head="left"/>
+		</item>
+		<item original="twist orange from left to right ." slot="4" text="twist from to" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="left" head="left"/>
+			<ptcp text="right" head="right"/>
+		</item>
+		<item original="repeat until there is no more pulp ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="pulp" head="pulp"/>
+		</item>
+		<item original="remove orange half ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="repeat with other half orange ." slot="7" text="repeat with" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="other half orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="plug in and turn on juicer ." slot="1" text="plug in on" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="cut oranges in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="push oranges onto juicer ." slot="3" text="push onto" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="let juicer scrape out juices ." slot="4" text="scrape out" head="scrape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juicer" head="juicer"/>
+			<ptcp text="juices" head="juices"/>
+		</item>
+		<item original="do all the orange halves ." slot="5" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="halves" head="halves"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="cut orange ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="sweeze juice ." slot="2" text="sweeze" head="sweeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="cut orange ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="sweeze juice ." slot="2" text="sweeze" head="sweeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="cut orange ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="sweeze juice ." slot="2" text="sweeze" head="sweeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="cut orange ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="sweeze juice ." slot="2" text="sweeze" head="sweeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="cut orange ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="sweeze juice ." slot="2" text="sweeze" head="sweeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="cut orange ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="sweeze juice ." slot="2" text="sweeze" head="sweeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="cut oranges in half ." slot="1" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="press down and twist open half on juicer ." slot="2" text="press down on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="twist" head="twist"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="repeat step 2 until you have enough o j ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="enough o j" head="j"/>
+			<ptcp text="o" head="o"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="cut oranges in half ." slot="1" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="press down and twist open half on juicer ." slot="2" text="press down on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="twist" head="twist"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="repeat step 2 until you have enough o j ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="enough o j" head="j"/>
+			<ptcp text="o" head="o"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="cut oranges in half ." slot="1" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="press down and twist open half on juicer ." slot="2" text="press down on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="twist" head="twist"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="repeat step 2 until you have enough o j ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="enough o j" head="j"/>
+			<ptcp text="o" head="o"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="cut oranges in half ." slot="1" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="press down and twist open half on juicer ." slot="2" text="press down on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="twist" head="twist"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="repeat step 2 until you have enough o j ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="enough o j" head="j"/>
+			<ptcp text="o" head="o"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="cut oranges in half ." slot="1" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="press down and twist open half on juicer ." slot="2" text="press down on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="twist" head="twist"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="repeat step 2 until you have enough o j ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="enough o j" head="j"/>
+			<ptcp text="o" head="o"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="cut oranges in half ." slot="1" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="press down and twist open half on juicer ." slot="2" text="press down on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="twist" head="twist"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="juicer" head="juicer"/>
+		</item>
+		<item original="repeat step 2 until you have enough o j ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="enough o j" head="j"/>
+			<ptcp text="o" head="o"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="locate oranges ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="peel oranges ." slot="2" text="peel" head="peel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="place orange into juice squeezer ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="juice squeezer" head="squeezer"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+		<item original="pull down lever to squeeze juice ." slot="4" text="pull down" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lever" head="lever"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+		<item original="pour liquid into glass ." slot="5" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquid" head="liquid"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="locate oranges ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="peel oranges ." slot="2" text="peel" head="peel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+		<item original="place orange into juice squeezer ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="juice squeezer" head="squeezer"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+		<item original="pull down lever to squeeze juice ." slot="4" text="pull down" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lever" head="lever"/>
+			<ptcp text="juice" head="juice"/>
+		</item>
+		<item original="pour liquid into glass ." slot="5" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquid" head="liquid"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="get orange ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut orange in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="push half orange on juicing tool ." slot="3" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="twist orange ." slot="4" text="twist" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="get orange ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut orange in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="push half orange on juicing tool ." slot="3" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="twist orange ." slot="4" text="twist" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="get orange ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut orange in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="push half orange on juicing tool ." slot="3" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="twist orange ." slot="4" text="twist" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="get orange ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut orange in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="squeeze half of orage over cup ." slot="3" text="squeeze of over" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="orage" head="orage"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="get orange ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut orange in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="squeeze half of orage over cup ." slot="3" text="squeeze of over" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="orage" head="orage"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="get orange ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+		</item>
+		<item original="cut orange in half ." slot="2" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="squeeze half of orage over cup ." slot="3" text="squeeze of over" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="orage" head="orage"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="squeeze juice out of oranges ." slot="1" text="squeeze out of" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="oranges" head="oranges"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="slice orange in half ." slot="1" text="slice in" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orange" head="orange"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="get empty glass ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="squeeze orage over glass ." slot="3" text="squeeze over" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="orage" head="orage"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="let juice drip into cup ." slot="4" text="let into" head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="juice drip" head="drip"/>
+			<ptcp text="juice" head="juice"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+</scripts>

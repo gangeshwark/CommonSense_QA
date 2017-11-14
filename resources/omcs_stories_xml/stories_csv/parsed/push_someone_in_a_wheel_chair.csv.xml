@@ -1,0 +1,658 @@
+<scripts>
+	<script id="1">
+		<item original="grip chair ." slot="1" text="grip " head="grip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grip" head="grip"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="move forward ." slot="2" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="turn in direction requested ." slot="3" text="turn in" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+		<item original="stop when requested ." slot="4" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="go to wheelchair ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="grip wheelchair ." slot="2" text="grip " head="grip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grip" head="grip"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="push in direction requested ." slot="3" text="push in" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+		<item original="stop when requested ." slot="4" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="push ." slot="1" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="move behind chair ." slot="1" text="move behind" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="place hands on handles ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="push forward ." slot="3" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk forward ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="place someone into a wheelchair ." slot="1" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="push the chair with your hands ." slot="2" text="push with" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="place person in wheelchair ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="step behind wheelchair ." slot="2" text="step behind" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="take hold of the handles on the wheelchair ." slot="3" text="take of on" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hold" head="hold"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="push and walk behind the chair ." slot="4" text="push behind" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="do not let go as long as you are pushing ." slot="5" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="not" head="not"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="help someone to sit in a wheelchair ." slot="1" text="help in" head="help">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="push the wheelchair to the location to which the person wishes to go ." slot="2" text="push to to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="grasp the wheel chair handles ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel" head="wheel"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="walk forward ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="face wheel chair in the desired direction ." slot="1" text="face in" head="face">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+			<ptcp text="the desired direction" head="direction"/>
+		</item>
+		<item original="position yourself behind the wheel chair ." slot="2" text="position behind" head="position">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="move forward ." slot="3" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="continue moving until wheel chair is at the desired location ." slot="4" text="continue at" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+			<ptcp text="the desired location" head="location"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="ask someone to sit in the wheel chair ." slot="1" text="ask in" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+			<ptcp text="the wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="hold the wheel chair handles ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel" head="wheel"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="push the wheel chair ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="grab the handles of the weelchair ." slot="1" text="grab of" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="weelchair" head="weelchair"/>
+		</item>
+		<item original="start walking ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="ask whether you can assist ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="push wheel chair ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="hold wheel chair handles ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel" head="wheel"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="start walking and push hand forward ." slot="2" text="start forward" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="make sure wheel chair at safe distance in front of you ." slot="3" text="make at in of" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sure wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+			<ptcp text="distance" head="distance"/>
+			<ptcp text="front" head="front"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="get behind the wheel chair ." slot="1" text="get behind" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="lean against wheel chair so that it moves slowly ." slot="2" text="lean against" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="start waking still leaning forward ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get behind the person s wheelchair ." slot="1" text="get behind" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="grab on to the wheelchair handles ." slot="2" text="grab on to" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="walk while applying pressure forward to the wheelchair ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pressure" head="pressure"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="hold onto wheel chair handles ." slot="1" text="hold onto" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel" head="wheel"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="push wheel chair forward ." slot="2" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="hold the handle of the wheel chair ." slot="1" text="hold of" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="the wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="ask the person if he s ready ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="push the wheel chair slowly ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="ask the person where they want to go ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="grab the handles of the wheelchair ." slot="2" text="grab of" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="lean a little forward and start walking ." slot="3" text="lean" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a little" head="little"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="unlock wheels ." slot="1" text="unlock" head="unlock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheels" head="wheels"/>
+		</item>
+		<item original="push ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="find someone in a wheel chair ." slot="1" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+			<ptcp text="a wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="understand direction ." slot="2" text="understand" head="understand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+		<item original="exert force on the wheel chair ." slot="3" text="exert on" head="exert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="force" head="force"/>
+			<ptcp text="the wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="ask the person where they d like to go ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="walk behind wheelchair ." slot="2" text="walk behind" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="take hold of handles ." slot="3" text="take of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hold" head="hold"/>
+		</item>
+		<item original="walk slowly and smoothly pushing ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="push on  the back handles ." slot="1" text="handles on" head="handles">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="push" head="push"/>
+			<ptcp text="back" head="back"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="stand behind wheel chair ." slot="1" text="stand behind" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="grab handles ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="ensure person is properly in chair ." slot="3" text="ensure in" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="walk forward slowly whilst holding handles ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="move hands in direction needed to go ." slot="5" text="move in" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hands" head="hands"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="grasp handles ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="push slowly ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="grab onto wheelchair handles ." slot="1" text="grab onto" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="release wheelchair brakes ." slot="2" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheelchair brakes" head="brakes"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+		<item original="push wheelchair ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="push ." slot="1" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="push ." slot="1" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="push ." slot="1" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="push ." slot="1" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="push ." slot="1" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="push ." slot="1" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="grab handles ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="push forward ." slot="2" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="find wheel chair ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="have person sit in chair ." slot="2" text="sit in" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="push chair from behind ." slot="3" text="push from behind" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="find wheel chair ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="have person sit in chair ." slot="2" text="sit in" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="push chair from behind ." slot="3" text="push from behind" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="find wheel chair ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="have person sit in chair ." slot="2" text="sit in" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="push chair from behind ." slot="3" text="push from behind" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="find wheel chair ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="have person sit in chair ." slot="2" text="sit in" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="push chair from behind ." slot="3" text="push from behind" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="find wheel chair ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="have person sit in chair ." slot="2" text="sit in" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="push chair from behind ." slot="3" text="push from behind" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="find wheel chair ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="have person sit in chair ." slot="2" text="sit in" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="push chair from behind ." slot="3" text="push from behind" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="release the brake ." slot="1" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brake" head="brake"/>
+		</item>
+		<item original="grab both handles firmly in each hand ." slot="2" text="grab in" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="both" head="both"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="push the wheel chair in the deseried direction ." slot="3" text="push in" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="release the brake ." slot="1" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brake" head="brake"/>
+		</item>
+		<item original="grab both handles firmly in each hand ." slot="2" text="grab in" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="both" head="both"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="push the wheel chair in the deseried direction ." slot="3" text="push in" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="release the brake ." slot="1" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brake" head="brake"/>
+		</item>
+		<item original="grab both handles firmly in each hand ." slot="2" text="grab in" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="both" head="both"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="push the wheel chair in the deseried direction ." slot="3" text="push in" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="release the brake ." slot="1" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brake" head="brake"/>
+		</item>
+		<item original="grab both handles firmly in each hand ." slot="2" text="grab in" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="both" head="both"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="push the wheel chair in the deseried direction ." slot="3" text="push in" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="take hold of the handles ." slot="1" text="take of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hold" head="hold"/>
+		</item>
+		<item original="push with gentle force ." slot="2" text="push with" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="force" head="force"/>
+		</item>
+		<item original="walk with the chair in front of you ." slot="3" text="walk with in of" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+			<ptcp text="front" head="front"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="put hands on handle ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hands" head="hands"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="walk and push chair ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="put hands on handle ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hands" head="hands"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="walk and push chair ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="take wheel chair ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="grab handle ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="push the chair ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="take wheel chair ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheel chair" head="chair"/>
+			<ptcp text="wheel" head="wheel"/>
+		</item>
+		<item original="grab handle ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="push the chair ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="take hold of the handles ." slot="1" text="take of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hold" head="hold"/>
+		</item>
+		<item original="push wheelchair ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="take hold of the handles ." slot="1" text="take of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hold" head="hold"/>
+		</item>
+		<item original="push wheelchair ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wheelchair" head="wheelchair"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,764 @@
+<scripts>
+	<script id="1">
+		<item original="locate an alarm ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="determine the time to wake up at ." slot="2" text="determine up at" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="adjust the alarm to sound a noise at the desired wake up time ." slot="3" text="adjust at up" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="noise" head="noise"/>
+			<ptcp text="the desired wake" head="wake"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="locate the alarm ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="determine the time needed to wake ." slot="2" text="determine to" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="locate the control panel on the alarm ." slot="3" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the control panel" head="panel"/>
+			<ptcp text="control" head="control"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="utilize the control panel to change the wake up time on the alarm ." slot="4" text="utilize up on" head="utilize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the control panel" head="panel"/>
+			<ptcp text="control" head="control"/>
+			<ptcp text="wake" head="wake"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="locate the alarm ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="determine the appropriate time to wake ." slot="2" text="determine to" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="operate the control panel on the alarm to sound at the designated time ." slot="3" text="operate on at" head="operate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the control panel" head="panel"/>
+			<ptcp text="control" head="control"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="the designated time" head="time"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="set minutes ." slot="1" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="set hours ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hours" head="hours"/>
+		</item>
+		<item original="turn alarm on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="decide on what time to wake up ." slot="1" text="decide on to" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="set the time for the alarm to be that time ." slot="2" text="set for" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="check to see if the alarm is set to 'on' ." slot="3" text="check to on" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="check to see that the 'am' and 'pm' factors are right ." slot="4" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="pm factors" head="factors"/>
+			<ptcp text="pm" head="pm"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="set time ." slot="1" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="set alarm to on ." slot="2" text="set to on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="press button to set wake up time ." slot="1" text="press up" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="wake" head="wake"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="set alarm to on ." slot="2" text="set to on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="find alarm ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="use keypad to set alarm time ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="keypad to set alarm time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="enable alarm ." slot="3" text="enable" head="enable">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="hold 'wake' button ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wake button" head="button"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="at the same time click 'hour' button to the hour ." slot="2" text="at at to" head="at">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="click hour" head="hour"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="hour" head="hour"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="hour" head="hour"/>
+		</item>
+		<item original="still holding 'wake' button' click 'minute' button to the right minutes ." slot="3" text="still to" head="still">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="holding wake button click minute button" head="button"/>
+			<ptcp text="wake button click" head="click"/>
+			<ptcp text="wake" head="wake"/>
+			<ptcp text="minute" head="minute"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="find the alarm clock ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the alarm clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="press the set alarm button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the set alarm button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="select the hour of the alarm ." slot="3" text="select of" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hour" head="hour"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="select the minute of the alarm ." slot="4" text="select of" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minute" head="minute"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="select am or pm ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hit the enter button ." slot="6" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="click the type of alarm- music or buzz ." slot="7" text="click of" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="type" head="type"/>
+			<ptcp text="alarm music or buzz" head="music"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="buzz" head="buzz"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="select the alarm button from the menu ." slot="1" text="select from" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the alarm button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="menu" head="menu"/>
+		</item>
+		<item original="set the hour to wake up ." slot="2" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hour" head="hour"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="set the minute to wake up ." slot="3" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minute" head="minute"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="select the ok selection/button ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the ok selectionbutton" head="selectionbutton"/>
+			<ptcp text="ok" head="ok"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="find clock with alarm ." slot="1" text="find with" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="set time ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="set wake up time ." slot="3" text="set up" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wake" head="wake"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="set clock for alarm ." slot="4" text="set for" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="set the time format ." slot="1" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the time format" head="format"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="adjust the date ." slot="2" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+		</item>
+		<item original="set the time ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="keep alarm ." slot="4" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="set time ." slot="1" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="press and hold alarm button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="ajust alarm time ." slot="3" text="ajust" head="ajust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="switch alarm switch to on position ." slot="4" text="switch to on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="set time ." slot="1" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="press and hold alarm button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="ajust alarm time ." slot="3" text="ajust" head="ajust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="switch alarm switch to on position ." slot="4" text="switch to on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="ask for wake up time ." slot="1" text="ask up for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wake" head="wake"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="set alarm time ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="check the time to ensure it s correct ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="press alarm button for alarm time set ." slot="2" text="press for" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="alarm time" head="time"/>
+		</item>
+		<item original="press hour/minute to set alarm time ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hourminute to set alarm time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="turn alarm button to on ." slot="4" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="choose wake up time ." slot="1" text="choose up" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wake" head="wake"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="set alarm to time ." slot="2" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="go to sleep ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="decide on the time ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="push button for setting alarm ." slot="2" text="push for" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="set hour ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hour" head="hour"/>
+		</item>
+		<item original="set minutes ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="set either buzzer or radio ." slot="5" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="buzzer" head="buzzer"/>
+			<ptcp text="radio" head="radio"/>
+		</item>
+		<item original="set alarm ." slot="6" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="revert display back to regular time ." slot="7" text="revert to" head="revert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="display" head="display"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pick a time to wake up ." slot="1" text="pick up to" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="input time into alarm ." slot="2" text="input into" head="input">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="make sure alarm is set ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="verify am/pm settings ." slot="4" text="verify" head="verify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ampm settings" head="settings"/>
+			<ptcp text="ampm" head="ampm"/>
+		</item>
+		<item original="go to sleep ." slot="5" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="set alarm ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="set alarm ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="set alarm ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="set alarm ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="set alarm ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="set alarm ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="turn on alarm ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="set time ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="decide what time you want to wake up ." slot="1" text="decide up to" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="set clock alarm on ." slot="2" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock alarm" head="alarm"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="set clock to alarm setting mode ." slot="3" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="mode" head="mode"/>
+		</item>
+		<item original="set hour to get up at to match ." slot="4" text="set up at" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hour" head="hour"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="turn knob to alarm ." slot="1" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="select desired time for alarm ." slot="2" text="select for" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="turn know back to previous position ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="know" head="know"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="light will turn on the clock display when alarm is set ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="the clock display" head="display"/>
+			<ptcp text="clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="turn knob to alarm ." slot="1" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="select desired time for alarm ." slot="2" text="select for" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="turn know back to previous position ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="know" head="know"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="light will turn on the clock display when alarm is set ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="the clock display" head="display"/>
+			<ptcp text="clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="turn knob to alarm ." slot="1" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="select desired time for alarm ." slot="2" text="select for" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="turn know back to previous position ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="know" head="know"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="light will turn on the clock display when alarm is set ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="the clock display" head="display"/>
+			<ptcp text="clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="turn knob to alarm ." slot="1" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="select desired time for alarm ." slot="2" text="select for" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="turn know back to previous position ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="know" head="know"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="light will turn on the clock display when alarm is set ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="the clock display" head="display"/>
+			<ptcp text="clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="locate alarm clock ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="determine intended wake up time ." slot="2" text="determine up" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wake" head="wake"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="locate button marked alarm ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="locate hours and minutes buttons ." slot="4" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hours and minutes buttons" head="buttons"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="press alarm button and hours and minutes button accordingly ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="select desired time ." slot="6" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="locate alarm clock ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="determine intended wake up time ." slot="2" text="determine up" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wake" head="wake"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="locate button marked alarm ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="locate hours and minutes buttons ." slot="4" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hours and minutes buttons" head="buttons"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="press alarm button and hours and minutes button accordingly ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="select desired time ." slot="6" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="press the buttons until the proper time is set ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="buttons" head="buttons"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="adjust the volume ." slot="2" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="volume" head="volume"/>
+		</item>
+		<item original="turn on the alarm button ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the alarm button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="press the buttons until the proper time is set ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="buttons" head="buttons"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="adjust the volume ." slot="2" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="volume" head="volume"/>
+		</item>
+		<item original="turn on the alarm button ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the alarm button" head="button"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="turn up volume ." slot="1" text="turn up" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="volume" head="volume"/>
+		</item>
+		<item original="switch on alarm ." slot="2" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="sleep ." slot="3" text="sleep" head="sleep">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="turn up volume ." slot="1" text="turn up" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="volume" head="volume"/>
+		</item>
+		<item original="switch on alarm ." slot="2" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="sleep ." slot="3" text="sleep" head="sleep">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="go to alarm clock ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="press wake setting ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="set the desired time ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the desired time" head="time"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="go to alarm clock ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="press wake setting ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="set the desired time ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the desired time" head="time"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="go to alarm clock ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm clock" head="clock"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="press wake setting ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wake" head="wake"/>
+		</item>
+		<item original="set the desired time ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the desired time" head="time"/>
+		</item>
+	</script>
+</scripts>

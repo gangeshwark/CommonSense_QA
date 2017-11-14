@@ -1,0 +1,1270 @@
+<scripts>
+	<script id="1">
+		<item original="get paper towels ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill until it is absorbed ." slot="2" text="wipe up" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="soak liquid by paper towel ." slot="1" text="soak by" head="soak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquid" head="liquid"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="spray some cleaner ." slot="2" text="spray " head="spray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+		</item>
+		<item original="wipe the cleaner ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="take a paper towel ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe the spilled area with the paper towel ." slot="2" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the spilled area" head="area"/>
+			<ptcp text="the paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="moisten another paper towel ." slot="3" text="moisten" head="moisten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="another paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe the spilled area with the wet paper towel again ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the spilled area" head="area"/>
+			<ptcp text="the wet paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="assess size and type of spill ." slot="1" text="assess of" head="assess">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="size" head="size"/>
+			<ptcp text="type" head="type"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get paper towels mop or broom ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="mop" head="mop"/>
+			<ptcp text="broom" head="broom"/>
+		</item>
+		<item original="collect spill with paper towels mop or broom ." slot="3" text="collect with" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="mop" head="mop"/>
+			<ptcp text="broom" head="broom"/>
+		</item>
+		<item original="dispose of collected spill ." slot="4" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="collected spill" head="spill"/>
+		</item>
+		<item original="repeat to clean residue ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="residue" head="residue"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="walk to store room ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store room" head="room"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="take a cloth ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="walk to spill ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="put cloth on spill ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="wait till spill is dried ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get a clean up cloth ." slot="1" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a" head="a"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="wipe spill with clean up cloth ." slot="2" text="wipe up with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="clean up cloth" head="cloth"/>
+		</item>
+		<item original="repeat until spill is gone ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="getting a mop paper towel or sponge ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a mop paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="rubbing the mop paper towel or sponge over the spill untill all of the liquid has been absorbed ." slot="2" text="mop over of" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="paper towel or sponge" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="the spill untill" head="untill"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="all" head="all"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="find a cleaning sponge or towel ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a cleaning sponge or towel" head="sponge"/>
+			<ptcp text="cleaning" head="cleaning"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wet the sponge or towel in a sink ." slot="2" text="the in" head="the">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="move to the spill ." slot="3" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="move the sponge or towel in a circular motion on the spill ." slot="4" text="move in on" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="motion" head="motion"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="repeat until the sill is cleaned ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sill" head="sill"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get cloth ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="wipe spill with cloth ." slot="2" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="locate the spill ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="fetch a towel or rag ." slot="2" text="fetch" head="fetch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="wipe the towel or rag over the location of the spill ." slot="3" text="wipe over of" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="clean or dispose of the towel or rag ." slot="4" text="clean of" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="determine what is spilled ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="determine what the spill is on ." slot="2" text="determine on" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="use an absorbant towel or sponge on the spill ." slot="3" text="use on" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="wash towel or discard sponge ." slot="4" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="dry the area where spill took place ." slot="5" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="find mop ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mop" head="mop"/>
+		</item>
+		<item original="wipe up spill with mop ." slot="2" text="wipe up with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="mop" head="mop"/>
+		</item>
+		<item original="put mop away ." slot="3" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="get a cloth ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="place cloth on spill ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="move cloth around to absorb liquic ." slot="3" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="rinse cloth ." slot="4" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="repeat previous steps until spill is clean ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="wipe a spill with a dry cloth ." slot="1" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="wipe up the spill ." slot="1" text="wipe up" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="clean the wiping rag ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wiping rag" head="rag"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="fill bucket with warm water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bucket" head="bucket"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add liquid cleaner to bucket ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaner" head="cleaner"/>
+			<ptcp text="bucket" head="bucket"/>
+		</item>
+		<item original="get cloth ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="use cloth to clean up spill ." slot="4" text="use up" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="rinse cloth in prepared bucket of water ." slot="5" text="rinse in of" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="bucket" head="bucket"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe area again with cloth ." slot="6" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="rinse and wipe one more time dry area ." slot="7" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get a towel ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="place on spill ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="push down to absorb ." slot="3" text="push down" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wash towel ." slot="4" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="grab a towel ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="start blotting at the edges pushing towards center ." slot="2" text="start blotting at towards" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="center" head="center"/>
+		</item>
+		<item original="wring out towel ." slot="3" text="wring out" head="wring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wipe up remaining spill ." slot="4" text="wipe up" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remaining spill" head="spill"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="get a rag ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="wipe it up ." slot="2" text="wipe up" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="throw the rag in the dirty bin ." slot="3" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="bin" head="bin"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="determine material spilled ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="material" head="material"/>
+		</item>
+		<item original="determine cleaning method ." slot="2" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaning method" head="method"/>
+			<ptcp text="cleaning" head="cleaning"/>
+		</item>
+		<item original="gather cleaning materials ." slot="3" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaning materials" head="materials"/>
+			<ptcp text="cleaning" head="cleaning"/>
+		</item>
+		<item original="wipe up spill ." slot="4" text="wipe up" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="throw away or wash towels ." slot="5" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towels" head="towels"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="get a rag ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="wipe the spill with the rag until dry ." slot="2" text="wipe with until" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="clean spill residue with a wet rag ." slot="3" text="clean with" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill residue" head="residue"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="find a rag ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="put rag on spill ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="wipe rag around the spill area ." slot="3" text="wipe around" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="the spill area" head="area"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="rinse rag ." slot="4" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="wipe rag around the spill area ." slot="5" text="wipe around" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="the spill area" head="area"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="rinse rag ." slot="6" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="put rag in laundry ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="find a rag ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="put rag on spill ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="wipe rag around the spill area ." slot="3" text="wipe around" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="the spill area" head="area"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="rinse rag ." slot="4" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="wipe rag around the spill area ." slot="5" text="wipe around" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="the spill area" head="area"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="rinse rag ." slot="6" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="put rag in laundry ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="grab paper towel ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe spill with paper towel ." slot="2" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="check to see if spill is cleaned ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="if spill is cleaned toss paper towel in trash ." slot="4" text="cleaned in" head="cleaned">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="if spill is not cleaned wipe area again with paper towel ." slot="5" text="cleaned with" head="cleaned">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="toss paper towel ." slot="6" text="toss" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="grab a paper towel ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put the paper towel over the spill ." slot="2" text="put over" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="let liquid absorb into paper towel ." slot="3" text="absorb into" head="absorb">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquid" head="liquid"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe area with paper towel ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="dispose of dirty paper towel ." slot="5" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dirty paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="grab paper towels ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="lay paper towel over spill to absorn liquid ." slot="2" text="lay over" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="wipe the area with paper towel to ensure it s dry ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="grab paper towels ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="lay paper towel over spill to absorn liquid ." slot="2" text="lay over" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="wipe the area with paper towel to ensure it s dry ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="grab paper towels ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="lay paper towel over spill to absorn liquid ." slot="2" text="lay over" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="wipe the area with paper towel to ensure it s dry ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="take a mop ." slot="1" text="mop" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a" head="a"/>
+		</item>
+		<item original="take a cleaner ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="take adry cloth ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="soak the exxcessi ." slot="4" text="soak" head="soak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exxcessi" head="exxcessi"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="obtain sponge ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="wipe up spill ." slot="2" text="wipe up" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="squeeze sponge over sink ." slot="3" text="squeeze over" head="squeeze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="repeat step 2 and 3 until spill cleaned ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="locate spill ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get mop ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mop" head="mop"/>
+		</item>
+		<item original="mop up spill ." slot="3" text="mop up" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="get paper towel ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill ." slot="2" text="wipe up" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="dampen new paper towel ." slot="3" text="dampen" head="dampen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="re-wipe area to remove any sticky remainders ." slot="4" text="rewipe" head="rewipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="remainders" head="remainders"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="get paper towel ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill ." slot="2" text="wipe up" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="dampen new paper towel ." slot="3" text="dampen" head="dampen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="re-wipe area to remove any sticky remainders ." slot="4" text="rewipe" head="rewipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="remainders" head="remainders"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="get paper towels ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="pull off two sheets of paper towel ." slot="2" text="pull off of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="mop up spill with paper towels ." slot="3" text="mop up with" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="repeat steps 1-3 until spill is completely gone ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="discard paper towels in garbage ." slot="5" text="discard in" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="get paper towels ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="pull off two sheets of paper towel ." slot="2" text="pull off of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="mop up spill with paper towels ." slot="3" text="mop up with" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="repeat steps 1-3 until spill is completely gone ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="discard paper towels in garbage ." slot="5" text="discard in" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="get paper towels ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="pull off two sheets of paper towel ." slot="2" text="pull off of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="mop up spill with paper towels ." slot="3" text="mop up with" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="repeat steps 1-3 until spill is completely gone ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="discard paper towels in garbage ." slot="5" text="discard in" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="get paper towels ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="pull off two sheets of paper towel ." slot="2" text="pull off of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="mop up spill with paper towels ." slot="3" text="mop up with" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="repeat steps 1-3 until spill is completely gone ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="discard paper towels in garbage ." slot="5" text="discard in" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towels" head="towels"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="locate spill ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get paper towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill ." slot="3" text="wipe up" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="throw away paper towel ." slot="4" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="locate spill ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get paper towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill ." slot="3" text="wipe up" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="throw away paper towel ." slot="4" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="locate spill ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get paper towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill ." slot="3" text="wipe up" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="throw away paper towel ." slot="4" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="get towel ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="put towel over liquid ." slot="2" text="put over" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="soak up liquid ." slot="3" text="soak up" head="soak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="wipe floor dry ." slot="4" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="get towel ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="put towel over liquid ." slot="2" text="put over" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="soak up liquid ." slot="3" text="soak up" head="soak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="wipe floor dry ." slot="4" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="get towel ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="put towel over liquid ." slot="2" text="put over" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="soak up liquid ." slot="3" text="soak up" head="soak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="wipe floor dry ." slot="4" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="get towel ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="put towel over liquid ." slot="2" text="put over" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="soak up liquid ." slot="3" text="soak up" head="soak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="wipe floor dry ." slot="4" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="get a cloth ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="mop up spill with cloth ." slot="2" text="mop up with" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="rinse cloth and ring out water ." slot="3" text="rinse out" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="get a spray cleaner ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a spray cleaner" head="cleaner"/>
+			<ptcp text="spray" head="spray"/>
+		</item>
+		<item original="spray area where spill was with cleaner ." slot="5" text="was with" head="was">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray area" head="area"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="wipe away spray with cloth ." slot="6" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="repeat with spray until spill is cleaned ." slot="7" text="repeat with" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="get a cloth ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="mop up spill with cloth ." slot="2" text="mop up with" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="rinse cloth and ring out water ." slot="3" text="rinse out" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="get a spray cleaner ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a spray cleaner" head="cleaner"/>
+			<ptcp text="spray" head="spray"/>
+		</item>
+		<item original="spray area where spill was with cleaner ." slot="5" text="was with" head="was">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray area" head="area"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="wipe away spray with cloth ." slot="6" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="repeat with spray until spill is cleaned ." slot="7" text="repeat with" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="get a cloth ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="mop up spill with cloth ." slot="2" text="mop up with" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="rinse cloth and ring out water ." slot="3" text="rinse out" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="get a spray cleaner ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a spray cleaner" head="cleaner"/>
+			<ptcp text="spray" head="spray"/>
+		</item>
+		<item original="spray area where spill was with cleaner ." slot="5" text="was with" head="was">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray area" head="area"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="wipe away spray with cloth ." slot="6" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="repeat with spray until spill is cleaned ." slot="7" text="repeat with" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="find spill ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get paper towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill with towel ." slot="3" text="wipe up with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="throw away towel ." slot="4" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="find spill ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get paper towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill with towel ." slot="3" text="wipe up with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="throw away towel ." slot="4" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="find spill ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get paper towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill with towel ." slot="3" text="wipe up with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="throw away towel ." slot="4" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="find spill ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get paper towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill with towel ." slot="3" text="wipe up with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="throw away towel ." slot="4" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="find spill ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get paper towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill with towel ." slot="3" text="wipe up with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="throw away towel ." slot="4" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="find spill ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get paper towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wipe up spill with towel ." slot="3" text="wipe up with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="throw away towel ." slot="4" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="locate spill ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="place towel on the liquid ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="soak up liquid ." slot="4" text="soak up" head="soak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="locate spill ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="place towel on the liquid ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="soak up liquid ." slot="4" text="soak up" head="soak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="locate spill ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="get towel ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="place towel on the liquid ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="soak up liquid ." slot="4" text="soak up" head="soak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="determine what you will need to clean it ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="grab cloths ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloths" head="cloths"/>
+		</item>
+		<item original="wipe spill ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="mop up spill ." slot="4" text="mop up" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+	</script>
+</scripts>

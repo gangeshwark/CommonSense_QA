@@ -1,0 +1,762 @@
+<scripts>
+	<script id="1">
+		<item original="rinse the cut with clean water ." slot="1" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="rub a mild soap over the cut ." slot="2" text="rub over" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="rinse the cut again with clean water ." slot="3" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="turn the faucet on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="hold the cut under the running water ." slot="2" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="gently place soap on the cut ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="rinse the soap off ." slot="4" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="turn off the water ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="run the cut under tap water ." slot="1" text="run under" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="tap water" head="water"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="gently wash the cut with soap ." slot="2" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="rinse all the soap off ." slot="3" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="dry the cut ." slot="4" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="place a bandage over the cut ." slot="5" text="place over" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage" head="bandage"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="place cut under water ." slot="1" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put on soap ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="gently rub cut ." slot="3" text="rub" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gently" head="gently"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="get antiseptic fluid ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluid" head="fluid"/>
+		</item>
+		<item original="spray antiseptic fluid on cut ." slot="2" text="antiseptic on" head="antiseptic">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="fluid" head="fluid"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="take person with cut to a sink ." slot="1" text="take with to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="place the person s cut under the sink faucet ." slot="2" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the person s cut" head="cut"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="the sink faucet" head="faucet"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="turn on the faucet gently ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="wash the cut with a gentle stream of water ." slot="4" text="wash with of" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="stream" head="stream"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="run warm water over cut ." slot="1" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="add soap and/or hydrogen peroxide ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap andor" head="andor"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="hydrogen peroxide" head="peroxide"/>
+			<ptcp text="hydrogen" head="hydrogen"/>
+		</item>
+		<item original="dry cut area ." slot="3" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut area" head="area"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="putting skin in some water ." slot="1" text="putting in" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="skin" head="skin"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="washing the skin ." slot="2" text="washing" head="washing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+		<item original="putting a band-aid on the infected area ." slot="3" text="putting on" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="go to sink ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="turn on sink ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="get soap ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="put cut under water ." slot="4" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wash with soap ." slot="5" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="rinse with water ." slot="6" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn off tap ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="go to sink ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="turn on water ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="apply water to cut ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="apply soap ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="wash off soap ." slot="5" text="wash off" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="run cut under water ." slot="1" text="run under" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put disinfectant on cut ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="disinfectant" head="disinfectant"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="wash cut in running water ." slot="1" text="wash in" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="wash cut with clean running water ." slot="1" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="wash cut with peroxide ." slot="1" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="peroxide" head="peroxide"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="wash cut use clean running water ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clean running water" head="water"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="rinse cut under clean hot water ." slot="1" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="remove debris from cut ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="debris" head="debris"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="pour clean water over cut ." slot="2" text="pour over" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="turn on water ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="get disinfectant out of cupboard ." slot="2" text="get out of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="disinfectant" head="disinfectant"/>
+			<ptcp text="cupboard" head="cupboard"/>
+		</item>
+		<item original="make sure water is not too hot ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour disinfecatant on cut ." slot="4" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="disinfecatant" head="disinfecatant"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="then run water on cut ." slot="5" text="run on" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="dry cut with clean cotton ball ." slot="6" text="dry with" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clean cotton ball" head="ball"/>
+			<ptcp text="cotton" head="cotton"/>
+		</item>
+		<item original="place gauze on cut to keep clean ." slot="7" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gauze" head="gauze"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="put cut under running water ." slot="1" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="running water" head="water"/>
+		</item>
+		<item original="rub around and over cut ." slot="2" text="rub" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hold cut open a little ." slot="3" text="hold open" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="remove cut from running water ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="blot cut dry with clean absorbent material ." slot="5" text="cut with" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blot" head="blot"/>
+			<ptcp text="material" head="material"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="take cut to water ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put cut under water ." slot="2" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add soap to water and cut ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="rinse area of cut ." slot="4" text="rinse of" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="sry area of cut ." slot="5" text="sry of" head="sry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="rinse cut under clean water ." slot="1" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="rinse cut under clean water ." slot="1" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="place cut under running water ." slot="1" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="running water" head="water"/>
+		</item>
+		<item original="rinse away blood or dirt ." slot="2" text="rinse away" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blood" head="blood"/>
+			<ptcp text="dirt" head="dirt"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="hold cut under cold running water ." slot="1" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="inspect the wound to see that it is free of dirt and debris ." slot="2" text="inspect of" head="inspect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="dirt" head="dirt"/>
+			<ptcp text="debris" head="debris"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="wet hair ." slot="1" text="wet " head="wet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hair" head="hair"/>
+		</item>
+		<item original="add shampoo to hair ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shampoo" head="shampoo"/>
+			<ptcp text="hair" head="hair"/>
+		</item>
+		<item original="lather ." slot="3" text="lather" head="lather">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="rinse ." slot="4" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="condition ." slot="5" text="condition " head="condition">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="condition" head="condition"/>
+		</item>
+		<item original="rinse ." slot="6" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="cut hair ." slot="7" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hair" head="hair"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="hold wound under running water ." slot="1" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="running water" head="water"/>
+		</item>
+		<item original="gently lather wound and general area with soap ." slot="2" text="lather with" head="lather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="rinse soap off ." slot="3" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="apply antiseptic and bandage ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="antiseptic" head="antiseptic"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="hold wound under running water ." slot="1" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="running water" head="water"/>
+		</item>
+		<item original="gently lather wound and general area with soap ." slot="2" text="lather with" head="lather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="rinse soap off ." slot="3" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="apply antiseptic and bandage ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="antiseptic" head="antiseptic"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="hold wound under running water ." slot="1" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="running water" head="water"/>
+		</item>
+		<item original="gently lather wound and general area with soap ." slot="2" text="lather with" head="lather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="rinse soap off ." slot="3" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="apply antiseptic and bandage ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="antiseptic" head="antiseptic"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="hold wound under running water ." slot="1" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="running water" head="water"/>
+		</item>
+		<item original="gently lather wound and general area with soap ." slot="2" text="lather with" head="lather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="rinse soap off ." slot="3" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="apply antiseptic and bandage ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="antiseptic" head="antiseptic"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="hold wound under running water ." slot="1" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="running water" head="water"/>
+		</item>
+		<item original="gently lather wound and general area with soap ." slot="2" text="lather with" head="lather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="rinse soap off ." slot="3" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="apply antiseptic and bandage ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="antiseptic" head="antiseptic"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="hold wound under running water ." slot="1" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="running water" head="water"/>
+		</item>
+		<item original="gently lather wound and general area with soap ." slot="2" text="lather with" head="lather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="rinse soap off ." slot="3" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="apply antiseptic and bandage ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="antiseptic" head="antiseptic"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="wash cut ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="turn on faucet ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="hold injury under running water ." slot="2" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="injury" head="injury"/>
+			<ptcp text="running water" head="water"/>
+		</item>
+		<item original="soap up injury and surrounding area ." slot="3" text="surrounding" head="surrounding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="injury" head="injury"/>
+			<ptcp text="surrounding area" head="area"/>
+		</item>
+		<item original="rinse well to remove soap ." slot="4" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="blot dry and apply antiseptic ." slot="5" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blot" head="blot"/>
+		</item>
+		<item original="bandage ." slot="6" text="bandage " head="bandage">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="turn on faucet ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="hold injury under running water ." slot="2" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="injury" head="injury"/>
+			<ptcp text="running water" head="water"/>
+		</item>
+		<item original="soap up injury and surrounding area ." slot="3" text="surrounding" head="surrounding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="injury" head="injury"/>
+			<ptcp text="surrounding area" head="area"/>
+		</item>
+		<item original="rinse well to remove soap ." slot="4" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="blot dry and apply antiseptic ." slot="5" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blot" head="blot"/>
+		</item>
+		<item original="bandage ." slot="6" text="bandage " head="bandage">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="use towl and wipe off blook ." slot="1" text="use off" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towl" head="towl"/>
+			<ptcp text="blook" head="blook"/>
+		</item>
+		<item original="rinse under water ." slot="2" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="use polysporin on cut ." slot="3" text="use on" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="polysporin" head="polysporin"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="place gauze on cut ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gauze" head="gauze"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="tape bandage over cut ." slot="5" text="tape over" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape bandage" head="bandage"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="bandage" head="bandage"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="use towl and wipe off blook ." slot="1" text="use off" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towl" head="towl"/>
+			<ptcp text="blook" head="blook"/>
+		</item>
+		<item original="rinse under water ." slot="2" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="use polysporin on cut ." slot="3" text="use on" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="polysporin" head="polysporin"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="place gauze on cut ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gauze" head="gauze"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="tape bandage over cut ." slot="5" text="tape over" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape bandage" head="bandage"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="bandage" head="bandage"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="walk toward bathroom ." slot="1" text="walk toward" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bathroom" head="bathroom"/>
+		</item>
+		<item original="turn on faucet ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="wash cut ." slot="3" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="dry cut ." slot="4" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put bandaid on ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="done ." slot="6" text="done " head="done">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="invite customer in ." slot="1" text="invite in" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="customer" head="customer"/>
+		</item>
+		<item original="sit them in the chair ." slot="2" text="sit in" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="wash their hair ." slot="3" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hair" head="hair"/>
+		</item>
+		<item original="condition their hair ." slot="4" text="condition " head="condition">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="condition" head="condition"/>
+			<ptcp text="hair" head="hair"/>
+		</item>
+		<item original="dry their hair ." slot="5" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hair" head="hair"/>
+		</item>
+		<item original="ask for desired style ." slot="6" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired style" head="style"/>
+		</item>
+		<item original="cut hair ." slot="7" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hair" head="hair"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="turn the sink tap on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the sink tap" head="tap"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="wash the vegetables under the water ." slot="2" text="wash under" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn the tap off ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="put the vegetables on a cutting board ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+			<ptcp text="a cutting board" head="board"/>
+		</item>
+		<item original="get a sharp knife ." slot="5" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knife" head="knife"/>
+		</item>
+		<item original="cut the vegetables into small cubes ." slot="6" text="cut into" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+			<ptcp text="cubes" head="cubes"/>
+		</item>
+		<item original="place the vegetables in a bowl ." slot="7" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="wash ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="cut ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="wash ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="cut ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,740 @@
+<scripts>
+	<script id="1">
+		<item original="grasp the blind cord ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="pull the cord toward the center of the blinds to release the catch ." slot="2" text="pull toward of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="blinds" head="blinds"/>
+			<ptcp text="catch" head="catch"/>
+		</item>
+		<item original="let the cord slip slowly ." slot="3" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cord slip" head="slip"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="pull the string that closes the blinds ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="find the blinds ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="find the pull cord for the blinds ." slot="2" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the pull cord" head="cord"/>
+			<ptcp text="pull" head="pull"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="pull on the pull cord to close the blinds ." slot="3" text="pull on" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the pull cord" head="cord"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="if blinds raised lower them ." slot="1" text="blinds" head="blinds">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lower" head="lower"/>
+		</item>
+		<item original="if blinds allow light in tilt so that light does not come in ." slot="2" text="allow in in" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+			<ptcp text="tilt" head="tilt"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="slide the slider to close the blinds ." slot="1" text="slide" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slider" head="slider"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="make sure window is closed ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="find cord at side of blind ." slot="2" text="find at of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="blind" head="blind"/>
+		</item>
+		<item original="pull cord ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="lower blind ." slot="4" text="lower" head="lower">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+		</item>
+		<item original="stop pulling cord ." slot="5" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pulling cord" head="cord"/>
+		</item>
+		<item original="check blind is covering all of window ." slot="6" text="check of" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+			<ptcp text="all" head="all"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="blind is now closed ." slot="7" text="closed" head="closed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="grasp the cords ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cords" head="cords"/>
+		</item>
+		<item original="pull the cords ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cords" head="cords"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="walk over to the blinds ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="find the blind wand ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wand" head="wand"/>
+		</item>
+		<item original="twist the blind wand until the blinds are closed ." slot="3" text="twist" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wand" head="wand"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="pull the cord slightly to the left ." slot="1" text="pull to" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="left" head="left"/>
+		</item>
+		<item original="let the blinds drop ." slot="2" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drop" head="drop"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="go to blinds ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="close the blinds ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="go to blinds ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="close the blinds ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="turn the rod ." slot="1" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rod" head="rod"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="walk to window ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grasp blinds ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="pull to close ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="walk to window ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grasp blinds ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="pull to close ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="walk to window ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grasp blinds ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="pull to close ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="walk to window ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grasp blinds ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="pull to close ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="walk to window ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grasp blinds ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="pull to close ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="walk to window ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grasp blinds ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="pull to close ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="pull down on roller blind until closed ." slot="1" text="pull down on until" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pull down on roller blind until closed ." slot="1" text="pull down on until" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="pull down on roller blind until closed ." slot="1" text="pull down on until" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="pull down on roller blind until closed ." slot="1" text="pull down on until" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="pull down on roller blind until closed ." slot="1" text="pull down on until" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="pull down on roller blind until closed ." slot="1" text="pull down on until" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="pull the string that distributes the blinds across the window ." slot="1" text="pull across" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="blinds" head="blinds"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="pull the other string which turns the slats so that they are blocking all light ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="slats" head="slats"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="pull the string that distributes the blinds across the window ." slot="1" text="pull across" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="blinds" head="blinds"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="pull the other string which turns the slats so that they are blocking all light ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="slats" head="slats"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="pull the string that distributes the blinds across the window ." slot="1" text="pull across" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="blinds" head="blinds"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="pull the other string which turns the slats so that they are blocking all light ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="slats" head="slats"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="pull the string that distributes the blinds across the window ." slot="1" text="pull across" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="blinds" head="blinds"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="pull the other string which turns the slats so that they are blocking all light ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="slats" head="slats"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="pull the string that distributes the blinds across the window ." slot="1" text="pull across" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="blinds" head="blinds"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="pull the other string which turns the slats so that they are blocking all light ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="slats" head="slats"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="pull the string that distributes the blinds across the window ." slot="1" text="pull across" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="blinds" head="blinds"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="pull the other string which turns the slats so that they are blocking all light ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="slats" head="slats"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="grab handle ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="twist handle clockwise ." slot="2" text="twist" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="grab handle ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="twist handle clockwise ." slot="2" text="twist" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="grab handle ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="twist handle clockwise ." slot="2" text="twist" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="grab handle ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="twist handle clockwise ." slot="2" text="twist" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="pull the string that closes the blinds ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="go to the window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="go to the side of the window ." slot="2" text="go to of" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="search for a cord ." slot="3" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="pull the cord one way ." slot="4" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="way" head="way"/>
+		</item>
+		<item original="check to see what the curtains did ." slot="5" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="if they opened instead of closed pull the cord the other way ." slot="6" text="opened" head="opened">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="way" head="way"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="go to blinds ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="look left ." slot="2" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take the hanging plastic rod ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the hanging plastic rod" head="rod"/>
+		</item>
+		<item original="turn clockwise ." slot="4" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="keep turning until blinds are closed ." slot="5" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="go to blinds ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="look left ." slot="2" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take the hanging plastic rod ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the hanging plastic rod" head="rod"/>
+		</item>
+		<item original="turn clockwise ." slot="4" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="keep turning until blinds are closed ." slot="5" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="go to blinds ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="look left ." slot="2" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take the hanging plastic rod ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the hanging plastic rod" head="rod"/>
+		</item>
+		<item original="turn clockwise ." slot="4" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="keep turning until blinds are closed ." slot="5" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="shade your eyes ." slot="1" text="shade " head="shade">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shade" head="shade"/>
+			<ptcp text="eyes" head="eyes"/>
+		</item>
+		<item original="walk over to the window ." slot="2" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="find the right string ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="pull the string ." slot="4" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="walk to blinds ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="pull strings ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strings" head="strings"/>
+		</item>
+		<item original="walk away ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="go to window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="reach for string ." slot="2" text="reach for" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="pull tab toward you and away from locking mechanism ." slot="3" text="pull from toward from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tab" head="tab"/>
+			<ptcp text="mechanism" head="mechanism"/>
+		</item>
+		<item original="allow blind to slide to bottom of window ." slot="4" text="allow to of" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom" head="bottom"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="let go of string ." slot="5" text="go of" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="reach for stick ." slot="6" text="reach for" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stick" head="stick"/>
+		</item>
+		<item original="turn stick to turn blinds to closed position ." slot="7" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="turn the rod ." slot="1" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rod" head="rod"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="turn the rod ." slot="1" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rod" head="rod"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="turn the rod ." slot="1" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rod" head="rod"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="turn the rod ." slot="1" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rod" head="rod"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="turn the rod ." slot="1" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rod" head="rod"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="turn the rod ." slot="1" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rod" head="rod"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="walk over to window ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grab blind at bottom ." slot="2" text="grab at" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="pull blind down ." slot="3" text="pull down" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="walk over to window ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grab blind at bottom ." slot="2" text="grab at" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="pull blind down ." slot="3" text="pull down" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="walk over to window ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grab blind at bottom ." slot="2" text="grab at" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="pull blind down ." slot="3" text="pull down" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="walk over to window ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grab blind at bottom ." slot="2" text="grab at" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="pull blind down ." slot="3" text="pull down" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="walk over to window ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grab blind at bottom ." slot="2" text="grab at" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="pull blind down ." slot="3" text="pull down" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="walk over to window ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grab blind at bottom ." slot="2" text="grab at" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="pull blind down ." slot="3" text="pull down" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blind" head="blind"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="pull blinds cord ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="lower blinds ." slot="2" text="lower" head="lower">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="lock the cord ." slot="3" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="pull blinds cord ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="lower blinds ." slot="2" text="lower" head="lower">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="lock the cord ." slot="3" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="pull blinds cord ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="lower blinds ." slot="2" text="lower" head="lower">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="lock the cord ." slot="3" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="pull string ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+	</script>
+</scripts>

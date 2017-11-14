@@ -1,0 +1,513 @@
+<scripts>
+	<script id="1">
+		<item original="secure all exits ." slot="1" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+		<item original="secure yard ." slot="2" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="yard" head="yard"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="move to doors ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="lock doors ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="listen for alarm ." slot="3" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="listen for unusual sounds from outside the house ." slot="1" text="listen for from outside" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sounds" head="sounds"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="look out of windows for unusual movements ." slot="2" text="look out of for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+			<ptcp text="movements" head="movements"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="watch all windows and doors ." slot="1" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="ensure that no one gets into or out of the house that should not be entering or leaving ." slot="2" text="ensure of" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="take appropriate action if there is a problem ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="action" head="action"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="problem" head="problem"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="secure all doors ." slot="1" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="secure all windows ." slot="2" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="secure the perimeter of the house ." slot="3" text="secure of" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="perimeter" head="perimeter"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="do not allow unrecognized persons on the property ." slot="4" text="allow on" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="not" head="not"/>
+			<ptcp text="persons" head="persons"/>
+			<ptcp text="property" head="property"/>
+		</item>
+		<item original="do not allow unrecognized animals on the property ." slot="5" text="allow on" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="not" head="not"/>
+			<ptcp text="animals" head="animals"/>
+			<ptcp text="property" head="property"/>
+		</item>
+		<item original="watch for any suspicious activity ." slot="6" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="watch over the house ." slot="1" text="watch over" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="watch front door ." slot="1" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="watch windows ." slot="2" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="listen for any signs of intruders ." slot="3" text="listen for of" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="signs" head="signs"/>
+			<ptcp text="intruders" head="intruders"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="watch front door ." slot="1" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="listen for intruders ." slot="2" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="intruders" head="intruders"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="looking for suspicious activity ." slot="1" text="looking for" head="looking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+		<item original="preventing unauthorized access to the house ." slot="2" text="preventing to" head="preventing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="access" head="access"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="lock windows ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="lock doors ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="patrol entrances ." slot="3" text="patrol " head="patrol">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patrol" head="patrol"/>
+			<ptcp text="entrances" head="entrances"/>
+		</item>
+		<item original="check inhabitants ." slot="4" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="inhabitants" head="inhabitants"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="find confortable spot ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spot" head="spot"/>
+		</item>
+		<item original="watch for unusual signs ." slot="2" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="signs" head="signs"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="detect all entries into house ." slot="1" text="detect into" head="detect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="entries" head="entries"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="watch all entries into house ." slot="2" text="watch into" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="entries" head="entries"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="watch entries into house ." slot="1" text="watch into" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="entries" head="entries"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="if there is noise in some part of house do a close inspection ." slot="2" text="is in of" head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="noise" head="noise"/>
+			<ptcp text="part" head="part"/>
+			<ptcp text="house" head="house"/>
+			<ptcp text="inspection" head="inspection"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="identify house ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="watch from good vantage point ." slot="2" text="watch from" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="good vantage point" head="point"/>
+			<ptcp text="vantage" head="vantage"/>
+		</item>
+		<item original="identify weapon ." slot="3" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weapon" head="weapon"/>
+		</item>
+		<item original="use weapon to defend house ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weapon" head="weapon"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="determine boundaries of the house ." slot="1" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boundaries" head="boundaries"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="stop unauthorized persons from crossing boundaries ." slot="2" text="stop from" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="persons" head="persons"/>
+			<ptcp text="boundaries" head="boundaries"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="buy a guard dog ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a guard dog" head="dog"/>
+			<ptcp text="guard" head="guard"/>
+		</item>
+		<item original="train it to attack intruders ." slot="2" text="train" head="train">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="intruders" head="intruders"/>
+		</item>
+		<item original="let the dog roam the house at night ." slot="3" text="roam at" head="roam">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="house" head="house"/>
+			<ptcp text="night" head="night"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="hire a guard ." slot="1" text="hire" head="hire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guard" head="guard"/>
+		</item>
+		<item original="post the guard ." slot="2" text="post" head="post">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guard" head="guard"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="stand where you have a good view ." slot="1" text="stand" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="view" head="view"/>
+		</item>
+		<item original="observe everywhere around the house ." slot="2" text="observe around" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="lock the doors ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="close the windows ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="make sure some lights are on ." slot="3" text="make on" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lights" head="lights"/>
+		</item>
+		<item original="tell visitors to go away ." slot="4" text="tell away" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitors" head="visitors"/>
+		</item>
+		<item original="listen for unusual sounds ." slot="5" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sounds" head="sounds"/>
+		</item>
+		<item original="bark if anyone comes up to the house ." slot="6" text="comes up to" head="comes">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bark" head="bark"/>
+			<ptcp text="anyone" head="anyone"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="unlock the door for the owner ." slot="7" text="unlock for" head="unlock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="owner" head="owner"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="be attentive ." slot="1" text="be " head="be">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="attentive" head="attentive"/>
+		</item>
+		<item original="be alert ." slot="2" text="be " head="be">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alert" head="alert"/>
+		</item>
+		<item original="be equipped with weapons ." slot="3" text="equipped with" head="equipped">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weapons" head="weapons"/>
+		</item>
+		<item original="keep watch on strangers ." slot="4" text="keep on" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="strangers" head="strangers"/>
+		</item>
+		<item original="keep the door shut ." slot="5" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="roam around the house ." slot="1" text="roam around" head="roam">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="check if theres no suspicious person ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="always watch the house ." slot="1" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="dont fall asleep ." slot="2" text="dont" head="dont">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fall" head="fall"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="go outside the house ." slot="1" text="go outside" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="walk around house ." slot="2" text="walk around" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="watch for suspicious activity ." slot="3" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="close the doors ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="lock the doors ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="close the windows ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="lock the windows ." slot="4" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="look for intruders ." slot="5" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="intruders" head="intruders"/>
+		</item>
+		<item original="sound an alarm if intruders are seen ." slot="6" text="sound" head="sound">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+			<ptcp text="intruders" head="intruders"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="lock the doors and windows ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="stay at the house ." slot="2" text="stay at" head="stay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="observe the house ." slot="3" text="observe" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="call the police if there is an intrusion ." slot="4" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police" head="police"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="intrusion" head="intrusion"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="get a dog ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="lock all the door ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="stay alert for any suspicious activity ." slot="2" text="stay for" head="stay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alert" head="alert"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="lock the windows ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="lock the doors ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="walk around house ." slot="1" text="walk around" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="look for intruders ." slot="2" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="intruders" head="intruders"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="put security cameras around the perimeter of the house ." slot="1" text="put around of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="security cameras" head="cameras"/>
+			<ptcp text="security" head="security"/>
+			<ptcp text="perimeter" head="perimeter"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="monitor the video from the cameras ." slot="2" text="monitor from" head="monitor">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="video" head="video"/>
+			<ptcp text="cameras" head="cameras"/>
+		</item>
+		<item original="stop all intruders ." slot="3" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="intruders" head="intruders"/>
+		</item>
+		<item original="have unknown visitors identify themselves ." slot="4" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitors" head="visitors"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="lock the doors ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="set the alarm ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+		<item original="watch for prowlers ." slot="3" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="prowlers" head="prowlers"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="turn on security camera ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="security camera" head="camera"/>
+			<ptcp text="security" head="security"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="grab gun ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gun" head="gun"/>
+		</item>
+		<item original="survey all doors and windows and lock all ." slot="2" text="survey" head="survey">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+			<ptcp text="windows" head="windows"/>
+			<ptcp text="all" head="all"/>
+		</item>
+		<item original="patrol house ." slot="3" text="patrol " head="patrol">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patrol" head="patrol"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="turn on alarm system ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alarm system" head="system"/>
+			<ptcp text="alarm" head="alarm"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="lock the door ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="shut the windows ." slot="2" text="shut" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="lock the door ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="shut the windows ." slot="2" text="shut" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+</scripts>

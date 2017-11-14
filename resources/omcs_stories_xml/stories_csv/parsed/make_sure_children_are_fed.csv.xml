@@ -1,0 +1,596 @@
+<scripts>
+	<script id="1">
+		<item original="ask children if they had eaten ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="if not feed them ." slot="2" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="ask the children if they have had any food ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="if not feed them ." slot="2" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="if so they are fed ." slot="3" text="fed" head="fed">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="ask the children if they are hungry ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="if they are hungry then prepare food for them ." slot="2" text="prepare for" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="if they are hungry" head="if"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="after they have eaten clean up the food ." slot="3" text="eaten up" head="eaten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="prepare food ." slot="1" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="set table ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="summon children ." slot="3" text="summon" head="summon">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="serve food ." slot="4" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="assure children eat ." slot="5" text="assure" head="assure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="prepare food ." slot="1" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="dish up the food ." slot="2" text="dish up" head="dish">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="lay the table ." slot="3" text="lay" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="make sure they are seated ." slot="4" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sure they are seated" head="sure"/>
+		</item>
+		<item original="serve the food ." slot="5" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="help them use knife and fork ." slot="6" text="help" head="help">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knife" head="knife"/>
+			<ptcp text="fork" head="fork"/>
+		</item>
+		<item original="serve dessert ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dessert" head="dessert"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="locate the children ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="inquire to the children if they are hungry ." slot="2" text="inquire to" head="inquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="if the children are hungry prepare an appropriate meal for the time of day ." slot="3" text="prepare for of" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="meal" head="meal"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="day" head="day"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="prepare food ." slot="1" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="prepare dinnertable ." slot="2" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dinnertable" head="dinnertable"/>
+		</item>
+		<item original="call children ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="serve food ." slot="4" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="make sure children eat food ." slot="5" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="ask children if they are hungry ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="if children are hungry feed them ." slot="2" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="go to the kitchen ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="cook a meal ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="meal" head="meal"/>
+		</item>
+		<item original="place meal in dishes ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="meal" head="meal"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put dishes on table with silverware ." slot="4" text="put on with" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="silverware" head="silverware"/>
+		</item>
+		<item original="call the kids to table ." slot="5" text="call to" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="say grace ." slot="6" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grace" head="grace"/>
+		</item>
+		<item original="tell the kids to eat ." slot="7" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="discover children are hungry ." slot="1" text="discover" head="discover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="ask what is desired ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find needed foods ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="needed foods" head="foods"/>
+		</item>
+		<item original="prepare foods ." slot="4" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foods" head="foods"/>
+		</item>
+		<item original="present food ." slot="5" text="present" head="present">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="watch children eat ." slot="6" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="remove dishes wash replace ." slot="7" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get some food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put it on a plate ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="put the plate on the table ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plate" head="plate"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="take the children to the table ." slot="4" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="cut some slices of bread ." slot="1" text="cut of" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slices" head="slices"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+		<item original="spread butter on the bread ." slot="2" text="spread on" head="spread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="butter" head="butter"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+		<item original="put the bread on a plate ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bread" head="bread"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="give the plate to the children ." slot="4" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plate" head="plate"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="feed children big breakfast at 7am ." slot="1" text="feed at" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="breakfast" head="breakfast"/>
+			<ptcp text="7am" head="7am"/>
+		</item>
+		<item original="feed children small amount of food at 11am ." slot="2" text="feed of at" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="11am" head="11am"/>
+		</item>
+		<item original="feed children large hot meal at 1pm ." slot="3" text="feed at" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="meal" head="meal"/>
+			<ptcp text="1pm" head="1pm"/>
+		</item>
+		<item original="feel children large hot meal at 5pm ." slot="4" text="feel at" head="feel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="meal" head="meal"/>
+			<ptcp text="5pm" head="5pm"/>
+		</item>
+		<item original="feel children small bowl of ice cream at 8pm ." slot="5" text="feel of at" head="feel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="ice cream" head="cream"/>
+			<ptcp text="ice" head="ice"/>
+			<ptcp text="8pm" head="8pm"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="ask children if they have been fed ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="if they have not been fed select food ." slot="2" text="fed" head="fed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="prepare food ." slot="3" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="give food to children ." slot="4" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="watch children to ensure they eat ." slot="5" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="open can of soup ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="soup" head="soup"/>
+		</item>
+		<item original="pour soup into pot ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soup" head="soup"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="heat soup ." slot="3" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soup" head="soup"/>
+		</item>
+		<item original="pour soup into bowls ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soup" head="soup"/>
+			<ptcp text="bowls" head="bowls"/>
+		</item>
+		<item original="seat children ." slot="5" text="seat " head="seat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="seat" head="seat"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="serve food ." slot="6" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="oversee meal and kids ." slot="7" text="oversee" head="oversee">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="meal" head="meal"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="ask children if they ate ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="prepare food ." slot="2" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="serve to children ." slot="3" text="serve to" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="have kids wash their hands ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="sit kids at table ." slot="2" text="sit at" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put the ceral in the bowl ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ceral" head="ceral"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put the milk in the bowl ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put the bowl in front of the kids ." slot="5" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="put spoon in the bowls ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spoon" head="spoon"/>
+			<ptcp text="bowls" head="bowls"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="have kids wash their hands ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="sit kids at table ." slot="2" text="sit at" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put the ceral in the bowl ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ceral" head="ceral"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put the milk in the bowl ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put the bowl in front of the kids ." slot="5" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="put spoon in the bowls ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spoon" head="spoon"/>
+			<ptcp text="bowls" head="bowls"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="get food from the refrigerator ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="cook food ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="prepare the table ." slot="3" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put food on the table ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="ask children if they were fed ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="get kid ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kid" head="kid"/>
+		</item>
+		<item original="get kid to sit ." slot="2" text="to" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kid" head="kid"/>
+		</item>
+		<item original="get food ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put food in their mouths ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="mouths" head="mouths"/>
+		</item>
+		<item original="wip their faces ." slot="5" text="wip" head="wip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faces" head="faces"/>
+		</item>
+		<item original="feed them some more ." slot="6" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wip faces some more ." slot="7" text="faces" head="faces">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wip" head="wip"/>
+			<ptcp text="some more" head="more"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="tell children to wash their hands ." slot="1" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="serve small amounts of food on the plates ." slot="2" text="serve of on" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amounts" head="amounts"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="plates" head="plates"/>
+		</item>
+		<item original="tell children to sit at the table ." slot="3" text="tell at" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="bring the plates to the table ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="give the child a spoon ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="spoon" head="spoon"/>
+		</item>
+		<item original="let the kids eat ." slot="6" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="ask children if they are hungry ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="if they are walk to kitchen ." slot="2" text="are to" head="are">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="walk" head="walk"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="see what food you have ." slot="3" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="decide what you can make ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find a recipe ." slot="5" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="recipe" head="recipe"/>
+		</item>
+		<item original="make food ." slot="6" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="feed children ." slot="7" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="go shopping ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shopping" head="shopping"/>
+		</item>
+		<item original="select recipe ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="recipe" head="recipe"/>
+		</item>
+		<item original="gather ingredients ." slot="3" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+		<item original="make food ." slot="4" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="feed children ." slot="5" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="seat kids at table ." slot="1" text="seat at" head="seat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="seat kids" head="kids"/>
+			<ptcp text="seat" head="seat"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="prepare food ." slot="2" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="serve food and drinks ." slot="3" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="drinks" head="drinks"/>
+		</item>
+		<item original="watch kids eat ." slot="4" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="serve second servings ." slot="5" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="servings" head="servings"/>
+		</item>
+		<item original="wash hands and plates ." slot="6" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hands" head="hands"/>
+			<ptcp text="plates" head="plates"/>
+		</item>
+		<item original="kids are fed! ." slot="7" text="fed" head="fed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,1748 @@
+<scripts>
+	<script id="1">
+		<item original="pour milk into a sausepan ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="sausepan" head="sausepan"/>
+		</item>
+		<item original="turn the stove on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait for milk to boil ." slot="3" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get milk into container ." slot="1" text="get into" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn on stove ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put container on the stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="watch milk ." slot="4" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="turn stove off ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="pour milk in pot ." slot="1" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pot on stove ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="watch for milk to boil ." slot="4" text="watch for to" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="remove milk ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="turn off stove ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="put the milk in a pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place the pan on the stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on the stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="set the stove temperature to high heat ." slot="4" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the stove temperature" head="temperature"/>
+			<ptcp text="stove" head="stove"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="allow the milk to boil ." slot="5" text="allow to" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="turn off the stove ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="turn on the stove ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="place milk in a pan ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place the pan on the stove ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait until the milk is boiling ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="take out the milk from the fridge ." slot="1" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="take a pan ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="pour the milk into the pan ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put the pan on the top of the stove ." slot="4" text="put on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on the stove ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait until the milk boils ." slot="6" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the milk boils" head="boils"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="put milk in pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put pan on cooking gas ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="gas" head="gas"/>
+		</item>
+		<item original="turn heat on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="wait for milk to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="pour milk in pot ." slot="1" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turnon stove ." slot="2" text="turnon" head="turnon">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put pot on stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait to boil ." slot="4" text="wait to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="remove pot ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn off stove ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="pour milk in pot ." slot="1" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pot on stove ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait for milk to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="remove pot from stove ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn off stove ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="pour milk into pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait for milk to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="remove pot from stove ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn off stove ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="pour milk out of bottle into a pan ." slot="1" text="pour out of into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="bottle" head="bottle"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put the pan of milk onto the burner on the stove ." slot="2" text="put of onto on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn the stove knob to set it to boil the milk ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the stove knob" head="knob"/>
+			<ptcp text="stove" head="stove"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="get out a sausepan ." slot="1" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sausepan" head="sausepan"/>
+		</item>
+		<item original="get the milk ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="pour the milk in the saucepan ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="saucepan" head="saucepan"/>
+		</item>
+		<item original="put the pan on the stove ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on the stove ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="pour milk in pot ." slot="1" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait for milk to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="remove pot from stove ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn off  stove ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="pour milk into pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pon on stove ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pon" head="pon"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait for milk to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get a pan ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="light the stove ." slot="2" text="light" head="light">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put milk in the pan ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put lid on pan ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait until milk is hot ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="switch off the stove ." slot="6" text="switch off" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="put milk into pan ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="light ring on cooker ." slot="2" text="light on" head="light">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ring" head="ring"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+		<item original="place pan on cooker ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+		<item original="watch until boiled ." slot="4" text="watch until" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boiled" head="boiled"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="put the milk in a stovepot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="stovepot" head="stovepot"/>
+		</item>
+		<item original="heat the pot over a heat source until the milk is boiling ." slot="2" text="heat over" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="a heat source" head="source"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="put milk in saucepan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="saucepan" head="saucepan"/>
+		</item>
+		<item original="turn on stove ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait until milk starts bubbling ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="discover need to boil milk ." slot="1" text="discover" head="discover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="need" head="need"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="find container ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="light fire or turn on burner ." slot="3" text="light on" head="light">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fire" head="fire"/>
+			<ptcp text="turn" head="turn"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="pour milk into container ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place container on heat ." slot="5" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="adjust heat ." slot="6" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="remove when completed ." slot="7" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="get the milk from the fridge ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="put a pan on the stove ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn the stove on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour the milk into the pan ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait for the milk to boil ." slot="5" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="turn the stove off ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="get a pan ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put milk in pan ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put pan on stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn stove on ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait for milk to boil ." slot="5" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="get out a pan ." slot="1" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place milk in pan ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place pan on stove ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on burner to low ." slot="4" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="watch for small bubbles to form on the surface ." slot="5" text="watch for to on" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bubbles" head="bubbles"/>
+			<ptcp text="form" head="form"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="turn off burner ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="put the milk in a pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn burner on medium ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="medium" head="medium"/>
+		</item>
+		<item original="place pan on burner ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="milk is boiling when it bubbles ." slot="4" text="boiling" head="boiling">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="bubbles" head="bubbles"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="place pot on stove ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on heat ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="pour milk into pot ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="gently bring to boil ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="place pot on stove ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on heat ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="pour milk into pot ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="gently bring to boil ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="place pot on stove ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on heat ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="pour milk into pot ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="gently bring to boil ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="put milk in pan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put pan on cooker hob ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="hob" head="hob"/>
+		</item>
+		<item original="turn on cooker hob ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooker hob" head="hob"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+		<item original="wait till milk bubbles ." slot="4" text="wait till" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk bubbles" head="bubbles"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="put milk in saucepan ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="saucepan" head="saucepan"/>
+		</item>
+		<item original="put saucepan on gas ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="saucepan" head="saucepan"/>
+			<ptcp text="gas" head="gas"/>
+		</item>
+		<item original="ignite gas ." slot="3" text="ignite" head="ignite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gas" head="gas"/>
+		</item>
+		<item original="wait till milk boils ." slot="4" text="wait till" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk boils" head="boils"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="measure the milk ." slot="1" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="pour milk in pan ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn on the burner ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="pour milk into a pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on burner to medium heat ." slot="2" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="place pot on burner ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="stir milk constantly until boiled ." slot="4" text="stir until" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="pour milk into a pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on burner to medium heat ." slot="2" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="place pot on burner ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="stir milk constantly until boiled ." slot="4" text="stir until" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="pour milk into a pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on burner to medium heat ." slot="2" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="place pot on burner ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="stir milk constantly until boiled ." slot="4" text="stir until" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="pour milk into a pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on burner to medium heat ." slot="2" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="place pot on burner ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="stir milk constantly until boiled ." slot="4" text="stir until" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="pour milk into a pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on burner to medium heat ." slot="2" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="place pot on burner ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="stir milk constantly until boiled ." slot="4" text="stir until" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="pour milk into a pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on burner to medium heat ." slot="2" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="place pot on burner ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="stir milk constantly until boiled ." slot="4" text="stir until" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="put a pan on the stove ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk into the pan ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn the burner on under the pan ." slot="3" text="turn on under" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="stirring constantly bring the milk to a boil ." slot="4" text="stirring to" head="stirring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="add milk to pot ." slot="1" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on stove boil pot ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove boil pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="turn on stove ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="fill pot with desired amount of milk ." slot="2" text="fill with of" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="desired amount" head="amount"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="heat pot on stove ." slot="3" text="heat on" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="heat milk to a boil ." slot="4" text="heat to" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="turn off stove ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="consume milk ." slot="6" text="consume" head="consume">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="pour milk into pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove to medium heat ." slot="3" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="stir occasionally ." slot="4" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="let boil ." slot="5" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="remove from stove ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn burner off ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="pour milk into pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove to medium heat ." slot="3" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="stir occasionally ." slot="4" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="let boil ." slot="5" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="remove from stove ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn burner off ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="getting the milk from the fridge ." slot="1" text="getting from" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="getting the pot from the cupboard ." slot="2" text="getting from" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="cupboard" head="cupboard"/>
+		</item>
+		<item original="pouring the milk in the pot ." slot="3" text="pouring in" head="pouring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="placing the pot on the stove ." slot="4" text="placing on" head="placing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turning the stove on ." slot="5" text="turning on" head="turning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="letting the milk heat up and boil ." slot="6" text="letting" head="letting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the milk heat" head="heat"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="removing pot from burner ." slot="7" text="removing from" head="removing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="getting the milk from the fridge ." slot="1" text="getting from" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="getting the pot from the cupboard ." slot="2" text="getting from" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="cupboard" head="cupboard"/>
+		</item>
+		<item original="pouring the milk in the pot ." slot="3" text="pouring in" head="pouring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="placing the pot on the stove ." slot="4" text="placing on" head="placing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turning the stove on ." slot="5" text="turning on" head="turning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="letting the milk heat up and boil ." slot="6" text="letting" head="letting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the milk heat" head="heat"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="removing pot from burner ." slot="7" text="removing from" head="removing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="getting the milk from the fridge ." slot="1" text="getting from" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="getting the pot from the cupboard ." slot="2" text="getting from" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="cupboard" head="cupboard"/>
+		</item>
+		<item original="pouring the milk in the pot ." slot="3" text="pouring in" head="pouring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="placing the pot on the stove ." slot="4" text="placing on" head="placing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turning the stove on ." slot="5" text="turning on" head="turning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="letting the milk heat up and boil ." slot="6" text="letting" head="letting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the milk heat" head="heat"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="removing pot from burner ." slot="7" text="removing from" head="removing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="pour milk into pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on element ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="element" head="element"/>
+		</item>
+		<item original="stir occasionally ." slot="4" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wait for boil ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="remove from stove ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn stove off ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="pour milk into pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on element ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="element" head="element"/>
+		</item>
+		<item original="stir occasionally ." slot="4" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wait for boil ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="remove from stove ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn stove off ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="pour milk into pot ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on element ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="element" head="element"/>
+		</item>
+		<item original="stir occasionally ." slot="4" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wait for boil ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="remove from stove ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn stove off ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="place pot on stove ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk into pot ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="stir until boiled ." slot="4" text="stir until" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boiled" head="boiled"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="pour milk in pot ." slot="1" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn up stove ." slot="2" text="turn up" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="when boiling turn off stove ." slot="3" text="boiling off" head="boiling">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="turn on stove ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk into a saucepan ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="saucepan" head="saucepan"/>
+		</item>
+		<item original="place saucepan on stove ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="saucepan" head="saucepan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait until the milk boils ." slot="4" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the milk boils" head="boils"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="turn on stove ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk into a saucepan ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="saucepan" head="saucepan"/>
+		</item>
+		<item original="place saucepan on stove ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="saucepan" head="saucepan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait until the milk boils ." slot="4" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the milk boils" head="boils"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="pour cold milk in pan ." slot="1" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put pan on burner ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="turn burner on high ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="stir milk occasionally with a spoon ." slot="4" text="stir with" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="spoon" head="spoon"/>
+		</item>
+		<item original="wait for milk to heat up and form large bubbles ." slot="5" text="wait up for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="bubbles" head="bubbles"/>
+		</item>
+		<item original="turn off burner ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="pour cold milk in pan ." slot="1" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put pan on burner ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="turn burner on high ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="stir milk occasionally with a spoon ." slot="4" text="stir with" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="spoon" head="spoon"/>
+		</item>
+		<item original="wait for milk to heat up and form large bubbles ." slot="5" text="wait up for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="bubbles" head="bubbles"/>
+		</item>
+		<item original="turn off burner ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="pour cold milk in pan ." slot="1" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put pan on burner ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="turn burner on high ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="stir milk occasionally with a spoon ." slot="4" text="stir with" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="spoon" head="spoon"/>
+		</item>
+		<item original="wait for milk to heat up and form large bubbles ." slot="5" text="wait up for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="bubbles" head="bubbles"/>
+		</item>
+		<item original="turn off burner ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="get milk from fridge ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="get pot ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pot on stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk in pot ." slot="5" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="boil ." slot="6" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="get milk from fridge ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="get pot ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pot on stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk in pot ." slot="5" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="boil ." slot="6" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="get milk from fridge ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="get pot ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pot on stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk in pot ." slot="5" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="boil ." slot="6" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="get milk from fridge ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="get pot ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pot on stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk in pot ." slot="5" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="boil ." slot="6" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="get milk from fridge ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="get pot ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pot on stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk in pot ." slot="5" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="boil ." slot="6" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="get milk from fridge ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="get pot ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put pot on stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk in pot ." slot="5" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="boil ." slot="6" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="put pot on stove ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk into pot ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="wait for it to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="put pot on stove ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour milk into pot ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="wait for it to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="take out pan ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="take out milk from fridge ." slot="2" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="measure milk ." slot="3" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="pour in pan ." slot="4" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn on heating element to high ." slot="5" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heating element" head="element"/>
+			<ptcp text="heating" head="heating"/>
+		</item>
+		<item original="place pan on stove ." slot="6" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="watch milk ." slot="7" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="take out pan ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="take out milk from fridge ." slot="2" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="measure milk ." slot="3" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="pour in pan ." slot="4" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn on heating element to high ." slot="5" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heating element" head="element"/>
+			<ptcp text="heating" head="heating"/>
+		</item>
+		<item original="place pan on stove ." slot="6" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="watch milk ." slot="7" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="take out pan ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="take out milk from fridge ." slot="2" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="measure milk ." slot="3" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="pour in pan ." slot="4" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn on heating element to high ." slot="5" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heating element" head="element"/>
+			<ptcp text="heating" head="heating"/>
+		</item>
+		<item original="place pan on stove ." slot="6" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="watch milk ." slot="7" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="put pot on stove ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="get milk ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="pour milk in pot ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on stove ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="put pot on stove ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="get milk ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="pour milk in pot ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on stove ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="put pot on stove ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="get milk ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="pour milk in pot ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on stove ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="take milk ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="place milk in pot ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place pot on stove ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="heat the pot ." slot="4" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="put pot on stove ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn heat on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="pour milk into pot ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="wait for it to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+	</script>
+	<script id="70">
+		<item original="put milk in pot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on burner ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+		<item original="put burner on pot until milk is boiling ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="turn off burner ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+</scripts>

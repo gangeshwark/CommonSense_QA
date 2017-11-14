@@ -1,0 +1,640 @@
+<scripts>
+	<script id="1">
+		<item original="locate eraser ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="move eraser across board ." slot="2" text="move across" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="board" head="board"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get eraser ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="use eraser ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="pick up eraser ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="with eraser touching whiteboard do ." slot="2" text="touching with" head="touching">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="move up and down left right ." slot="3" text="move up" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="right" head="right"/>
+		</item>
+		<item original="until all whiteboard is erased ." slot="4" text="erased" head="erased">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="move to the whiteboard ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="find a whiteboard eraser ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="move the eraser across any marks on the whiteboard to erase them ." slot="3" text="move across on" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="marks" head="marks"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="repeat until no marks are left on the whiteboard ." slot="4" text="repeat on" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="marks" head="marks"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="go to the whiteboard ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="pick up the whiteboard eraser ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="wipe the whiteboard eraser over the whiteboard ." slot="3" text="wipe over" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="keep wiping over the whiteboard until everything is gone from the whiteboard ." slot="4" text="keep over from" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+			<ptcp text="everything" head="everything"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="walk up to the whiteboard ." slot="1" text="walk up to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="pick up eraser ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="wipe eraser across any writing on the whiteboard ." slot="3" text="wipe across on" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="writing" head="writing"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="place eraser back in it s original position ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get eraser ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="spray fluid on whiteboard ." slot="2" text="spray on" head="spray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray fluid" head="fluid"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="fluid" head="fluid"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="wipe whiteboard with eraser ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="obtain the whiteboard eraser ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="place fuzzy side of whiteboard eraser on whiteboard ." slot="2" text="place of on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="apply pressure to eraser ." slot="3" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pressure" head="pressure"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="move over entire whiteboard ." slot="4" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="walk to the whiteboard ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="locate the eraser ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="pick up the eraser ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="rub the eraser against the whiteboard ." slot="4" text="rub against" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="put the eraser back down ." slot="5" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="pick up eraser ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="wipe the board with left to right motion ." slot="2" text="wipe with to" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="board" head="board"/>
+			<ptcp text="left" head="left"/>
+			<ptcp text="motion" head="motion"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="pick up the eraser ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="move the eraser over the whiteboard ." slot="2" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="rub the eraser over the whiteboard until all markings on the whiteboard from dry erase markers are g ." slot="1" text="rub over on from" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+			<ptcp text="markings" head="markings"/>
+			<ptcp text="the whiteboard from dry erase markers" head="markers"/>
+			<ptcp text="dry erase" head="dry"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="pick up eraser ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="rub eraser over writing until is gone ." slot="2" text="rub over" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="pick up the eraser ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="wipe the eraser against the board until board is clean ." slot="2" text="wipe against" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="board" head="board"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="take eraser ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="rub eraser on board markings ." slot="2" text="rub on" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="board markings" head="markings"/>
+			<ptcp text="board" head="board"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="erase some white board ." slot="1" text="erase" head="erase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="board" head="board"/>
+		</item>
+		<item original="erase some white board ." slot="2" text="erase" head="erase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="board" head="board"/>
+		</item>
+		<item original="erase some white board ." slot="3" text="erase" head="erase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="board" head="board"/>
+		</item>
+		<item original="if board has no marking you done ." slot="4" text="marking" head="marking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="board" head="board"/>
+		</item>
+		<item original="else erase some white board ." slot="5" text="erase" head="erase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="board" head="board"/>
+		</item>
+		<item original="erase some white board ." slot="6" text="erase" head="erase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="board" head="board"/>
+		</item>
+		<item original="if board has no marking you donr else repet ." slot="7" text="marking" head="marking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="board" head="board"/>
+			<ptcp text="no marking you donr else repet" head="repet"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get the eraser ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="goto the whiteboard ." slot="2" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="push and pull the eraser across the whiteboard ." slot="3" text="push across" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="repeat step 3 until whiteboard is able to be used again ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="grab eraser ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="rub eraser over whiteboard ." slot="2" text="rub over" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="grab eraser ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="rub eraser over whiteboard ." slot="2" text="rub over" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="rub the eraser over the writing ." slot="1" text="rub over" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="writing" head="writing"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="pick up the eraser ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="rub it over the writing ." slot="2" text="rub over" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing" head="writing"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="remove all the whiteboard marker using the whiteboard eraser ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="marker" head="marker"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="remove all the whiteboard marker using the whiteboard eraser ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="marker" head="marker"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="spray the whiteboard spray ." slot="1" text="spray " head="spray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+		</item>
+		<item original="wipe the whiteboard ." slot="2" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="grab the earser ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="earser" head="earser"/>
+		</item>
+		<item original="brush earser over the white board ." slot="2" text="brush over" head="brush">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="earser" head="earser"/>
+			<ptcp text="board" head="board"/>
+		</item>
+		<item original="continue until the board is clean ." slot="3" text="continue" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="board" head="board"/>
+		</item>
+		<item original="replace earser ." slot="4" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="earser" head="earser"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="pick up eraser ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="rub board until clean ." slot="2" text="rub until" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="board" head="board"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="equip the eraser ." slot="1" text="equip" head="equip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="wipe the whiteboard ." slot="2" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="unequip the eraser ." slot="3" text="unequip" head="unequip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="take an eraser ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="use it to wipe off errors ." slot="2" text="use off" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="errors" head="errors"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="spray the whiteboard with cleaning solution ." slot="1" text="cleaning with" head="cleaning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="the whiteboard with cleaning solution" head="solution"/>
+		</item>
+		<item original="wipe the writing and solution off the board using a circular scrubbing motion ." slot="2" text="wipe off" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing" head="writing"/>
+			<ptcp text="solution" head="solution"/>
+			<ptcp text="board" head="board"/>
+			<ptcp text="a circular scrubbing motion" head="motion"/>
+			<ptcp text="scrubbing" head="scrubbing"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="wet a paper towel ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wipe the writing on the whiteboard ." slot="2" text="wipe on" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing" head="writing"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="once writing is gone use dry paper towel and wipe dry ." slot="3" text="writing" head="writing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="wet a paper towel ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wipe the writing on the whiteboard ." slot="2" text="wipe on" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing" head="writing"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="once writing is gone use dry paper towel and wipe dry ." slot="3" text="writing" head="writing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="wet a paper towel ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wipe the writing on the whiteboard ." slot="2" text="wipe on" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing" head="writing"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="once writing is gone use dry paper towel and wipe dry ." slot="3" text="writing" head="writing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="wet a paper towel ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wipe the writing on the whiteboard ." slot="2" text="wipe on" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing" head="writing"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="once writing is gone use dry paper towel and wipe dry ." slot="3" text="writing" head="writing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="wet a paper towel ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wipe the writing on the whiteboard ." slot="2" text="wipe on" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing" head="writing"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="once writing is gone use dry paper towel and wipe dry ." slot="3" text="writing" head="writing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="wet a paper towel ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wipe the writing on the whiteboard ." slot="2" text="wipe on" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing" head="writing"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="once writing is gone use dry paper towel and wipe dry ." slot="3" text="writing" head="writing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="take out eraser ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="rub eraser on the portion of whiteboard you wish to erase ." slot="2" text="rub on of" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="portion" head="portion"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="pick the eraser ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="go close to the whiteboard ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="use the eraser to clean the whiteboard ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="whiteboard" head="whiteboard"/>
+		</item>
+		<item original="put the eraser down ." slot="4" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="put wipeboard eraser in hand ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="move eraser over area to be erased ." slot="2" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="put eraser back ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="put wipeboard eraser in hand ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="move eraser over area to be erased ." slot="2" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="put eraser back ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="put wipeboard eraser in hand ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="move eraser over area to be erased ." slot="2" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="put eraser back ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="put wipeboard eraser in hand ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="move eraser over area to be erased ." slot="2" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="put eraser back ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="find eraser ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="rub ." slot="2" text="rub" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="rub some more ." slot="3" text="rub" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some more" head="more"/>
+		</item>
+		<item original="check to make sure its clean ." slot="4" text="check sure" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="its clean" head="clean"/>
+		</item>
+		<item original="rub anywhere there are still spots ." slot="5" text="rub" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="spots" head="spots"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="take eraser ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="wipe whiteboard ." slot="2" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,388 @@
+<scripts>
+	<script id="1">
+		<item original="lock all dors ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dors" head="dors"/>
+		</item>
+		<item original="lock all windows ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="go to each exit ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="lock door or window ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="close all doors ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="lock all doors ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="close all windows ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="lock all windows ." slot="4" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="move to an exit ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="ensure that the exit door or window is closed and locked ." slot="2" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the exit door or window" head="door"/>
+			<ptcp text="exit" head="exit"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="if the door or window is not closed and locked close it and lock it ." slot="3" text="closed" head="closed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="repeat until all exits have been secured ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="go to exit ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="ensure exit is closed ." slot="2" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="ensure exit is locked ." slot="3" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="repeat for all exits ." slot="4" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="count number of exits ." slot="1" text="count of" head="count">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+		<item original="move to all exits ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+		<item original="ensure exit is operating correctly ." slot="3" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="go to each individual exit ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="when you arrive at each exit check to make sure it is locked ." slot="2" text="arrive" head="arrive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="identify all exits ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+		<item original="close all exits ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+		<item original="lock all exits ." slot="3" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="lock all exit doors ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all exit doors" head="doors"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="place guards at all exit doors and all other possible exit points ." slot="2" text="place at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guards" head="guards"/>
+			<ptcp text="exit doors" head="doors"/>
+			<ptcp text="exit" head="exit"/>
+			<ptcp text="all other possible exit points" head="points"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="determine how many exits there are ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exits" head="exits"/>
+			<ptcp text="there" head="there"/>
+		</item>
+		<item original="begin rounds of exits ." slot="2" text="begin of" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rounds" head="rounds"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+		<item original="check to see if secure ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="secure" head="secure"/>
+		</item>
+		<item original="if not secure latch ." slot="4" text="latch" head="latch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="not secure" head="secure"/>
+		</item>
+		<item original="continue circuit of exits ." slot="5" text="continue of" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="circuit" head="circuit"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+		<item original="continue to check ." slot="6" text="continue" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="record data after rounds ." slot="7" text="record after" head="record">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="data" head="data"/>
+			<ptcp text="rounds" head="rounds"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="walk to the door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="lock the door ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk to the next door ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="lock the door ." slot="4" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="walk to the kitchen door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the kitchen door" head="door"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="lock the door ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk to the front door ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="lock the door ." slot="4" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="waslk down to the basement ." slot="5" text="waslk down to" head="waslk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="basement" head="basement"/>
+		</item>
+		<item original="lock the basement door ." slot="6" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the basement door" head="door"/>
+			<ptcp text="basement" head="basement"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="lock all doors ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="lock all windows ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="place security guard at all exits ." slot="3" text="place at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="security guard" head="guard"/>
+			<ptcp text="security" head="security"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+		<item original="activate security alarm ." slot="4" text="activate" head="activate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="security alarm" head="alarm"/>
+			<ptcp text="security" head="security"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="locate one exit ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="secure it ." slot="2" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="repeat steps 1 and 2 for each exit ." slot="3" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="locate one exit ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="secure it ." slot="2" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="repeat steps 1 and 2 for each exit ." slot="3" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="lock all the doors ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="lock all the doors ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="place a guard at every exit door ." slot="1" text="place at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guard" head="guard"/>
+			<ptcp text="every exit door" head="door"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="place a guard at every large window ." slot="2" text="place at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guard" head="guard"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="place a guard at every exit gate ." slot="3" text="place at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guard" head="guard"/>
+			<ptcp text="every exit gate" head="gate"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="close doors ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="look for all exits ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+		<item original="check each one ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="make sure all are secure ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all" head="all"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="monitor all exit doors ." slot="1" text="monitor" head="monitor">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all exit doors" head="doors"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="survey surrounding areas ." slot="2" text="survey" head="survey">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surrounding areas" head="areas"/>
+		</item>
+		<item original="lock all doors ." slot="3" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="monitor all exit doors ." slot="1" text="monitor" head="monitor">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all exit doors" head="doors"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="survey surrounding areas ." slot="2" text="survey" head="survey">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surrounding areas" head="areas"/>
+		</item>
+		<item original="lock all doors ." slot="3" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="monitor all exit doors ." slot="1" text="monitor" head="monitor">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all exit doors" head="doors"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="survey surrounding areas ." slot="2" text="survey" head="survey">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surrounding areas" head="areas"/>
+		</item>
+		<item original="lock all doors ." slot="3" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="check all the exit points ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all the exit points" head="points"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="verify that exits are secured ." slot="2" text="verify" head="verify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="shut all doors and windows ." slot="1" text="shut" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="lock all doors and windows ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="check each exit ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="make sure all exits are locked ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exits" head="exits"/>
+		</item>
+	</script>
+</scripts>

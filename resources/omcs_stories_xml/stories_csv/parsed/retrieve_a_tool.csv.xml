@@ -1,0 +1,673 @@
+<scripts>
+	<script id="1">
+		<item original="look for the tool ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="pick it up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="move to tool ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="reach to pick up tool ." slot="2" text="reach up" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="pick up tool ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="place tool in proper location ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="move to tool box ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="open tool box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="pick up tool ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="close tool box ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="move to get the tool ." slot="1" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="take the tool ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="open tool box ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="select tool ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="take tool out of tool box ." slot="3" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+			<ptcp text="tool box" head="box"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="go to toolbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="open toolbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="take out tool of choice ." slot="3" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+			<ptcp text="choice" head="choice"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="identify the tool needed ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="locate the tool ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="think about where the tool could be ." slot="1" text="think about" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="look around the places you ve thought of ." slot="2" text="look around of" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+		</item>
+		<item original="look around other places ." slot="3" text="look around" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+		</item>
+		<item original="see the tool ." slot="4" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="take the tool ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="go to the tool storage area ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the tool storage area" head="area"/>
+			<ptcp text="tool" head="tool"/>
+			<ptcp text="storage" head="storage"/>
+		</item>
+		<item original="open the tool box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="remove the tool ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="carry the tool back ." slot="4" text="carry back" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="open tool box ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="select tool ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="take tool out of the tool box ." slot="3" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+			<ptcp text="the tool box" head="box"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="open tool box ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="take out tool ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="figure out where the tool is ." slot="1" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="walk in the direction of the tool ." slot="2" text="walk in of" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="direction" head="direction"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="retrieve the tool ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="go to toll box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toll box" head="box"/>
+			<ptcp text="toll" head="toll"/>
+		</item>
+		<item original="open tool box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="remove tool needed ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="go to toolbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="open toolbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="remove tool ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="go to toolbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="open toolbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="get tool needed ." slot="3" text="needed" head="needed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="return to previous location ." slot="4" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="open tool box ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="locate tool ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="take tool out of tool box ." slot="3" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+			<ptcp text="tool box" head="box"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="go to toolbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="open toolbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="get tool ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="go back ." slot="4" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="go to where the tool is laid ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="pick up the tool ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="carry the tool back to the place it needs to be ." slot="3" text="carry back to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="determine the needed tool ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the needed tool" head="tool"/>
+		</item>
+		<item original="attempt to locate the position of the tool ." slot="2" text="attempt of" head="attempt">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="find the tool ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="pick up the tool ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="return to where the tool was needed ." slot="5" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="go to toolbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="open toolbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="retrieve tool ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="bring back tool ." slot="4" text="bring back" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="look for the tool ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="move to the tool s location ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="pick up the tool ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="return to your original location ." slot="4" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="determine tool to be retrieved ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="go to toolbox ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="open toolbox ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="search for tool ." slot="4" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="grab tool ." slot="5" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="close toolbox ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="bring back to original location ." slot="7" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="pick up the tool ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="get the tool from the tool box ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+			<ptcp text="the tool box" head="box"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="go to toolbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="open toolbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="select tool needed ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="close toolbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="locate the tool ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="go to the tool ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="pick up the tool ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="walk back to your first position ." slot="4" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="find the tool ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="pick up the tool ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="bring the tool back ." slot="3" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="walk to the tool ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="grasp the tool ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="pick up the tool ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="get tool ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="got to toolbox ." slot="1" text="got to" head="got">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="pick out tool ." slot="2" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="find the tool ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="pick up the tool ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="bring the tool back ." slot="3" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="identify the tool you need ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="go to the tool box ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="retrieve the tool ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="use the tool ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="go to the tool box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="open the drawer ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drawer" head="drawer"/>
+		</item>
+		<item original="gather the tool from the drawer ." slot="3" text="gather from" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+			<ptcp text="drawer" head="drawer"/>
+		</item>
+		<item original="close the drawer ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drawer" head="drawer"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="go to tool box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="open the lid ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="search for tool needed ." slot="3" text="needed for" head="needed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="search" head="search"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="take out of tool box ." slot="4" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool box" head="box"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="identify the needed tool ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the needed tool" head="tool"/>
+		</item>
+		<item original="find the location of the tool ." slot="2" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="go to location ." slot="3" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="pick up tool ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="bring back to desired location ." slot="5" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired location" head="location"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="go to the closet ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="closet" head="closet"/>
+		</item>
+		<item original="get the toolbox ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="find the tool ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="pick up the tool ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="bring it to me ." slot="5" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="ask where the tool is ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="go and get it ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="bring it back ." slot="3" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="ask where the tool is ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="go and get it ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="bring it back ." slot="3" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="ask where the tool is ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="go and get it ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="bring it back ." slot="3" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="open toolbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="locate tool ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="retrieve tool ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="open toolbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="locate tool ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="retrieve tool ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="open toolbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toolbox" head="toolbox"/>
+		</item>
+		<item original="locate tool ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="retrieve tool ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="locate a tool ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="pick up tool ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+</scripts>

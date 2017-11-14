@@ -1,0 +1,662 @@
+<scripts>
+	<script id="1">
+		<item original="don a security uniform ." slot="1" text="don" head="don">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a security uniform" head="uniform"/>
+			<ptcp text="security" head="security"/>
+		</item>
+		<item original="don a weapon ." slot="2" text="don" head="don">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weapon" head="weapon"/>
+		</item>
+		<item original="don a security badge ." slot="3" text="don" head="don">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a security badge" head="badge"/>
+			<ptcp text="security" head="security"/>
+		</item>
+		<item original="arrive at the office ." slot="4" text="arrive at" head="arrive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="office" head="office"/>
+		</item>
+		<item original="remain watchful for any suspicious activity ." slot="5" text="remain for" head="remain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watchful" head="watchful"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+		<item original="return home after the work day ." slot="6" text="return after" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+			<ptcp text="the work day" head="day"/>
+			<ptcp text="work" head="work"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="patrol the office at regular intervals ." slot="1" text="patrol at" head="patrol">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="office" head="office"/>
+			<ptcp text="intervals" head="intervals"/>
+		</item>
+		<item original="observe any suspicious activity ." slot="2" text="observe" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+		<item original="observe any smoke or sign of fire ." slot="3" text="observe of" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="smoke" head="smoke"/>
+			<ptcp text="sign" head="sign"/>
+			<ptcp text="fire" head="fire"/>
+		</item>
+		<item original="report any findings to the authorities ." slot="4" text="report to" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="findings" head="findings"/>
+			<ptcp text="authorities" head="authorities"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="walk around the office ." slot="1" text="walk around" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="office" head="office"/>
+		</item>
+		<item original="keep an eye out for suspicious activity ." slot="2" text="keep out for" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eye" head="eye"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+		<item original="accost anyone involved in suspicious activity ." slot="3" text="accost in" head="accost">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="anyone" head="anyone"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="go to front desk ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desk" head="desk"/>
+		</item>
+		<item original="observe security monitors ." slot="2" text="observe" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="security monitors" head="monitors"/>
+			<ptcp text="security" head="security"/>
+		</item>
+		<item original="ask for id ." slot="3" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="id" head="id"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="observe all people who enter office ." slot="1" text="observe" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="office" head="office"/>
+		</item>
+		<item original="check ids of people ." slot="2" text="check of" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ids" head="ids"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="watch surveilance monitors for suspicious activity ." slot="3" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="monitors" head="monitors"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+		<item original="respond to suspicious activity ." slot="4" text="respond to" head="respond">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="pay attention to intruders ." slot="1" text="pay to" head="pay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="attention" head="attention"/>
+			<ptcp text="intruders" head="intruders"/>
+		</item>
+		<item original="lock doors when necessary ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="call police when necessary ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police" head="police"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="sit in security office ." slot="1" text="sit in" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="security office" head="office"/>
+			<ptcp text="security" head="security"/>
+		</item>
+		<item original="watch security monitors ." slot="2" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="security monitors" head="monitors"/>
+			<ptcp text="security" head="security"/>
+		</item>
+		<item original="eat donuts ." slot="3" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="donuts" head="donuts"/>
+		</item>
+		<item original="take a nap ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nap" head="nap"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="checking in ." slot="1" text="checking in" head="checking">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="watching camera footage ." slot="2" text="watching" head="watching">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera footage" head="footage"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="being visible ." slot="3" text="being " head="being">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visible" head="visible"/>
+		</item>
+		<item original="spyiing something suspicious ." slot="4" text="spyiing" head="spyiing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="something" head="something"/>
+		</item>
+		<item original="invesitgating ." slot="5" text="invesitgating" head="invesitgating">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="taking action ." slot="6" text="taking" head="taking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="action" head="action"/>
+		</item>
+		<item original="reporting resuls ." slot="7" text="reporting" head="reporting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resuls" head="resuls"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="stand in front of door ." slot="1" text="stand in of" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="fight criminals ." slot="2" text="fight" head="fight">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="criminals" head="criminals"/>
+		</item>
+		<item original="prevent theft ." slot="3" text="prevent" head="prevent">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="theft" head="theft"/>
+		</item>
+		<item original="ask who is entering ." slot="4" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="lock all the door ." slot="1" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk around on shift ." slot="2" text="walk around on" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shift" head="shift"/>
+		</item>
+		<item original="stay alert ." slot="3" text="stay" head="stay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alert" head="alert"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="watch the door ." slot="1" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="check the ideas of people coming in ." slot="2" text="check in of" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ideas" head="ideas"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="watch for people who don t belong ." slot="3" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="be vigilant ." slot="4" text="be " head="be">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vigilant" head="vigilant"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="keep watch of all equiptment ." slot="1" text="keep of" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="equiptment" head="equiptment"/>
+		</item>
+		<item original="watch cctv monitors ." slot="2" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="monitors" head="monitors"/>
+		</item>
+		<item original="heck for any activity ." slot="3" text="heck for" head="heck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heck" head="heck"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="keep watch of all equiptment ." slot="1" text="keep of" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="equiptment" head="equiptment"/>
+		</item>
+		<item original="watch cctv monitors ." slot="2" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="monitors" head="monitors"/>
+		</item>
+		<item original="check for any activity ." slot="3" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="keep watch of all equiptment ." slot="1" text="keep of" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="equiptment" head="equiptment"/>
+		</item>
+		<item original="watch cctv monitors ." slot="2" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="monitors" head="monitors"/>
+		</item>
+		<item original="heck for any activity ." slot="3" text="heck for" head="heck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heck" head="heck"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="keep watch of all equiptment ." slot="1" text="keep of" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="equiptment" head="equiptment"/>
+		</item>
+		<item original="watch cctv monitors ." slot="2" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="monitors" head="monitors"/>
+		</item>
+		<item original="check for any activity ." slot="3" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="log all activities ." slot="1" text="log" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activities" head="activities"/>
+		</item>
+		<item original="go on patrol ." slot="2" text="go on" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patrol" head="patrol"/>
+		</item>
+		<item original="answer questions ." slot="3" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+		<item original="answer the phone ." slot="4" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="log all activities ." slot="1" text="log" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activities" head="activities"/>
+		</item>
+		<item original="go on patrol ." slot="2" text="go on" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patrol" head="patrol"/>
+		</item>
+		<item original="answer questions ." slot="3" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+		<item original="answer the phone ." slot="4" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="log all activities ." slot="1" text="log" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activities" head="activities"/>
+		</item>
+		<item original="go on patrol ." slot="2" text="go on" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patrol" head="patrol"/>
+		</item>
+		<item original="answer questions ." slot="3" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+		<item original="answer the phone ." slot="4" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="log all activities ." slot="1" text="log" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activities" head="activities"/>
+		</item>
+		<item original="go on patrol ." slot="2" text="go on" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patrol" head="patrol"/>
+		</item>
+		<item original="answer questions ." slot="3" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+		<item original="answer the phone ." slot="4" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="log all activities ." slot="1" text="log" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activities" head="activities"/>
+		</item>
+		<item original="go on patrol ." slot="2" text="go on" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patrol" head="patrol"/>
+		</item>
+		<item original="answer questions ." slot="3" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+		<item original="log all activities ." slot="4" text="log" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activities" head="activities"/>
+		</item>
+		<item original="go on patrol ." slot="5" text="go on" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patrol" head="patrol"/>
+		</item>
+		<item original="answer the phone ." slot="6" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="answer questions ." slot="7" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+		<item original="answer the phone ." slot="8" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="log all activities ." slot="1" text="log" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activities" head="activities"/>
+		</item>
+		<item original="go on patrol ." slot="2" text="go on" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patrol" head="patrol"/>
+		</item>
+		<item original="answer questions ." slot="3" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+		<item original="answer the phone ." slot="4" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="log all activities ." slot="1" text="log" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activities" head="activities"/>
+		</item>
+		<item original="go on patrol ." slot="2" text="go on" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patrol" head="patrol"/>
+		</item>
+		<item original="answer questions ." slot="3" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+		<item original="answer the phone ." slot="4" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="log all activities ." slot="1" text="log" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activities" head="activities"/>
+		</item>
+		<item original="go on patrol ." slot="2" text="go on" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patrol" head="patrol"/>
+		</item>
+		<item original="answer questions ." slot="3" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+		<item original="answer the phone ." slot="4" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="keep looking ." slot="1" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="keep patrolling ." slot="2" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="keep listening ." slot="3" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="a police check ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police" head="police"/>
+			<ptcp text="check" head="check"/>
+		</item>
+		<item original="training ." slot="2" text="training " head="training">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="training" head="training"/>
+		</item>
+		<item original="good eyes ." slot="3" text="good " head="good">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eyes" head="eyes"/>
+		</item>
+		<item original="healthy ." slot="4" text="healthy " head="healthy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="healthy" head="healthy"/>
+		</item>
+		<item original="lots of coffee ." slot="5" text="lots of" head="lots">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lots" head="lots"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="a walkie talkie ." slot="6" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talkie" head="talkie"/>
+		</item>
+		<item original="no sleep ." slot="7" text="no " head="no">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sleep" head="sleep"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="a police check ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police" head="police"/>
+			<ptcp text="check" head="check"/>
+		</item>
+		<item original="training ." slot="2" text="training " head="training">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="training" head="training"/>
+		</item>
+		<item original="good eyes ." slot="3" text="good " head="good">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eyes" head="eyes"/>
+		</item>
+		<item original="healthy ." slot="4" text="healthy " head="healthy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="healthy" head="healthy"/>
+		</item>
+		<item original="lots of coffee ." slot="5" text="lots of" head="lots">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lots" head="lots"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="a walkie talkie ." slot="6" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talkie" head="talkie"/>
+		</item>
+		<item original="no sleep ." slot="7" text="no " head="no">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sleep" head="sleep"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="a police check ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police" head="police"/>
+			<ptcp text="check" head="check"/>
+		</item>
+		<item original="training ." slot="2" text="training " head="training">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="training" head="training"/>
+		</item>
+		<item original="good eyes ." slot="3" text="good " head="good">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eyes" head="eyes"/>
+		</item>
+		<item original="healthy ." slot="4" text="healthy " head="healthy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="healthy" head="healthy"/>
+		</item>
+		<item original="lots of coffee ." slot="5" text="lots of" head="lots">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lots" head="lots"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="a walkie talkie ." slot="6" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talkie" head="talkie"/>
+		</item>
+		<item original="no sleep ." slot="7" text="no " head="no">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sleep" head="sleep"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="a police check ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police" head="police"/>
+			<ptcp text="check" head="check"/>
+		</item>
+		<item original="training ." slot="2" text="training " head="training">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="training" head="training"/>
+		</item>
+		<item original="good eyes ." slot="3" text="good " head="good">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eyes" head="eyes"/>
+		</item>
+		<item original="healthy ." slot="4" text="healthy " head="healthy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="healthy" head="healthy"/>
+		</item>
+		<item original="lots of coffee ." slot="5" text="lots of" head="lots">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lots" head="lots"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="a walkie talkie ." slot="6" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talkie" head="talkie"/>
+		</item>
+		<item original="no sleep ." slot="7" text="no " head="no">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sleep" head="sleep"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="a police check ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police" head="police"/>
+			<ptcp text="check" head="check"/>
+		</item>
+		<item original="training ." slot="2" text="training " head="training">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="training" head="training"/>
+		</item>
+		<item original="good eyes ." slot="3" text="good " head="good">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eyes" head="eyes"/>
+		</item>
+		<item original="healthy ." slot="4" text="healthy " head="healthy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="healthy" head="healthy"/>
+		</item>
+		<item original="lots of coffee ." slot="5" text="lots of" head="lots">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lots" head="lots"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="a walkie talkie ." slot="6" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talkie" head="talkie"/>
+		</item>
+		<item original="no sleep ." slot="7" text="no " head="no">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sleep" head="sleep"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="a police check ." slot="1" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police" head="police"/>
+			<ptcp text="check" head="check"/>
+		</item>
+		<item original="training ." slot="2" text="training " head="training">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="training" head="training"/>
+		</item>
+		<item original="good eyes ." slot="3" text="good " head="good">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eyes" head="eyes"/>
+		</item>
+		<item original="healthy ." slot="4" text="healthy " head="healthy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="healthy" head="healthy"/>
+		</item>
+		<item original="lots of coffee ." slot="5" text="lots of" head="lots">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lots" head="lots"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="a walkie talkie ." slot="6" text="a " head="a">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talkie" head="talkie"/>
+		</item>
+		<item original="no sleep ." slot="7" text="no " head="no">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sleep" head="sleep"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="dress in uniform ." slot="1" text="dress in" head="dress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="uniform" head="uniform"/>
+		</item>
+		<item original="patrol the area ." slot="2" text="patrol" head="patrol">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="call in any suspicious activity ." slot="3" text="call in" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+	</script>
+</scripts>

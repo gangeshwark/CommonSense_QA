@@ -1,0 +1,1483 @@
+<scripts>
+	<script id="1">
+		<item original="get food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put in microwave ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set timer according to food type ." slot="3" text="set according to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+			<ptcp text="food type" head="type"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="wait for timer ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="remove food ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="place food in microwave ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close door ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="set timer for appropriate setting for food ." slot="3" text="set for for" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+			<ptcp text="setting" head="setting"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="wait for timer ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="remove food ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="put food in the microwave ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close the door ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="set the timer ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="set the power level ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power level" head="level"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="push start ." slot="5" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="when done open the door ." slot="6" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="take food out of microwave ." slot="7" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="keep food in microwavable utensil ." slot="1" text="keep in" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="utensil" head="utensil"/>
+		</item>
+		<item original="press button to open microwave ." slot="2" text="press to" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="keep the utensil in microwave ." slot="3" text="keep in" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="utensil" head="utensil"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close the microwave ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set the timer ." slot="5" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="press the start button and wait ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="after the beep open microwave ." slot="7" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="beep" head="beep"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="put food in the microwave ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set time ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="push start ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="put food into the microwave ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="turn on the microwave ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="wait until it s finished heating ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heating" head="heating"/>
+		</item>
+		<item original="take out the food ." slot="4" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="locate food to heat ." slot="1" text="locate to" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="place food in microwavable safe ware ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="ware" head="ware"/>
+		</item>
+		<item original="place food in microwave ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="turn microwave on ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="remove food from microwave ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="find food ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="find microwave ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="open microwave door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="put food in microwave ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close microwave door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="enter cooking time on microwave keypad ." slot="6" text="enter on" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="microwave keypad" head="keypad"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="press start button ." slot="7" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="take food ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="walk to the microwave ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="open microwave door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="put food in ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close microwave door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set desired time on the microwave ." slot="6" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="press start on the microwave ." slot="7" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="place food in microwave ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set time on microwave ." slot="2" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="start microwave ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="open microwave ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="put food on a microwave safe plate ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="a microwave safe plate" head="plate"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="select power level and time ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power level and time" head="level"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="turn on oven ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="put food in microwave ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set power level ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power level" head="level"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="set timer ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="turn on microwave ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="put the food in a microwave safe container ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="a microwave safe container" head="container"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="open the microwave door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="put the food in the microwave ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close the microwave door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set the timer for the appropriate time ." slot="5" text="set for" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="get food out when timer goes off ." slot="6" text="goes out off" head="goes">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="open the door of the microwave ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="put the food into the microwave ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close the door of the microwave ." slot="3" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set up the time for heating ." slot="4" text="set up for" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="heating" head="heating"/>
+		</item>
+		<item original="press the 'start' button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="take out the food when time is up ." slot="6" text="take out up" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="put food in microwave safe container ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave safe container" head="container"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="select power level and time ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power level and time" head="level"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="turn on microwave ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="wait ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="remove food ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="place food in microwave safe container ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave safe container" head="container"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="open microwave door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="put container inside microwave ." slot="3" text="put inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close microwave door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="select time and turn on microwave ." slot="5" text="select on" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="wait to finish ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="remove food from microwave ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="put food in microwaveable dish ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put dish in microwave ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="select power level and time ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power level and time" head="level"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="wait for food to heat up ." slot="5" text="wait up for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove dish from microwave ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="place food in microwave-safe container ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place container inside microwave oven ." slot="2" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="microwave oven" head="oven"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="select time and power level ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time and power level" head="level"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="wait for food to heat up ." slot="5" text="wait up for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove container from oven ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="put food on a microwaveable dish ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put in to microwave ." slot="2" text="put in to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set timer ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="set power ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="wait for timer to finish ." slot="6" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="remove hot food carefully ." slot="7" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="find food to heat ." slot="1" text="find to" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="remove protective cover from food ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="place food in microwave ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="press buttons on the microwave to heat the food ." slot="4" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="buttons" head="buttons"/>
+			<ptcp text="microwave" head="microwave"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="place food to be heated on a mcorwave saft plate ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="open door to microwave ." slot="2" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="place plate with food into microwave ." slot="3" text="place with into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plate" head="plate"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set the timer on the microwave ." slot="4" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="when microwave buzzes remove food ." slot="6" text="buzzes" head="buzzes">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="locate microwave ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="locate food ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="place food in microwave ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="turn on microwave ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="unwrap food ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put food on plate ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="put plate in microwave ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plate" head="plate"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set time ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="start microwave ." slot="5" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="wait for microwarve to finish ." slot="6" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwarve" head="microwarve"/>
+		</item>
+		<item original="take plate out of microwave ." slot="7" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plate" head="plate"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="place food in microwave-safe container ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="open microwave door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="place container with food in microwave ." slot="3" text="place with in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="shut microwave door ." slot="4" text="shut" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set time on microwave ." slot="5" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="start microwave ." slot="6" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="get food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="open food ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="replace cover loosely on food ." slot="3" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="enter cooking time ." slot="4" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="start microwave ." slot="5" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="when microwave beeps remove food ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave beeps" head="beeps"/>
+			<ptcp text="microwave" head="microwave"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="serve food ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="put food in microwave dish ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave dish" head="dish"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="cover dish ." slot="2" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put in microwave ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set timer ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="push start ." slot="5" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="put the food inside the microwave ." slot="1" text="put inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set the timer ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="close the microwave ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="push start ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="open the microwave door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="place food inside ." slot="2" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="enter the cooking time and power level ." slot="4" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="power level" head="level"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="take plastic cover off ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="place in microwave ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="input in for designated time ." slot="3" text="designated in for" head="designated">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="designated time" head="time"/>
+		</item>
+		<item original="let cool ." slot="4" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cool" head="cool"/>
+		</item>
+		<item original="enjoy ." slot="5" text="enjoy" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="open microwave door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="place food inside microwave ." slot="2" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close microwave door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set the time of how long food needs to be heated ." slot="4" text="set of" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="when time is up open microwave door ." slot="6" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="take out food and eat ." slot="7" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="open microwave door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="place food inside ." slot="2" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="place the food in microwave ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="turn on microwave oven for two minutes ." slot="2" text="turn on for" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave oven" head="oven"/>
+			<ptcp text="microwave" head="microwave"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="stir food ." slot="3" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="check temperature ." slot="4" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="repeat till desired temperature is acheived ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired temperature" head="temperature"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="put food in microwave safe dish ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave safe dish" head="dish"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="place dish in microwave ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="turn microwave on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="take food out of wrapper ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="put food in microwave ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="select heating level for microwave ." slot="3" text="select for" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heating level" head="level"/>
+			<ptcp text="heating" head="heating"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="select time ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="press start button on microwave ." slot="5" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="wait ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take food out of microwave ." slot="7" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="open microave ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microave" head="microave"/>
+		</item>
+		<item original="place food in microwave ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close microwave ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set cooking temperature ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="set cooking time ." slot="5" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="press  cook ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cook" head="cook"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="put food in microwave ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set timer ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="wait for food to cook ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="get food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put food in microwave ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="turn on microwave ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="switch on the microwave ." slot="1" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="open the door panel of the microwave ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="panel" head="panel"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="put the food inside the microwave ." slot="3" text="put inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close the door panel ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="panel" head="panel"/>
+		</item>
+		<item original="set the setting for heating food ." slot="5" text="set for" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="setting" head="setting"/>
+			<ptcp text="heating food" head="food"/>
+			<ptcp text="heating" head="heating"/>
+		</item>
+		<item original="push the start button ." slot="6" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="put food in a microwave suitable bowl ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="a microwave suitable bowl" head="bowl"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="place bowl with food in microwave ." slot="2" text="place with in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="choose the temperature needed ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="choose the time required ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="wait until the time is over ." slot="6" text="wait over" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="take food out of microwave ." slot="7" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="put food on a plate ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="cover plate ." slot="2" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="open microwave door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set the timer ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="close the door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="press the start button ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="open microwave door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="place food inside microwave ." slot="2" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="set timer ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="push start button ." slot="5" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="enter food in microwave ." slot="1" text="enter in" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="select desired length and temperature ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired length" head="length"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="press 'start' ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="remove when beeping ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="put food into microwave ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close the door ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="set the timer ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="remove food when time is up ." slot="5" text="remove up" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="open microwave ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="place food in microwave ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="select time ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="start ." slot="5" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="put food in microwave ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="press timer ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="place food on a microwave-safe container ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place food into the microwave ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set time and power on the microwave ." slot="3" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="wait ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="place food in microwave ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="select time ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="remove food ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="place food in microwave ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="press button to set time ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="put food into microwave ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close door ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="set timer ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="press start button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="wait for microwave to stop ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="open door and remove food ." slot="6" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="open microwave door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="place food in mircrowave ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="mircrowave" head="mircrowave"/>
+		</item>
+		<item original="set timer to specific time ." slot="3" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="take the food ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="keep it in microwave ." slot="2" text="keep in" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="turn on the microwave ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="put food in container ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put in microwave ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="select time ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="when finish remove ." slot="5" text="finish" head="finish">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remove" head="remove"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="put food on plate ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="wrap in paper towel ." slot="2" text="wrap in" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="input time ." slot="3" text="input " head="input">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="wait ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="press stop and open microwave ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stop" head="stop"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="remove food ." slot="7" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="71">
+		<item original="put food on/in microwave safe container ." slot="1" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food onin microwave" head="microwave"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="onin" head="onin"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put container in microwave ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="set timer/power level as appropriate for the item being heated ." slot="3" text="set as for" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="level" head="level"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="push the start button ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="when the bell dings remove your food ." slot="5" text="dings" head="dings">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bell" head="bell"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="72">
+		<item original="open microwave door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="put food in microwave ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="enter time to cook ." slot="3" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="when time is up remove food ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close microwave door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="77">
+		<item original="get food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="open microwave door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave door" head="door"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="put food in microwave ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="punch in cooking time ." slot="5" text="punch in" head="punch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="press start ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="84">
+		<item original="put food on plate ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="put in microwave ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="close door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="press in time ." slot="4" text="press in" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="89">
+		<item original="take food ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="place in microwave ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+		<item original="start microwave ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microwave" head="microwave"/>
+		</item>
+	</script>
+	<script id="90">
+		<item original="take plastic off the package ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="put in microve ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microve" head="microve"/>
+		</item>
+		<item original="enter time as indicated in instructions on box ." slot="3" text="enter in on" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="instructions" head="instructions"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,865 @@
+<scripts>
+	<script id="1">
+		<item original="find clean bed sheets ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clean bed sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="remove old bed sheets from a bed ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="old bed sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="put new bed sheets on the bed ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new bed sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="smooth sheets on bed ." slot="1" text="smooth on" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="smooth blanket on top of sheets on bed ." slot="2" text="smooth on of on" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blanket" head="blanket"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="place quilt on bed ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="smooth quilt ." slot="4" text="smooth" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quilt" head="quilt"/>
+		</item>
+		<item original="place pillows at headboard ." slot="5" text="place at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="headboard" head="headboard"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="find the bed ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="find sheets for the bed ." slot="2" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="remove the old sheets from the bed ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="place the new sheets onto the bed ." slot="4" text="place onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="arrange sheets ." slot="1" text="arrange" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="arrange pillows ." slot="2" text="arrange" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+		</item>
+		<item original="cover bed with cover ." slot="3" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="pull the sheet up to the head of the bed ." slot="1" text="pull up to of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+			<ptcp text="head" head="head"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="pull the covers up tot he head of the bed ." slot="2" text="pull up of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="covers" head="covers"/>
+			<ptcp text="tot" head="tot"/>
+			<ptcp text="head" head="head"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="fluff the pillows ." slot="3" text="fluff " head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="pillows" head="pillows"/>
+		</item>
+		<item original="place the pillows at the top of the bed ." slot="4" text="place at of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="flatten any remaining wrinkles in the covers ." slot="5" text="flatten in" head="flatten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="any remaining wrinkles" head="wrinkles"/>
+			<ptcp text="covers" head="covers"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="straighten the sheets ." slot="1" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="fluff the pillows ." slot="2" text="fluff " head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="pillows" head="pillows"/>
+		</item>
+		<item original="fluff the comforter ." slot="3" text="fluff " head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="comforter" head="comforter"/>
+		</item>
+		<item original="put the comforter on the bed straight ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comforter" head="comforter"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="fluff comforter ." slot="1" text="fluff " head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="comforter" head="comforter"/>
+		</item>
+		<item original="fluff pillow ." slot="2" text="fluff " head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="pillow" head="pillow"/>
+		</item>
+		<item original="straighten sheets ." slot="3" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="pull up the sheets ." slot="1" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="tuck in the sheets ." slot="2" text="tuck in" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="pull up the blankets ." slot="3" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blankets" head="blankets"/>
+		</item>
+		<item original="tuck inthe blankets ." slot="4" text="tuck" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blankets" head="blankets"/>
+		</item>
+		<item original="pull up the cover ." slot="5" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="arrange the pillows ." slot="6" text="arrange" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+		</item>
+		<item original="smooth the bed ." slot="7" text="smooth" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="identify bed ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="identify sheets ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="place sheets on bed ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="place sheet edges under mattress ." slot="4" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet edges" head="edges"/>
+			<ptcp text="sheet" head="sheet"/>
+			<ptcp text="mattress" head="mattress"/>
+		</item>
+		<item original="completely cover bed with sheets ." slot="5" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="identify pillow ." slot="6" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillow" head="pillow"/>
+		</item>
+		<item original="put pillow on bed near head ." slot="7" text="put on near" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillow" head="pillow"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="head" head="head"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="smooth bed sheet evenly over top of bed ." slot="1" text="smooth over of" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed sheet" head="sheet"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="top" head="top"/>
+		</item>
+		<item original="tuck bottom and side edges of sheet under mattress ." slot="2" text="tuck of under" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom and side edges" head="edges"/>
+			<ptcp text="bottom" head="bottom"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="sheet" head="sheet"/>
+			<ptcp text="mattress" head="mattress"/>
+		</item>
+		<item original="place pillow at head of bed ." slot="3" text="place at of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillow" head="pillow"/>
+			<ptcp text="head" head="head"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="arrange bed cover evenly over top of bed ." slot="4" text="arrange over of" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="top" head="top"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="put undersheet on the bed ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="undersheet" head="undersheet"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="put pillow-sheet around the pillow ." slot="2" text="put around" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillowsheet" head="pillowsheet"/>
+			<ptcp text="pillow" head="pillow"/>
+		</item>
+		<item original="put sheets around blanket ." slot="3" text="put around" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="blanket" head="blanket"/>
+		</item>
+		<item original="put blanket and pillow on the bed ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blanket" head="blanket"/>
+			<ptcp text="pillow" head="pillow"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="remove old sheets ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="replace matrass cover ." slot="2" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="put pillow in pillow-sheet ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillow" head="pillow"/>
+			<ptcp text="pillowsheet" head="pillowsheet"/>
+		</item>
+		<item original="put pillow on bed ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillow" head="pillow"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="put sheets on blanket ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="blanket" head="blanket"/>
+		</item>
+		<item original="put blanket on bed ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blanket" head="blanket"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="take the dirty sheets off the bed ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="put the clean sheets on the bed ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="clear the mattresses ." slot="1" text="clear" head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mattresses" head="mattresses"/>
+		</item>
+		<item original="cover the mattress ." slot="2" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mattress" head="mattress"/>
+		</item>
+		<item original="cover the pillow too ." slot="3" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillow" head="pillow"/>
+		</item>
+		<item original="put blanket on the bed ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blanket" head="blanket"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="remove all sheets from the bed ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="put the fitted sheet on the bed ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fitted sheet" head="sheet"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="put the flat sheet on the bed ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="fold it back ." slot="4" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tuck it in ." slot="5" text="tuck in" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put the quilt on the bed ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="gather clean bedding ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bedding" head="bedding"/>
+		</item>
+		<item original="remove old bedding from bed ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bedding" head="bedding"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="place old bedding in laundry ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bedding" head="bedding"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+		<item original="replace sheet ." slot="4" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+		</item>
+		<item original="replace pillow cases ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillow cases" head="cases"/>
+			<ptcp text="pillow" head="pillow"/>
+		</item>
+		<item original="replace quilts/spread ." slot="6" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quiltsspread" head="quiltsspread"/>
+		</item>
+		<item original="tuck in and you re done ." slot="7" text="tuck in" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="remove covers ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="covers" head="covers"/>
+		</item>
+		<item original="place pillow at top end of bed ." slot="2" text="place at of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillow" head="pillow"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="straighten pillow ." slot="3" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillow" head="pillow"/>
+		</item>
+		<item original="throw covers over bed ." slot="4" text="throw over" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="covers" head="covers"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="straighten covers ." slot="5" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="covers" head="covers"/>
+		</item>
+		<item original="tuck covers in at side of bed ." slot="6" text="tuck in at of" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="covers" head="covers"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="remove covers ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="covers" head="covers"/>
+		</item>
+		<item original="place pillow at top end of bed ." slot="2" text="place at of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillow" head="pillow"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="straighten pillow ." slot="3" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillow" head="pillow"/>
+		</item>
+		<item original="throw covers over bed ." slot="4" text="throw over" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="covers" head="covers"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="straighten covers ." slot="5" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="covers" head="covers"/>
+		</item>
+		<item original="tuck covers in at side of bed ." slot="6" text="tuck in at of" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="covers" head="covers"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="remove blanket ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blanket" head="blanket"/>
+		</item>
+		<item original="pull up sheets ." slot="2" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="tuck in sheets ." slot="3" text="tuck in" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="put on blanket ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blanket" head="blanket"/>
+		</item>
+		<item original="fluff pillows ." slot="5" text="fluff " head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="pillows" head="pillows"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="remove blanket ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blanket" head="blanket"/>
+		</item>
+		<item original="pull up sheets ." slot="2" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="tuck in sheets ." slot="3" text="tuck in" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="put on blanket ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blanket" head="blanket"/>
+		</item>
+		<item original="fluff pillows ." slot="5" text="fluff " head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="pillows" head="pillows"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="remove bedding ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bedding" head="bedding"/>
+		</item>
+		<item original="straighten bottom sheet ." slot="2" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+		</item>
+		<item original="spread top sheet ." slot="3" text="spread" head="spread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+		</item>
+		<item original="straighten top sheet ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+		</item>
+		<item original="spread quilt ." slot="5" text="spread" head="spread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quilt" head="quilt"/>
+		</item>
+		<item original="straighten quilt ." slot="6" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quilt" head="quilt"/>
+		</item>
+		<item original="put pillows in place ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="pull up bottom sheet ." slot="1" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+		</item>
+		<item original="tuck undermatteress ." slot="2" text="tuck" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="undermatteress" head="undermatteress"/>
+		</item>
+		<item original="pull up blankets ." slot="3" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blankets" head="blankets"/>
+		</item>
+		<item original="streighten edges ." slot="4" text="streighten" head="streighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+		</item>
+		<item original="fold over top edge ." slot="5" text="fold over" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edge" head="edge"/>
+		</item>
+		<item original="put pillows on top of bed ." slot="6" text="put on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="fluff the pillows ." slot="1" text="fluff " head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="pillows" head="pillows"/>
+		</item>
+		<item original="straighten the sheets ." slot="2" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="pull up the flat sheet ." slot="3" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+		</item>
+		<item original="fluff out the comforter ." slot="4" text="fluff out" head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comforter" head="comforter"/>
+		</item>
+		<item original="tuck in the sides ." slot="5" text="tuck in" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sides" head="sides"/>
+		</item>
+		<item original="smooth out the bed ." slot="6" text="smooth out" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="remove old sheets ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="put old sheets into laundry hamper ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+		<item original="clean ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="remove pillows and quilt from bed ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." slot="2" text="pull on in at" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="blankets" head="blankets"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="replace quilt on the bed ." slot="3" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="replace pillows on the bed neatly at the head ." slot="4" text="replace on at" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="head" head="head"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="remove pillows and quilt from bed ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." slot="2" text="pull on in at" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="blankets" head="blankets"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="replace quilt on the bed ." slot="3" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="replace pillows on the bed neatly at the head ." slot="4" text="replace on at" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="head" head="head"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="remove pillows and quilt from bed ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." slot="2" text="pull on in at" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="blankets" head="blankets"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="replace quilt on the bed ." slot="3" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="replace pillows on the bed neatly at the head ." slot="4" text="replace on at" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="head" head="head"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="remove pillows and quilt from bed ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." slot="2" text="pull on in at" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="blankets" head="blankets"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="replace quilt on the bed ." slot="3" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="replace pillows on the bed neatly at the head ." slot="4" text="replace on at" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="head" head="head"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="remove pillows and quilt from bed ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." slot="2" text="pull on in at" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="blankets" head="blankets"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="replace quilt on the bed ." slot="3" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="replace pillows on the bed neatly at the head ." slot="4" text="replace on at" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="head" head="head"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="remove pillows and quilt from bed ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="pull sheets and blankets flat on the bed and make sure they are all tucked in at the foot ." slot="2" text="pull on in at" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="blankets" head="blankets"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="replace quilt on the bed ." slot="3" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quilt" head="quilt"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="replace pillows on the bed neatly at the head ." slot="4" text="replace on at" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="head" head="head"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="remove old covers ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="covers" head="covers"/>
+		</item>
+		<item original="put into laundry ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+		<item original="dust bed ." slot="3" text="dust " head="dust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="disinfect bed ." slot="4" text="disinfect" head="disinfect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="let dry ." slot="5" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry" head="dry"/>
+		</item>
+		<item original="put on clean sheets ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+		</item>
+		<item original="tug corners in place ." slot="7" text="tug in" head="tug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tug corners" head="corners"/>
+			<ptcp text="tug" head="tug"/>
+			<ptcp text="corners" head="corners"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="make the bed ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="cover bed with bedsheet ." slot="1" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed" head="bed"/>
+			<ptcp text="bedsheet" head="bedsheet"/>
+		</item>
+		<item original="lay out blanket ." slot="2" text="lay out" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blanket" head="blanket"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="make dough ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dough" head="dough"/>
+		</item>
+		<item original="put dough in pan ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dough" head="dough"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="cook in oven ." slot="3" text="cook in" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="make dough ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dough" head="dough"/>
+		</item>
+		<item original="put dough in pan ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dough" head="dough"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="cook in oven ." slot="3" text="cook in" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="make dough ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dough" head="dough"/>
+		</item>
+		<item original="put dough in pan ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dough" head="dough"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="cook in oven ." slot="3" text="cook in" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="put sheets on bed ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="pull sheets up to top of bed ." slot="2" text="pull up to of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="put pillows on bed ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pillows" head="pillows"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+</scripts>

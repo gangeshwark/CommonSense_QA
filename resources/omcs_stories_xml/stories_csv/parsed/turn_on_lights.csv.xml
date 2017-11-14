@@ -1,0 +1,951 @@
+<scripts>
+	<script id="1">
+		<item original="find light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="go to light switch ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn switch to on position ." slot="3" text="turn to on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="look for light switch ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn on light switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="find light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn switch to on position ." slot="2" text="turn to on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="go to the light switch ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="switch on the light ." slot="2" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="go to light switch ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip switch to the on position ." slot="2" text="flip to on" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="locate light switch ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="walk to light switch ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="move light switch to on position ." slot="3" text="move to on" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="find the light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip it up or down until the light comes on ." slot="2" text="flip up on" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="locate the light switch ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="put the switch in the on position ." slot="2" text="put in on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="locate switch ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn on switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="locate the light switch ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="move the switch to the on position ." slot="2" text="move to on" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="locate the light switch ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="move over to the light switch ." slot="2" text="move over to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip the light switch into on position ." slot="3" text="flip into on" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="locate the light switch ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="go to the light switch ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn / touch the light switch ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="touch" head="touch"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="locate light switch ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="go to light switch ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip light switch ." slot="3" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="move to light switch ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="press switch to on position ." slot="2" text="press to on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="go to light switch ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="press light switch to on position ." slot="2" text="press to on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="go to the light switch ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="press the light switch ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="go to where light switch is ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="move switch to on position ." slot="2" text="move to on" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="go to light switch ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="press light switch ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="go to the light switch in the room ." slot="1" text="go to in" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="grasp the light switch lever ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the light switch lever" head="lever"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip the light switch lever to the on position ." slot="3" text="flip to on" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the light switch lever" head="lever"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="go over to the light switch ." slot="1" text="go over to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="grasp the light switch lever ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the light switch lever" head="lever"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="move the light switch lever to the on position ." slot="3" text="move to on" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the light switch lever" head="lever"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="locate the light switch or light control knob ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="light control knob" head="knob"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="operate the light switch or light control knob until the room brightens to the desired intensity ." slot="2" text="operate to" head="operate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="light control knob" head="knob"/>
+			<ptcp text="control" head="control"/>
+			<ptcp text="room" head="room"/>
+			<ptcp text="the desired intensity" head="intensity"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="locate light switch ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="activate light switch ." slot="2" text="activate" head="activate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="walk towards to the light switch ." slot="1" text="walk towards to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip the light switch to the on position ." slot="2" text="flip to on" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="walk to light switch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="toggle switch to the on position ." slot="2" text="toggle to on" head="toggle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="notice light is needed ." slot="1" text="notice" head="notice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="find switch ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="throw switch ." slot="3" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="notice whether light is on ." slot="4" text="notice on" head="notice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="find the switch of the lights ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="lights" head="lights"/>
+		</item>
+		<item original="press the switch off ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="switch the light switch to on ." slot="1" text="switch to on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="find light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip switch ." slot="2" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="decide which light to turn on ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="identify where the light switch is ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="walk to the light switch ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip the light switch ." slot="4" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="decide which light to turn on ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="identify where the light switch is ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="walk to the light switch ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip the light switch ." slot="4" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="walk to the light switch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip switch on ." slot="2" text="flip on" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="find lightswitch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lightswitch" head="lightswitch"/>
+		</item>
+		<item original="flip lightswitch ." slot="2" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lightswitch" head="lightswitch"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="go to the light switch ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="put hand on the switch ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="push the switch downwards ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the switch downwards" head="downwards"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="remove hand from switch ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="walk to light switch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip the switch ." slot="2" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="walk to light switch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip switch ." slot="2" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="flip the wall switch ." slot="1" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wall switch" head="switch"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="walk to switch ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="move switch up ." slot="2" text="move up" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="sense loss of light ." slot="1" text="sense of" head="sense">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="loss" head="loss"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="find light source ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="source" head="source"/>
+		</item>
+		<item original="find switch ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="toggle switch ." slot="4" text="toggle" head="toggle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="push the switch up ." slot="1" text="push up" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="flip light switch on ." slot="1" text="flip on" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="flip light switch on ." slot="1" text="flip on" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="go to light switch ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip switch to opposite of current position ." slot="2" text="flip to of" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="opposite" head="opposite"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="find light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip light switch up ." slot="2" text="flip up" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="walk to lightswitch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lightswitch" head="lightswitch"/>
+		</item>
+		<item original="place hand on lightswitch ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="lightswitch" head="lightswitch"/>
+		</item>
+		<item original="move switch to  on  position ." slot="3" text="move to on" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="flick light switch up ." slot="1" text="flick up" head="flick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="locate the switch connected to desired light ." slot="1" text="locate to" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="desired light" head="light"/>
+		</item>
+		<item original="turn on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="walk into room ." slot="1" text="walk into" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="turn on switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="walk into room ." slot="1" text="walk into" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="turn on switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="walk into room ." slot="1" text="walk into" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="turn on switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="walk into room ." slot="1" text="walk into" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="turn on switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="walk into room ." slot="1" text="walk into" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="turn on switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="walk into room ." slot="1" text="walk into" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="turn on switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="walk into room ." slot="1" text="walk into" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="turn on switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="walk into room ." slot="1" text="walk into" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="turn on switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="walk into room ." slot="1" text="walk into" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="turn on switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="find light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn switch to the 'on' position ." slot="2" text="turn to on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="find switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn switch to 'off' position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="find switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn switch to 'off' position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="walk to light switch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="place hand on switch ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="change location of switch to on postion ." slot="3" text="change of to on" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="postion" head="postion"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="walk to light switch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="place hand on switch ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="change location of switch to on postion ." slot="3" text="change of to on" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="postion" head="postion"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="walk to light switch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="place hand on switch ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="change location of switch to on postion ." slot="3" text="change of to on" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="postion" head="postion"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="walk to light switch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="place hand on switch ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="change location of switch to on postion ." slot="3" text="change of to on" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="postion" head="postion"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="walk to light switch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="place hand on switch ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="change location of switch to on postion ." slot="3" text="change of to on" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="postion" head="postion"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="walk to light switch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="place hand on switch ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="change location of switch to on postion ." slot="3" text="change of to on" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="postion" head="postion"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="turn on lights ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lights" head="lights"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="find the light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn switch to the 'on' postion ." slot="2" text="turn to on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="postion" head="postion"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="find the light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn switch to the 'on' postion ." slot="2" text="turn to on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="postion" head="postion"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="find the light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn switch to the 'on' postion ." slot="2" text="turn to on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="postion" head="postion"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="switch on power ." slot="1" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="70">
+		<item original="move light switch upwards ." slot="1" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="71">
+		<item original="find light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn opposite than what is ." slot="2" text="turn than" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="opposite than what is" head="opposite"/>
+		</item>
+	</script>
+	<script id="72">
+		<item original="walk to swich ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="swich" head="swich"/>
+		</item>
+		<item original="pull it ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="73">
+		<item original="find light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn or flick it ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="74">
+		<item original="find light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn or flick it ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="75">
+		<item original="find light switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn or flick it ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="76">
+		<item original="flick the light switch on ." slot="1" text="flick on" head="flick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="77">
+		<item original="flick the light switch on ." slot="1" text="flick on" head="flick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="78">
+		<item original="flick the light switch on ." slot="1" text="flick on" head="flick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="79">
+		<item original="flick the light switch on ." slot="1" text="flick on" head="flick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="80">
+		<item original="flick the light switch on ." slot="1" text="flick on" head="flick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="81">
+		<item original="flick the light switch on ." slot="1" text="flick on" head="flick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="82">
+		<item original="flick the switch up ." slot="1" text="flick up" head="flick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="83">
+		<item original="flick the switch up ." slot="1" text="flick up" head="flick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="84">
+		<item original="flick the switch up ." slot="1" text="flick up" head="flick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="85">
+		<item original="flick the switch up ." slot="1" text="flick up" head="flick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="86">
+		<item original="walk to lamp switch ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lamp switch" head="switch"/>
+			<ptcp text="lamp" head="lamp"/>
+		</item>
+		<item original="flip switch ." slot="2" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="walk away ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+</scripts>

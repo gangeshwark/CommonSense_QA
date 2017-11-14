@@ -1,0 +1,499 @@
+<scripts>
+	<script id="1">
+		<item original="place objects in box ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="tape box shut ." slot="2" text="shut" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape box" head="box"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="put item in box ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="close box ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="tape box shut ." slot="3" text="shut" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape box" head="box"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="fold box ." slot="1" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="secure box with packing tape ." slot="2" text="secure with" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="packing tape" head="tape"/>
+			<ptcp text="packing" head="packing"/>
+		</item>
+		<item original="fill box with packing foam ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="foam" head="foam"/>
+		</item>
+		<item original="place item in box ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="close lid of box ." slot="5" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="secure lid with packing tape ." slot="6" text="secure with" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="packing tape" head="tape"/>
+			<ptcp text="packing" head="packing"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="tape the bottom of the mailing box ." slot="1" text="tape of" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom" head="bottom"/>
+			<ptcp text="the mailing box" head="box"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+		<item original="fill box half way with packing material ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="way" head="way"/>
+			<ptcp text="packing material" head="material"/>
+			<ptcp text="packing" head="packing"/>
+		</item>
+		<item original="insert object to be packed ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="fill box completely with packing material ." slot="4" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="packing material" head="material"/>
+			<ptcp text="packing" head="packing"/>
+		</item>
+		<item original="seal with tape ." slot="5" text="seal with" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="tape the bottom of the mailing box ." slot="1" text="tape of" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom" head="bottom"/>
+			<ptcp text="the mailing box" head="box"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+		<item original="fill box half way with packing material ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="way" head="way"/>
+			<ptcp text="packing material" head="material"/>
+			<ptcp text="packing" head="packing"/>
+		</item>
+		<item original="insert object to be packed ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="fill box completely with packing material ." slot="4" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="packing material" head="material"/>
+			<ptcp text="packing" head="packing"/>
+		</item>
+		<item original="seal with tape ." slot="5" text="seal with" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get a mailing box ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a mailing box" head="box"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+		<item original="insert items in box ." slot="2" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get a mailing box ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a mailing box" head="box"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+		<item original="insert items in box ." slot="2" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="put stuff in mailing box ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stuff" head="stuff"/>
+			<ptcp text="mailing box" head="box"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="put stuff in mailing box ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stuff" head="stuff"/>
+			<ptcp text="mailing box" head="box"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="obtain box ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="fill box with items to mail ." slot="2" text="fill with to" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close and seal the box ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="fill in the address details ." slot="4" text="fill in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the address details" head="details"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="fill in the return address details ." slot="5" text="fill in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="return" head="return"/>
+			<ptcp text="details" head="details"/>
+		</item>
+		<item original="affix stamps ." slot="6" text="affix" head="affix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamps" head="stamps"/>
+		</item>
+		<item original="give the box to the post office ." slot="7" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="the post office" head="office"/>
+			<ptcp text="post" head="post"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="find a sturdy box of the appropriate size ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="put the object in the box ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="fill the empty spaces in the box with packing materials ." slot="3" text="fill in with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spaces" head="spaces"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="materials" head="materials"/>
+		</item>
+		<item original="tape the box shut ." slot="4" text="tape" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="address the box ." slot="5" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="place items in box ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="tape the box closed with mailing tape ." slot="2" text="closed with" head="closed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="label the box with address to send to ." slot="3" text="label with to" head="label">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="apply appropriate postage ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage" head="postage"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="put mail in mail box ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mail box" head="box"/>
+		</item>
+		<item original="keep putting mail in till fill ." slot="2" text="keep in" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="place items in box ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="place packing material ." slot="2" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="packing material" head="material"/>
+			<ptcp text="packing" head="packing"/>
+		</item>
+		<item original="seal box with tape ." slot="3" text="seal with" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pack mail ." slot="2" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pack mail ." slot="2" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pack mail ." slot="2" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pack mail ." slot="2" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pack mail ." slot="2" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pack mail ." slot="2" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="insert package ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="insert package ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="insert package ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="insert package ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="insert package ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="insert package ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="take the mailing box ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the mailing box" head="box"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+		<item original="pack the box ." slot="2" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="locate a mailing box ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a mailing box" head="box"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+		<item original="fill it up ." slot="2" text="fill up" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="find a mailing box ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a mailing box" head="box"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+		<item original="pack until full ." slot="2" text="pack until" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="full" head="full"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="find box ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="wrap items ." slot="2" text="wrap" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="put item in box ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="fill in area so items wont move ." slot="4" text="fill so in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="move" head="move"/>
+		</item>
+		<item original="tape box ." slot="5" text="tape " head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="address box ." slot="6" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="drop off at post office ." slot="7" text="drop off at" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="post office" head="office"/>
+			<ptcp text="post" head="post"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="find box ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="wrap items ." slot="2" text="wrap" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="put item in box ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="fill in area so items wont move ." slot="4" text="fill so in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="move" head="move"/>
+		</item>
+		<item original="tape box ." slot="5" text="tape " head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="address box ." slot="6" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="drop off at post office ." slot="7" text="drop off at" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="post office" head="office"/>
+			<ptcp text="post" head="post"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="find box ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="wrap items ." slot="2" text="wrap" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="put item in box ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="fill in area so items wont move ." slot="4" text="fill so in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="move" head="move"/>
+		</item>
+		<item original="tape box ." slot="5" text="tape " head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="address box ." slot="6" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="drop off at post office ." slot="7" text="drop off at" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="post office" head="office"/>
+			<ptcp text="post" head="post"/>
+		</item>
+	</script>
+</scripts>

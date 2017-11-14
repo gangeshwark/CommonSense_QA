@@ -1,0 +1,835 @@
+<scripts>
+	<script id="1">
+		<item original="move to fixture ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fixture" head="fixture"/>
+		</item>
+		<item original="remove old bulb from socket ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="place bulb in trash ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="pick up new bulb ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="place bulb in socket ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="locate a new bulb ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="remove fascade from light appliance ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fascade" head="fascade"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="remove the burnt-out bulb ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="insert the new bulb ." slot="4" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="replace fascade from light appliance ." slot="5" text="replace from" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fascade" head="fascade"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="discard burnt-out bulb ." slot="6" text="discard" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="remove old bulb ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="find new bulb ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="place new bulb in light socket ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="light socket" head="socket"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="remove old bulb ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="locate new bulb ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="screw new bulb into socket ." slot="3" text="screw into" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="turn off light if on ." slot="1" text="turn off if" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="wait for bulb to cool down ." slot="2" text="wait down for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="remove bulb ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="replace with new bulb ." slot="4" text="replace with" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="turn on light ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="unscrew the bulb ." slot="1" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="discard the bulb ." slot="2" text="discard" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="locate a replacement bulb ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a replacement bulb" head="bulb"/>
+			<ptcp text="replacement" head="replacement"/>
+		</item>
+		<item original="screw the replacement bulb into the socket ." slot="4" text="screw into" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the replacement bulb" head="bulb"/>
+			<ptcp text="replacement" head="replacement"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="turn light off ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="unscrew bulb ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="screw new bulb ." slot="3" text="screw" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="turn on light ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get new bulb ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="go to old bulb ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="turn off light ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="unscrew old bulb ." slot="4" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="screw in new bulb ." slot="5" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="turn on light ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="find bulb or right size and wattage ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="size" head="size"/>
+			<ptcp text="wattage" head="wattage"/>
+		</item>
+		<item original="turn the light off ." slot="2" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="unscrew old bulb ." slot="3" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="screw new bulb into socket ." slot="4" text="screw into" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="turn light on to test ." slot="5" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="test" head="test"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="unscrew old bulb ." slot="1" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="screw in new bulb ." slot="2" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="turn off light ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="wait for bulb to cool down ." slot="2" text="wait down for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="go to where bulb is ." slot="3" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="remove cover if any ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="remove old bulb ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="put in new bulb ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="put back cover ." slot="7" text="put back" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="remove lamp shade ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lamp shade" head="shade"/>
+			<ptcp text="lamp" head="lamp"/>
+		</item>
+		<item original="unscrew bulb from lamp ." slot="2" text="unscrew from" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="lamp" head="lamp"/>
+		</item>
+		<item original="screw in new bulb ." slot="3" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="put the lamp shade back on the lamp ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lamp shade" head="shade"/>
+			<ptcp text="lamp" head="lamp"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="get a ladder ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="get a new bulb ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="climb up on the ladder with the bulb ." slot="3" text="climb up on with" head="climb">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="remove the light fixture cover and set it down ." slot="4" text="remove down" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the light fixture cover" head="cover"/>
+			<ptcp text="fixture" head="fixture"/>
+		</item>
+		<item original="unscrew the old bulb ." slot="5" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="screw in the new bulb ." slot="6" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="replace the lgiht fixture cover ." slot="7" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lgiht fixture cover" head="cover"/>
+			<ptcp text="fixture" head="fixture"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="locate a replacement bulb of the appropriate wattage ." slot="1" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a replacement bulb" head="bulb"/>
+			<ptcp text="replacement" head="replacement"/>
+			<ptcp text="wattage" head="wattage"/>
+		</item>
+		<item original="remove the old bulb ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="insert the new bulb ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="dispose of the old bulb ." slot="4" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get a new bulb ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="get a ladder ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="place the ladder beneath the bulb to be changed ." slot="3" text="place beneath" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="climb the ladder ." slot="4" text="climb" head="climb">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="remove the faulty bulb ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="put in the new bulb ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="remove old bulb ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="locate new bulb ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="screw in new bulb ." slot="3" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="remove light cover ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="unscrew old bulb ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="screw in new bulb ." slot="3" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="replace light cover ." slot="4" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="turn off the switch ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="get a new bulb and change the old bulb ." slot="2" text="change" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="remove burned out bulb ." slot="1" text="remove out" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="discard burned out bulb ." slot="2" text="discard out" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="replace with fresh bulb ." slot="3" text="replace with" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="remove old lightbulb ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lightbulb" head="lightbulb"/>
+		</item>
+		<item original="throw old bulb away ." slot="2" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="get new bulb ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="install new bulb ." slot="4" text="install" head="install">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="remove old lightbulb ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lightbulb" head="lightbulb"/>
+		</item>
+		<item original="throw old bulb away ." slot="2" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="get new bulb ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="install new bulb ." slot="4" text="install" head="install">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="remove old lightbulb ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lightbulb" head="lightbulb"/>
+		</item>
+		<item original="throw old bulb away ." slot="2" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="get new bulb ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="install new bulb ." slot="4" text="install" head="install">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="get a stool if needed ." slot="1" text="needed" head="needed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stool" head="stool"/>
+		</item>
+		<item original="get on stool ." slot="2" text="get on" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stool" head="stool"/>
+		</item>
+		<item original="turn lightbulb to the left ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lightbulb" head="lightbulb"/>
+			<ptcp text="left" head="left"/>
+		</item>
+		<item original="remove bulb from socket ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="screw in new bulb ." slot="5" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="turn off light switch ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="unscrew old bulb ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="screw in new bulb ." slot="3" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="turn on light switch ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="throw away old bulb ." slot="5" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="reach up ." slot="1" text="reach up" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="twist old bulb to the left ." slot="2" text="twist to" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="left" head="left"/>
+		</item>
+		<item original="secure new bulb ." slot="3" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="twist new bulb to the right ." slot="4" text="twist to" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="right" head="right"/>
+		</item>
+		<item original="turn on light switch ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="remove old bulb ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="get new bulb ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="put new bulb in ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="get a new light bulb ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a new light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="unscrew old light bulb ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="old light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="throw away old light bulb ." slot="3" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="old light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="screw in new light bulb ." slot="4" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="get a new light bulb ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a new light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="unscrew old light bulb ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="old light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="throw away old light bulb ." slot="3" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="old light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="screw in new light bulb ." slot="4" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="get a light bulb ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="stand on a chair ." slot="2" text="stand on" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="unscrew the old one ." slot="3" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put in the new one ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="get a light bulb ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="stand on a chair ." slot="2" text="stand on" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="unscrew the old one ." slot="3" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put in the new one ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="locate a new light bulb and a tissue ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a new light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="tissue" head="tissue"/>
+		</item>
+		<item original="turn off the light switch ." slot="2" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="unscrew the old bulb ." slot="3" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="holding the new bulb with the tissue screw it in ." slot="4" text="holding with in" head="holding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="the tissue screw" head="screw"/>
+			<ptcp text="tissue" head="tissue"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="switch light off at wall ." slot="1" text="switch off at" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="reach up to light bulb ." slot="2" text="reach up to" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="take out old light bulb ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="old light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="get new lightbulb ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lightbulb" head="lightbulb"/>
+		</item>
+		<item original="reach up with new light bulb ." slot="5" text="reach up with" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="insert new lightbulb ." slot="6" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lightbulb" head="lightbulb"/>
+		</item>
+		<item original="switch light on at wall ." slot="7" text="switch on at" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="ensure light switch is set to off ." slot="1" text="ensure to" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="off" head="off"/>
+		</item>
+		<item original="hold light fitting ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fitting" head="fitting"/>
+		</item>
+		<item original="push light bulb and turn ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light bulb and turn" head="bulb"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="turn" head="turn"/>
+		</item>
+		<item original="lower bulb ." slot="4" text="lower" head="lower">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="fit new bulb in reverse ." slot="5" text="fit in" head="fit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="reverse" head="reverse"/>
+		</item>
+		<item original="turn on lightswitch ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lightswitch" head="lightswitch"/>
+		</item>
+		<item original="check if new bulb is working ." slot="7" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="ensure light switch is set to off ." slot="1" text="ensure to" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="off" head="off"/>
+		</item>
+		<item original="hold light fitting ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fitting" head="fitting"/>
+		</item>
+		<item original="push light bulb and turn ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light bulb and turn" head="bulb"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="turn" head="turn"/>
+		</item>
+		<item original="lower bulb ." slot="4" text="lower" head="lower">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="fit new bulb in reverse ." slot="5" text="fit in" head="fit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="reverse" head="reverse"/>
+		</item>
+		<item original="turn on lightswitch ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lightswitch" head="lightswitch"/>
+		</item>
+		<item original="check if new bulb is working ." slot="7" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="push bulb upwards and twist ." slot="1" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="twist" head="twist"/>
+		</item>
+		<item original="pull out bulb ." slot="2" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="push bulb in ." slot="3" text="push in" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="twist and let go ." slot="4" text="twist" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="turn light off ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="rotate bulb counter clockwise ." slot="2" text="rotate" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="remove old bulb ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="place new bulb lamp ." slot="4" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new bulb lamp" head="lamp"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="rotate clockwise ." slot="5" text="rotate" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="turn light on ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="change ." slot="1" text="change" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find a light bulb ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a light bulb" head="bulb"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="turn off electricity ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="electricity" head="electricity"/>
+		</item>
+		<item original="find solid ladder ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="find new bulb ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="climb ladder with new bulb ." slot="4" text="climb with" head="climb">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="unscrew old bulb ." slot="5" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="screw in new bulb ." slot="6" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="discard of old bulb ." slot="7" text="discard of" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="remove old bulb ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+		<item original="screw in new bulb ." slot="2" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bulb" head="bulb"/>
+		</item>
+	</script>
+</scripts>

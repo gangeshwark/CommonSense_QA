@@ -1,0 +1,609 @@
+<scripts>
+	<script id="1">
+		<item original="go to the garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="open up the door ." slot="2" text="open up" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="take the out the ladder ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="lean it against the wall ." slot="4" text="lean against" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="look for a ladder ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="move to the ladder s location ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="pick up the ladder ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="return to your original location ." slot="4" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="go to where ladder is located ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carefully carry ladder to where it was requested ." slot="3" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="locate ladder ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="walk to ladder ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up ladder ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="walk with ladder to desired location ." slot="4" text="walk with to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="desired location" head="location"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="locate ladder ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="go to ladder ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up ladder ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring ladder to person ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="find the ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up the ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring the ladder to wherever you re going to use it ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="find the ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up the ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring the ladder to wherever you re going to use it ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="find the ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up the ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring the ladder to wherever you re going to use it ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="find the ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up the ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring the ladder to wherever you re going to use it ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="find the ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up the ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring the ladder to wherever you re going to use it ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="find the ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up the ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring the ladder to wherever you re going to use it ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="know location of ladder ." slot="1" text="know of" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry to desired location ." slot="3" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired location" head="location"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="know location of ladder ." slot="1" text="know of" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry to desired location ." slot="3" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired location" head="location"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="know location of ladder ." slot="1" text="know of" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry to desired location ." slot="3" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired location" head="location"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="go to garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="open garage door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="locate ladder ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="remove ladder from hooks ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="exit garage with ladder ." slot="5" text="exit with" head="exit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="close garage door ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="bring ladder to where it is needed ." slot="7" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="go to garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="open garage door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="locate ladder ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="remove ladder from hooks ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="exit garage with ladder ." slot="5" text="exit with" head="exit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="close garage door ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="bring ladder to where it is needed ." slot="7" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="go to where the ladder is stored ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="get the ladder ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="go to the garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="pcik up the ladder ." slot="2" text="pcik up" head="pcik">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring it back ." slot="3" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="find lader ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lader" head="lader"/>
+		</item>
+		<item original="pick up lader ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lader" head="lader"/>
+		</item>
+		<item original="take ladder to where required ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="go to the backyard ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="backyard" head="backyard"/>
+		</item>
+		<item original="open the shed ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+		</item>
+		<item original="grab the ladder off the hook ." slot="3" text="grab off" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="hook" head="hook"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="find location of ladder ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring ladder to desired location ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="desired location" head="location"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="find ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder ." slot="3" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="find ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="find ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="find ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="find ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="find ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="find ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="decide range of height ." slot="1" text="decide of" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="range" head="range"/>
+			<ptcp text="height" head="height"/>
+		</item>
+		<item original="get right size ladder ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="right size ladder" head="ladder"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="place ladder firmly ." slot="3" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="have someone around to help ." slot="4" text="to around" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="carry ladder to destination ." slot="5" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="be careful ." slot="6" text="be " head="be">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="careful" head="careful"/>
+		</item>
+		<item original="work together ." slot="7" text="work" head="work">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="go to garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="open garage door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="grab ladder off rack ." slot="3" text="grab off" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="rack" head="rack"/>
+		</item>
+		<item original="bring to necessary location ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="go to garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="open garage door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="grab ladder off rack ." slot="3" text="grab off" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="rack" head="rack"/>
+		</item>
+		<item original="bring to necessary location ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="go to garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="open garage door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="grab ladder off rack ." slot="3" text="grab off" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="rack" head="rack"/>
+		</item>
+		<item original="bring to necessary location ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="find a ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up the ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="put down the ladder where needed ." slot="3" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="go to neighbours house ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="neighbours house" head="house"/>
+			<ptcp text="neighbours" head="neighbours"/>
+		</item>
+		<item original="ask if i could borrow his ladder ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="take ladder home ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder home" head="home"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="setup ladder ." slot="4" text="setup " head="setup">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="setup" head="setup"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="go to neighbours house ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="neighbours house" head="house"/>
+			<ptcp text="neighbours" head="neighbours"/>
+		</item>
+		<item original="ask if i could borrow his ladder ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="take ladder home ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder home" head="home"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="setup ladder ." slot="4" text="setup " head="setup">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="setup" head="setup"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="go to garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="get ladder ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring ladder back into house ." slot="3" text="bring into" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="go to garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="get ladder ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring ladder back into house ." slot="3" text="bring into" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="look for ladder ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder ." slot="3" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="get ladder ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="place ladder against wall ." slot="2" text="place against" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+</scripts>

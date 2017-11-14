@@ -1,0 +1,1083 @@
+<scripts>
+	<script id="1">
+		<item original="locate building exit ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="building exit" head="exit"/>
+			<ptcp text="building" head="building"/>
+		</item>
+		<item original="walk to the exit ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="open the door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="close the door behind you ." slot="5" text="close behind" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="put on the socks ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socks" head="socks"/>
+		</item>
+		<item original="put on the shoes ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="bring the keys ." slot="3" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="keys" head="keys"/>
+		</item>
+		<item original="open the door ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="lock the door ." slot="5" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="start walking ." slot="6" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="move to the exterior door ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk through the doorway ." slot="3" text="walk through" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doorway" head="doorway"/>
+		</item>
+		<item original="close the door behind you ." slot="4" text="close behind" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="go to exit door ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="exit house ." slot="3" text="exit" head="exit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="walk to door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="exit the house ." slot="3" text="exit" head="exit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="close door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="walk to the exit ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="put on shoes ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="unlock door ." slot="2" text="unlock" head="unlock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk out ." slot="4" text="walk out" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="lock door ." slot="6" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="put on shoes ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="go to door ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="go to the front door of the house ." slot="1" text="go to of" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk through the door ." slot="3" text="walk through" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="go to a window inside the house ." slot="1" text="go to inside" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="open the window ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="climb through the opening of the window ." slot="3" text="climb through of" head="climb">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="opening" head="opening"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="put shoes on ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="locate door ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go out door ." slot="2" text="go out" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="open external door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pass through door ." slot="2" text="pass through" head="pass">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="close external door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="dress in appropriate clothing for the weather ." slot="1" text="dress in for" head="dress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+		<item original="open door to the outside ." slot="2" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="step across door sill ." slot="3" text="step across" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door sill" head="sill"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="locate front door ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open front door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside door ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="pick up things ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+		</item>
+		<item original="walk to outside door ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open outside door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="step through outside door ." slot="4" text="step through" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="close outside door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="walk to door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pass through doorway ." slot="3" text="pass through" head="pass">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doorway" head="doorway"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="put on shoes ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="put on jacket or coat ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jacket" head="jacket"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+		<item original="open door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk through door ." slot="4" text="walk through" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="walk to door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="find exit to enclosure ." slot="1" text="find to" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+			<ptcp text="enclosure" head="enclosure"/>
+		</item>
+		<item original="go through exit ." slot="2" text="go through" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="exit" head="exit"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="walk to door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="walk to door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go through doorway ." slot="3" text="go through" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doorway" head="doorway"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put on shoes ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="check weather ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weather" head="weather"/>
+		</item>
+		<item original="put on jacket ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jacket" head="jacket"/>
+		</item>
+		<item original="move to doorway ." slot="5" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doorway" head="doorway"/>
+		</item>
+		<item original="turn door handle ." slot="6" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door handle" head="handle"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door and walk outside ." slot="7" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="walk to the door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="close the door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="go to door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="put hand on door knob ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="door knob" head="knob"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn the door knob to  he right ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the door knob" head="knob"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pull on the door ." slot="4" text="pull on" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk through threshold ." slot="5" text="walk through" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="threshold" head="threshold"/>
+		</item>
+		<item original="pull door closed behind you ." slot="6" text="pull behind" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="walk to the door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn handleon the door ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handleon" head="handleon"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pull the door open ." slot="3" text="pull open" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk through the door ." slot="4" text="walk through" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pull the door shut ." slot="5" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk away from door ." slot="6" text="walk from" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="walk to the door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn handleon the door ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handleon" head="handleon"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pull the door open ." slot="3" text="pull open" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk through the door ." slot="4" text="walk through" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pull the door shut ." slot="5" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk away from door ." slot="6" text="walk from" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="exit the house ." slot="2" text="exit" head="exit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="exit the house ." slot="2" text="exit" head="exit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="select the place to go outside ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="select the transport ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="transport" head="transport"/>
+		</item>
+		<item original="go to the place ." slot="3" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="proceed to outside door ." slot="1" text="proceed to" head="proceed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="unlock and open door ." slot="2" text="unlock" head="unlock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="shut door ." slot="4" text="shut" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="put on coat ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+		<item original="ensure you have your keys ." slot="2" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="keys" head="keys"/>
+		</item>
+		<item original="open the door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="step out ." slot="4" text="step out" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="lock the door ." slot="6" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk ." slot="7" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="step outside ." slot="2" text="step" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="close the door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="put on shoes ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="put on coat ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+		<item original="unlock door ." slot="3" text="unlock" head="unlock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="5" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="put outdoor clothing on and put on shoes ." slot="1" text="put on on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="open doors ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doors" head="doors"/>
+		</item>
+		<item original="walk outside ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk outside ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="walk ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk around ." slot="5" text="walk around" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk inside ." slot="6" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="sit down on couch ." slot="7" text="sit down on" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="couch" head="couch"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="walk to door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn door knob ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door knob" head="knob"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="step outside ." slot="4" text="step" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="walk to door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn door knob ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door knob" head="knob"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="step outside ." slot="4" text="step" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="walk to door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="step through door ." slot="3" text="step through" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk forward ." slot="5" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="put on appropriate footwear ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="footwear" head="footwear"/>
+		</item>
+		<item original="put on jacket or sweater if outdoor temperature is cool ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jacket" head="jacket"/>
+			<ptcp text="sweater" head="sweater"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="open door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="step outside ." slot="4" text="step" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="close door behind you ." slot="5" text="close behind" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="put on appropriate footwear ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="footwear" head="footwear"/>
+		</item>
+		<item original="put on jacket or sweater if outdoor temperature is cool ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jacket" head="jacket"/>
+			<ptcp text="sweater" head="sweater"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="open door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="step outside ." slot="4" text="step" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="close door behind you ." slot="5" text="close behind" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="put on appropriate footwear ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="footwear" head="footwear"/>
+		</item>
+		<item original="put on jacket or sweater if outdoor temperature is cool ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jacket" head="jacket"/>
+			<ptcp text="sweater" head="sweater"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="open door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="step outside ." slot="4" text="step" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="close door behind you ." slot="5" text="close behind" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk down stairs ." slot="2" text="walk down" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stairs" head="stairs"/>
+		</item>
+		<item original="put on shoes ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="open door ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="5" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk down stairs ." slot="2" text="walk down" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stairs" head="stairs"/>
+		</item>
+		<item original="put on shoes ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="open door ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="5" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="put on shoes ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="put on shoes ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="put on shoes ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the front door ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="put on shoes ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="open door ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="5" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the front door ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="put on shoes ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="open door ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="5" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the front door ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="put on shoes ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="open door ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="5" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="put on shoes ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk outside ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="step outside ." slot="2" text="step" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+		<item original="close the door behind you ." slot="3" text="close behind" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+</scripts>

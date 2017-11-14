@@ -1,0 +1,1764 @@
+<scripts>
+	<script id="1">
+		<item original="go to the refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the refrigerator ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take food from refrigerator ." slot="3" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door of refrigerator ." slot="4" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="identify shelf food is on ." slot="3" text="identify on" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shelf food" head="food"/>
+			<ptcp text="shelf" head="shelf"/>
+		</item>
+		<item original="pick food up ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open refrigerator door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="get food ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close refrigerator door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="walk to the kitchen ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="walk to the refrigerator ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the refrigerator door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="pull out some food ." slot="4" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the refrigerator door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="walk to the table ." slot="6" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="going to the refrigerator ." slot="1" text="going going to" head="going">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="opening the door ." slot="2" text="opening" head="opening">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="having a look at what is inside ." slot="3" text="having at" head="having">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="look" head="look"/>
+		</item>
+		<item original="choosing something ." slot="4" text="choosing" head="choosing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="something" head="something"/>
+		</item>
+		<item original="picking it up ." slot="5" text="picking up" head="picking">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="shutting the door ." slot="6" text="shutting" head="shutting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="open the refrigerator door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take the food ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="move to refrigerator ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="retrieve item from shelf or drawer ." slot="3" text="retrieve from" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="shelf" head="shelf"/>
+			<ptcp text="drawer" head="drawer"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="find refrigerator ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open refrigerator ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="look for food in refigerator ." slot="3" text="look for in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refigerator" head="refigerator"/>
+		</item>
+		<item original="pick up food ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close refrigerator ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="find refrigerator ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open refrigerator door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="find food in refrigerator ." slot="3" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take food out of refrigerator ." slot="4" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close refrigerator door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="walk to the refrigerator ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open refrigerator door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="pick up food ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close refrigerator door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="return with food ." slot="5" text="return with" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="open the refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take food out ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the refrigerator ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take food to person ." slot="4" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="open the refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="locate the desired food within the refrigerator ." slot="2" text="locate within" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the desired food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="remove the food from the refrigerator ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close the refrigerator ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="remove food ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the refrigerator door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="find the food ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pick up the food ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the refrigerator door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="open the refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="locate the desired foot item within the refrigerator ." slot="2" text="locate within" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the desired foot item" head="item"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="remove the food from the refrigerator ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close the refrigerator ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="open refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take out food ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="locate food ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food from refrigerator ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="open refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take food out of refrigerator ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close refrigerator ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="grab food ." slot="3" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="get back ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="remove food from refrigerator ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="bring food ." slot="5" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="select food ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food from refrigerator ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close refrigerator ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="select food ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food from refrigerator ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close refrigerator ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="locate the refrigerator ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the refrigerator door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="locate the food ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take out the food ." slot="4" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the refrigerator door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="remove food from refrigerator ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="bring food to table ." slot="5" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="remove food ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="bring back food ." slot="5" text="bring back" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="walk to the refrigerator ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the refrigerator ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take food out of the refrigerator ." slot="3" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close the refrigerator ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="take out food from refrigerator ." slot="3" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="bring food back ." slot="5" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="walking to the refrigerator ." slot="1" text="walking walking to" head="walking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="opening the refrigerator door ." slot="2" text="opening" head="opening">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="picking up the food in the refrigerator ." slot="3" text="picking up in" head="picking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="removing the food from the refrigerator ." slot="4" text="removing from" head="removing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="open the refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="select food to get ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="grab the food to get ." slot="3" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="retrieve it from the refrigerator ." slot="4" text="retrieve from" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close the refrigerator ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open refrigerator ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take food out of refrigerator ." slot="3" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close refrigerator ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="bring food back ." slot="5" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="go to the refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="decide what food you want from the refrigerator ." slot="2" text="decide from" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the refrigerator door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take out the food you want from the refrigerator ." slot="4" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="carry the food to where you want to eat it ." slot="5" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="determine desired food ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired food" head="food"/>
+		</item>
+		<item original="locate refrigerator ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="relocate to refrigerator ." slot="3" text="relocate to" head="relocate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="retrieve desired food from the refrigerator ." slot="4" text="retrieve from" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="return to where the food is desired ." slot="5" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="go to the refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pick food ." slot="3" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="return to the point of origin ." slot="5" text="return to of" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="point" head="point"/>
+			<ptcp text="origin" head="origin"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="go to refridgerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refridgerator" head="refridgerator"/>
+		</item>
+		<item original="open refridgerator door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="locate food ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take food ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close refridgerator door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="go to room with refrigerator ." slot="1" text="go to with" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open refrigerator door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="retrieve food from refrigerator ." slot="3" text="retrieve from" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close refrigerator door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="open refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="remove food ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close refrigerator ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="look for the fridge ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="hold the handle of the fridge ." slot="2" text="hold of" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="open the door of the fridge ." slot="3" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="look around the fridge ." slot="4" text="look around" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="find the food you want to get ." slot="5" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pick up the food ." slot="6" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the fridge ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="go to the refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="take the food out ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="open the refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="retrieve the desired food ." slot="2" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the desired food" head="food"/>
+		</item>
+		<item original="close the refrigerator door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="open refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="grasp food ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove from refrigerator ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="walk to the refrigerator ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="look at the food inside ." slot="3" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="select a food item ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a food item" head="item"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pick up the item ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="remove the item ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="close the door ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="go to the refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="find the food in the refrigerator ." slot="3" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="open door to refrigerator ." slot="1" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="choose items ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="place items outside refrigerator ." slot="3" text="place outside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door to refrigerator ." slot="4" text="close to" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="walk to refrigerator ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open refrigerator door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="find desired food item ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired food item" head="item"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take food item from refrigerator ." slot="4" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food item" head="item"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close refrigerator door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="look fopr food ." slot="2" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="look for food ." slot="2" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take food out ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="open refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take food out ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close refrigerator dorr ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator dorr" head="dorr"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="open refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take food out ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close refrigerator dorr ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator dorr" head="dorr"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="go to the refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the refrigerator door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="look inside ." slot="3" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take the food from the refrigerator ." slot="4" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close the refrigerator door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="go to the refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the refrigerator door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="look inside ." slot="3" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take the food from the refrigerator ." slot="4" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close the refrigerator door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="open the refrigerator door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take out the food out of the refrigerator ." slot="2" text="take out out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close the refrigerator door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk to kitchen ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="open refrigerator ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="grab food ." slot="4" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="shut door ." slot="5" text="shut" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk to kitchen ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="open refrigerator ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="grab food ." slot="4" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="shut door ." slot="5" text="shut" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="go into kitchen ." slot="1" text="go into" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="stand in front of fridge ." slot="2" text="stand in of" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="open fridge door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="look inside fridge ." slot="4" text="look inside" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="choose desired food item ." slot="5" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired food item" head="item"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food item from fridge ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food item" head="item"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="close fridge door ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door of refrigerator ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="look into refrigerator ." slot="3" text="look into" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="choose food ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pick up food ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food from refrigerator ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door of refrigerator ." slot="7" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door of refrigerator ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="look into refrigerator ." slot="3" text="look into" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="choose food ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pick up food ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food from refrigerator ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door of refrigerator ." slot="7" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door of refrigerator ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="look into refrigerator ." slot="3" text="look into" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="choose food ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pick up food ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food from refrigerator ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door of refrigerator ." slot="7" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door of refrigerator ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="look into refrigerator ." slot="3" text="look into" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="choose food ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pick up food ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food from refrigerator ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door of refrigerator ." slot="7" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door of refrigerator ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="look into refrigerator ." slot="3" text="look into" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="choose food ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pick up food ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food from refrigerator ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door of refrigerator ." slot="7" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open door of refrigerator ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="look into refrigerator ." slot="3" text="look into" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="choose food ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pick up food ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food from refrigerator ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close door of refrigerator ." slot="7" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="open refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="get food ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close refrigerator ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="open the refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take food from the refrigerator ." slot="2" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="put the food on the table ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="close the refrigerator ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="goto fridge ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="get food ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="find refrigerator ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="go to refrigerator ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open refrigerator door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="locate food in refrigerator ." slot="4" text="locate in" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take food from refrigerator ." slot="5" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close refrigerator door ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="return to original location ." slot="7" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="go to the refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open the refrigerator ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take out the food ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the refrigerator ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="open the freezer s or fridge s door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the freezer s or fridge s door" head="door"/>
+			<ptcp text="freezer" head="freezer"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="find the wanted food item inside ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wanted food item" head="item"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove the item from the compartment ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="close the respective door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="open refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="remove needed food ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="needed food" head="food"/>
+		</item>
+		<item original="close refrigerator door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="set food on counter ." slot="4" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="counter" head="counter"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="open fridge s door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge s door" head="door"/>
+			<ptcp text="fridge" head="fridge"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="find the food you want ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take the food out ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="goto fridge ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="get food ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="70">
+		<item original="goto refrigerator ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open refrigerator ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="look inside refrigerator ." slot="3" text="look inside" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="get specific food items ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="specific food items" head="items"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close refrigerator ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="71">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get food from fridge ." slot="2" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="72">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get food from fridge ." slot="2" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="73">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get food from fridge ." slot="2" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="74">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get food from fridge ." slot="2" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="75">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get food from fridge ." slot="2" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="76">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get food from fridge ." slot="2" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="77">
+		<item original="walk toward kitchen ." slot="1" text="walk toward" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="walk toward refrigerator ." slot="2" text="walk toward" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open refrigerator door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="get desired food ." slot="4" text="desired" head="desired">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired food" head="food"/>
+		</item>
+		<item original="done ." slot="5" text="done " head="done">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="78">
+		<item original="open refrigerator door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="find food you want ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove from refrigerator ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="close refrigerator door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator door" head="door"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="79">
+		<item original="open refridgerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refridgerator" head="refridgerator"/>
+		</item>
+		<item original="remove desired items ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired items" head="items"/>
+		</item>
+		<item original="close door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="80">
+		<item original="open refridgerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refridgerator" head="refridgerator"/>
+		</item>
+		<item original="remove desired items ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired items" head="items"/>
+		</item>
+		<item original="close door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="81">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="find food needed ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="82">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="find food needed ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="83">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="find food needed ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="remove food ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="84">
+		<item original="go to fridge ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="85">
+		<item original="open fridge door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="grab the food you want ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="86">
+		<item original="open fridge door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="grab the food you want ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="87">
+		<item original="open fridge door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="grab the food you want ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+</scripts>

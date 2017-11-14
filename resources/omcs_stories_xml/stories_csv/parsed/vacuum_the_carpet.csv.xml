@@ -1,0 +1,1133 @@
+<scripts>
+	<script id="1">
+		<item original="find a vacuum ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug vacuum into an electrical outlet ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="turn on vacuum ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="move vacuum across the carpet ." slot="4" text="move across" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find vacuum ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="take vacuum to carpet ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn vacuum on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="run vacuum over carpet ." slot="4" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="find the vacuum ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="place the vacuum on the carpet ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="plug the vacuum into the electric socket ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="turn the vacuum on ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="run the vacuum over the carpet ." slot="5" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn the vacuum off ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="put the vacuum away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="locate vacuum ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="pick up vacuum ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="place vacuum on carpet ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="plug in vacuum ." slot="4" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn on vacuum ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="run vacuum over floor ." slot="6" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="turn off vacuum ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="get vacuum ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="move any furniture out of the way ." slot="2" text="move out of" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="way" head="way"/>
+		</item>
+		<item original="turn on vacuum ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="start moving the vacuum back and forth ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn off vacuum ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="find the vacuum ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug the vacuum into the wall ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="turn the vacuum on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="push the vacuum over the carpet ." slot="4" text="push over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn off the vacuum ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="unplug the vacuum ." slot="6" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="replace the vacuum ." slot="7" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="turn on the vacuum cleaner ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="move the vacuum cleaner back and forth on the carpet ." slot="2" text="move on" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn off the vacuum cleaner ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get vacuum cleaner ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug vacuum cleaner into outlet ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="turn on vacuum cleaner ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="move vacuum cleaner to carpet ." slot="4" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="move vacuum cleaner back and forth ." slot="5" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="switch off vacuum cleaner ." slot="6" text="switch off" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="put vacuum cleaner way ." slot="7" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner way" head="way"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get vaccum cleaner ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vaccum" head="vaccum"/>
+		</item>
+		<item original="clear obstacles off the carpet ." slot="2" text="clear off" head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="obstacles" head="obstacles"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn vaccum cleaner on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vaccum cleaner" head="cleaner"/>
+			<ptcp text="vaccum" head="vaccum"/>
+		</item>
+		<item original="push and pull vacuum cleaner across carpet ." slot="4" text="push across" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn vacuum cleaner off ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get the vacuum ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug in the vacuum ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn on th vacuum ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="push the vacuum over the carpet ." slot="4" text="push over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="keep pushing the vacuum over the carpet until the entire carpet has been vacuumed ." slot="5" text="keep over" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="plug vacuum cleaner in ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn vacuum cleaner on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="slide vacuum cleaner across the carpet ." slot="3" text="slide across" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="get vacuum ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug in vacuum ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn on vacuum ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="pull or push vacuum over all of carpet ." slot="4" text="pull over of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="all" head="all"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn off vacuum ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="store vacuum ." slot="6" text="store" head="store">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="plug in vaccum cleaner ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vaccum" head="vaccum"/>
+		</item>
+		<item original="press on/off button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="push vacuum cleaner over the complete surface area of the carpet ." slot="3" text="push over of" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="the complete surface area" head="area"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="move objects if necessary ." slot="4" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+		<item original="press on/off button when finished ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="onoff button" head="button"/>
+			<ptcp text="onoff" head="onoff"/>
+		</item>
+		<item original="unplug vacuum cleaner ." slot="6" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="turn on the vacuum ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="run repeatedly over the areas needed to be cleaned ." slot="2" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="areas" head="areas"/>
+		</item>
+		<item original="turn off vacuum ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="plug in vacuum ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn on vacuum ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="move vacuum over carpet ." slot="3" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn off vacuum ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="put away vacuum ." slot="5" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="turn on the vacuum ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="run over the carpet ." slot="2" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn off the vacuum ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get the vacuum cleaner ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug the vacuum cleaner in ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="push the vacuum cleaner around the room ." slot="3" text="push around" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="unplug the vacuum cleaner ." slot="4" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="put the vacuum cleaner away ." slot="5" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="take out the vacuum cleaner ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug in the vacuum cleaner ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn on the vacuum cleaner ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="push the vacuum cleaner about ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn off the vacuum cleaner ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="unplug the vacuum cleaner ." slot="6" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="put the vacuum cleaner away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="set up and plug in cleaner ." slot="1" text="set up in" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="pick up clutter ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clutter" head="clutter"/>
+		</item>
+		<item original="turn on cleaner ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="run cleaner on carpet ." slot="4" text="run on" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaner" head="cleaner"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn off cleaner ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="unplug cleaner ." slot="6" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="put cleaner away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="plug in the vacuum ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn on the switch ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="push it back and forth over the carpet ." slot="3" text="push over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="obtain a vacuum ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug it in near the carpet ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn it on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="push it back and forth over entire carpet ." slot="4" text="push over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn it off ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="identify the area of the carpet to vacuum ." slot="1" text="identify of to" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="carpet" head="carpet"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="get out the vacuum ." slot="2" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug the vacuum into the power ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="turn on the vacuum ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="sweep the vacuum over the floor ." slot="5" text="sweep over" head="sweep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sweep" head="sweep"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="unplug the vacuum ." slot="6" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="put the vacuum away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="get vacuum cleaner ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug into outlet ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="turn on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="push and pull vacuum across floor ." slot="4" text="push across" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="turn off ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="change vacuum cleaner bag ." slot="6" text="change" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner bag" head="bag"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="put vacuum cleaner back ." slot="7" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="get vacuum cleaner ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug into outlet ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="turn on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="push and pull vacuum across floor ." slot="4" text="push across" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="turn off ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="change vacuum cleaner bag ." slot="6" text="change" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner bag" head="bag"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="put vacuum cleaner back ." slot="7" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="retrieve vacuum ." slot="1" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="take to room to be vacuumed ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="plug in vacuum ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="vacuum carpet ." slot="4" text="vacuum" head="vacuum">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="pick up toys ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toys" head="toys"/>
+		</item>
+		<item original="go to closet ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="closet" head="closet"/>
+		</item>
+		<item original="take out vacuum ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="pull out vacuum cord ." slot="4" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cord" head="cord"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug cord into electrical outlet ." slot="5" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="turn vacuum on ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="push vacuum head back and forth over all of the carpet ." slot="7" text="push over of" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum head" head="head"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="all" head="all"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="plug in vacuum ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn on vacuum ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="run vacuum over entire carpet ." slot="3" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn off vacuum ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="unplug vacuum and put away ." slot="5" text="unplug away" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="locate vacuum cleaner ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug in vaccum cleaner to power outlet ." slot="2" text="plug in to" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vaccum" head="vaccum"/>
+			<ptcp text="cleaner to power outlet" head="outlet"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="switch on vacuum cleaner ." slot="3" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="move vacuum cleaner over carpet ." slot="4" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="repeat until carpet is cleaned ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn off vacuum cleaner ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="unplug vacuum cleaner ." slot="7" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="take out vacuum ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug in vacuum ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="clean carpet ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="put vacuum away ." slot="4" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="turn on vacuum ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="roll over carpet area ." slot="2" text="roll over" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carpet area" head="area"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="plug in vacuum ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn on vacuum ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="move vacuum around on the floor ." slot="3" text="move on" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="watch to make sure objects/dirt/etc is sucked up ." slot="4" text="watch up" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objectsdirtetc" head="objectsdirtetc"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="plug in vacuum ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn on vacuum ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="move vacuum around on the floor ." slot="3" text="move on" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="watch to make sure objects/dirt/etc is sucked up ." slot="4" text="watch up" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objectsdirtetc" head="objectsdirtetc"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="plug in vacuum ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn vacuum on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="hold handle of vacuum and move it back and forth over dirty areas ." slot="3" text="hold of over" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="areas" head="areas"/>
+		</item>
+		<item original="turn vacuum off ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="unplug vacuum ." slot="5" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="plug in vacuum ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn vacuum on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="hold handle of vacuum and move it back and forth over dirty areas ." slot="3" text="hold of over" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="areas" head="areas"/>
+		</item>
+		<item original="turn vacuum off ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="unplug vacuum ." slot="5" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="plug in vacuum ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn vacuum on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="hold handle of vacuum and move it back and forth over dirty areas ." slot="3" text="hold of over" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="areas" head="areas"/>
+		</item>
+		<item original="turn vacuum off ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="unplug vacuum ." slot="5" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="plug in vacuum ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="turn vacuum on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="hold handle of vacuum and move it back and forth over dirty areas ." slot="3" text="hold of over" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="areas" head="areas"/>
+		</item>
+		<item original="turn vacuum off ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="unplug vacuum ." slot="5" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="turn on vacuum ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="push vacuum over carpet ." slot="2" text="push over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="turn on vacuum ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="roll vacuum over carpet ." slot="2" text="roll over" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="turn on the vacuum ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="run the vacuum over the carpet ." slot="2" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn off the vacuum ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="attach power head to vacuum cleaner ." slot="1" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power head" head="head"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug in vacuum cleaner ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="adjust settings for power head ." slot="3" text="adjust for" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="settings" head="settings"/>
+			<ptcp text="power head" head="head"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="turn on vacuum cleaner ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="run power head over entire carpet ." slot="5" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power head" head="head"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="unplug vacuum cleaner ." slot="6" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="put vacuum cleaner away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="attach power head to vacuum cleaner ." slot="1" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power head" head="head"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug in vacuum cleaner ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="adjust settings for power head ." slot="3" text="adjust for" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="settings" head="settings"/>
+			<ptcp text="power head" head="head"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="turn on vacuum cleaner ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="run power head over entire carpet ." slot="5" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power head" head="head"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="unplug vacuum cleaner ." slot="6" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="put vacuum cleaner away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="attach power head to vacuum cleaner ." slot="1" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power head" head="head"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug in vacuum cleaner ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="adjust settings for power head ." slot="3" text="adjust for" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="settings" head="settings"/>
+			<ptcp text="power head" head="head"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="turn on vacuum cleaner ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="run power head over entire carpet ." slot="5" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power head" head="head"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="unplug vacuum cleaner ." slot="6" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="put vacuum cleaner away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="go to pantry ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pantry" head="pantry"/>
+		</item>
+		<item original="take out vacuum cleaner ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="find outlet ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug into outlet ." slot="4" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="turn on vacuum ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="move vacuum over carpet ." slot="6" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="turn off vacuum ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="take out vacuum cleaner ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum cleaner" head="cleaner"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="plug vacuum into wall ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="turn on vacuum ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vacuum" head="vacuum"/>
+		</item>
+		<item original="vacuum carpet ." slot="4" text="vacuum" head="vacuum">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="turn on vaccum ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vaccum" head="vaccum"/>
+		</item>
+		<item original="clean the carprt ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carprt" head="carprt"/>
+		</item>
+		<item original="turn off vaccum ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vaccum" head="vaccum"/>
+		</item>
+		<item original="put back vaccum ." slot="4" text="put back" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vaccum" head="vaccum"/>
+		</item>
+	</script>
+</scripts>

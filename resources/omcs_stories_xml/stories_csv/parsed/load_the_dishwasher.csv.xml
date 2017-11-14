@@ -1,0 +1,987 @@
+<scripts>
+	<script id="1">
+		<item original="open the dishwasher door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="place dirty dishes into the racks ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="racks" head="racks"/>
+		</item>
+		<item original="fill the trap with detergent ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trap" head="trap"/>
+			<ptcp text="detergent" head="detergent"/>
+		</item>
+		<item original="close the door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn on the dishwasher ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="open the dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="scrape each plate or dish into the trash ." slot="2" text="scrape into" head="scrape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plate" head="plate"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="place each dish in the dishwasher ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="pour soap into the dishwasher ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close the dishwasher ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="turn the dishwasher on ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="collect dishes ." slot="1" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="open dishwasher ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="pull out dishwasher rack ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher rack" head="rack"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place dishes onto rack ." slot="4" text="place onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="rack" head="rack"/>
+		</item>
+		<item original="push in dishwasher rack ." slot="5" text="push in" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher rack" head="rack"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close dishwasher ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place dishes inside dishwasher ." slot="2" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close dishwasher ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place dishes inside dishwasher ." slot="2" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close dishwasher ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="put all dishes inside ." slot="2" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="inside" head="inside"/>
+		</item>
+		<item original="put detergent in ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+		</item>
+		<item original="close dishwasher ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="turn dishwasher on ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="have dirty dishes ." slot="1" text="have " head="have">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse dishes ." slot="2" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="open dishwasher ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="insert dishes between dividing units ." slot="4" text="insert between" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dividing units" head="units"/>
+		</item>
+		<item original="add soap to correct compartment ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="close dishwasher ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="turn on dishwasher ." slot="7" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="pull out tray ." slot="2" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="place dishes in tray ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="push in tray ." slot="4" text="push in" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="close dishwasher ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place dishes inside dishwasher ." slot="2" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="put soap in dishwasher ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="start dishwasher ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="get dirty dishes ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put dirty dishes in dishwasher ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="locate dirty dishes ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="locate dishwasher ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="open dishwasher ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="put in dishes ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="close dishwasher ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="rinse dishes ." slot="1" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put dishes in dishwasher ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="put detergent in dishwasher ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close dishwasher ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="start dishwasher ." slot="5" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="put all the dishes inside ." slot="1" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="inside" head="inside"/>
+		</item>
+		<item original="close the dishwasher and press  the start button ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+			<ptcp text="the start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="open the dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place the dirty dishes in the correct racks of the dishwasher ." slot="2" text="place in of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="racks" head="racks"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="put liquid soap in the correct compartment in the dishwasher ." slot="3" text="put in in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="compartment" head="compartment"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close the dishwasher ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="place dirty dishes into the dishwasher ." slot="1" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="fill the dishwasher soap compartment with liquid soap ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the dishwasher soap compartment" head="compartment"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="close the soap compartment and close the dishwasher ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soap compartment" head="compartment"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place dishes in dishwasher ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place detergent in dispenser ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dispenser" head="dispenser"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="remove food from dishes ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse dishes ." slot="2" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="open dishwasher door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="place plates in bottom of dishwasher ." slot="4" text="place in of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="bottom" head="bottom"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place cups in top of dishwasher ." slot="5" text="place in of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="pour detergent into receptacle in dishwasher door ." slot="6" text="pour into in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="receptacle" head="receptacle"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="close dishwasher door ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="probably unload dishes already there and clean ." slot="1" text="unload" head="unload">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="gather dirty dishes ." slot="2" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="place in proper racks ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="racks" head="racks"/>
+		</item>
+		<item original="rinse any needing rinsed before placement ." slot="4" text="rinse before" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="any needing rinsed" head="rinsed"/>
+			<ptcp text="placement" head="placement"/>
+		</item>
+		<item original="add cleaner ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="set controls ." slot="6" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="controls" head="controls"/>
+		</item>
+		<item original="turn on dishwaster ." slot="7" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwaster" head="dishwaster"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place dishes in ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place dishes in dishwasher ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="pull out rack ." slot="2" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rack" head="rack"/>
+		</item>
+		<item original="pick up dish ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="place dish in dishwasher ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="repeat until loaded ." slot="5" text="repeat until" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="rinse dishes ." slot="1" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="load dishes in dishwasher ." slot="2" text="load in" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="add detergent ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+		</item>
+		<item original="close dishwasher ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="start dishwasher ." slot="5" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place dishes into dishwasher ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place dishes into dishwasher ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place dishes into dishwasher ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="select the dish washer ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the dish washer" head="washer"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="select the alternate ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the alternate" head="alternate"/>
+		</item>
+		<item original="load the dishwasher ." slot="3" text="load" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="select the dish washer ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the dish washer" head="washer"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="load it ." slot="2" text="load" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="select the dish washer ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the dish washer" head="washer"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="load it ." slot="2" text="load" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="get dirty dishes utensils containers ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="containers" head="containers"/>
+		</item>
+		<item original="place gently in dishwasher ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="open the dishwasher door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pick up each dish and place in rack ." slot="2" text="pick up in" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="rack" head="rack"/>
+		</item>
+		<item original="close dishwasher door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="place dishes in dishwasher ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="add soap ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="start dishwasher ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="put dishes in ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="turn on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="open the dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="insert dishes ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="insert dishwashing fluid ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluid" head="fluid"/>
+		</item>
+		<item original="close dishwasher ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="take out old dishes ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put large pots in ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pots" head="pots"/>
+		</item>
+		<item original="put large plates in ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+		</item>
+		<item original="put large bowls in ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowls" head="bowls"/>
+		</item>
+		<item original="put smaller objects in ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+		<item original="put utilizes in ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="utilizes" head="utilizes"/>
+		</item>
+		<item original="put detergent in ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="l oad ." slot="1" text="l " head="l">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="l" head="l"/>
+			<ptcp text="oad" head="oad"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="put dishes and utensils on to racks ." slot="1" text="put on to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="utensils" head="utensils"/>
+			<ptcp text="racks" head="racks"/>
+		</item>
+		<item original="turn on dishwasher ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="wait until washer is finished ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="take out dishes and dry with towel ." slot="4" text="take out with" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="place dishes back into cupboards ." slot="5" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="cupboards" head="cupboards"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="put cutlery in cutlery basket ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutlery" head="cutlery"/>
+			<ptcp text="cutlery basket" head="basket"/>
+		</item>
+		<item original="put dishes in each slot in lower section until full ." slot="2" text="put in in until" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="slot" head="slot"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="load glasses in each slot in upper section until full ." slot="3" text="load in in until" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="slot" head="slot"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="put detergent in dispenser ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dispenser" head="dispenser"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="select cycle ." slot="6" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cycle" head="cycle"/>
+		</item>
+		<item original="press start ." slot="7" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="put cutlery in cutlery basket ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutlery" head="cutlery"/>
+			<ptcp text="cutlery basket" head="basket"/>
+		</item>
+		<item original="put dishes in each slot in lower section until full ." slot="2" text="put in in until" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="slot" head="slot"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="load glasses in each slot in upper section until full ." slot="3" text="load in in until" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="slot" head="slot"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="put detergent in dispenser ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dispenser" head="dispenser"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="select cycle ." slot="6" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cycle" head="cycle"/>
+		</item>
+		<item original="press start ." slot="7" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="put cutlery in cutlery basket ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutlery" head="cutlery"/>
+			<ptcp text="cutlery basket" head="basket"/>
+		</item>
+		<item original="put dishes in each slot in lower section until full ." slot="2" text="put in in until" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="slot" head="slot"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="load glasses in each slot in upper section until full ." slot="3" text="load in in until" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="slot" head="slot"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="put detergent in dispenser ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dispenser" head="dispenser"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="select cycle ." slot="6" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cycle" head="cycle"/>
+		</item>
+		<item original="press start ." slot="7" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="put cutlery in cutlery basket ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutlery" head="cutlery"/>
+			<ptcp text="cutlery basket" head="basket"/>
+		</item>
+		<item original="put dishes in each slot in lower section until full ." slot="2" text="put in in until" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="slot" head="slot"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="load glasses in each slot in upper section until full ." slot="3" text="load in in until" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="slot" head="slot"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="put detergent in dispenser ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dispenser" head="dispenser"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="select cycle ." slot="6" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cycle" head="cycle"/>
+		</item>
+		<item original="press start ." slot="7" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="rinse off dishes ." slot="1" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="open dishwasher ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place all dishes and glasses into dishwasher ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close dishwasher door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn dial to proper setting ." slot="5" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="setting" head="setting"/>
+		</item>
+		<item original="turn dishwasher on ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="rinse off dishes ." slot="1" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="open dishwasher ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place all dishes and glasses into dishwasher ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close dishwasher door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn dial to proper setting ." slot="5" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="setting" head="setting"/>
+		</item>
+		<item original="turn dishwasher on ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="rinse off dishes ." slot="1" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="open dishwasher ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place all dishes and glasses into dishwasher ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close dishwasher door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn dial to proper setting ." slot="5" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="setting" head="setting"/>
+		</item>
+		<item original="turn dishwasher on ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="open dishwasher ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="get dirty dishes ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put them in the dishwasher ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="put detergent in the dispenser ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dispenser" head="dispenser"/>
+		</item>
+		<item original="close dishwasher ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="turn on dishwasher ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="rinse off dishes to be cleaned ." slot="1" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="place dishes into dishwasher ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place detergent into dishwasher ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="select programme ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="programme" head="programme"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="rinse off dishes to be cleaned ." slot="1" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="place dishes into dishwasher ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="place detergent into dishwasher ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="select programme ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="programme" head="programme"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+</scripts>

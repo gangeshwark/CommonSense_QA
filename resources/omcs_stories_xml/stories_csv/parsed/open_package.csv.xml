@@ -1,0 +1,798 @@
+<scripts>
+	<script id="1">
+		<item original="get knife or scissors ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knife" head="knife"/>
+			<ptcp text="scissors" head="scissors"/>
+		</item>
+		<item original="cut along edges ." slot="2" text="cut along" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+		</item>
+		<item original="open box ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get package ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="locate tape ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="remove tape ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="remove wrapping ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping" head="wrapping"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="get package ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="determine top of package ." slot="2" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="get knife ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knife" head="knife"/>
+		</item>
+		<item original="carefully cut tape ." slot="4" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="move back lid ." slot="5" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="get package ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="cut tape ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="fold back flaps ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flaps" head="flaps"/>
+		</item>
+		<item original="remove contents from package ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="get a knife ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knife" head="knife"/>
+		</item>
+		<item original="tear the tape ." slot="2" text="tear" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="then open the package ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="use sharp object to open the package ." slot="1" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get sissors ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sissors" head="sissors"/>
+		</item>
+		<item original="place package on flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="use sissors to cut tape on package ." slot="3" text="use on" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sissors" head="sissors"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="lift flap on package ." slot="4" text="lift on" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flap" head="flap"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="pick up the package ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="pick up a knife ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knife" head="knife"/>
+		</item>
+		<item original="run the knife blade along the package seal ." slot="3" text="run along" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the knife blade" head="blade"/>
+			<ptcp text="knife" head="knife"/>
+			<ptcp text="the package seal" head="seal"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="decide most effecient manner to open package ." slot="1" text="decide to" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="most effecient manner to open package" head="manner"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="get tools needed to open package ." slot="2" text="needed to" head="needed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tools" head="tools"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="use tools ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tools" head="tools"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="place package on counter ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="counter" head="counter"/>
+		</item>
+		<item original="retrieve cutter ." slot="2" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutter" head="cutter"/>
+		</item>
+		<item original="use cutter to carefully slice packing tape ." slot="3" text="use to" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutter" head="cutter"/>
+			<ptcp text="slice" head="slice"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="open box flaps ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box flaps" head="flaps"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="take out packing materials ." slot="5" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="materials" head="materials"/>
+		</item>
+		<item original="take out shipped contents ." slot="6" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shipped contents" head="contents"/>
+		</item>
+		<item original="recycle packing materials ." slot="7" text="recycle" head="recycle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="packing materials" head="materials"/>
+			<ptcp text="packing" head="packing"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="tear package ." slot="1" text="tear" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="repeat step 1 until fully open ." slot="2" text="repeat until" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="tear package ." slot="1" text="tear" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="repeat step 1 until fully open ." slot="2" text="repeat until" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="get package in hand ." slot="1" text="get in" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="select one end to open ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+		</item>
+		<item original="rip open the packaging ." slot="3" text="rip" head="rip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="packaging" head="packaging"/>
+		</item>
+		<item original="widen the rip until the contents are revealed ." slot="4" text="widen" head="widen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rip" head="rip"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="pick up package ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="look for package opening ." slot="2" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package opening" head="opening"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear package opening ." slot="3" text="tear" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package opening" head="opening"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="look in package ." slot="4" text="look in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="then do a little dance ." slot="5" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="cut string and peel tape off package ." slot="1" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="tear paper off package ." slot="2" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="open the box that the item is in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="unwrap box ." slot="1" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="find suitable place to open ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="asess flaps or edges for best way to open ." slot="2" text="asess for" head="asess">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flaps" head="flaps"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="way" head="way"/>
+		</item>
+		<item original="proceed to open ." slot="3" text="proceed" head="proceed">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put away utensils ." slot="4" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="utensils" head="utensils"/>
+		</item>
+		<item original="enjoy package contents ." slot="5" text="enjoy" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package contents" head="contents"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="put the package on the table ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="get a knife ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knife" head="knife"/>
+		</item>
+		<item original="cut the tape ." slot="3" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="open the lid of the box ." slot="4" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="put the package on the table ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="get a knife ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knife" head="knife"/>
+		</item>
+		<item original="cut the tape ." slot="3" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="open the lid of the box ." slot="4" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="take the package into the kitchen ." slot="1" text="take into" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="get out a knife/scissors ." slot="2" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knifescissors" head="knifescissors"/>
+		</item>
+		<item original="cut open one end of the package ." slot="3" text="cut open of" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="pull out the contents of the package ." slot="4" text="pull out of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="get package ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="cut tape ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="pick up package ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="pick up scissors ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scissors" head="scissors"/>
+		</item>
+		<item original="use scissors to cut package ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scissors" head="scissors"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="pick up package ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="pick up scissors ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scissors" head="scissors"/>
+		</item>
+		<item original="use scissors to cut package ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scissors" head="scissors"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="pick up package ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="pick up scissors ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scissors" head="scissors"/>
+		</item>
+		<item original="use scissors to cut package ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scissors" head="scissors"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="pick up the package with both hands ." slot="1" text="pick up with" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="take one hand and tear open the paper ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="remove the contents ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="hold the contents in your hands ." slot="4" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="recycle the paper ." slot="5" text="recycle" head="recycle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="pick up the package with both hands ." slot="1" text="pick up with" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="take one hand and tear open the paper ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="remove the contents ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="hold the contents in your hands ." slot="4" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="recycle the paper ." slot="5" text="recycle" head="recycle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="pick up the package with both hands ." slot="1" text="pick up with" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="take one hand and tear open the paper ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="remove the contents ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="hold the contents in your hands ." slot="4" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="recycle the paper ." slot="5" text="recycle" head="recycle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="pick up the package with both hands ." slot="1" text="pick up with" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="take one hand and tear open the paper ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="remove the contents ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="hold the contents in your hands ." slot="4" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="recycle the paper ." slot="5" text="recycle" head="recycle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+</scripts>

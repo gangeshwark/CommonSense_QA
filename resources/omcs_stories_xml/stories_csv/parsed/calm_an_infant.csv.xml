@@ -1,0 +1,921 @@
+<scripts>
+	<script id="1">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="offer infant bottle if hungry ." slot="2" text="offer" head="offer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant bottle" head="bottle"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="gently pat back ." slot="3" text="pat back" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="sing to infant ." slot="4" text="sing to" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="shake the baby gently ." slot="1" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="sing to the baby ." slot="2" text="sing to" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="make soothing sounds to infant ." slot="2" text="make to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sounds" head="sounds"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="gently pat infant on the back ." slot="3" text="pat on" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="back" head="back"/>
+		</item>
+		<item original="check infant for dirty diaper ." slot="4" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="change infant diaper if dirty ." slot="5" text="change" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant diaper" head="diaper"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="try feeding infant ." slot="6" text="try" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="feeding infant" head="infant"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="pick up an infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="rock infant ." slot="2" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="sing to infant ." slot="3" text="sing to" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="say shhh to infant ." slot="4" text="say to" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shhh" head="shhh"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="give infant a bottle if needed ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="place infant in crib ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="crib" head="crib"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="hold infant ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="sing a soothing song to the infant ." slot="2" text="sing to" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="talk to the infant ." slot="3" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="rock the infant gently in your arms ." slot="4" text="rock in" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="arms" head="arms"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="hold the infant ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="pat the infant until it stops crying ." slot="2" text="pat" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="locate infant ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="identify cause ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cause" head="cause"/>
+		</item>
+		<item original="seach for solutions ." slot="3" text="seach for" head="seach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="solutions" head="solutions"/>
+		</item>
+		<item original="excute the best solution ." slot="4" text="excute" head="excute">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="solution" head="solution"/>
+		</item>
+		<item original="check to see if it works ." slot="5" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="task complete ." slot="6" text="complete" head="complete">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="task" head="task"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="hold the infant ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="pat the infant ." slot="2" text="pat" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="talk to the infant in a soft voice when necessary ." slot="3" text="talk to in" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="voice" head="voice"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="hold the infant and move slowly ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="move" head="move"/>
+		</item>
+		<item original="sing apeasing song ." slot="2" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="feed infant ." slot="3" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="take infant in your arms ." slot="1" text="take in" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="arms" head="arms"/>
+		</item>
+		<item original="start swinging arms gently ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arms" head="arms"/>
+		</item>
+		<item original="sing a lullaby ." slot="3" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lullaby" head="lullaby"/>
+		</item>
+		<item original="put infant in bed ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="pick infant up ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="rock infant ." slot="2" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="sing to infant ." slot="3" text="sing to" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="distract infant ." slot="4" text="distract" head="distract">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="pick up the infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="hold the infant ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="rock the infant back and forth ." slot="3" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="pat the infant s back ." slot="4" text="pat" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="make a shushing noise into the infant s ear ." slot="5" text="make into" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noise" head="noise"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="ear" head="ear"/>
+		</item>
+		<item original="sing a song to the infant quietly ." slot="6" text="sing to" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="go to infant ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="show toy to infant ." slot="2" text="show to" head="show">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="pick up infant ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="slowly rock infant ." slot="4" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="pickup the infant ." slot="1" text="pickup " head="pickup">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pickup" head="pickup"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="talk soothingly to the infant ." slot="2" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="rock the infant back and forth ." slot="3" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="hold infant in arms ." slot="1" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="arms" head="arms"/>
+		</item>
+		<item original="gently rock infant ." slot="2" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="feed infant milk ." slot="3" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant milk" head="milk"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="carry the infant ." slot="1" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="show some colorful toys to the infants ." slot="2" text="show to" head="show">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toys" head="toys"/>
+			<ptcp text="infants" head="infants"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="slowly rock infant back and forth ." slot="2" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="slowly rock infant back and forth ." slot="2" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="walk back and forth ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pat infants back ." slot="3" text="pat" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infants" head="infants"/>
+		</item>
+		<item original="sing ." slot="4" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="rock the infant ." slot="2" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="pat the infant s back ." slot="1" text="pat" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="give the infant milk ." slot="2" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the infant milk" head="milk"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="change the infant s diaper ." slot="3" text="change" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="coddle the infant ." slot="4" text="coddle" head="coddle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="sing to the infant ." slot="5" text="sing to" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="rock the infant ." slot="6" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="rock infant ." slot="2" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="give infant pacifyer ." slot="3" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant pacifyer" head="pacifyer"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="make soothing noices to infant ." slot="4" text="make to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="noices" head="noices"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="hope to god the infant stops  crying soon ." slot="5" text="hope to" head="hope">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="god" head="god"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="touch baby ." slot="1" text="touch" head="touch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="check temperature ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="check wetness ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wetness" head="wetness"/>
+		</item>
+		<item original="pick up baby ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="hug and cradle baby ." slot="5" text="hug " head="hug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hug" head="hug"/>
+			<ptcp text="cradle baby" head="baby"/>
+			<ptcp text="cradle" head="cradle"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="feed baby ." slot="6" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="pat on back steadily until burps ." slot="7" text="pat on until" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burps" head="burps"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="pick baby up ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="talk soothingly ." slot="2" text="talk" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="check if diaper needs changing ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="pat to encourage burping ." slot="4" text="pat" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burping" head="burping"/>
+		</item>
+		<item original="offer breast (or bottle) ." slot="5" text="offer" head="offer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="breast" head="breast"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="rock gently ." slot="6" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="sing ." slot="7" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="hold and love infant ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="love infant" head="infant"/>
+			<ptcp text="love" head="love"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="hold and love infant ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="love infant" head="infant"/>
+			<ptcp text="love" head="love"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="hold and love infant ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="love infant" head="infant"/>
+			<ptcp text="love" head="love"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="hold and love infant ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="love infant" head="infant"/>
+			<ptcp text="love" head="love"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="talk to infant ." slot="1" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="say reasuring things ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+		</item>
+		<item original="repeat if nessecary ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="picking the infant up ." slot="1" text="picking up" head="picking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="holding them to your chest ." slot="2" text="holding to" head="holding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chest" head="chest"/>
+		</item>
+		<item original="rest their head on your shoulder ." slot="3" text="rest on" head="rest">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="head" head="head"/>
+			<ptcp text="shoulder" head="shoulder"/>
+		</item>
+		<item original="pat them on the back ." slot="4" text="pat on" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="back" head="back"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="pick up baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rub back ." slot="2" text="rub back" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk aroun ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aroun" head="aroun"/>
+		</item>
+		<item original="soothe ." slot="4" text="soothe" head="soothe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="pick up baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rub back ." slot="2" text="rub back" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk aroun ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aroun" head="aroun"/>
+		</item>
+		<item original="soothe ." slot="4" text="soothe" head="soothe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="pick up baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rub back ." slot="2" text="rub back" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk aroun ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aroun" head="aroun"/>
+		</item>
+		<item original="soothe ." slot="4" text="soothe" head="soothe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="pick up baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rub back ." slot="2" text="rub back" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk aroun ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aroun" head="aroun"/>
+		</item>
+		<item original="soothe ." slot="4" text="soothe" head="soothe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="pick up baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rub back ." slot="2" text="rub back" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk aroun ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aroun" head="aroun"/>
+		</item>
+		<item original="soothe ." slot="4" text="soothe" head="soothe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="pick up baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rub back ." slot="2" text="rub back" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk aroun ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aroun" head="aroun"/>
+		</item>
+		<item original="soothe ." slot="4" text="soothe" head="soothe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="pick up baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rub back ." slot="2" text="rub back" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk aroun ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aroun" head="aroun"/>
+		</item>
+		<item original="soothe ." slot="4" text="soothe" head="soothe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="pick up baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rub back ." slot="2" text="rub back" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk aroun ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aroun" head="aroun"/>
+		</item>
+		<item original="soothe ." slot="4" text="soothe" head="soothe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="pick up baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rub back ." slot="2" text="rub back" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk aroun ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aroun" head="aroun"/>
+		</item>
+		<item original="soothe ." slot="4" text="soothe" head="soothe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="pick up baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rub back ." slot="2" text="rub back" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk aroun ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aroun" head="aroun"/>
+		</item>
+		<item original="soothe ." slot="4" text="soothe" head="soothe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="pick up baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="be in a quiet room ." slot="2" text="be in" head="be">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="put baby on shoulder ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="shoulder" head="shoulder"/>
+		</item>
+		<item original="pat baby bottom lightly ." slot="4" text="pat" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby bottom" head="bottom"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="sing silently ." slot="5" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="talk quietly to baby ." slot="6" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rock baby gently ." slot="7" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="pick up infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="gently rock ." slot="2" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="talk softly to the infant ." slot="3" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="try to make infant laugh ." slot="4" text="try" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant laugh" head="laugh"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="pick up the baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rock the baby ." slot="2" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="murmur soothing sounds ." slot="3" text="murmur" head="murmur">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sounds" head="sounds"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="pick up the baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rock the baby ." slot="2" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="murmur soothing sounds ." slot="3" text="murmur" head="murmur">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sounds" head="sounds"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="pick up the infant ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="hold the infant close to your chest ." slot="2" text="hold to" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="chest" head="chest"/>
+		</item>
+		<item original="gently rock the infant ." slot="3" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="speak or sing softly to the infant ." slot="4" text="speak to" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="talk quietly ." slot="1" text="talk" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick them up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="talk quietly ." slot="1" text="talk" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick them up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="talk quietly ." slot="1" text="talk" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick them up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="talk quietly ." slot="1" text="talk" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick them up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="talk quietly ." slot="1" text="talk" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick them up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="talk quietly ." slot="1" text="talk" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick them up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="go to crying infant ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="assess what infant wants ." slot="2" text="assess" head="assess">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="is he hungry? ." slot="3" text="is " head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hungry" head="hungry"/>
+		</item>
+		<item original="is he wet? ." slot="4" text="is " head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wet" head="wet"/>
+		</item>
+		<item original="is he hurt? ." slot="5" text="hurt" head="hurt">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="did his toy fall? ." slot="6" text="fall" head="fall">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="sooth infant ." slot="7" text="sooth" head="sooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="pick up the baby ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rock the baby ." slot="2" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="murmer soothing sounds ." slot="3" text="murmer" head="murmer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sounds" head="sounds"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="walk over to crib where infant is ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="crib" head="crib"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="reach down to infant ." slot="2" text="reach down to" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="pick up infant ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="rock infant gently ." slot="4" text="rock" head="rock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="sing to infant ." slot="5" text="sing to" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="wait for infant to fall back asleep ." slot="6" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+		</item>
+		<item original="place infant back into crib ." slot="7" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infant" head="infant"/>
+			<ptcp text="crib" head="crib"/>
+		</item>
+	</script>
+</scripts>

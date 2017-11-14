@@ -1,0 +1,749 @@
+<scripts>
+	<script id="1">
+		<item original="pick up a cloth ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="go near the object ." slot="2" text="go near" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="swipe the object with the cloth ." slot="3" text="swipe with" head="swipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="swipe" head="swipe"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="take out the duster ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="dust the object ." slot="2" text="dust " head="dust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="put the duster back ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="pick up duster ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="run duster across surface of object ." slot="2" text="run across of" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="put down duster ." slot="3" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find a dustcloth ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dustcloth" head="dustcloth"/>
+		</item>
+		<item original="run dustcloth over object ." slot="2" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dustcloth" head="dustcloth"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="locate a clean rag ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="rub the rag over the dusty object ." slot="2" text="rub over" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="replace the object to its original location ." slot="3" text="replace to" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="clean the rag ." slot="4" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="locate a clean rag ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="wipe the clean rag over the surface of the dusty object ." slot="2" text="wipe over of" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="stop rubbing the object when the dust is adequately removed ." slot="3" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="wash the dirty rag ." slot="4" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="move close to duster ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="pick up duster ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="move close to object ." slot="3" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="rub the duster on the object ." slot="4" text="rub on" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="pick up the duster ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="move over to the object ." slot="2" text="move over to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="use the duster to remove the dust on the object ." slot="3" text="use on" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get out the duster ." slot="1" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="brush the duster over the object ." slot="2" text="brush over" head="brush">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="replace the duster ." slot="3" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="take brush ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brush" head="brush"/>
+		</item>
+		<item original="wipe object ." slot="2" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get duster ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="hold object ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="move duster over object ." slot="3" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="get feather duster ." slot="1" text="feather" head="feather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="pick up the object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="wipe feathers of feather duster on object ." slot="3" text="wipe of on" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="feathers" head="feathers"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="set down the object ." slot="4" text="set down" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="get a damp rag ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="wipe the dust off the object with the damp rag ." slot="3" text="wipe off with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="set the object back down ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="locate the item to dust ." slot="1" text="locate to" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="locate a dust rag ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a dust rag" head="rag"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="locate a cleaning spray ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a cleaning spray" head="spray"/>
+			<ptcp text="cleaning" head="cleaning"/>
+		</item>
+		<item original="spray the item to dust ." slot="4" text="spray to" head="spray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="rub the rag of the item to dust ." slot="5" text="rub of to" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="pick up duster ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="identify object to be dusted ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="gently brush object with duster ." slot="3" text="brush with" head="brush">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="obtain a dust rag ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a dust rag" head="rag"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="obtain polish ." slot="2" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="polish" head="polish"/>
+		</item>
+		<item original="put polish on dust rag ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="polish" head="polish"/>
+			<ptcp text="dust rag" head="rag"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="rub dust rag on all surfaces of object to be dusted ." slot="4" text="rub on of" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust rag" head="rag"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="surfaces" head="surfaces"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="put away dust rag ." slot="5" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust rag" head="rag"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="put away polish ." slot="6" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="polish" head="polish"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get cloth/feather duster ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="gently wipe all exposed surfaces ." slot="2" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all exposed surfaces" head="surfaces"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="obtain duster ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="lightly remove dust with duster with a sweeping motion ." slot="2" text="remove with with" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="motion" head="motion"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="get a duster ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="gently run the duster over the object ." slot="2" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pick up the duster ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="pick up the object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="brush the duster against the object ." slot="3" text="brush against" head="brush">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="put the object back on the shelf ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="shelf" head="shelf"/>
+		</item>
+		<item original="blow on the object to really remove the dust! ." slot="5" text="blow on" head="blow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="swipe the duster back and forth over the object ." slot="1" text="swipe over" head="swipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="swipe" head="swipe"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="blow on the object ." slot="2" text="blow on" head="blow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="wipe object on jyour eans ." slot="3" text="wipe on" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="jyour eans" head="eans"/>
+			<ptcp text="jyour" head="jyour"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="find the object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dust it ." slot="2" text="dust " head="dust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="pick up duster ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="gently brush duster over object ." slot="2" text="brush over" head="brush">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="continue step two until object is dust free ." slot="3" text="continue" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="repeat as desired ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="dust ." slot="1" text="dust " head="dust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="dust ." slot="2" text="dust " head="dust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="dust ." slot="3" text="dust " head="dust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="dust ." slot="4" text="dust " head="dust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="dust ." slot="5" text="dust " head="dust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="dust ." slot="6" text="dust " head="dust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="dust ." slot="7" text="dust " head="dust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="walk toward object ." slot="1" text="walk toward" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take object ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="hold object ." slot="3" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="look at object ." slot="4" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="turn object around ." slot="5" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take duster ." slot="6" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="dust object ." slot="7" text="object" head="object">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="obtain duster ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="dust object ." slot="2" text="object" head="object">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="select dusting device ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dusting device" head="device"/>
+		</item>
+		<item original="use device to remove dust from surface ." slot="3" text="use from" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="device" head="device"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="inspect for remaining dust ." slot="4" text="inspect for" head="inspect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remaining dust" head="dust"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="select dusting device ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dusting device" head="device"/>
+		</item>
+		<item original="use device to remove dust from surface ." slot="3" text="use from" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="device" head="device"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="inspect for remaining dust ." slot="4" text="inspect for" head="inspect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remaining dust" head="dust"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="select dusting device ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dusting device" head="device"/>
+		</item>
+		<item original="use device to remove dust from surface ." slot="3" text="use from" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="device" head="device"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="inspect for remaining dust ." slot="4" text="inspect for" head="inspect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remaining dust" head="dust"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="select dusting device ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dusting device" head="device"/>
+		</item>
+		<item original="use device to remove dust from surface ." slot="3" text="use from" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="device" head="device"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="inspect for remaining dust ." slot="4" text="inspect for" head="inspect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remaining dust" head="dust"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="select dusting device ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dusting device" head="device"/>
+		</item>
+		<item original="use device to remove dust from surface ." slot="3" text="use from" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="device" head="device"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="inspect for remaining dust ." slot="4" text="inspect for" head="inspect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remaining dust" head="dust"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="select dusting device ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dusting device" head="device"/>
+		</item>
+		<item original="use device to remove dust from surface ." slot="3" text="use from" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="device" head="device"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="inspect for remaining dust ." slot="4" text="inspect for" head="inspect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remaining dust" head="dust"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="grasp dust rag ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust rag" head="rag"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="move rag across object carefully ." slot="2" text="move across" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dust until no more dust remains ." slot="3" text="remains until" head="remains">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="grasp dust rag ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust rag" head="rag"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="move rag across object carefully ." slot="2" text="move across" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dust until no more dust remains ." slot="3" text="remains until" head="remains">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="grasp dust rag ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust rag" head="rag"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="move rag across object carefully ." slot="2" text="move across" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dust until no more dust remains ." slot="3" text="remains until" head="remains">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="grasp dust rag ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust rag" head="rag"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="move rag across object carefully ." slot="2" text="move across" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dust until no more dust remains ." slot="3" text="remains until" head="remains">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="grasp dust rag ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust rag" head="rag"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="move rag across object carefully ." slot="2" text="move across" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dust until no more dust remains ." slot="3" text="remains until" head="remains">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="grasp dust rag ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust rag" head="rag"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="move rag across object carefully ." slot="2" text="move across" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dust until no more dust remains ." slot="3" text="remains until" head="remains">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="find duster ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="remove objects from surface ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="dust surface ." slot="3" text="dust " head="dust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="replace objects ." slot="4" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="find dusty object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="get duster ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="dust object ." slot="3" text="object" head="object">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="get a duster ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="find a dusty object ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="rub duster on the objct until it is no longer dusty ." slot="3" text="rub on" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="objct" head="objct"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="get a duster ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+		</item>
+		<item original="find a dusty object ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="rub duster on the objct until it is no longer dusty ." slot="3" text="rub on" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="duster" head="duster"/>
+			<ptcp text="objct" head="objct"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,801 @@
+<scripts>
+	<script id="1">
+		<item original="put wet clothing in dryer ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="close dryer door ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="empty lint trap ." slot="3" text="empty" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trap" head="trap"/>
+		</item>
+		<item original="set timer ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+		<item original="start dryer ." slot="5" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="remove clothes from washer ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="put them into the dryer ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="turn on the dryer ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="put clothes into the dryer ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="set and run the dryer ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="take the clothes ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="open the dryer ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="put the clothes in the dryer ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="close the dryer ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="turn on the dryer ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="open clothes drier ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes drier" head="drier"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="put wet clothes in drier ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="drier" head="drier"/>
+		</item>
+		<item original="close clothes drier ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes drier" head="drier"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="turn on clothes drier ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes drier" head="drier"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="wait for washer to finish ." slot="1" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="open washer door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="get laundry basket ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="laundry basket" head="basket"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+		<item original="remove clothes from washer ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="place clothes in laundry basket ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="laundry basket" head="basket"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+		<item original="put clothes into dryer ." slot="6" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="turn on dryer ." slot="7" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="put wet clothes in dryer ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="turn on dryer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="take clothes out of washer ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="put clothes in dryer ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="turn on the dryer ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="allow clothes to dry for 50 minutes ." slot="4" text="allow for" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="take clothes out of washer ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="put clothes in dryer ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="turn on the dryer ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="allow clothes to dry for 50 minutes ." slot="4" text="allow for" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="take clothes from washer ." slot="1" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="put clothes into dryer ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="turn knob ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+		</item>
+		<item original="push start ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="take clothes out of dryer ." slot="5" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="take clothes from washer ." slot="1" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="put clothes into dryer ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="turn knob ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+		</item>
+		<item original="push start ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="take clothes out of dryer ." slot="5" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="hang clothes ." slot="1" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="wait to dry ." slot="2" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="hang clothes ." slot="1" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="wait to dry ." slot="2" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="remove clothes from washing machine ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="put wet clothes into laundry basket ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="laundry basket" head="basket"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+		<item original="carry basket outdoors ." slot="3" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="basket outdoors" head="outdoors"/>
+			<ptcp text="basket" head="basket"/>
+		</item>
+		<item original="remove clothing items one at a time ." slot="4" text="remove at" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing items" head="items"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="hang each item on clothesline ." slot="5" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="clothesline" head="clothesline"/>
+		</item>
+		<item original="secure each item with clothespins ." slot="6" text="secure with" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="clothespins" head="clothespins"/>
+		</item>
+		<item original="watch for rain ." slot="7" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rain" head="rain"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="open washing machine door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washing machine door" head="door"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="remove damp clothes ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="open dryer door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="place damp clothes in dryer ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="close dryer door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn dial to '30 minutes' ." slot="6" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="push 'start' button ." slot="7" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="open washing machine door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washing machine door" head="door"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="remove damp clothes ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="open dryer door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="place damp clothes in dryer ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="close dryer door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn dial to '30 minutes' ." slot="6" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="push 'start' button ." slot="7" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="take wet clothes from the washer ." slot="1" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="place them into the dryer ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="close the dryer door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="set the timer on dryer ." slot="4" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="push button to start dryer ." slot="5" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="hang on washing line ." slot="1" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washing line" head="line"/>
+			<ptcp text="washing" head="washing"/>
+		</item>
+		<item original="keep eye out for rain ." slot="2" text="keep out for" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eye" head="eye"/>
+			<ptcp text="rain" head="rain"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="place wet clothes in dryer ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="choose dryer settings ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer settings" head="settings"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="close dryer door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="push start ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="wait until finished ." slot="5" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="remove clothes ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="hang clothes on string in backyard ." slot="1" text="hang on in" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="backyard" head="backyard"/>
+		</item>
+		<item original="wait ." slot="2" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wait ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wait ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wait ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wait ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wait ." slot="7" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="putting them in washer ." slot="1" text="putting in" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="waiting until done ." slot="2" text="waiting until" head="waiting">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="taking them out of washer ." slot="3" text="taking out of" head="taking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="putting them in dryer ." slot="4" text="putting in" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="turning dryer on ." slot="5" text="turning on" head="turning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="letting dry ." slot="6" text="letting" head="letting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry" head="dry"/>
+		</item>
+		<item original="taking them out of dryer ." slot="7" text="taking out of" head="taking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="remove clothes from washer ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="hang wet clothes on close line ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="line" head="line"/>
+		</item>
+		<item original="wait until dry ." slot="3" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry" head="dry"/>
+		</item>
+		<item original="remove and fold ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="remove clothes from washer ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="hang wet clothes on close line ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="line" head="line"/>
+		</item>
+		<item original="wait until dry ." slot="3" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry" head="dry"/>
+		</item>
+		<item original="remove and fold ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="remove clothes from washer ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="hang wet clothes on close line ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="line" head="line"/>
+		</item>
+		<item original="wait until dry ." slot="3" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry" head="dry"/>
+		</item>
+		<item original="remove and fold ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="remove clothes from washer ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="hang wet clothes on close line ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="line" head="line"/>
+		</item>
+		<item original="wait until dry ." slot="3" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry" head="dry"/>
+		</item>
+		<item original="remove and fold ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="take wet clothes out of washer ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="take wet clothes out of washer ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="take wet clothes out of washer ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="go out side ." slot="1" text="go out" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="hang clothes on clothes line ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="clothes line" head="line"/>
+		</item>
+		<item original="go inside and wait ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="go out side ." slot="1" text="go out" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="hang clothes on clothes line ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="clothes line" head="line"/>
+		</item>
+		<item original="go inside and wait ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="go out side ." slot="1" text="go out" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="hang clothes on clothes line ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="clothes line" head="line"/>
+		</item>
+		<item original="go inside and wait ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="go out side ." slot="1" text="go out" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="hang clothes on clothes line ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="clothes line" head="line"/>
+		</item>
+		<item original="go inside and wait ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="go out side ." slot="1" text="go out" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="hang clothes on clothes line ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="clothes line" head="line"/>
+		</item>
+		<item original="go inside and wait ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="get wet clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="hang up clothes on clothes line ." slot="2" text="hang up on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="clothes line" head="line"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="get wet clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="hang up clothes on clothes line ." slot="2" text="hang up on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="clothes line" head="line"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="get wet clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="hang up clothes on clothes line ." slot="2" text="hang up on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="clothes line" head="line"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="get wet clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="hang up clothes on clothes line ." slot="2" text="hang up on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="clothes line" head="line"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="get wet clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="hang up clothes on clothes line ." slot="2" text="hang up on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="clothes line" head="line"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="get wet clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="hang up clothes on clothes line ." slot="2" text="hang up on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="clothes line" head="line"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="take wet clothes out of washer ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="open dryer cover/door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coverdoor" head="coverdoor"/>
+		</item>
+		<item original="put wet clothes in ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="pick up ones that fell on floor ." slot="4" text="pick up on" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ones" head="ones"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="close dryer cover/door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coverdoor" head="coverdoor"/>
+		</item>
+		<item original="turn dial to prefered setting ." slot="6" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="setting" head="setting"/>
+		</item>
+		<item original="push start button ." slot="7" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="take wet clothes out of washer ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="washer" head="washer"/>
+		</item>
+		<item original="open dryer cover/door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coverdoor" head="coverdoor"/>
+		</item>
+		<item original="put wet clothes in ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="pick up ones that fell on floor ." slot="4" text="pick up on" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ones" head="ones"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="close dryer cover/door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coverdoor" head="coverdoor"/>
+		</item>
+		<item original="turn dial to prefered setting ." slot="6" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="setting" head="setting"/>
+		</item>
+		<item original="push start button ." slot="7" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="put wet clothes into dryer ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="put in dryer cloth ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer cloth" head="cloth"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="put wet clothes in dryer ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="turn on dryer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+	</script>
+</scripts>

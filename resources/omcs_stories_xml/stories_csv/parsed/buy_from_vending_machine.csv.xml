@@ -1,0 +1,686 @@
+<scripts>
+	<script id="1">
+		<item original="go to vending machine ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vending machine" head="machine"/>
+		</item>
+		<item original="choose product ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="insert money into machine ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="make selection by pressing appropriate buttons ." slot="4" text="make by" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="selection" head="selection"/>
+			<ptcp text="buttons" head="buttons"/>
+		</item>
+		<item original="pick up product ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="collect change if any ." slot="6" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="locate vending machine ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vending machine" head="machine"/>
+		</item>
+		<item original="determine item to purchase ." slot="2" text="determine to" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="purchase" head="purchase"/>
+		</item>
+		<item original="locate necessary funds to purchase item ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="funds" head="funds"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="insert funds into vending machine for desired item ." slot="4" text="insert into for" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="funds" head="funds"/>
+			<ptcp text="machine" head="machine"/>
+			<ptcp text="desired item" head="item"/>
+		</item>
+		<item original="depress button indicating desired item ." slot="5" text="depress" head="depress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="desired item" head="item"/>
+		</item>
+		<item original="pick up item ." slot="6" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="decide what you want to buy ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="insert the right money ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="press the button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="take out your item ." slot="4" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="aquire change ." slot="1" text="aquire" head="aquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="internally choose product ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="insert change ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="enter product code ." slot="4" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product code" head="code"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="retrieve product ." slot="5" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="locate coins ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+		</item>
+		<item original="determine desired product ." slot="2" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired product" head="product"/>
+		</item>
+		<item original="insert coins ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+		</item>
+		<item original="enter product code ." slot="4" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product code" head="code"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="retrieve product ." slot="5" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="put money in ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="make selection ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="selection" head="selection"/>
+		</item>
+		<item original="take change ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="place money in vending machine ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="select item ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="take item from machine ." slot="3" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="collect change ." slot="4" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="putting in a dollar ." slot="1" text="putting in" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dollar" head="dollar"/>
+		</item>
+		<item original="selecting what food/drink you want ." slot="2" text="selecting" head="selecting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fooddrink" head="fooddrink"/>
+		</item>
+		<item original="grabbing the item ." slot="3" text="grabbing" head="grabbing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="recieving your change ." slot="4" text="recieving" head="recieving">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="put money in vending machine ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="select item to buy ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="get item ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="identify vending machine ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vending machine" head="machine"/>
+		</item>
+		<item original="identify desired product ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired product" head="product"/>
+		</item>
+		<item original="identify price of product ." slot="3" text="identify of" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="price" head="price"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="place correct amount of money in machine ." slot="4" text="place of in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="choose product ." slot="5" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="retrieve product from vending machine ." slot="6" text="retrieve from" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="insert coins ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+		</item>
+		<item original="make selection ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="selection" head="selection"/>
+		</item>
+		<item original="retreive selection ." slot="3" text="retreive" head="retreive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="selection" head="selection"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="choose goods ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="goods" head="goods"/>
+		</item>
+		<item original="put in correct amount of money ." slot="2" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="press button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="wait for goods to drop ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="goods" head="goods"/>
+		</item>
+		<item original="reach into flap ." slot="5" text="reach into" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="take out goods ." slot="6" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="goods" head="goods"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="feel thirst ." slot="1" text="feel" head="feel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thirst" head="thirst"/>
+		</item>
+		<item original="look for money ." slot="2" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="change paper money into coin ." slot="3" text="change into" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper money" head="money"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="coin" head="coin"/>
+		</item>
+		<item original="find vending machine ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vending machine" head="machine"/>
+		</item>
+		<item original="decide what you want ." slot="5" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put in money ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="push button retrieve item bought ." slot="7" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="see how much item costs ." slot="1" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="costs" head="costs"/>
+		</item>
+		<item original="put correct money in slot ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="slot" head="slot"/>
+		</item>
+		<item original="select desired item ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired item" head="item"/>
+		</item>
+		<item original="get item from dispenser ." slot="4" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="dispenser" head="dispenser"/>
+		</item>
+		<item original="get your change ." slot="5" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="put coins into machine ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="choose item ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="push button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="remove item ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="put money into vending machine ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="decide what you want ." slot="2" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="select that item on the screen ." slot="3" text="select on" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="screen" head="screen"/>
+		</item>
+		<item original="pick up your item ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="take your change if any ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="insert correct amount of change ." slot="1" text="insert of" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="select item ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="push the button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="recieve item ." slot="4" text="recieve" head="recieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="put coins in slot ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+			<ptcp text="slot" head="slot"/>
+		</item>
+		<item original="select an item by pushing it s button ." slot="2" text="select by" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="listen for item to drop ." slot="3" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="remove item from tray ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="get money ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="go to a vending machine ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a vending machine" head="machine"/>
+		</item>
+		<item original="put in the money ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="select a product ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="choose what you want ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look at code ." slot="2" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="code" head="code"/>
+		</item>
+		<item original="insert coins ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+		</item>
+		<item original="type in code ." slot="4" text="type in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="code" head="code"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="choose product ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="insert coins ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+		</item>
+		<item original="select correct product code ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="correct product code" head="code"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="collect change ." slot="4" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="approach machine ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="choose item ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="count money ." slot="3" text="count" head="count">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="insert money into machine ." slot="4" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="obtain change (if necessary) ." slot="5" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="obtain purchased item ." slot="6" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="purchased item" head="item"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="put coins into machine ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="press desired selection ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired selection" head="selection"/>
+		</item>
+		<item original="wait for product to drop ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="open door and grab item ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="walk towards machine ." slot="1" text="walk towards" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="put money in ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="press number ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="buy machine ." slot="4" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="put change in machine ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="select item you want ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="choose item ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="insert change ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="press selection button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="selection button" head="button"/>
+			<ptcp text="selection" head="selection"/>
+		</item>
+		<item original="remove item ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="take change ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="find machine ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="find change ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="decide on what item you want to puchase ." slot="3" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="insert coins ." slot="4" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+		</item>
+		<item original="press selection ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="selection" head="selection"/>
+		</item>
+		<item original="watch item fall ." slot="6" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="fall" head="fall"/>
+		</item>
+		<item original="open slot to remove item  enjoy ." slot="7" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slot" head="slot"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="choose product ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="put in coin ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coin" head="coin"/>
+		</item>
+		<item original="select product ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="get product ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="take money from pocket ." slot="1" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="pocket" head="pocket"/>
+		</item>
+		<item original="place money in the machine ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="choose the product you wish to have ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="press the button for the product ." slot="4" text="press for" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="take the product from the machine ." slot="5" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="consume the product ." slot="6" text="consume" head="consume">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="choose product ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+		<item original="insert money ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="push button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="retrieve product ." slot="4" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="product" head="product"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="choose vendindg machine ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="take out required money ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="required money" head="money"/>
+		</item>
+		<item original="insert money into machine ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="select object to be bought ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="take money ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="put money in machine ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="make selection ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="selection" head="selection"/>
+		</item>
+	</script>
+</scripts>

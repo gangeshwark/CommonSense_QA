@@ -1,0 +1,884 @@
+<scripts>
+	<script id="1">
+		<item original="look up store number ." slot="1" text="look up" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store number" head="number"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial number of store ." slot="3" text="dial of" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="when someone answers ask store hours ." slot="4" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone answers" head="answers"/>
+			<ptcp text="someone" head="someone"/>
+			<ptcp text="store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="say thank you ." slot="5" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="turn phone off ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find the store s phone number in a phonebook ." slot="1" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="phonebook" head="phonebook"/>
+		</item>
+		<item original="call the store using a telephone ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="ask if the store is open ." slot="3" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="go to the store location ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the store location" head="location"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="if the lights are off then it is closed ." slot="2" text="closed off" head="closed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lights" head="lights"/>
+		</item>
+		<item original="otherwise it is open ." slot="3" text="is " head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="open" head="open"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find out store phone number ." slot="1" text="find out" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store phone number" head="number"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="call store ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="ask for store hours if answer ." slot="3" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="listen to message if outside store hours ." slot="4" text="listen to outside" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="check website ." slot="5" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="website" head="website"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="find the phone book ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the phone book" head="book"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="look up the store in the phone book ." slot="2" text="look up in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="the phone book" head="book"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="find the phone ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="call the number you looked up ." slot="4" text="call up" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="ask if the store is open ." slot="5" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="hang up the phone ." slot="6" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="walking up to the entrance ." slot="1" text="walking up to" head="walking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="entrance" head="entrance"/>
+		</item>
+		<item original="yanking at the door ." slot="2" text="yanking at" head="yanking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="checking posted opening hours ." slot="3" text="posted" head="posted">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="checking" head="checking"/>
+			<ptcp text="opening hours" head="hours"/>
+			<ptcp text="opening" head="opening"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get phone number ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="call store ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="ask about hours of business ." slot="3" text="ask about of" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="business" head="business"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="locate the store ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="go to the entrance of the store ." slot="2" text="go to of" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="entrance" head="entrance"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="if the door is open and there are people shopping in the store then it is open ." slot="3" text="shopping in" head="shopping">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="find the store in the phone directory ." slot="1" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="the phone directory" head="directory"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="call the number ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="go to the store ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="try to open door ." slot="2" text="try" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="if door does not open look at sign on door for hours that it is open ." slot="3" text="look at on for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="sign" head="sign"/>
+			<ptcp text="hours" head="hours"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="call the store to ask for operating hours ." slot="1" text="call for" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="operating hours" head="hours"/>
+		</item>
+		<item original="check online for store operating hours ." slot="2" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="online" head="online"/>
+			<ptcp text="store operating hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="operating" head="operating"/>
+		</item>
+		<item original="visit the store and check the operating hours ." slot="3" text="visit" head="visit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="the operating hours" head="hours"/>
+			<ptcp text="operating" head="operating"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="look up the phone number of the store ." slot="1" text="look up of" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="call the store on the telephone ." slot="2" text="call on" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="ask the store clerk to tell you the hours of operation for the store ." slot="3" text="ask of for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the store clerk" head="clerk"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="operation" head="operation"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="go to the computer ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="open a web browser on the computer ." slot="2" text="open on" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a web browser" head="browser"/>
+			<ptcp text="web" head="web"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="find the web page of the store in a search engine ." slot="3" text="find of in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the web page" head="page"/>
+			<ptcp text="web" head="web"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="a search engine" head="engine"/>
+			<ptcp text="search" head="search"/>
+		</item>
+		<item original="open the web page ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the web page" head="page"/>
+			<ptcp text="web" head="web"/>
+		</item>
+		<item original="look for information on the web page about the store s hours ." slot="5" text="look for on about" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+			<ptcp text="the web page" head="page"/>
+			<ptcp text="web" head="web"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="hours" head="hours"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="call store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="ask person if store open ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="if automated message check store hours ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="going to the storefront ." slot="1" text="going going to" head="going">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="storefront" head="storefront"/>
+		</item>
+		<item original="trying the door ." slot="2" text="trying" head="trying">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="if the door does not open then the store is closed ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="if the door does open then the store is open ." slot="4" text="does " head="does">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="call the store s telephone number and inquire about their hours of business ." slot="1" text="call about of" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="telephone number" head="number"/>
+			<ptcp text="telephone" head="telephone"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="business" head="business"/>
+		</item>
+		<item original="if the hour you are calling is within their hours of business then they are open ." slot="2" text="calling within of" head="calling">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hour" head="hour"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="business" head="business"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="go to the store ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="look to see if people are inside ." slot="2" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="look to see if lights are on ." slot="3" text="look on" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lights" head="lights"/>
+		</item>
+		<item original="look to see if there is an open sign ." slot="4" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="sign" head="sign"/>
+		</item>
+		<item original="try to open the door ." slot="5" text="try" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="call store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="ask for store hours ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="call store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="ask for store hours ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="call store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="ask for store hours ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="find a phone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="find a phonebook ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phonebook" head="phonebook"/>
+		</item>
+		<item original="look up stores number ." slot="3" text="look up" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stores number" head="number"/>
+			<ptcp text="stores" head="stores"/>
+		</item>
+		<item original="call store ." slot="4" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="ask for opening hours ." slot="5" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="opening hours" head="hours"/>
+			<ptcp text="opening" head="opening"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="communicate with store ." slot="1" text="communicate with" head="communicate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="inquire store hours ." slot="2" text="inquire" head="inquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="determine if store is open ." slot="3" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="contact store ." slot="1" text="contact" head="contact">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="inquire hours ." slot="2" text="inquire" head="inquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hours" head="hours"/>
+		</item>
+		<item original="report findings ." slot="3" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="findings" head="findings"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="contact store ." slot="1" text="contact" head="contact">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="inquire hours ." slot="2" text="inquire" head="inquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hours" head="hours"/>
+		</item>
+		<item original="report findings ." slot="3" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="findings" head="findings"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="contact store ." slot="1" text="contact" head="contact">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="inquire hours ." slot="2" text="inquire" head="inquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hours" head="hours"/>
+		</item>
+		<item original="report findings ." slot="3" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="findings" head="findings"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="contact store ." slot="1" text="contact" head="contact">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="inquire hours ." slot="2" text="inquire" head="inquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hours" head="hours"/>
+		</item>
+		<item original="report findings ." slot="3" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="findings" head="findings"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="call store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="ask operating hours ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operating hours" head="hours"/>
+			<ptcp text="operating" head="operating"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="call the store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="listen to the answering machine ." slot="2" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the answering machine" head="machine"/>
+		</item>
+		<item original="if the current time is within the store hours then you know the store is open ." slot="3" text="know within" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="the store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="do one of the following ." slot="1" text="do of" head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the following" head="following"/>
+		</item>
+		<item original="go online the the store s webpage to see the store s hours ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="online the the store s webpage to see the store s hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="go to the store and see its hours of operation ." slot="3" text="go to of" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="operation" head="operation"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="find store telephone number ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store telephone number" head="number"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="dial store ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="ask for store hours ." slot="3" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="call store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="call store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="call store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="call store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="call store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="call store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="google store name ." slot="1" text="google" head="google">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store name" head="name"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="search on website for hours of operation ." slot="2" text="search on for of" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="website" head="website"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="operation" head="operation"/>
+		</item>
+		<item original="if not available call store for info ." slot="3" text="call for" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="not available" head="available"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="info" head="info"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="google store name ." slot="1" text="google" head="google">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store name" head="name"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="search on website for hours of operation ." slot="2" text="search on for of" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="website" head="website"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="operation" head="operation"/>
+		</item>
+		<item original="if not available call store for info ." slot="3" text="call for" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="not available" head="available"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="info" head="info"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="google store name ." slot="1" text="google" head="google">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store name" head="name"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="search on website for hours of operation ." slot="2" text="search on for of" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="website" head="website"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="operation" head="operation"/>
+		</item>
+		<item original="if not available call store for info ." slot="3" text="call for" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="not available" head="available"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="info" head="info"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="go to the store ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="see if the open sign is lit ." slot="2" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sign" head="sign"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="drive to store ." slot="1" text="drive to" head="drive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="park car ." slot="2" text="park" head="park">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="shut off car ." slot="3" text="shut off" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="get out of car ." slot="4" text="get out of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="lock car ." slot="5" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="walk to store door ." slot="6" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pull store door handle ." slot="7" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store door" head="door"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="drive to store ." slot="1" text="drive to" head="drive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="park car ." slot="2" text="park" head="park">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="shut off car ." slot="3" text="shut off" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="get out of car ." slot="4" text="get out of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="lock car ." slot="5" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="walk to store door ." slot="6" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pull store door handle ." slot="7" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store door" head="door"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="drive to store ." slot="1" text="drive to" head="drive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="park car ." slot="2" text="park" head="park">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="shut off car ." slot="3" text="shut off" head="shut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="get out of car ." slot="4" text="get out of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="lock car ." slot="5" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="walk to store door ." slot="6" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pull store door handle ." slot="7" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store door" head="door"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="go to the open ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the open" head="open"/>
+		</item>
+		<item original="see if the open sign is on ." slot="2" text="see on" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sign" head="sign"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="go to the store ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="look at the store hours posted on the door ." slot="2" text="look at on" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="check for an open sign ." slot="3" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sign" head="sign"/>
+		</item>
+		<item original="check for people in the store ." slot="4" text="check for in" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="try the door to see if it is locked ." slot="5" text="try" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="get into car ." slot="1" text="get into" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="drive to the mall ." slot="2" text="drive to" head="drive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mall" head="mall"/>
+		</item>
+		<item original="go into the mall ." slot="3" text="go into" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mall" head="mall"/>
+		</item>
+		<item original="walk over to the store ." slot="4" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="try the door ." slot="5" text="try" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go inside if open ." slot="6" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="open" head="open"/>
+		</item>
+		<item original="check the hours on the door ." slot="7" text="check on" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hours" head="hours"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="take out phone book ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone book" head="book"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="look up store s number in telephone book ." slot="2" text="look up in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="telephone book" head="book"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up phone ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial store s number ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="ask person who answers what the store hours are ." slot="5" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="the store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="hang up phone ." slot="6" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="take out phone book ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone book" head="book"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="look up store s number in telephone book ." slot="2" text="look up in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="telephone book" head="book"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up phone ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial store s number ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="ask person who answers what the store hours are ." slot="5" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="the store hours" head="hours"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="hang up phone ." slot="6" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="go to the store ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="see if it is open ." slot="2" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="open" head="open"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="call the store ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+</scripts>

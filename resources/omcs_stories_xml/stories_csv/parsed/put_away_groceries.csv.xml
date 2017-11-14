@@ -1,0 +1,666 @@
+<scripts>
+	<script id="1">
+		<item original="take groceries ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="open trash can ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="put groceries to trash can ." slot="3" text="put to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="close trash can ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="walk away ." slot="5" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take a beer ." slot="6" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="beer" head="beer"/>
+		</item>
+		<item original="drink it ." slot="7" text="drink" head="drink">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="place groceries on table or counter ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="counter" head="counter"/>
+		</item>
+		<item original="lift item out of bag ." slot="2" text="lift out of" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="move to location item belongs ." slot="3" text="belongs to" head="belongs">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="move" head="move"/>
+			<ptcp text="location item" head="item"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="place item in proper location ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="return to table or counter ." slot="5" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="counter" head="counter"/>
+		</item>
+		<item original="repeat ." slot="6" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="take the grocery items out of the bags ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the grocery items" head="items"/>
+			<ptcp text="grocery" head="grocery"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="place each item in it storage location ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="it storage location" head="location"/>
+			<ptcp text="storage" head="storage"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="remove each item from its grocery bag ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="its grocery bag" head="bag"/>
+			<ptcp text="grocery" head="grocery"/>
+		</item>
+		<item original="place the item where it goes ." slot="2" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="discard the empty grocery bags ." slot="3" text="discard" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the empty grocery bags" head="bags"/>
+			<ptcp text="grocery" head="grocery"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="open the fridge ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="take item out of the grocery bag ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="the grocery bag" head="bag"/>
+			<ptcp text="grocery" head="grocery"/>
+		</item>
+		<item original="put item into the fridge ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="repeat with all objects in grocery bag ." slot="4" text="repeat with in" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+			<ptcp text="grocery bag" head="bag"/>
+			<ptcp text="grocery" head="grocery"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="remove groceries from bags ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="put groceries into pantry or fridge ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="pantry" head="pantry"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="take items form the bags ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="put them in the cabinet or refrigerator ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cabinet" head="cabinet"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="remove groceries from bags ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="take groceries to fridge or pantry ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="fridge" head="fridge"/>
+			<ptcp text="pantry" head="pantry"/>
+		</item>
+		<item original="store bags ." slot="3" text="store" head="store">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="remove groceries from bags ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="put perishables in the fridge ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="perishables" head="perishables"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="put others in pantry ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="others" head="others"/>
+			<ptcp text="pantry" head="pantry"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="take groceries out of bag ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="put groceries in refridgerator or pantry ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="refridgerator" head="refridgerator"/>
+			<ptcp text="pantry" head="pantry"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="pick up the groceries ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="move to the location where the groceries are stored ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="place one grocery item in the place where it belongs ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="one grocery item" head="item"/>
+			<ptcp text="grocery" head="grocery"/>
+		</item>
+		<item original="repeat until all groceries are put away ." slot="4" text="repeat away" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="empty grocery bag ." slot="1" text="empty" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grocery bag" head="bag"/>
+			<ptcp text="grocery" head="grocery"/>
+		</item>
+		<item original="place each object in cabinet or fridge ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="cabinet" head="cabinet"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="bring groceries in from car ." slot="1" text="bring in from" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="unpack groceries from bags ." slot="2" text="unpack from" head="unpack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="put cold items in refrigerator ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="put frozen items in freezer ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="freezer" head="freezer"/>
+		</item>
+		<item original="put canned goods in pantry ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="goods" head="goods"/>
+			<ptcp text="pantry" head="pantry"/>
+		</item>
+		<item original="fold bags and store for recycling ." slot="6" text="fold for" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bags" head="bags"/>
+			<ptcp text="store" head="store"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="remove items from the bags ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="recycle or throw away bags ." slot="2" text="recycle away" head="recycle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="organize items ." slot="3" text="organize" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="place them where desired in kitchen ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="take groceries out of bags ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="sort groceries out ." slot="2" text="sort out" head="sort">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="place groceries in their specified places ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="their specified places" head="places"/>
+		</item>
+		<item original="put or throw bags away ." slot="4" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="carry groceries into kitchen ." slot="1" text="carry into" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="put perishables in fridge ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="perishables" head="perishables"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="put canned goods in pantry ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="goods" head="goods"/>
+			<ptcp text="pantry" head="pantry"/>
+		</item>
+		<item original="put toiletries into bathroom ." slot="4" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toiletries" head="toiletries"/>
+			<ptcp text="bathroom" head="bathroom"/>
+		</item>
+		<item original="put laundry soap in laundry room ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="laundry soap" head="soap"/>
+			<ptcp text="laundry" head="laundry"/>
+			<ptcp text="laundry room" head="room"/>
+		</item>
+		<item original="check over receipt ." slot="6" text="check over" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receipt" head="receipt"/>
+		</item>
+		<item original="put away shopping bags ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shopping bags" head="bags"/>
+			<ptcp text="shopping" head="shopping"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="take groceries ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="eat groceries ." slot="2" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="grab bag of groceries ." slot="1" text="grab of" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="identify the desired locations of the grocery items ." slot="2" text="identify of" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the desired locations" head="locations"/>
+			<ptcp text="the grocery items" head="items"/>
+			<ptcp text="grocery" head="grocery"/>
+		</item>
+		<item original="put items in respective locations ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="locations" head="locations"/>
+		</item>
+		<item original="save bag for future trips ." slot="4" text="save for" head="save">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="trips" head="trips"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="take out groceries from bag ." slot="1" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="store in cabinet ." slot="2" text="store in" head="store">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cabinet" head="cabinet"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="take out groceries from bag ." slot="1" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="store in cabinet ." slot="2" text="store in" head="store">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cabinet" head="cabinet"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="take out groceries from bag ." slot="1" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="store in cabinet ." slot="2" text="store in" head="store">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cabinet" head="cabinet"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="take out groceries from bag ." slot="1" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="store in cabinet ." slot="2" text="store in" head="store">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cabinet" head="cabinet"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="take out groceries from bag ." slot="1" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="store in cabinet ." slot="2" text="store in" head="store">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cabinet" head="cabinet"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="take out groceries from bag ." slot="1" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="store in cabinet ." slot="2" text="store in" head="store">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cabinet" head="cabinet"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="put away food ." slot="1" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="take groceries inside ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="empty bags ." slot="2" text="empty " head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="put groceries where they belong ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="take groceries inside ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="empty bags ." slot="2" text="empty " head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="put groceries where they belong ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="take groceries inside ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="empty bags ." slot="2" text="empty " head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="put groceries where they belong ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="get groceries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="put on kitchen table ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen table" head="table"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="grab grocery ." slot="3" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grocery" head="grocery"/>
+		</item>
+		<item original="put in cupboard/fridge ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cupboardfridge" head="cupboardfridge"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="get groceries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="put on kitchen table ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen table" head="table"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="grab grocery ." slot="3" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grocery" head="grocery"/>
+		</item>
+		<item original="put in cupboard/fridge ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cupboardfridge" head="cupboardfridge"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="get groceries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="put on kitchen table ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen table" head="table"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="grab grocery ." slot="3" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grocery" head="grocery"/>
+		</item>
+		<item original="put in cupboard/fridge ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cupboardfridge" head="cupboardfridge"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="get groceries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="put some in fridge ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="put some in cupboards ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="cupboards" head="cupboards"/>
+		</item>
+		<item original="put some in freezer ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="freezer" head="freezer"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="get groceries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="put some in fridge ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="put some in cupboards ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="cupboards" head="cupboards"/>
+		</item>
+		<item original="put some in freezer ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="freezer" head="freezer"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="get groceries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="put some in fridge ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="put some in cupboards ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="cupboards" head="cupboards"/>
+		</item>
+		<item original="put some in freezer ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="freezer" head="freezer"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="take groceries out of bags ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="sort out ." slot="2" text="sort out" head="sort">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put cold things in fridge ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="put rest away in cabinets ." slot="4" text="put away in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rest" head="rest"/>
+			<ptcp text="cabinets" head="cabinets"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="open refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="put away perishables ." slot="2" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="perishables" head="perishables"/>
+		</item>
+		<item original="open cupboards ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cupboards" head="cupboards"/>
+		</item>
+		<item original="put away nonperishables ." slot="4" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nonperishables" head="nonperishables"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="open refrigerator ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="put away perishables ." slot="2" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="perishables" head="perishables"/>
+		</item>
+		<item original="open cupboards ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cupboards" head="cupboards"/>
+		</item>
+		<item original="put away nonperishables ." slot="4" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nonperishables" head="nonperishables"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="take groceries ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="groceries" head="groceries"/>
+		</item>
+		<item original="place in shelf ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shelf" head="shelf"/>
+		</item>
+	</script>
+</scripts>

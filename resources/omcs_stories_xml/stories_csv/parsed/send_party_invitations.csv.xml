@@ -1,0 +1,914 @@
+<scripts>
+	<script id="1">
+		<item original="select guests ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guests" head="guests"/>
+		</item>
+		<item original="get their addresses ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="addresses" head="addresses"/>
+		</item>
+		<item original="write invitations ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="mail invitations ." slot="4" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="gather addresses ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="addresses" head="addresses"/>
+		</item>
+		<item original="gather invitation cards ." slot="2" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation cards" head="cards"/>
+			<ptcp text="invitation" head="invitation"/>
+		</item>
+		<item original="write invitations ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="put invitations in envelopes ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="address envelopes ." slot="5" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="post invitations ." slot="6" text="post" head="post">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="for each name on guests list ." slot="1" text="for for on" head="for">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="guests list" head="list"/>
+			<ptcp text="guests" head="guests"/>
+			<ptcp text="list" head="list"/>
+		</item>
+		<item original="write invitation ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+		</item>
+		<item original="write address on invitation ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="invitation" head="invitation"/>
+		</item>
+		<item original="next guest ." slot="4" text="next " head="next">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guest" head="guest"/>
+		</item>
+		<item original="mail invitations ." slot="5" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="make list with guests ." slot="1" text="make with" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="list" head="list"/>
+			<ptcp text="guests" head="guests"/>
+		</item>
+		<item original="get guests addresses ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guests addresses" head="addresses"/>
+			<ptcp text="guests" head="guests"/>
+		</item>
+		<item original="for each guest ." slot="3" text="for for" head="for">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guest" head="guest"/>
+		</item>
+		<item original="write invitation ." slot="4" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+		</item>
+		<item original="write address on invitation ." slot="5" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="invitation" head="invitation"/>
+		</item>
+		<item original="mail invitation ." slot="6" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="decide who to invite ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="write out invitations ." slot="2" text="write out" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="post them ." slot="3" text="post" head="post">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="make a guest list ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a guest list" head="list"/>
+			<ptcp text="guest" head="guest"/>
+		</item>
+		<item original="for each guest do ." slot="2" text="do for" head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guest" head="guest"/>
+		</item>
+		<item original="write an invitation ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+		</item>
+		<item original="write address on envelope ." slot="4" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="stamp envelope ." slot="5" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="send envelope ." slot="6" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="write details on cards ." slot="1" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="details" head="details"/>
+			<ptcp text="cards" head="cards"/>
+		</item>
+		<item original="put in envelopes ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="address envelopes ." slot="3" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="put postage on envelopes ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage" head="postage"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="put in mail box ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="make a list of people to invite ." slot="1" text="make of" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="list" head="list"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="write out the invitations ." slot="2" text="write out" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="put them in envelopes ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="write on their addresses ." slot="4" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="addresses" head="addresses"/>
+		</item>
+		<item original="attach a stamp ." slot="5" text="attach" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="post them ." slot="6" text="post" head="post">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="create party invitations ." slot="1" text="create" head="create">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="put each invitation in an envelope ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write guest name and address on each envelope ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guest name and address" head="name"/>
+			<ptcp text="guest" head="guest"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put stamp on envelope ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put envelopes in mail ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="make list of people to invite ." slot="1" text="make of" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="list" head="list"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="design party invitations ." slot="2" text="design" head="design">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="print party invitations ." slot="3" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="address invitations to people in list to invite ." slot="4" text="address to in" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="list" head="list"/>
+		</item>
+		<item original="put stamp on each invitation envelope ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="each invitation envelope" head="envelope"/>
+			<ptcp text="invitation" head="invitation"/>
+		</item>
+		<item original="mail out the invitations ." slot="6" text="mail out" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="make a guest list ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a guest list" head="list"/>
+			<ptcp text="guest" head="guest"/>
+		</item>
+		<item original="set a date for the party ." slot="2" text="set for" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="buy invitations ." slot="3" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="address invitations ." slot="4" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="put stamps on invitations ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamps" head="stamps"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="put invitations in the mail ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="choose list of people ." slot="1" text="choose of" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="list" head="list"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="buy invitations ." slot="2" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="fill out and address invitations ." slot="3" text="fill out" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="stamp invitations ." slot="4" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="mail invitations ." slot="5" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="wait for responses ." slot="6" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="responses" head="responses"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="place the party invitations into addressed and stamped envelopes ." slot="1" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+			<ptcp text="addressed and stamped envelopes" head="envelopes"/>
+		</item>
+		<item original="mail the envelopes ." slot="2" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="plan party ." slot="1" text="plan" head="plan">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="make guest list ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guest list" head="list"/>
+			<ptcp text="guest" head="guest"/>
+		</item>
+		<item original="buy invitations ." slot="3" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="find address book ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address book" head="book"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="address invitation to those on list ." slot="5" text="address to on" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+			<ptcp text="those" head="those"/>
+			<ptcp text="list" head="list"/>
+		</item>
+		<item original="stamp envelopes ." slot="6" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="mail invitations ." slot="7" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="create mailing list ." slot="1" text="create" head="create">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailing list" head="list"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+		<item original="buy or print invitations ." slot="2" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="fill in party information ." slot="3" text="fill in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party information" head="information"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="print mailing labels ." slot="4" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailing labels" head="labels"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+		<item original="put invitations in envelopes ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="place mailing labels on envelopes ." slot="6" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailing labels" head="labels"/>
+			<ptcp text="mailing" head="mailing"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="put stamps on envelopes and mail ." slot="7" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamps" head="stamps"/>
+			<ptcp text="envelopes" head="envelopes"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="make addressee list ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="list" head="list"/>
+		</item>
+		<item original="address invitations ." slot="2" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="stuff envelopes ." slot="3" text="stuff " head="stuff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stuff" head="stuff"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="stamp envelopes ." slot="4" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="mail invitations ." slot="5" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="arrange the party date ." slot="1" text="arrange" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the party date" head="date"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="print the invitations ." slot="2" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="identify the senders list ." slot="3" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the senders list" head="list"/>
+			<ptcp text="senders" head="senders"/>
+		</item>
+		<item original="send the invitations ." slot="4" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="select card for invitation ." slot="1" text="select for" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="card" head="card"/>
+			<ptcp text="invitation" head="invitation"/>
+		</item>
+		<item original="write out details you want guests to know about the party ." slot="2" text="write out about" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="details" head="details"/>
+			<ptcp text="guests" head="guests"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="pick out people you want to invite ." slot="3" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="send out cards ." slot="4" text="send out" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cards" head="cards"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="name list ." slot="1" text="name" head="name">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="list" head="list"/>
+		</item>
+		<item original="write on envelops ." slot="2" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelops" head="envelops"/>
+		</item>
+		<item original="add cards with small decripton ." slot="3" text="add with" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cards" head="cards"/>
+			<ptcp text="decripton" head="decripton"/>
+		</item>
+		<item original="stamps ." slot="4" text="stamps " head="stamps">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamps" head="stamps"/>
+		</item>
+		<item original="send mail ." slot="5" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="write out guest list ." slot="1" text="write out" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guest list" head="list"/>
+			<ptcp text="guest" head="guest"/>
+		</item>
+		<item original="write out invitations to everyone on guest list ." slot="2" text="write out to on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+			<ptcp text="everyone" head="everyone"/>
+			<ptcp text="guest list" head="list"/>
+			<ptcp text="guest" head="guest"/>
+		</item>
+		<item original="stuff invitations into envelopes ." slot="3" text="stuff into" head="stuff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="send out invitations in the mail ." slot="4" text="send out in" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="write party invitations ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="put party invitations in envelopes ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="mail party invitations ." slot="3" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="write party invitations ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="put party invitations in envelopes ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="mail party invitations ." slot="3" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="write party invitations ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="put party invitations in envelopes ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="mail party invitations ." slot="3" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="write party invitations ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="put party invitations in envelopes ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="mail party invitations ." slot="3" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="write party invitations ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="put party invitations in envelopes ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="mail party invitations ." slot="3" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="write party invitations ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="put party invitations in envelopes ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="mail party invitations ." slot="3" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="print part invitations ." slot="1" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="part invitations" head="invitations"/>
+			<ptcp text="part" head="part"/>
+		</item>
+		<item original="put the invitation in envelope ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail the invitations ." slot="3" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="print part invitations ." slot="1" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="part invitations" head="invitations"/>
+			<ptcp text="part" head="part"/>
+		</item>
+		<item original="put the invitation in envelope ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail the invitations ." slot="3" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="print part invitations ." slot="1" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="part invitations" head="invitations"/>
+			<ptcp text="part" head="part"/>
+		</item>
+		<item original="put the invitation in envelope ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail the invitations ." slot="3" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="print part invitations ." slot="1" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="part invitations" head="invitations"/>
+			<ptcp text="part" head="part"/>
+		</item>
+		<item original="put the invitation in envelope ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail the invitations ." slot="3" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="make invitation list ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation list" head="list"/>
+			<ptcp text="invitation" head="invitation"/>
+		</item>
+		<item original="fill in party details ." slot="2" text="fill in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party details" head="details"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="address cards and envelopes ." slot="3" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cards" head="cards"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="stuff envelopes ." slot="4" text="stuff " head="stuff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stuff" head="stuff"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="seal envelope ." slot="5" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place stamp on envelope ." slot="6" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="send invitations ." slot="7" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="find party invitations ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="purchase invitations ." slot="2" text="purchase" head="purchase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="write on invitations ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="find party invitations ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="purchase invitations ." slot="2" text="purchase" head="purchase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="write on invitations ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitations" head="invitations"/>
+		</item>
+		<item original="put in envelopes with addresses ." slot="4" text="put in with" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+			<ptcp text="addresses" head="addresses"/>
+		</item>
+		<item original="put on a stamp ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="put into mailbox ." slot="6" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="fill out party invitation ." slot="1" text="fill out" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitation" head="invitation"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="place invitation in envelope ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="address envelope ." slot="3" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place stamp on envelope ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place envelope into mailbox ." slot="5" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="fill out party invitation ." slot="1" text="fill out" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitation" head="invitation"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="place invitation in envelope ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="address envelope ." slot="3" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place stamp on envelope ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place envelope into mailbox ." slot="5" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="fill out party invitation ." slot="1" text="fill out" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitation" head="invitation"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="place invitation in envelope ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="address envelope ." slot="3" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place stamp on envelope ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place envelope into mailbox ." slot="5" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="decide who to invite ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="obtain address for each person on the list ." slot="2" text="obtain for on" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="list" head="list"/>
+		</item>
+		<item original="write date and time of party ." slot="3" text="write of" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="write location of party ." slot="4" text="write of" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="put invitation in envelope ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal and stamp envelope ." slot="6" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail invitation ." slot="7" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invitation" head="invitation"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="obtain party invitations ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="obtain stamps ." slot="2" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamps" head="stamps"/>
+		</item>
+		<item original="place one stamp on each envelope ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place all envelopes into mailbox ." slot="4" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="obtain party invitations ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="party invitations" head="invitations"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="obtain stamps ." slot="2" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamps" head="stamps"/>
+		</item>
+		<item original="place one stamp on each envelope ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place all envelopes into mailbox ." slot="4" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,1199 @@
+<scripts>
+	<script id="1">
+		<item original="go to mailbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="retrieve mail ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="walk to the mailbox ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take mail out of box ." slot="3" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="walk back home ." slot="5" text="walk home" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="go to mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="check if theres a mail ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="if theres a mail get it ." slot="3" text="theres" head="theres">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="walk to the mailbox ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the flap ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="reach in and grab the mail ." slot="3" text="reach in" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="pull the mail out of the mailbox ." slot="4" text="pull out of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close the flap ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="go to the mailbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="remove the mail ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="go outside ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk to the mailbox ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="retrieve mail from inside the mailbox ." slot="4" text="retrieve from inside" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close mailbox ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="go inside ." slot="6" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="open the door and walk to the mailbox ." slot="1" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="walk" head="walk"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open mailbox and take out mail ." slot="2" text="open out" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="walk back into the house ." slot="3" text="walk into" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="go to mailbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="retrieve mail ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="sort mail ." slot="4" text="sort" head="sort">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="go to the mailbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pick up the letters ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letters" head="letters"/>
+		</item>
+		<item original="bring the letters inside ." slot="4" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letters" head="letters"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="go to the door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go out through the door to the mailbox ." slot="3" text="go out through to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take the mail ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="go to the door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go out through the door to the mailbox ." slot="3" text="go out through to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take the mail ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="go to the door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go out through the door to the mailbox ." slot="3" text="go out through to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take the mail ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="go to the door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go out through the door to the mailbox ." slot="3" text="go out through to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take the mail ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="go to the door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go out through the door to the mailbox ." slot="3" text="go out through to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take the mail ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="go to the door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go out through the door to the mailbox ." slot="3" text="go out through to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take the mail ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="go to the door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go out through the door to the mailbox ." slot="3" text="go out through to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take the mail ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="go to the door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go out through the door to the mailbox ." slot="3" text="go out through to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open the mailbox ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take the mail ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put hand in mailbox ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pull mail from mailbox ." slot="3" text="pull from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put hand in mailbox ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pull mail from mailbox ." slot="3" text="pull from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put hand in mailbox ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pull mail from mailbox ." slot="3" text="pull from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put hand in mailbox ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pull mail from mailbox ." slot="3" text="pull from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put hand in mailbox ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pull mail from mailbox ." slot="3" text="pull from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put hand in mailbox ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pull mail from mailbox ." slot="3" text="pull from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put hand in mailbox ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pull mail from mailbox ." slot="3" text="pull from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put hand in mailbox ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pull mail from mailbox ." slot="3" text="pull from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put hand in mailbox ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pull mail from mailbox ." slot="3" text="pull from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="walk to mailbox ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="remove mail ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="goto mail ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="retrieve mail ." slot="2" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="hold mail ." slot="3" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="return to requester ." slot="4" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="requester" head="requester"/>
+		</item>
+		<item original="give mail to requester ." slot="5" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="requester" head="requester"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take out mail ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close box ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="goto mail ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="grab mail ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="hold mail ." slot="3" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="return with mail ." slot="4" text="return with" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="walk to mailbox ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open front of mailbox ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pull mail out of mailbox ." slot="3" text="pull out of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="walk back to house ." slot="5" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="open outlook ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlook" head="outlook"/>
+		</item>
+		<item original="open inbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="inbox" head="inbox"/>
+		</item>
+		<item original="click get mail ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mail ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="walk to mail box ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open door on mail box ." slot="2" text="open on" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="pull out the mail ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close the mail box ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="go outside ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the mail box ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open the mailbox ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="get the mail ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="bring the mail inside ." slot="5" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="go outside ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the mail box ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open the mailbox ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="get the mail ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="bring the mail inside ." slot="5" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="walk to door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="remove mail from letterbox ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="letterbox" head="letterbox"/>
+		</item>
+		<item original="pick up mail from floor ." slot="3" text="pick up from" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="walk to door ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="remove mail from letterbox ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="letterbox" head="letterbox"/>
+		</item>
+		<item original="pick up mail from floor ." slot="3" text="pick up from" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="go to mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mail box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="remove mail from mail box ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mail box" head="box"/>
+		</item>
+		<item original="close mail box ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="return to starting location ." slot="5" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="place mail in appropriate location ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="go to front door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="step onto porch ." slot="3" text="step onto" head="step">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="porch" head="porch"/>
+		</item>
+		<item original="open the mailbox ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="grab any mail inside ." slot="5" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="goto mail box ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mail box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="collect mail ." slot="3" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mail box ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="grab whatever is inside ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="open mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="grab whatever is inside ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk to mailbox ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open mail box ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="remove mail ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="carry indoors ." slot="5" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="get ready to go outside ." slot="1" text="to" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ready to go outside" head="ready"/>
+		</item>
+		<item original="go look in the mailbox ." slot="2" text="go in" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="look" head="look"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="see if there is any mail to get ." slot="3" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="pick up the contents ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="sort by bills and circulars ." slot="5" text="sort by" head="sort">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bills" head="bills"/>
+			<ptcp text="circulars" head="circulars"/>
+		</item>
+		<item original="close the mailbox ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="return inside ." slot="7" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="open the mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="stick hand into mailbox ." slot="2" text="stick into" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pull out mail ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="walk downstairs ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open mail box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="grab mail ." slot="3" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="walk downstairs ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open mail box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="grab mail ." slot="3" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="walk downstairs ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open mail box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="grab mail ." slot="3" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="walk downstairs ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open mail box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="grab mail ." slot="3" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="go to mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mail box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="look inside mailbox ." slot="3" text="look inside" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="see mail ." slot="4" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="grab mail ." slot="5" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="go to mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mail box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="look inside mailbox ." slot="3" text="look inside" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="see mail ." slot="4" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="grab mail ." slot="5" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="go downstairs to mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="reach in and grab the mail ." slot="3" text="reach in" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="go downstairs to mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="reach in and grab the mail ." slot="3" text="reach in" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="go downstairs to mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="reach in and grab the mail ." slot="3" text="reach in" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="go downstairs to mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="reach in and grab the mail ." slot="3" text="reach in" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="go downstairs to mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="reach in and grab the mail ." slot="3" text="reach in" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="go downstairs to mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="reach in and grab the mail ." slot="3" text="reach in" head="reach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="close mailbox ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="go to the mailbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="use key to open lock ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+		<item original="take mail ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="use key to lock ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="go to the mailbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="use key to open lock ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+		<item original="take mail ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="use key to lock ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="go to the mailbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="use key to open lock ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+		<item original="take mail ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="use key to lock ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,921 @@
+<scripts>
+	<script id="1">
+		<item original="break eggs ." slot="1" text="break" head="break">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="mix eggs with spices ." slot="2" text="mix with" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="spices" head="spices"/>
+		</item>
+		<item original="heat up pan ." slot="3" text="heat up" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="dump mixed eggs into pan ." slot="4" text="dump into" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait for one side to cook ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="turn cooked omelete ." slot="6" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooked omelete" head="omelete"/>
+		</item>
+		<item original="wait for second side to cook ." slot="7" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="break eggs ." slot="1" text="break" head="break">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="mix eggs together ." slot="2" text="mix" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="heat up pan ." slot="3" text="heat up" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="pour mixed eggs in pan ." slot="4" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait to cook on one side ." slot="5" text="wait on" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="turn  on the other side ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="remove pan and omelette ." slot="7" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="omelette" head="omelette"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="get an egg ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="get a frying pan ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="heat the frying pan ." slot="3" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="break egg ." slot="4" text="break" head="break">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="put egg in frying pan ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait to egg is done ." slot="6" text="wait to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="put egg on plate ." slot="7" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="get one or more eggs ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="heat a frying pan ." slot="2" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put oil in frying pan ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="break eggs in frying pan ." slot="4" text="break in" head="break">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait until eggs are all white ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="flip the eggs ." slot="6" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="put eggs on slices of bread ." slot="7" text="put on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="slices" head="slices"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="crack eggs into a bowl ." slot="1" text="crack into" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="scramble eggs ." slot="2" text="scramble" head="scramble">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="pour eggs into hot skillet ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="skillet" head="skillet"/>
+		</item>
+		<item original="when eggs are almost set sprinkle cheese on eggs ." slot="4" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="cheese" head="cheese"/>
+		</item>
+		<item original="fold omlette in half ." slot="5" text="fold in" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="omlette" head="omlette"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="wait until eggs have finished cooking ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="put omlette on plate ." slot="7" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="omlette" head="omlette"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get eggs ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="get a pan ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put the pan on the stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put butter in the pan ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="butter" head="butter"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="break the eggs ." slot="5" text="break" head="break">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="put eggs in the pan ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait until eggs are done ." slot="7" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="crack egg onto pan ." slot="1" text="crack onto" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put toppings on it ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toppings" head="toppings"/>
+		</item>
+		<item original="flip egg ." slot="3" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="let cook ." slot="4" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cook" head="cook"/>
+		</item>
+		<item original="put on plate ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="get fork and knife ." slot="6" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fork" head="fork"/>
+			<ptcp text="knife" head="knife"/>
+		</item>
+		<item original="eat ." slot="7" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="heat frying pan ." slot="1" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="crack eggs into bowl ." slot="2" text="crack into" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="mix up eggs ." slot="3" text="mix up" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="pour eggs onto pan ." slot="4" text="pour onto" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="flip eggs over ." slot="5" text="flip over" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="put ingredients on top of eggs ." slot="6" text="put on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="fold eggs over ingredients ." slot="7" text="fold over" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="break eggs into bowl ." slot="1" text="break into" head="break">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="pour small amount of milk into bowl ." slot="2" text="pour of into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="beat eggs ." slot="3" text="beat" head="beat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="heat frying pan on stove ." slot="4" text="heat on" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour eggs into frying pan ." slot="5" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait until eggs are half cooked ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="flip eggs over and place back in the frying pan ." slot="7" text="flip over back in" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="place frying pan over heat ." slot="1" text="place over" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="crack eggs into bowl ." slot="2" text="crack into" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="add omelette ingredients to eggs ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="stir eggs and omelette ingredients ." slot="4" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+		<item original="pour mixture into frying pan ." slot="5" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mixture" head="mixture"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="cook ." slot="6" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get eggs ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="break eggs into bowl ." slot="2" text="break into" head="break">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="beat eggs ." slot="3" text="beat" head="beat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="heat frying pan ." slot="4" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="add butter ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="butter" head="butter"/>
+		</item>
+		<item original="add eggs ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook ." slot="7" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="find ingredients ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+		<item original="chop vegestables and/or meat ." slot="2" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegestables andor meat" head="meat"/>
+			<ptcp text="andor" head="andor"/>
+		</item>
+		<item original="whip eggs together ." slot="3" text="whip" head="whip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="mix ingredients ." slot="4" text="mix" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+		<item original="add spices ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spices" head="spices"/>
+		</item>
+		<item original="fry the mix in a frying pan ." slot="6" text="fry in" head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="mix" head="mix"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="heat frying pan ." slot="1" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put oil or butter in pan ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="butter" head="butter"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="beat an egg with salt and pepper ." slot="3" text="beat with" head="beat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="salt" head="salt"/>
+			<ptcp text="pepper" head="pepper"/>
+		</item>
+		<item original="pour egg mixture in pan ." slot="4" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg mixture" head="mixture"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn around after a few minutes ." slot="5" text="turn around after" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="break egg in bowl ." slot="1" text="break in" head="break">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="add dash of milk ." slot="2" text="add of" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dash" head="dash"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="beat egg and milk ." slot="3" text="beat" head="beat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="milk" head="milk"/>
+		</item>
+		<item original="add ham mushrooms cheese ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ham mushrooms" head="mushrooms"/>
+			<ptcp text="ham" head="ham"/>
+			<ptcp text="cheese" head="cheese"/>
+		</item>
+		<item original="heat pan on stove ." slot="5" text="heat on" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="place mixture in pan on stove ." slot="6" text="place in on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mixture" head="mixture"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn when bottom is done ." slot="7" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="crack eggs into jug ." slot="1" text="crack into" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="jug" head="jug"/>
+		</item>
+		<item original="whisk eggs ." slot="2" text="whisk" head="whisk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="add salt and peper and whisk in ." slot="3" text="add in" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salt" head="salt"/>
+			<ptcp text="peper" head="peper"/>
+			<ptcp text="whisk" head="whisk"/>
+		</item>
+		<item original="put whisked eggs in frying pan ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="whisked eggs" head="eggs"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="pull the edges inwards as it cooks ." slot="5" text="pull as" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the edges inwards" head="inwards"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="cooks" head="cooks"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="crack egg ." slot="1" text="crack" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="beat egg ." slot="2" text="beat" head="beat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="place egg in pan on stove ." slot="3" text="place in on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="add vegetables ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add grated cheese ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cheese" head="cheese"/>
+		</item>
+		<item original="when egg is cooked fold egg mixture in half ." slot="6" text="cooked in" head="cooked">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="egg mixture" head="mixture"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="remove egg from pan ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="buy eggs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="cook eggs ." slot="2" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="omelette ." slot="1" text="omelette" head="omelette">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="crack egg into bowl ." slot="1" text="crack into" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="beat egg slightly ." slot="2" text="beat" head="beat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="place egg in hot oiled pan ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="cook until half cooked ." slot="4" text="cook until" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="add vegetables and cheese ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+			<ptcp text="cheese" head="cheese"/>
+		</item>
+		<item original="when fully cooked fold in half ." slot="6" text="cooked in" head="cooked">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="remove from pan and serve ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="crack open eggs into bowl ." slot="1" text="crack into" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="scramble eggs ." slot="2" text="scramble" head="scramble">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="mix in other vegetables ." slot="3" text="mix in" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="heat mixture over low heat on a saucepan ." slot="4" text="heat over on" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mixture" head="mixture"/>
+			<ptcp text="saucepan" head="saucepan"/>
+		</item>
+		<item original="serve hot ." slot="5" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hot" head="hot"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="crack egg ." slot="1" text="crack" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="mix egg ." slot="2" text="mix" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="cook egg in pan ." slot="3" text="cook in" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="add vegetables ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add cheese ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cheese" head="cheese"/>
+		</item>
+		<item original="fold egg in half ." slot="6" text="fold in" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="remove from pan and serve ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="wash pan and put on stove ." slot="1" text="wash on" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="crack egg in bowl and beat ." slot="3" text="crack in" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="cut onions peppers etc and put in pan ." slot="4" text="cut in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="peppers" head="peppers"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put egg in pan ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="flip omelette ." slot="6" text="flip" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="omelette" head="omelette"/>
+		</item>
+		<item original="turn off stove and serve omelette on plate ." slot="7" text="turn off on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+			<ptcp text="omelette" head="omelette"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="take out pan and bowl ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="take out eggs and milk abd butter ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs and milk abd butter" head="butter"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="abd" head="abd"/>
+		</item>
+		<item original="heat pan on medium with butter ." slot="3" text="heat on with" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="medium" head="medium"/>
+			<ptcp text="butter" head="butter"/>
+		</item>
+		<item original="crack 2 eggs in bowl ." slot="4" text="crack in" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="take out fork to whisk ." slot="5" text="take out to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fork" head="fork"/>
+			<ptcp text="whisk" head="whisk"/>
+		</item>
+		<item original="add milk and mix ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="mix" head="mix"/>
+		</item>
+		<item original="add to pan ." slot="7" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="open fridge ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="get an egg ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="crack egg ." slot="3" text="crack" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="put in pan ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="chop preferred vegetables ." slot="5" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add vegetables ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="cook egg ." slot="7" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="open fridge ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="get an egg ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="crack egg ." slot="3" text="crack" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+		<item original="put in pan ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="chop preferred vegetables ." slot="5" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add vegetables ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="cook egg ." slot="7" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="egg" head="egg"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="crack eggs ." slot="1" text="crack" head="crack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="put it in the pan ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="add vegetables ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="flip half of eggs over ." slot="4" text="flip over of" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+			<ptcp text="eggs" head="eggs"/>
+		</item>
+		<item original="serve with ketchup ." slot="5" text="serve with" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ketchup" head="ketchup"/>
+		</item>
+	</script>
+</scripts>

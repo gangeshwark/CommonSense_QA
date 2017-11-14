@@ -1,0 +1,1260 @@
+<scripts>
+	<script id="1">
+		<item original="pick up envelope ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="open flap of envelope ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flap" head="flap"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="remove contents of envelope ." slot="3" text="remove of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place envelope on counter ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="counter" head="counter"/>
+		</item>
+		<item original="place contents of envelope in separate pile ." slot="5" text="place of in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="pile" head="pile"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="take hold of indicated mail ." slot="1" text="take of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hold" head="hold"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="tear envelope along top fold of envelope being careful not to tear contents ." slot="2" text="tear along of" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="fold" head="fold"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="remove contents ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="locate a sharp object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="utilize the sharp object to cut open the piece of mail ." slot="2" text="utilize open of" head="utilize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="remove the contents of the envelope or package ." slot="3" text="remove of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="get knife ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knife" head="knife"/>
+		</item>
+		<item original="take letters one by one ." slot="2" text="take by" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letters" head="letters"/>
+		</item>
+		<item original="open using knife ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="using knife" head="knife"/>
+		</item>
+		<item original="read mail ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="next mail ." slot="5" text="next " head="next">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="pick up each envelope ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="cut a quarter of an inch off the top of the envelope ." slot="2" text="cut of off of" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quarter" head="quarter"/>
+			<ptcp text="inch" head="inch"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="remove the contents of the envelope ." slot="3" text="remove of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get knife ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knife" head="knife"/>
+		</item>
+		<item original="cut letter ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="get next letter ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="pick up a letter ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="cut open the letter with a letter opener ." slot="2" text="cut with" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="a letter opener" head="opener"/>
+		</item>
+		<item original="remove the letter s contents ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="repeat for all letters ." slot="4" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letters" head="letters"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="go to mailbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="get mail ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="bring mail in house ." slot="3" text="bring in" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="open the envelopes with letter opener ." slot="4" text="open with" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="take out paper inside envelopes ." slot="5" text="take out inside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="take letters one by one ." slot="1" text="take by" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letters" head="letters"/>
+		</item>
+		<item original="open letter using cutter ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="cutter" head="cutter"/>
+		</item>
+		<item original="place letter aside ." slot="3" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get paper cutter ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper cutter" head="cutter"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get envelopes one by one ." slot="2" text="get by" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="cut envelope open ." slot="3" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="get letter from envelope ." slot="4" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="take the mail ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open the envelope ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="take out the stationary inside the envelope ." slot="3" text="take out inside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the stationary" head="stationary"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="unfold the stationary ." slot="4" text="unfold" head="unfold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the stationary" head="stationary"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="go to the door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pick up the mail ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="take the mail to the table ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="open the mail ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="hold mail in one hand ." slot="1" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="get letter opener ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="slice open seal of mail with letter opener ." slot="3" text="slice of with" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="seal" head="seal"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="remove papers out of open envelopes ." slot="4" text="remove out of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="papers" head="papers"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="find the mail ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="find a letter opener ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="pick up a piece of mail ." slot="3" text="pick up of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="slice the top of the letter open with the mail opener ." slot="4" text="slice of with" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the top of the letter open with the mail opener" head="opener"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="repeat until all envelopes have been opened ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get letter opener ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="cut letter on the edge ." slot="2" text="cut on" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="edge" head="edge"/>
+		</item>
+		<item original="extract letter from envelope ." slot="3" text="extract from" head="extract">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="open next letter ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="gather all the mail into one pile ." slot="1" text="gather into" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="pile" head="pile"/>
+		</item>
+		<item original="pick up each piece of mail individually ." slot="2" text="pick up of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="rip open the sealed flap on the envelopes ." slot="3" text="rip on" head="rip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flap" head="flap"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="be careful of not ripping the paper in the envelopes ." slot="4" text="ripping of in" head="ripping">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="careful" head="careful"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="locate the mail ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="locate an envelope opener ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="an envelope opener" head="opener"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="utilize the envelope opener on each piece of mail ." slot="3" text="utilize on of" head="utilize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the envelope opener" head="opener"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="remove the contents of each envelope ." slot="4" text="remove of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="read the contents of each envelope ." slot="5" text="read of" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="pick up one envelope ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="pick up a letter-opener ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letteropener" head="letteropener"/>
+		</item>
+		<item original="insert the letter-opener into the back-flap of the envelope ." slot="3" text="insert into of" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letteropener" head="letteropener"/>
+			<ptcp text="backflap" head="backflap"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="pull the letter-opener towards the top of the envelope ." slot="4" text="pull towards of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letteropener" head="letteropener"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="set down this envelope ." slot="5" text="set down" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="aquire mail ." slot="1" text="aquire" head="aquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="aquire sharp object ." slot="2" text="aquire" head="aquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="cut open mail ." slot="3" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pick up mail ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="carefully open envelope without tearing contents ." slot="2" text="open without" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="remove contents ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="read contents ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="get the mail ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="get the letter opener ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="slice open the mail ." slot="3" text="slice" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="get mail ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="get opener ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="opener" head="opener"/>
+		</item>
+		<item original="open top of mail with the opener ." slot="3" text="open of with" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="opener" head="opener"/>
+		</item>
+		<item original="get contents out of the envelope ." slot="4" text="get out of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="get letter opener ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="slide under sealed letter flap ." slot="2" text="slide under" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sealed letter flap" head="flap"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="carefully pull upward cutting the paper ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="pull out the letter ." slot="4" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="get the mail ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open the envelopes ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="remove contents of envelopes ." slot="3" text="remove of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="get the mail from the mailbox ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open each envelope ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="look at the stuff inside ." slot="3" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stuff" head="stuff"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="get the mail from the mailbox ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take a single letter at a time ." slot="2" text="take at" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="unseal the adhesive strip ." slot="3" text="unseal" head="unseal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strip" head="strip"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="hold the envelope in one hand ." slot="1" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="pick up letter opener ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="slide letter opener under edge of envelope flap ." slot="3" text="slide under of" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="edge" head="edge"/>
+			<ptcp text="envelope flap" head="flap"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="move letter opener across top of envelope ." slot="4" text="move across of" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put down letter opener ." slot="5" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="remove contents from envelope ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="use letter opener ." slot="1" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="slide letter opener under envelope flap ." slot="2" text="slide under" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope flap" head="flap"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="slice open ." slot="3" text="slice open" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="use letter opener ." slot="1" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="slide letter opener under envelope flap ." slot="2" text="slide under" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope flap" head="flap"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="slice open ." slot="3" text="slice open" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="pick up am envelope ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="am envelope" head="envelope"/>
+			<ptcp text="am" head="am"/>
+		</item>
+		<item original="pick up a letter opener ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="insert the blade of the opener into the back of the envelope ." slot="3" text="insert of into of" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blade" head="blade"/>
+			<ptcp text="opener" head="opener"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="tear along the top edge of the envelope with the blade ." slot="4" text="tear along of with" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edge" head="edge"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="blade" head="blade"/>
+		</item>
+		<item original="pull the letter out of the envelope ." slot="5" text="pull out of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="rip open envelope ." slot="1" text="rip" head="rip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="check address ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="open ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pull contents out ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="read ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="check address ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="open ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pull contents out ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="read ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="check address ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="open ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pull contents out ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="read ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="check address ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="open ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pull contents out ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="read ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="check address ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="open ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pull contents out ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="read ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="check address ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="open ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pull contents out ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="read ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="check address ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="open ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pull contents out ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="read ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="check address ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="open ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pull contents out ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="read ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="check address ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="open ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pull contents out ." slot="3" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="read ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="get the mail ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="pick up envelope ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="open the top ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+		</item>
+		<item original="pull out paper inside ." slot="4" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper inside" head="inside"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="repeat steps 2-4 for each envelope ." slot="5" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="go to mailbox ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="take out mail ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="put on table ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="tear top of envelope ." slot="5" text="tear of" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="take out contents from envelope ." slot="6" text="take out from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="go to the mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="get the mail ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open it ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="pick up mail ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="use finger to tear top of envelope ." slot="2" text="use of" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="finger" head="finger"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="remove mail from envelope ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="type the mail address ." slot="1" text="type" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the mail address" head="address"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open the mail ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="pick up mail tear open at top ." slot="1" text="pick up at" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="open" head="open"/>
+			<ptcp text="top" head="top"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="hold enevelops ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="enevelops" head="enevelops"/>
+		</item>
+		<item original="put finger under flap of envelop ." slot="2" text="put under of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="finger" head="finger"/>
+			<ptcp text="flap" head="flap"/>
+			<ptcp text="envelop" head="envelop"/>
+		</item>
+		<item original="push finger away from you while tearing the paper ." slot="3" text="push from" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="finger" head="finger"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="take items out of enveop ." slot="4" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="enveop" head="enveop"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="hold enevelops ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="enevelops" head="enevelops"/>
+		</item>
+		<item original="put finger under flap of envelop ." slot="2" text="put under of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="finger" head="finger"/>
+			<ptcp text="flap" head="flap"/>
+			<ptcp text="envelop" head="envelop"/>
+		</item>
+		<item original="push finger away from you while tearing the paper ." slot="3" text="push from" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="finger" head="finger"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="take items out of enveop ." slot="4" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="enveop" head="enveop"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="receive letter ." slot="1" text="receive" head="receive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="open envelope ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="receive letter ." slot="1" text="receive" head="receive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="open envelope ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="receive letter ." slot="1" text="receive" head="receive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="open envelope ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="receive letter ." slot="1" text="receive" head="receive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="open envelope ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="receive letter ." slot="1" text="receive" head="receive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="open envelope ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="receive letter ." slot="1" text="receive" head="receive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="open envelope ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="take the letter ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="find a letter opener ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="slide the letter opener under the envelope flap ." slot="3" text="slide under" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="the envelope flap" head="flap"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="pull ." slot="4" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take out letter ." slot="5" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="read letter ." slot="6" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="take the letter ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="find a letter opener ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="slide the letter opener under the envelope flap ." slot="3" text="slide under" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the letter opener" head="opener"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="the envelope flap" head="flap"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="pull ." slot="4" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take out letter ." slot="5" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="read letter ." slot="6" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="hold mail in hand ." slot="1" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="slide finger along opening of envelope ." slot="2" text="slide along of" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="finger" head="finger"/>
+			<ptcp text="opening" head="opening"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="open envelope ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="pull out mail ." slot="4" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="open envelope ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="take out letter ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="pick up the envelope ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="turn it around so flap faces you ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="insert envelope opener into left corner of flap ." slot="3" text="insert into of" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope opener" head="opener"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="corner" head="corner"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="tear along the top of the envelop with flap ." slot="4" text="tear along of with" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="envelop" head="envelop"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="take out the mail inside the envelope ." slot="5" text="take out inside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="recycle the envelope ." slot="6" text="recycle" head="recycle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="pick up the envelope ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="turn it around so flap faces you ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="insert envelope opener into left corner of flap ." slot="3" text="insert into of" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope opener" head="opener"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="corner" head="corner"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="tear along the top of the envelop with flap ." slot="4" text="tear along of with" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="envelop" head="envelop"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="take out the mail inside the envelope ." slot="5" text="take out inside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="recycle the envelope ." slot="6" text="recycle" head="recycle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="pick up the envelope ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="turn it around so flap faces you ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="insert envelope opener into left corner of flap ." slot="3" text="insert into of" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope opener" head="opener"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="corner" head="corner"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="tear along the top of the envelop with flap ." slot="4" text="tear along of with" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="envelop" head="envelop"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="take out the mail inside the envelope ." slot="5" text="take out inside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="recycle the envelope ." slot="6" text="recycle" head="recycle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="pick up the envelope ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="turn it around so flap faces you ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="insert envelope opener into left corner of flap ." slot="3" text="insert into of" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope opener" head="opener"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="corner" head="corner"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="tear along the top of the envelop with flap ." slot="4" text="tear along of with" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="envelop" head="envelop"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="take out the mail inside the envelope ." slot="5" text="take out inside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="recycle the envelope ." slot="6" text="recycle" head="recycle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="obtain mail ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="take 1st envelope ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="rip open the envelope ." slot="3" text="rip" head="rip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="read contents ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="throw out any garbage ." slot="5" text="throw out" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="obtain mail ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="take 1st envelope ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="rip open the envelope ." slot="3" text="rip" head="rip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="read contents ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="throw out any garbage ." slot="5" text="throw out" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="go to mail box ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="get mail ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open letter ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="pull out note ." slot="4" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+		</item>
+	</script>
+</scripts>

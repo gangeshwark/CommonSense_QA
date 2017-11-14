@@ -1,0 +1,781 @@
+<scripts>
+	<script id="1">
+		<item original="open the document ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="swicth on the printer ." slot="2" text="swicth on" head="swicth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="put paper in the printer ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="click print on the computer ." slot="4" text="print on" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="make sure the printer is turned on ." slot="1" text="make on" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="make sure the printer has paper ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find the print button in the document s application window ." slot="3" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the print button" head="button"/>
+			<ptcp text="print" head="print"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="application window" head="window"/>
+			<ptcp text="application" head="application"/>
+		</item>
+		<item original="press the print button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the print button" head="button"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="open document in computer ." slot="1" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="make sure printer is on ." slot="2" text="make on" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="make sure printer is connected to the computer ." slot="3" text="make to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="press print button on computer screen ." slot="4" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print button" head="button"/>
+			<ptcp text="print" head="print"/>
+			<ptcp text="computer screen" head="screen"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="identify document ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="go to file menu ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="menu" head="menu"/>
+		</item>
+		<item original="click print ." slot="3" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="click print again ." slot="4" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+		</item>
+		<item original="turn printer on ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="print document ." slot="6" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="pressing print ." slot="1" text="pressing" head="pressing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="link computer with printer ." slot="1" text="link with" head="link">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="open document file ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document file" head="file"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="click on print icon ." slot="3" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="print icon" head="icon"/>
+			<ptcp text="print" head="print"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="turn on computer ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="open program ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="program" head="program"/>
+		</item>
+		<item original="type document ." slot="3" text="type" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="check for errors ." slot="4" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="errors" head="errors"/>
+		</item>
+		<item original="turn on printer ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="tell program to print ." slot="6" text="tell to" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="program" head="program"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="pick up printed sheet ." slot="7" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printed sheet" head="sheet"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="open document ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="do print command ." slot="2" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print command" head="command"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select printer ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="select print options ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print options" head="options"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="press go ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="go" head="go"/>
+		</item>
+		<item original="retrieve document from printer ." slot="6" text="retrieve from" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="bring up document on pc ." slot="1" text="bring up on" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="press print buton ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print buton" head="buton"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="load paper into printer ." slot="1" text="load into" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="turn on printer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="print document ." slot="3" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="load paper into printer ." slot="1" text="load into" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="turn on printer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="print document ." slot="3" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="selecting ." slot="1" text="selecting" head="selecting">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="page setup ." slot="2" text="page " head="page">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+			<ptcp text="setup" head="setup"/>
+		</item>
+		<item original="preview ." slot="3" text="preview " head="preview">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="preview" head="preview"/>
+		</item>
+		<item original="draft or text ." slot="4" text="draft" head="draft">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="text" head="text"/>
+		</item>
+		<item original="orientation ." slot="5" text="orientation" head="orientation">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="number of copies ." slot="6" text="number of" head="number">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="print command ." slot="7" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="command" head="command"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="put paper in printer ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="turn printer on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="click the print button ." slot="3" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="the print button" head="button"/>
+			<ptcp text="print" head="print"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="view document on screen ." slot="1" text="view on" head="view">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="screen" head="screen"/>
+		</item>
+		<item original="click the print option ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="the print option" head="option"/>
+			<ptcp text="print" head="print"/>
+			<ptcp text="option" head="option"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="open the program with the document in it ." slot="1" text="open with in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="program" head="program"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="go to file ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to print ." slot="3" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="turn on printer ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="select the desired settings ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the desired settings" head="settings"/>
+		</item>
+		<item original="say  ok ." slot="6" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ok" head="ok"/>
+		</item>
+		<item original="wait for printing to complete ." slot="7" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="type document ." slot="1" text="type" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="click file ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="file" head="file"/>
+		</item>
+		<item original="click print ." slot="3" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="accept settings ." slot="4" text="accept" head="accept">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="settings" head="settings"/>
+		</item>
+		<item original="turn on printer ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="put paper in ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="paper goes down ." slot="7" text="goes down" head="goes">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="send document to printer ." slot="1" text="send to" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="send document to printer ." slot="1" text="send to" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="send document to printer ." slot="1" text="send to" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="send document to printer ." slot="1" text="send to" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="send document to printer ." slot="1" text="send to" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="send document to printer ." slot="1" text="send to" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="turn on printer ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="connect printer to computer ." slot="2" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="open document on computer ." slot="3" text="open on" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="select print ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="turn on printer ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="connect printer to computer ." slot="2" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="open document on computer ." slot="3" text="open on" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="select print ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="click file ." slot="1" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="file" head="file"/>
+		</item>
+		<item original="click print preview ." slot="2" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="preview" head="preview"/>
+		</item>
+		<item original="load paper ." slot="3" text="load" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="click print ." slot="4" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="go to file ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to print ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select pages to print ." slot="3" text="select to" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pages" head="pages"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select copies to prin ." slot="4" text="select to" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+			<ptcp text="prin" head="prin"/>
+		</item>
+		<item original="select 'print' ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="go to file ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to print ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select pages to print ." slot="3" text="select to" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pages" head="pages"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select copies to prin ." slot="4" text="select to" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+			<ptcp text="prin" head="prin"/>
+		</item>
+		<item original="select 'print' ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="go to file ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to print ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select pages to print ." slot="3" text="select to" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pages" head="pages"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select copies to prin ." slot="4" text="select to" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+			<ptcp text="prin" head="prin"/>
+		</item>
+		<item original="select 'print' ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="click printer ." slot="1" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="click print ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="click printer ." slot="1" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="click print ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="click printer ." slot="1" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="click print ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="open document to print ." slot="1" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select file print ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select ok ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ok" head="ok"/>
+		</item>
+		<item original="close document ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="open document to print ." slot="1" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select file print ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select ok ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ok" head="ok"/>
+		</item>
+		<item original="close document ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="open document to print ." slot="1" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select file print ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select ok ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ok" head="ok"/>
+		</item>
+		<item original="close document ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="click printer ." slot="1" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="click ok ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="ok" head="ok"/>
+		</item>
+		<item original="make sure there is paper in printer ." slot="3" text="make in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="click printer ." slot="1" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="click ok ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="ok" head="ok"/>
+		</item>
+		<item original="make sure there is paper in printer ." slot="3" text="make in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="click printer ." slot="1" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="click ok ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="ok" head="ok"/>
+		</item>
+		<item original="make sure there is paper in printer ." slot="3" text="make in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="click printer ." slot="1" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="click ok ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="ok" head="ok"/>
+		</item>
+		<item original="make sure there is paper in printer ." slot="3" text="make in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="make sure printer is on ." slot="1" text="make on" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="hit the print icon ." slot="2" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the print icon" head="icon"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="make sure printer is on ." slot="1" text="make on" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="hit the print icon ." slot="2" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the print icon" head="icon"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="open up document to print ." slot="1" text="open up to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select printer icon ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer icon" head="icon"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="select # of copies ." slot="3" text="select of" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="select page range ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page range" head="range"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="select other document properties ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="other document properties" head="properties"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="press okay ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wait for document to print ." slot="7" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="open up document to print ." slot="1" text="open up to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="select printer icon ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="printer icon" head="icon"/>
+			<ptcp text="printer" head="printer"/>
+		</item>
+		<item original="select # of copies ." slot="3" text="select of" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="select page range ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page range" head="range"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="select other document properties ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="other document properties" head="properties"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="press okay ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="wait for document to print ." slot="7" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="click print ." slot="1" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+</scripts>

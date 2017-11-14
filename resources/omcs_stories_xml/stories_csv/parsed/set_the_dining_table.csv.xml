@@ -1,0 +1,461 @@
+<scripts>
+	<script id="1">
+		<item original="put cover ." slot="1" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="put dishes on table ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put glasses ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+		</item>
+		<item original="put silverware ." slot="4" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="silverware" head="silverware"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="clear all objects from the table surface ." slot="1" text="clear from" head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+			<ptcp text="the table surface" head="surface"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place a dish at each seating position ." slot="2" text="place at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="each seating position" head="position"/>
+			<ptcp text="seating" head="seating"/>
+		</item>
+		<item original="place a glass at each position ." slot="3" text="place at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glass" head="glass"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="place silverware at each position ." slot="4" text="place at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="silverware" head="silverware"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="place a napkin at each position ." slot="5" text="place at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkin" head="napkin"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="clear the table ." slot="1" text="clear" head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put placemats on table ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="placemats" head="placemats"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="arrange plates on table ." slot="3" text="arrange on" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="arrange utensils on table ." slot="4" text="arrange on" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="utensils" head="utensils"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="arrange napkins on table ." slot="5" text="arrange on" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkins" head="napkins"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="arrange drinking glasses on table ." slot="6" text="arrange on" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drinking glasses" head="glasses"/>
+			<ptcp text="drinking" head="drinking"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="determine how many people will be dining ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="put a tablecloth on the table ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tablecloth" head="tablecloth"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="take out all the dishes ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="take out all the cutlery ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutlery" head="cutlery"/>
+		</item>
+		<item original="put the cutlery and dishes on the table ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutlery" head="cutlery"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get silverware ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="silverware" head="silverware"/>
+		</item>
+		<item original="bring to table ." slot="2" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put on table ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="get plates ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+		</item>
+		<item original="bring to table ." slot="5" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put on table ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="locate dining table ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dining table" head="table"/>
+		</item>
+		<item original="locate cutlery ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutlery" head="cutlery"/>
+		</item>
+		<item original="put a fork on the left a knife on the right and a spoon at the top ." slot="3" text="put on on at" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fork" head="fork"/>
+			<ptcp text="left" head="left"/>
+			<ptcp text="knife" head="knife"/>
+			<ptcp text="right" head="right"/>
+			<ptcp text="spoon" head="spoon"/>
+			<ptcp text="top" head="top"/>
+		</item>
+		<item original="repeat process for each table setting ." slot="4" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="process" head="process"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="place appropiate number of plates on table ." slot="1" text="place of on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place appropriate number of cups on table ." slot="2" text="place of on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place appropriate number of forks and knives on table ." slot="3" text="place of on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="forks" head="forks"/>
+			<ptcp text="knives" head="knives"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="bring salt and pepper shakers to table ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salt and pepper shakers" head="shakers"/>
+			<ptcp text="salt" head="salt"/>
+			<ptcp text="pepper" head="pepper"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="identify dining table ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dining table" head="table"/>
+		</item>
+		<item original="identify silverware ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="silverware" head="silverware"/>
+		</item>
+		<item original="place silverware around dining table ." slot="3" text="place around" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="silverware" head="silverware"/>
+			<ptcp text="dining table" head="table"/>
+		</item>
+		<item original="identify food ." slot="4" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="place food around table on plates ." slot="5" text="place around on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="plates" head="plates"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="putting out the placemats ." slot="1" text="putting out" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="placemats" head="placemats"/>
+		</item>
+		<item original="putting out the proper amount of utensils ." slot="2" text="putting out of" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="utensils" head="utensils"/>
+		</item>
+		<item original="folding the napkins ." slot="3" text="the " head="the">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkins" head="napkins"/>
+		</item>
+		<item original="putting out plates for each place setting ." slot="4" text="putting out for" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="each place setting" head="setting"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="identify silverware and dishes ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="silverware" head="silverware"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="obtain silverware and dishes ." slot="2" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="silverware" head="silverware"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="place silverware dishes and napkins on table ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="napkins" head="napkins"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="lay out tablecloths ." slot="1" text="lay out" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tablecloths" head="tablecloths"/>
+		</item>
+		<item original="lay out placemats ." slot="2" text="lay out" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="placemats" head="placemats"/>
+		</item>
+		<item original="lay out plates ." slot="3" text="lay out" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+		</item>
+		<item original="lay out glasses ." slot="4" text="lay out" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+		</item>
+		<item original="lay out silverware ." slot="5" text="lay out" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="silverware" head="silverware"/>
+		</item>
+		<item original="lay out food ." slot="6" text="lay out" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="lay the tablecloth ." slot="1" text="lay" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tablecloth" head="tablecloth"/>
+		</item>
+		<item original="place the plates on the table ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place the forks on the table ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="forks" head="forks"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place the spoons on the table ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spoons" head="spoons"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place the knives on the table ." slot="5" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knives" head="knives"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place the glasses on the table ." slot="6" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place the napkins on the table ." slot="7" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkins" head="napkins"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="get the dishes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put them on the table ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get the dishes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put them on the table ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="put down placemats ." slot="1" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="placemats" head="placemats"/>
+		</item>
+		<item original="put the plate in the center ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plate" head="plate"/>
+			<ptcp text="center" head="center"/>
+		</item>
+		<item original="place the fork on the left ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fork" head="fork"/>
+			<ptcp text="left" head="left"/>
+		</item>
+		<item original="place the spoon and knife on the right ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spoon" head="spoon"/>
+			<ptcp text="knife" head="knife"/>
+			<ptcp text="right" head="right"/>
+		</item>
+		<item original="add a glass ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="add a centerpiece ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="centerpiece" head="centerpiece"/>
+		</item>
+		<item original="fold napkin ." slot="7" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkin" head="napkin"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="remove table cloth ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table cloth" head="cloth"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place plates ." slot="2" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+		</item>
+		<item original="place knives and forks ." slot="3" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knives" head="knives"/>
+			<ptcp text="forks" head="forks"/>
+		</item>
+		<item original="place drinks ." slot="4" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drinks" head="drinks"/>
+		</item>
+		<item original="fill drinks ." slot="5" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drinks" head="drinks"/>
+		</item>
+		<item original="place napkins ." slot="6" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkins" head="napkins"/>
+		</item>
+		<item original="add salt and pepper shakers ." slot="7" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salt" head="salt"/>
+			<ptcp text="shakers" head="shakers"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="remove table cloth ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table cloth" head="cloth"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place plates ." slot="2" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+		</item>
+		<item original="place knives and forks ." slot="3" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knives" head="knives"/>
+			<ptcp text="forks" head="forks"/>
+		</item>
+		<item original="place drinks ." slot="4" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drinks" head="drinks"/>
+		</item>
+		<item original="fill drinks ." slot="5" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drinks" head="drinks"/>
+		</item>
+		<item original="place napkins ." slot="6" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkins" head="napkins"/>
+		</item>
+		<item original="add salt and pepper shakers ." slot="7" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salt" head="salt"/>
+			<ptcp text="shakers" head="shakers"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="place the plates ." slot="1" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+		</item>
+		<item original="place the cutlery ." slot="2" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutlery" head="cutlery"/>
+		</item>
+		<item original="place the glasses ." slot="3" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="place the plates ." slot="1" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+		</item>
+		<item original="place the cutlery ." slot="2" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutlery" head="cutlery"/>
+		</item>
+		<item original="place the glasses ." slot="3" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+		</item>
+	</script>
+</scripts>

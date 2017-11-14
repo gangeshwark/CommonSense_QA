@@ -1,0 +1,1334 @@
+<scripts>
+	<script id="1">
+		<item original="place paper to be copied on photocopier glass ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="photocopier glass" head="glass"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="close lid ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find a photocopier ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="open photocopier lid ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place paper face-down on photocopier glass ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper facedown" head="facedown"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close photocopier lid ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press copy button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="go to a xerox machine ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="place paper on the copier ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="enter the number of copies desired ." slot="3" text="enter of" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="press the start button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="collect the copies ." slot="5" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="remove the paper from the copier ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="open the lid of the copier ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="put the paper on the scanning bed face down ." slot="2" text="put down on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="the scanning bed" head="bed"/>
+		</item>
+		<item original="close the lid of the copier ." slot="3" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="press the 'copy' button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="approach the photocopy machine ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="place the paper on the glass ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close the machine lid ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the machine lid" head="lid"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="select the number of desired copies ." slot="4" text="select of" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="desired copies" head="copies"/>
+		</item>
+		<item original="press the start button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="collect the copies ." slot="6" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="retrieve the original ." slot="7" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the original" head="original"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="for each page do ." slot="2" text="do for" head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="place page onto photocopier ." slot="3" text="place onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="press copy button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="collect copies ." slot="5" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="go to photocopier ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="for each page ." slot="3" text="for for" head="for">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="place on photocopier ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="press copy button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="until no more pages ." slot="6" text="until until" head="until">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pages" head="pages"/>
+		</item>
+		<item original="remove copies ." slot="7" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="take the paper to the photocopy machine ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="put the paper on the scanning platform facing down ." slot="2" text="put down on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="the scanning platform facing down" head="platform"/>
+		</item>
+		<item original="close the lid above the scanning platform ." slot="3" text="close above" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="the scanning platform" head="platform"/>
+		</item>
+		<item original="press the 'copy' button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="take paper to photocopy machine ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="remove staples if any ." slot="2" text="remove if" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="staples" head="staples"/>
+			<ptcp text="any" head="any"/>
+		</item>
+		<item original="put paper inside photocopy machine ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="press copy ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="collect copy and original ." slot="5" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="bring paper to photocopy machine ." slot="1" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="for each page do: ." slot="2" text="do for" head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="place page overphotocopy area ." slot="3" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page overphotocopy area" head="area"/>
+			<ptcp text="page" head="page"/>
+			<ptcp text="overphotocopy" head="overphotocopy"/>
+		</item>
+		<item original="press copy ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="wait for machine to copy page ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="proceed to next page ." slot="6" text="proceed to" head="proceed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="collect copies ." slot="7" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="locate a photocopier ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="move to the photocopier ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="place the paper to copy on top of the device ." slot="3" text="place on of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="device" head="device"/>
+		</item>
+		<item original="indicate to the copy machine how many copies to make ." slot="4" text="indicate to" head="indicate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the copy machine" head="machine"/>
+			<ptcp text="copy" head="copy"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="initiate the copying process ." slot="5" text="initiate" head="initiate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the copying process" head="process"/>
+			<ptcp text="copying" head="copying"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="put paper on copier face down ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="copier face" head="face"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="push copy button ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="wait for copy to come out ." slot="3" text="wait out for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="pick up the paper ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find a photocopier ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="move to the photocopier ." slot="3" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="place the paper face-down on the photocopier s glass ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the paper facedown" head="facedown"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="photocopier" head="photocopier"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="prss the copy button on the photocopier ." slot="5" text="prss on" head="prss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="go to photo copier ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photo copier" head="copier"/>
+			<ptcp text="photo" head="photo"/>
+		</item>
+		<item original="put paper on glass plate ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass plate" head="plate"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="press copy button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="retrieve original paper and copy ." slot="4" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="place paper in photocopier input tray ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="photocopier input tray" head="tray"/>
+			<ptcp text="input" head="input"/>
+		</item>
+		<item original="press print button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="print button" head="button"/>
+			<ptcp text="print" head="print"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="open photocopier door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="place paper on glass along edge ." slot="3" text="place on along" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+			<ptcp text="edge" head="edge"/>
+		</item>
+		<item original="press green button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="retrieve papers ." slot="5" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="papers" head="papers"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="go to the copier ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="raise the lid ." slot="2" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="put paper on glass plate ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass plate" head="plate"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close lid ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press copy button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="remove paper from glass plate ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass plate" head="plate"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="pick up copy ." slot="7" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="turn the photocopy machine on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="get the paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="open photocopier ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="copy each page ." slot="3" text="copy" head="copy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="close copier ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="get copied paper ." slot="5" text="copied" head="copied">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copied paper" head="paper"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="put paper in copier ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="select amount of copies ." slot="2" text="select of" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="push copy button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="retrieve copies ." slot="4" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="retrieve originals ." slot="5" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="originals" head="originals"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="place paper in photocopier ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="press copy ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="open top of photocopier ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="place paper to be copied facedown on the glass ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="facedown" head="facedown"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close top of photocopier ." slot="3" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="adjust photocopier settings ." slot="4" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier settings" head="settings"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="press 'copy' button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="remove copy from tray ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="remove original from photocopier ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="original" head="original"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="ppace paper of photocopy machine ." slot="1" text="ppace of" head="ppace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="press copy button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="ppace paper of photocopy machine ." slot="1" text="ppace of" head="ppace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="press copy button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="pick up the paper ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="go to the photocopier ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="put the paper in the photocopier ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="press the copy button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="insert paper into feeder ." slot="1" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="feeder" head="feeder"/>
+		</item>
+		<item original="select number of coppies ." slot="2" text="select of" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="coppies" head="coppies"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="put paper upside-down on glass ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper upsidedown" head="upsidedown"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close cover ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="press the '1' button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press 'start' ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="take the paper and copy out ." slot="5" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="locate the paper ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="place the paper on the glass under the lid of the copier ." slot="2" text="place on under of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="press the number of copies ." slot="3" text="press of" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="press the green start button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the green start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="put a piece of paper on the copier ." slot="1" text="put of on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="close the copier ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="press the copy button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="get the copy ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="open the copier ." slot="5" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="remove the original from the copier ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the original" head="original"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="close the copier ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="lift photocopier lid ." slot="1" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place paper on glass ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="align paper ." slot="3" text="align" head="align">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="close photocopier lid ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="select paper size ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper size" head="size"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="select number of copies ." slot="6" text="select of" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="press copy start button ." slot="7" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="open photocopier lid ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place paper face down onto copier ." slot="2" text="place down onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper face" head="face"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="close copier lid ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copier lid" head="lid"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="press copy button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="open coppier lid ." slot="5" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="remove paper and close lid ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="pick up copied sheet ." slot="7" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copied sheet" head="sheet"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="open photocopier lid ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place paper face down onto copier ." slot="2" text="place down onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper face" head="face"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="close copier lid ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copier lid" head="lid"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="press copy button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="open coppier lid ." slot="5" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="remove paper and close lid ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="pick up copied sheet ." slot="7" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copied sheet" head="sheet"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="fill photocopier with toner and paper ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+			<ptcp text="toner" head="toner"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="plug in photocopier and turn on ." slot="2" text="plug on in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="put the item that needs to be scanned on glass scanner ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="glass scanner" head="scanner"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="press scan on photocopier ." slot="4" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="allow photocopier to make copies ." slot="5" text="allow" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="open lid on copier ." slot="2" text="open on" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="place paper on photocopier ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="close lid on photocopier ." slot="4" text="close on" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="select number of copies ." slot="5" text="select of" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="press copy button ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="pick up copies ." slot="7" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="open photocopier lid ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place paper on glass ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close photocopier lid ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press copy button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="open photocopier lid ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place paper on glass ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close photocopier lid ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press copy button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="open photocopier lid ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place paper on glass ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close photocopier lid ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press copy button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="open photocopier lid ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place paper on glass ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close photocopier lid ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press copy button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="open photocopier lid ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place paper on glass ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close photocopier lid ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press copy button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="open photocopier lid ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place paper on glass ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close photocopier lid ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press copy button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="take document ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="lay on potocopier ." slot="2" text="lay on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="potocopier" head="potocopier"/>
+		</item>
+		<item original="press copy ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="take document ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="lay on potocopier ." slot="2" text="lay on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="potocopier" head="potocopier"/>
+		</item>
+		<item original="press copy ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="take document ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="lay on potocopier ." slot="2" text="lay on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="potocopier" head="potocopier"/>
+		</item>
+		<item original="press copy ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="take document ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="lay on potocopier ." slot="2" text="lay on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="potocopier" head="potocopier"/>
+		</item>
+		<item original="press copy ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="take document ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="lay on potocopier ." slot="2" text="lay on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="potocopier" head="potocopier"/>
+		</item>
+		<item original="press copy ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="take document ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="lay on potocopier ." slot="2" text="lay on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="potocopier" head="potocopier"/>
+		</item>
+		<item original="press copy ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="insert paper into feeder ." slot="1" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="feeder" head="feeder"/>
+		</item>
+		<item original="select quantity ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quantity" head="quantity"/>
+		</item>
+		<item original="select paper size ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper size" head="size"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="select double sided or single sided ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="select additional features stapling or hole punched ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="features" head="features"/>
+			<ptcp text="stapling" head="stapling"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="press start button ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="collect copy and original ." slot="7" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="insert coins into machine ." slot="1" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="place paper onto glass ." slot="2" text="place onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="select quantity and quality settings ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quantity and quality settings" head="settings"/>
+			<ptcp text="quantity" head="quantity"/>
+			<ptcp text="quality" head="quality"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="press copy ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="take new copy of sheet ." slot="6" text="take of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+			<ptcp text="sheet" head="sheet"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="insert coins into machine ." slot="1" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="place paper onto glass ." slot="2" text="place onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="select quantity and quality settings ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quantity and quality settings" head="settings"/>
+			<ptcp text="quantity" head="quantity"/>
+			<ptcp text="quality" head="quality"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="press copy ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="take new copy of sheet ." slot="6" text="take of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+			<ptcp text="sheet" head="sheet"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="place document on copier ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="press copy button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy button" head="button"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="pick up piece up paper ." slot="1" text="pick up up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="open pop up lid ." slot="2" text="open up" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pop" head="pop"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="place paper on glass ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="glass" head="glass"/>
+		</item>
+		<item original="close pop up lid ." slot="4" text="close up" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pop" head="pop"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="turn on photocopier ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="select number of copies ." slot="6" text="select of" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="press green button ." slot="7" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="find paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put in photocopier ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photocopier" head="photocopier"/>
+		</item>
+		<item original="pick number of copies ." slot="3" text="pick of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="pick black ." slot="4" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="black" head="black"/>
+		</item>
+		<item original="pick size of paper ." slot="5" text="pick of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="size" head="size"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="go ." slot="6" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="place paper on copier ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="close copier lid ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copier lid" head="lid"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="choose paper size ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper size" head="size"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="choose copy settings ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy settings" head="settings"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="push copy ." slot="5" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="place paper on copier ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="close copier lid ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copier lid" head="lid"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="choose paper size ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper size" head="size"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="choose copy settings ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy settings" head="settings"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="push copy ." slot="5" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="pick settings/ number of copies ." slot="1" text="pick of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="settings number" head="number"/>
+			<ptcp text="settings" head="settings"/>
+			<ptcp text="copies" head="copies"/>
+		</item>
+		<item original="align picture you want copied ." slot="2" text="align" head="align">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="close lid ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="wait for copy ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="lift lid ." slot="6" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="take out picture ." slot="7" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="place paper on copier ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="copier" head="copier"/>
+		</item>
+		<item original="close lid ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press copy ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="remove paper ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="start up the machine ." slot="1" text="start up" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="get paper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put paper in machine ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="press copy ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="get copys ." slot="5" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copys" head="copys"/>
+		</item>
+	</script>
+</scripts>

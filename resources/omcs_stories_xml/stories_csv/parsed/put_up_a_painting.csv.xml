@@ -1,0 +1,1390 @@
+<scripts>
+	<script id="1">
+		<item original="put a hanger on the wall ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hanger" head="hanger"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang the painting on the hanger ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="hanger" head="hanger"/>
+		</item>
+		<item original="straighten the painting ." slot="3" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get hammer and nail ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hammer and nail" head="nail"/>
+		</item>
+		<item original="tack nail into wall in appropriate place ." slot="2" text="nail into in" head="nail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tack" head="tack"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="hang painting ." slot="3" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="put a nail in the wall ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang a string on the back of the painting ." slot="2" text="hang on of" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="hang the painting s string over the nail ." slot="3" text="hang over" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find a nail ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="find a hammer ." slot="2" text="hammer" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a" head="a"/>
+		</item>
+		<item original="nail the nail into the wall with a hammer ." slot="3" text="nail into with" head="nail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="a" head="a"/>
+		</item>
+		<item original="put on the painting on the nail ." slot="4" text="put on on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="adjust the painting s position ." slot="5" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the painting s position" head="position"/>
+			<ptcp text="s" head="s"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="find the wall stud ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wall stud" head="stud"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer a nail into the wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang the painting from the nail ." slot="3" text="hang from" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="put nail in wall ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang up painting ." slot="2" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="put nail in wall ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="put paining on nail ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paining" head="paining"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get painting ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="screw nail in wall ." slot="2" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang painting on wall ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="put nail in wall ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang painting on nail ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="put nail in wall ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang painting on nail ." slot="2" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="arrange painting ." slot="3" text="arrange" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="decide on location ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="hammer hook into the wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hook" head="hook"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on hook ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="hook" head="hook"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="choose location for painting ." slot="1" text="choose for" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="put picture hanger on the wall ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture hanger" head="hanger"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on picture hanger ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="picture hanger" head="hanger"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="move to the painting ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="pick up the painting ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="move to a wall ." slot="3" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place a nail into the wall at the desired height for the painting ." slot="4" text="place into at for" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="the desired height" head="height"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="hang the wire on the back of the painting on the nail ." slot="5" text="hang on of on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wire" head="wire"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="find a good wall to hang the picture ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="get a picture hook ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a picture hook" head="hook"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="get a hammer ." slot="3" text="hammer" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a" head="a"/>
+		</item>
+		<item original="knock the hook into the wall ." slot="4" text="knock into" head="knock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hook" head="hook"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang the picture on the hook ." slot="5" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="hook" head="hook"/>
+		</item>
+		<item original="straighten the picture ." slot="6" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get a hammer ." slot="1" text="hammer" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a" head="a"/>
+		</item>
+		<item original="get a nail ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="hold hammer in one hand ." slot="3" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hammer" head="hammer"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="hold nail in other hand ." slot="4" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="use hammer to put nail into the wall ." slot="5" text="use into" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang painting off of the nail by the painting s string ." slot="6" text="hang of by" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="string" head="string"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="aquire painting ." slot="1" text="aquire" head="aquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="aquire nail ." slot="2" text="aquire" head="aquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="find wall ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="find stud in wall ." slot="4" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stud" head="stud"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail ." slot="5" text="hammer" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="hang painting ." slot="6" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="determine where to hang the painting ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="affix a hanger to the wall ." slot="2" text="affix to" head="affix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hanger" head="hanger"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang the painting on the hanger ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="hanger" head="hanger"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="find a good place ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="hammer a nail into the wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang the painting on the nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="clean the wall ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="use a paint roller ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a paint roller" head="roller"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="apply a paint to the wall ." slot="3" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="identify place to hammer nail ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place painting wire on nail ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting wire" head="wire"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="clear wall ." slot="1" text="clear" head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="put nail in wall ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang frame s wire on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="frame" head="frame"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="wire" head="wire"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="hammer in nail ." slot="1" text="hammer in" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="align painting ." slot="2" text="align" head="align">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="put painting on nail ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="get a hammer and nail ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a" head="a"/>
+			<ptcp text="hammer and nail" head="nail"/>
+		</item>
+		<item original="put the nail against the wall ." slot="2" text="put against" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hit the nail with the hammer ." slot="3" text="hit with" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="the" head="the"/>
+		</item>
+		<item original="hang the painting on the nail ." slot="4" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="choose location ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="choose hook according to wall construction ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hook" head="hook"/>
+			<ptcp text="construction" head="construction"/>
+		</item>
+		<item original="determine correct location of hook such that paining will hang as desired ." slot="3" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="hook" head="hook"/>
+			<ptcp text="paining" head="paining"/>
+		</item>
+		<item original="attach hook to wall in chosen location ." slot="4" text="attach to in" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hook" head="hook"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="chosen location" head="location"/>
+		</item>
+		<item original="hang painting on hook ." slot="5" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="hook" head="hook"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="decide where to hang ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put nail in wall ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang ." slot="3" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="place a nail or picture hanger on the wall ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a nail or picture hanger" head="hanger"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang up the painting without tilting it ." slot="2" text="hang up without" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="determine a good location ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="insert nails or screws into the wall ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nails" head="nails"/>
+			<ptcp text="screws" head="screws"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="make sure there is a string or bracket on the back of the painting if not attach one ." slot="3" text="make on of" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="bracket" head="bracket"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="mount painting on nails or screws ." slot="4" text="mount on" head="mount">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nails" head="nails"/>
+			<ptcp text="screws" head="screws"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="determine a good location ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="insert nails or screws into the wall ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nails" head="nails"/>
+			<ptcp text="screws" head="screws"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="make sure there is a string or bracket on the back of the painting if not attach one ." slot="3" text="make on of" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="bracket" head="bracket"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="mount painting on nails or screws ." slot="4" text="mount on" head="mount">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nails" head="nails"/>
+			<ptcp text="screws" head="screws"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="select a location to mount ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="decide where to hang the painting ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="measure out where the nail goes ." slot="2" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="hammer nail in wall ." slot="3" text="hammer in" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang painting ." slot="4" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="mark where nail belongs ." slot="1" text="mark" head="mark">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="hammer in nail ." slot="2" text="hammer in" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="hang picture on wall ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="check to see if it is streight ." slot="4" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="streight" head="streight"/>
+		</item>
+		<item original="if crooked fix ." slot="5" text="crooked " head="crooked">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fix" head="fix"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="lift painting ." slot="1" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="hook onto nail on wall ." slot="2" text="hook onto on" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="straighten painting ." slot="3" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="locate nail or hook on wall ." slot="1" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="hook" head="hook"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="put painting string or hook onto hook on wall ." slot="2" text="put onto on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting string or hook" head="string"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="hook" head="hook"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="straighten painting ." slot="3" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="locate nail or hook on wall ." slot="1" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="hook" head="hook"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="put painting string or hook onto hook on wall ." slot="2" text="put onto on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting string or hook" head="string"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="hook" head="hook"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="straighten painting ." slot="3" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="choose location ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="get a hammer and nail ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a" head="a"/>
+			<ptcp text="hammer and nail" head="nail"/>
+		</item>
+		<item original="find wood beam ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wood beam" head="beam"/>
+			<ptcp text="wood" head="wood"/>
+		</item>
+		<item original="hammer a nail into the beam ." slot="3" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="beam" head="beam"/>
+		</item>
+		<item original="hang the painting onto the nail ." slot="4" text="hang onto" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hammer nail into wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="3" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten picture ." slot="4" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="find right spot for painting ." slot="1" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spot" head="spot"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="tap a nail into the wall ." slot="2" text="tap into" head="tap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hook the painting over the nail ." slot="3" text="hook over" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="find right spot for painting ." slot="1" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spot" head="spot"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="tap a nail into the wall ." slot="2" text="tap into" head="tap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hook the painting over the nail ." slot="3" text="hook over" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="find right spot for painting ." slot="1" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spot" head="spot"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="tap a nail into the wall ." slot="2" text="tap into" head="tap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hook the painting over the nail ." slot="3" text="hook over" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="find right spot for painting ." slot="1" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spot" head="spot"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="tap a nail into the wall ." slot="2" text="tap into" head="tap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hook the painting over the nail ." slot="3" text="hook over" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="find right spot for painting ." slot="1" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spot" head="spot"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="tap a nail into the wall ." slot="2" text="tap into" head="tap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hook the painting over the nail ." slot="3" text="hook over" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="find right spot for painting ." slot="1" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spot" head="spot"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="tap a nail into the wall ." slot="2" text="tap into" head="tap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hook the painting over the nail ." slot="3" text="hook over" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="mark with pencil ." slot="2" text="mark with" head="mark">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="place nail to wall ." slot="3" text="place to" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="gently hammer nail into wall ." slot="4" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="5" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="adjust picture so level ." slot="6" text="adjust so" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="level" head="level"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="mark with pencil ." slot="2" text="mark with" head="mark">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="place nail to wall ." slot="3" text="place to" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="gently hammer nail into wall ." slot="4" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="5" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="adjust picture so level ." slot="6" text="adjust so" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="level" head="level"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="choose location on wall ." slot="1" text="choose on" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="mark with pencil ." slot="2" text="mark with" head="mark">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="place nail to wall ." slot="3" text="place to" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="gently hammer nail into wall ." slot="4" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture on nail ." slot="5" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="adjust picture so level ." slot="6" text="adjust so" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="level" head="level"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="get painting ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="find wall ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="get nail ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="get hammer ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hammer" head="hammer"/>
+		</item>
+		<item original="hammer nail on the wall ." slot="5" text="hammer on" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place painting ." slot="6" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="hang it ." slot="7" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="get painting ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="find wall ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="get nail ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="get hammer ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hammer" head="hammer"/>
+		</item>
+		<item original="hammer nail on the wall ." slot="5" text="hammer on" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place painting ." slot="6" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="hang it ." slot="7" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="pick a spot ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spot" head="spot"/>
+		</item>
+		<item original="get hammer ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hammer" head="hammer"/>
+		</item>
+		<item original="get nails ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nails" head="nails"/>
+		</item>
+		<item original="measure where to put ." slot="4" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hold picture up ." slot="5" text="hold up" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="take picture down ." slot="6" text="take down" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="hammer in nail ." slot="7" text="hammer in" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="measure the wall ." slot="1" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="mark the correct place for the painting ." slot="2" text="mark for" head="mark">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="get a small nail ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="hammer the nail into the spot you have marked ." slot="4" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="spot" head="spot"/>
+		</item>
+		<item original="hang the painting on the nail ." slot="5" text="hang on" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="straighten the painting ." slot="6" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="take hammer and nail ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hammer and nail" head="nail"/>
+		</item>
+		<item original="hammer the nail into the wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang the painting ." slot="3" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="take hammer and nail ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hammer and nail" head="nail"/>
+		</item>
+		<item original="hammer the nail into the wall ." slot="2" text="hammer into" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang the painting ." slot="3" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="select painting to hang ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="obtain a hammer ." slot="2" text="hammer" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a" head="a"/>
+		</item>
+		<item original="obtain picture hanging hardware ." slot="3" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="hardware" head="hardware"/>
+		</item>
+		<item original="located point on wall to hang painting ." slot="4" text="located on" head="located">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="point" head="point"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+		<item original="secure picturing hanging hardware to wall ." slot="5" text="secure to" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hardware" head="hardware"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="hang picture ." slot="6" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="level picture ." slot="7" text="level" head="level">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="pick a place to put it ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="hammer a nail in the wall ." slot="2" text="hammer in" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="put painting on the nail ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="nail" head="nail"/>
+		</item>
+		<item original="make sure painting is level ." slot="4" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="level" head="level"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="get hammer and nail ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hammer and nail" head="nail"/>
+		</item>
+		<item original="hammer nail in wall ." slot="2" text="hammer in" head="hammer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nail" head="nail"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+</scripts>

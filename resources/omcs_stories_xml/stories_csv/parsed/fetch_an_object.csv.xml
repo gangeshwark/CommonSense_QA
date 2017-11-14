@@ -1,0 +1,755 @@
+<scripts>
+	<script id="1">
+		<item original="locate the object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go to the object ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take the object ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go back to where you were with the object ." slot="4" text="go to with" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="go to where the object is ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick up the object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="carry the object back ." slot="3" text="carry back" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="find object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="move to object ." slot="2" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="grab object ." slot="3" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="carry object back ." slot="4" text="carry back" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="locate object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="move to object site ." slot="2" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="site" head="site"/>
+		</item>
+		<item original="pick up object ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring back object ." slot="4" text="bring back" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="find object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="using hands grab object ." slot="2" text="using" head="using">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="using hands" head="hands"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="lift it and bring it back to initial position ." slot="3" text="lift to" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="go to objects location ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects location" head="location"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+		<item original="pick up object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring back object ." slot="3" text="bring back" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="find object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="grab object ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring back object ." slot="3" text="bring back" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="search object ." slot="1" text="search" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="when object found grab it ." slot="2" text="object" head="object">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="return to initial position ." slot="3" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="locate object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="walk to object ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up object ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring object to desired location ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="desired location" head="location"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="find the object needed ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick up the object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take it to the proper destination ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="locate object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick up object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="come back with object ." slot="3" text="come with" head="come">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="look for object ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go to object ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take object ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring object back to where it is needed ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring it to its container ." slot="2" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="locate object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go to location of object ." slot="2" text="go to of" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="grasp object ." slot="3" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick up object ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="move to starting location ." slot="5" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="place object on surface ." slot="6" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="release grasp of object ." slot="7" text="release of" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grasp" head="grasp"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="locate the object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="move towards the object ." slot="2" text="move towards" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="grasp the object ." slot="3" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="carry the object towards the goal ." slot="4" text="carry towards" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="goal" head="goal"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="discern need for object ." slot="1" text="discern for" head="discern">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="need" head="need"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="remember where object is located ." slot="2" text="remember" head="remember">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="rise to retrieve object ." slot="3" text="rise" head="rise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go to object ." slot="4" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="clasp object ." slot="5" text="clasp" head="clasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="carry object to original location ." slot="6" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="use object ." slot="7" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="find the object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go to the object ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick up the object ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring the object back to the starting point ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the starting point" head="point"/>
+			<ptcp text="starting" head="starting"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="find the object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="retrieve the object ." slot="2" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="deliver the object ." slot="3" text="deliver" head="deliver">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="find the object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="retrieve the object ." slot="2" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="deliver the object ." slot="3" text="deliver" head="deliver">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="find object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go to object ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up object ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="return object to owner ." slot="4" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="owner" head="owner"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="find the object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="collect the object ." slot="2" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="deliver the object ." slot="3" text="deliver" head="deliver">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk to the object ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick it up ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="return to your original location ." slot="4" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="locate the object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go to the object ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick up the object ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="return with the object ." slot="4" text="return with" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="think about where is located ." slot="1" text="think about" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the object location ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the object location" head="location"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="locate the object visually ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="grasp the object with hand ." slot="4" text="grasp with" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="return the starting location with object ." slot="5" text="return with" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the starting location" head="location"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="identify wanted item ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="find the location of the item ." slot="2" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="pick up item ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="carry item to the desired location ." slot="4" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="the desired location" head="location"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="walk over to object and pick it up ." slot="1" text="walk over up" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="locate object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="walk to object ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="grasp object ." slot="3" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring object to desired location ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="desired location" head="location"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="locate object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="determine object ." slot="2" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="find object ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="go to the object ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick up the object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring the object to me ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="ask what object ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get the object ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring the object ." slot="3" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="thinking about where the object is located ." slot="1" text="thinking about" head="thinking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="going to the place where the object is located ." slot="2" text="going to" head="going">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="picking up the object ." slot="3" text="picking up" head="picking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="taking the object to the destination ." slot="4" text="taking to" head="taking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="thinking about where the object is located ." slot="1" text="thinking about" head="thinking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="going to the place where the object is located ." slot="2" text="going to" head="going">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="picking up the object ." slot="3" text="picking up" head="picking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="taking the object to the destination ." slot="4" text="taking to" head="taking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="thinking about where the object is located ." slot="1" text="thinking about" head="thinking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="going to the place where the object is located ." slot="2" text="going to" head="going">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="picking up the object ." slot="3" text="picking up" head="picking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="taking the object to the destination ." slot="4" text="taking to" head="taking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="look around ." slot="1" text="look around" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="locate object ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="retrieve object ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring it back to it s origin ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="origin" head="origin"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="look around ." slot="1" text="look around" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="locate object ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="retrieve object ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring it back to it s origin ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="origin" head="origin"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="go to object ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring object back to where you need it ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="go to object ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring object back to where you need it ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="go to object ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring object back to where you need it ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="go to the object ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick the object up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take the object to the person requesting it ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="go to the object ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick the object up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take the object to the person requesting it ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="go to the object ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick the object up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take the object to the person requesting it ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="seek object ." slot="1" text="seek" head="seek">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="locate object ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="grab object ." slot="3" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="know what needs fetching ." slot="1" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to room where object is found ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick up object ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="return to person that want s object ." slot="4" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="hand it over ." slot="5" text="hand over" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="you are done ." slot="6" text="are " head="are">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go back to previous task ." slot="7" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="task" head="task"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="locate object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="get object ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="locate object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="get object ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="get the object ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring the object back ." slot="2" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+</scripts>

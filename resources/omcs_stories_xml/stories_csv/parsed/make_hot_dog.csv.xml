@@ -1,0 +1,870 @@
+<scripts>
+	<script id="1">
+		<item original="take the hot dog from the freezer ." slot="1" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="freezer" head="freezer"/>
+		</item>
+		<item original="defrost the hot dog ." slot="2" text="defrost" head="defrost">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put the hot dog in the oven ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+		<item original="wait for some time ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="take out the hot dog ." slot="5" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="serve the hot dog with bread ." slot="6" text="serve with" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+		<item original="add catchup on the top ." slot="7" text="add on" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="catchup" head="catchup"/>
+			<ptcp text="top" head="top"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find hot dog ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="boil water ." slot="2" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place hot dog in boiling water ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait for some time ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="get hot-dog ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdog" head="hotdog"/>
+		</item>
+		<item original="grill hot-dog ." slot="2" text="grill" head="grill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdog" head="hotdog"/>
+		</item>
+		<item original="put hot-dog inside bun ." slot="3" text="put inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdog" head="hotdog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="pour mustard pickles onions inside bun ." slot="4" text="pour inside" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mustard pickles" head="pickles"/>
+			<ptcp text="mustard" head="mustard"/>
+			<ptcp text="onions" head="onions"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="serve hot-dog ." slot="5" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdog" head="hotdog"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="grill hotdog ." slot="1" text="grill" head="grill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdog" head="hotdog"/>
+		</item>
+		<item original="warm up bun ." slot="2" text="warm up" head="warm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="put hot dog on bun ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="add mustard ketchup pickles ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mustard ketchup pickles" head="pickles"/>
+			<ptcp text="mustard" head="mustard"/>
+			<ptcp text="ketchup" head="ketchup"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="place hot-dog on grill ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdog" head="hotdog"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+		<item original="wait for hot-dog to cook ." slot="2" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdog" head="hotdog"/>
+		</item>
+		<item original="remove hot-dog ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdog" head="hotdog"/>
+		</item>
+		<item original="place hot-dog on bun ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdog" head="hotdog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="add mustard and ketchup ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mustard" head="mustard"/>
+			<ptcp text="ketchup" head="ketchup"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="locate a hot dog ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="cook the hot dog according to a recipe ." slot="2" text="cook according to" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="recipe" head="recipe"/>
+		</item>
+		<item original="locate a bun ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="placed the cooked hot dog on a bun ." slot="4" text="placed on" head="placed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cooked hot dog" head="dog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="place desired condiments on the hot dog in the bun ." slot="5" text="place on in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired condiments" head="condiments"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="locate a hot dog ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="cook the hot dog according to a recipe ." slot="2" text="cook according to" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="recipe" head="recipe"/>
+		</item>
+		<item original="locate a bun ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="place the hot dog on the bun ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="add desired condiments to the hot dog in the bun ." slot="5" text="add to in" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired condiments" head="condiments"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get a bread roll ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a bread roll" head="roll"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+		<item original="get a sausage ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sausage" head="sausage"/>
+		</item>
+		<item original="cook the sausage ." slot="3" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sausage" head="sausage"/>
+		</item>
+		<item original="put the sausage in the roll ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sausage" head="sausage"/>
+			<ptcp text="roll" head="roll"/>
+		</item>
+		<item original="pour on mustard and tomato sauce ." slot="5" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mustard" head="mustard"/>
+			<ptcp text="tomato sauce" head="sauce"/>
+			<ptcp text="tomato" head="tomato"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="go to store ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="buy hot dogs ." slot="2" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+		</item>
+		<item original="come home ." slot="3" text="come" head="come">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="put hot dogs in frying pan ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place frying pan on heater burner ." slot="5" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="heater burner" head="burner"/>
+			<ptcp text="heater" head="heater"/>
+		</item>
+		<item original="cook for 3 minutes ." slot="6" text="cook for" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="turn hot dogs over and cook 2 more minutes ." slot="7" text="turn over" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="identify hot dog ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="remove hot dog from packaging ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="packaging" head="packaging"/>
+		</item>
+		<item original="identify pot ." slot="3" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="fill pot with water ." slot="4" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="heat water on stove ." slot="5" text="heat on" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="place hot dog in hot water ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="heat hot dog ." slot="7" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="open hot dog package ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hot dog package" head="package"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="place hot dog in pan ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="heat pan ." slot="3" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="cook hot dog until heated ." slot="4" text="cook until" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="remove hot dog from pan ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place hot dog on plate or bun ." slot="6" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="plate" head="plate"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="get bread an sausage ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bread" head="bread"/>
+			<ptcp text="sausage" head="sausage"/>
+		</item>
+		<item original="make a cut in the bread ." slot="2" text="make in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+		<item original="heat the sausage ." slot="3" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sausage" head="sausage"/>
+		</item>
+		<item original="put sausage in the cut ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sausage" head="sausage"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="put mustard on the sausage ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mustard" head="mustard"/>
+			<ptcp text="sausage" head="sausage"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="identify hot dog ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="identify pot ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="fill pot with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place pot on stove ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="heat water ." slot="5" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place hot dog in hot water ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="remove hot dog from water ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="get hot dog bun ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hot dog bun" head="bun"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="get hot dog ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put hot dog in bun ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="put condiments on hot dog ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="condiments" head="condiments"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="boil the hot dog ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="place in a bun ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="garnish as desired ." slot="3" text="desired" head="desired">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garnish" head="garnish"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="open hot dog package ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hot dog package" head="package"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="place hot dogs in boiling water ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="remove hot dogs after 5 minutes ." slot="4" text="remove after" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="place hot dogs in buns ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+			<ptcp text="buns" head="buns"/>
+		</item>
+		<item original="dispose of empty packages ." slot="6" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="packages" head="packages"/>
+		</item>
+		<item original="serve ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="boil some water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put the hot dog in the water ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait a few minutes ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="remove the hot dog from the water ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cut open a bun ." slot="5" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="put the hot dog on the bun ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="put some sauce on the hot dog ." slot="7" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sauce" head="sauce"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="open hot dog package ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hot dog package" head="package"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="gather ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="toast bread ." slot="1" text="toast" head="toast">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+		<item original="heat sausage ." slot="2" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sausage" head="sausage"/>
+		</item>
+		<item original="put sausage in bread ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sausage" head="sausage"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+		<item original="garnish with ketchup mustard relish onions ." slot="4" text="mustard with" head="mustard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garnish" head="garnish"/>
+			<ptcp text="ketchup" head="ketchup"/>
+			<ptcp text="relish onions" head="onions"/>
+			<ptcp text="relish" head="relish"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="remove hot dog from refrigerator ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="put hot dog in boiling water ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait 5 minutes ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="take out and put in bun ." slot="4" text="take out in" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="add toppings ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toppings" head="toppings"/>
+		</item>
+		<item original="enjoy ." slot="6" text="enjoy" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="place hotdog in bun ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdog" head="hotdog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="prepare the items ." slot="1" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="see the methodology ." slot="2" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="methodology" head="methodology"/>
+		</item>
+		<item original="prepare hot dog ." slot="3" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="cook sausage ." slot="1" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sausage" head="sausage"/>
+		</item>
+		<item original="put it on bun ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="put ketchup ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ketchup" head="ketchup"/>
+		</item>
+		<item original="put ralish ." slot="4" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ralish" head="ralish"/>
+		</item>
+		<item original="put mustard ." slot="5" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mustard" head="mustard"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="take ca hot dog bun ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="grill the hotdog ." slot="2" text="grill" head="grill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdog" head="hotdog"/>
+		</item>
+		<item original="put it on he bun ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="add the ketchup ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ketchup" head="ketchup"/>
+		</item>
+		<item original="add the mustard ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mustard" head="mustard"/>
+		</item>
+		<item original="add the onions ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="onions" head="onions"/>
+		</item>
+		<item original="warm it up ." slot="7" text="warm up" head="warm">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="verify that weiners and buns are available ." slot="1" text="verify" head="verify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weiners" head="weiners"/>
+			<ptcp text="buns" head="buns"/>
+		</item>
+		<item original="boil or grill weiners ." slot="2" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weiners" head="weiners"/>
+		</item>
+		<item original="place in buns ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="buns" head="buns"/>
+		</item>
+		<item original="enjoy ." slot="4" text="enjoy" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="ask hot dog maker ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hot dog maker" head="maker"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="make hot dog ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="eat hot dog ." slot="3" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="eat ." slot="4" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="chew ." slot="5" text="chew" head="chew">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="eat ." slot="6" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="chew ." slot="7" text="chew" head="chew">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="boil/grill hot dog ." slot="1" text="boilgrill" head="boilgrill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="toast bread ." slot="2" text="toast" head="toast">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="boil/grill hot dog ." slot="1" text="boilgrill" head="boilgrill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="toast bread ." slot="2" text="toast" head="toast">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="boil/grill hot dog ." slot="1" text="boilgrill" head="boilgrill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="toast bread ." slot="2" text="toast" head="toast">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="boil/grill hot dog ." slot="1" text="boilgrill" head="boilgrill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="toast bread ." slot="2" text="toast" head="toast">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="boil/grill hot dog ." slot="1" text="boilgrill" head="boilgrill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="toast bread ." slot="2" text="toast" head="toast">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="boil/grill hot dog ." slot="1" text="boilgrill" head="boilgrill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="toast bread ." slot="2" text="toast" head="toast">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bread" head="bread"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="remove weiner from package ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weiner" head="weiner"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="boil in water ." slot="2" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="take out from water and place in bun ." slot="3" text="take out from in" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="apply ketchup ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ketchup" head="ketchup"/>
+		</item>
+		<item original="apply mustard ." slot="5" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mustard" head="mustard"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="remove weiner from package ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weiner" head="weiner"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="boil in water ." slot="2" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="take out from water and place in bun ." slot="3" text="take out from in" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+		<item original="apply ketchup ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ketchup" head="ketchup"/>
+		</item>
+		<item original="apply mustard ." slot="5" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mustard" head="mustard"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="remove hot dogs from fridge ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="obtain a pot ." slot="2" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="fill the pot with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place the hot dogs into the water ." slot="4" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="bring to boil ." slot="5" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="boil 6 minutes and remove ." slot="6" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="serve hot dog with bun ." slot="7" text="serve with" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="remove hot dogs from fridge ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="obtain a pot ." slot="2" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="fill the pot with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place the hot dogs into the water ." slot="4" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="bring to boil ." slot="5" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="boil 6 minutes and remove ." slot="6" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="serve hot dog with bun ." slot="7" text="serve with" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="bun" head="bun"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="buy hot dogs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+		</item>
+		<item original="open package ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="fill pot with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place pot on hot stove ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="buy hotdogs ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdogs" head="hotdogs"/>
+		</item>
+		<item original="open package ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="fill pot with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place pot on hot stove ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="place hot dogs in pot ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dogs" head="dogs"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="cook hotdogs ." slot="6" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hotdogs" head="hotdogs"/>
+		</item>
+	</script>
+</scripts>

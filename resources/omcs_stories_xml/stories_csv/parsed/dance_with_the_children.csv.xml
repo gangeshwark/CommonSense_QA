@@ -1,0 +1,722 @@
+<scripts>
+	<script id="1">
+		<item original="put on children s music ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="call the children over ." slot="2" text="call over" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="start dancing ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dancing" head="dancing"/>
+		</item>
+		<item original="ask them to join ." slot="4" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="turn on music ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="dance to the music ." slot="2" text="dance to" head="dance">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="start music ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="hold children by hands ." slot="2" text="hold by" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="rotate slowly ." slot="3" text="rotate" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="put on music ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="get the children ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="hold children hands ." slot="3" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children hands" head="hands"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="get children ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="play music ." slot="2" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="holding children hands move to the music ." slot="3" text="holding to" head="holding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="holding children hands" head="hands"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="play music on stereo ." slot="1" text="play on" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="stereo" head="stereo"/>
+		</item>
+		<item original="hold childrens  hands ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="start rotating while children are following ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="find the children ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="ask the children to dance ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="move your appendages and torso in a rhythmic motion ." slot="3" text="move in" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appendages" head="appendages"/>
+			<ptcp text="torso" head="torso"/>
+			<ptcp text="motion" head="motion"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="pick a song to dance to with the children ." slot="1" text="pick to with" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="play the song ." slot="2" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="choose a dance to do to the song ." slot="3" text="choose to" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="begin to do the dance following its steps ." slot="4" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="play music ." slot="1" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="move around with children ." slot="2" text="move with" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="play music ." slot="1" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="wear comfortable shoes ." slot="2" text="wear" head="wear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="get up from seat ." slot="3" text="get up from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="seat" head="seat"/>
+		</item>
+		<item original="move to dance floor ." slot="4" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="dance in rhythm ." slot="5" text="dance in" head="dance">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rhythm" head="rhythm"/>
+		</item>
+		<item original="stop dancing when music ends ." slot="6" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dancing" head="dancing"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="turn on music ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="dance with children ." slot="2" text="dance with" head="dance">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="turn on music ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="have children form circle ." slot="2" text="form" head="form">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="circle" head="circle"/>
+		</item>
+		<item original="invite children to dance ." slot="3" text="invite" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="play music ." slot="1" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="move around to the beat ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="beat" head="beat"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="turn on music ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="make open space on the floor ." slot="2" text="make on" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="space" head="space"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="move your body to the music ." slot="3" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="body" head="body"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="hold childrens hands ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="dance and jump up and down ." slot="2" text="dance" head="dance">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="take child s hands in yours ." slot="1" text="take in" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="hold up their hands in front of you ." slot="2" text="hold up in of" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hands" head="hands"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="and walk around slowly or dance ." slot="3" text="walk around" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="play music ." slot="1" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="go to dancefloor ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dancefloor" head="dancefloor"/>
+		</item>
+		<item original="dance to music ." slot="3" text="dance to" head="dance">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="teach the steps ." slot="2" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="practice the steps ." slot="3" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="turn on the music ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="teach the steps ." slot="1" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="practice the steps to music ." slot="1" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="practice the steps ." slot="1" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="perform with the children ." slot="1" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="turn on the music ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="applause ." slot="1" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="practice the steps to music ." slot="1" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="perform with the children ." slot="2" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="applause ." slot="3" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="teach the steps ." slot="2" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="practice the steps ." slot="3" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="turn on the music ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="practice the steps to music ." slot="5" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="perform with the children ." slot="6" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="applause ." slot="7" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="teach the steps ." slot="2" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="practice the steps ." slot="3" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="turn on the music ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="practice the steps to music ." slot="5" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="perform with the children ." slot="6" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="applause ." slot="7" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="teach the steps ." slot="2" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="practice the steps ." slot="3" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="turn on the music ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="practice the steps to music ." slot="5" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="perform with the children ." slot="6" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="applause ." slot="7" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="teach the steps ." slot="2" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="practice the steps ." slot="3" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="turn on the music ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="practice the steps to music ." slot="5" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="perform with the children ." slot="6" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="applause ." slot="7" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="teach the steps ." slot="2" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="practice the steps ." slot="3" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="turn on the music ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="practice the steps to music ." slot="5" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="perform with the children ." slot="6" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="applause ." slot="7" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="teach the steps ." slot="2" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="practice the steps ." slot="3" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="turn on the music ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="practice the steps to music ." slot="5" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="perform with the children ." slot="6" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="applause ." slot="7" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="teach the steps ." slot="2" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="practice the steps ." slot="3" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="turn on the music ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="practice the steps to music ." slot="5" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="perform with the children ." slot="6" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="applause ." slot="7" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="teach the steps ." slot="2" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="practice the steps ." slot="3" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="turn on the music ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="practice the steps to music ." slot="5" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="perform with the children ." slot="6" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="applause ." slot="7" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="teach the steps ." slot="2" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="practice the steps ." slot="3" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="turn on the music ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="practice the steps to music ." slot="5" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="perform with the children ." slot="6" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="applause ." slot="7" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="describe the dance ." slot="1" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="teach the steps ." slot="2" text="teach" head="teach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="practice the steps ." slot="3" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="turn on the music ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="practice the steps to music ." slot="5" text="practice to" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="perform with the children ." slot="6" text="perform with" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="applause ." slot="7" text="applause " head="applause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applause" head="applause"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="play music ." slot="1" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="dance with children ." slot="2" text="dance with" head="dance">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="put music on ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="make sure it is pleasant music ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="let the child think fun ." slot="3" text="think" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="fun" head="fun"/>
+		</item>
+		<item original="let the child dance freely ." slot="4" text="dance" head="dance">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="be patient ." slot="5" text="be " head="be">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patient" head="patient"/>
+		</item>
+		<item original="show steps slowly ." slot="6" text="show" head="show">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="have fun ." slot="7" text="have " head="have">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fun" head="fun"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="collect the children ." slot="1" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="tell them about a dance ." slot="2" text="tell about" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="prepare with stretches ." slot="3" text="prepare with" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stretches" head="stretches"/>
+		</item>
+		<item original="give each child a role in the dance ." slot="4" text="give in" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="role" head="role"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+		<item original="begin practising ." slot="5" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="practise on perfection ." slot="6" text="practise on" head="practise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="perfection" head="perfection"/>
+		</item>
+		<item original="complete the dance together ." slot="7" text="complete" head="complete">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dance" head="dance"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="turn on music ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="move ." slot="2" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+</scripts>

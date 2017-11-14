@@ -1,0 +1,1574 @@
+<scripts>
+	<script id="1">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add soap ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="place dishes in sink ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="use sponge to wipe dishes ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse dish ." slot="5" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="place in clean side of sink ." slot="6" text="place in of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="putting the dishes into the soap water ." slot="1" text="putting into" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="the soap water" head="water"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="wash them ." slot="2" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="load the dishwasher ." slot="1" text="load" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="start the dishwasher ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="put dish soap in the sink ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish soap" head="soap"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="fill the sink ." slot="4" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="scrub each dish ." slot="5" text="scrub " head="scrub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scrub" head="scrub"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="rinse each dish ." slot="6" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="dry each dish ." slot="7" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="put dishes in dishwasher ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="put soap in dishwasher ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="turn on dishwasher ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="place dishes in sink ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="fill sink with water and soap ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="run cloth or sponge over each dish wiping away dirt ." slot="3" text="run away over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="dirt" head="dirt"/>
+		</item>
+		<item original="rinse each dish ." slot="4" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="place rinsed dishes in drainboard ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="drainboard" head="drainboard"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="gather dirty dishes in sink ." slot="1" text="gather in" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="put dishes in dishwasher one by one ." slot="2" text="put in by" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="pour detergent in dishwasher ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close dishwasher door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn dishwasher on ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="turn water on in the sink ." slot="1" text="turn on in" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="scrape each dish off into the sink ." slot="2" text="scrape off into" head="scrape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="place the dish in the dishwasher ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="turn on the dishwasher ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="put dishes inside dishwasher ." slot="1" text="put inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="put detergent in dishwasher ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close dishwasher ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="turn on dishwasher ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="gather dishes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put dishes in dishwasher ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="put detergent in dishwasher ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="turn on dishwasher ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="wait for dishwasher to finish ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="remove dishes ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="gather dishes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put dishes in sink ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="ran water over them ." slot="3" text="ran over" head="ran">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="using a sponge with detergent scrub dishes ." slot="4" text="using with" head="using">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="detergent scrub dishes" head="dishes"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="scrub" head="scrub"/>
+		</item>
+		<item original="rinse dishes ." slot="5" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="leave dishes to dry ." slot="6" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="place dishes in dishwasher ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="add detergent ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+		</item>
+		<item original="turn dishwasher on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="wait for dishwasher to finish ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="remove dirty dishes from where they are ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="place them inside dishwasher ." slot="2" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="add detergent ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+		</item>
+		<item original="turn on dishwasher ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="wait for dishwasher  to finish ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="remove dishes and leave to dry ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="bring dishes to sink ." slot="1" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="run water over dishes ." slot="2" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="for each dish do ." slot="3" text="for for" head="for">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="do" head="do"/>
+		</item>
+		<item original="take dish ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="clean with detergent and sponge ." slot="5" text="clean with" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="rinse dish ." slot="6" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="leave to dry ." slot="7" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="load dishwasher ." slot="1" text="load" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="put detergent in dishwasher ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="start dishwasher ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="wait until dishwasher is done ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="unload dishwasher ." slot="5" text="unload" head="unload">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="fill a bowl with hot water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put in some washing up liquid ." slot="2" text="put in up" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washing" head="washing"/>
+			<ptcp text="liquid" head="liquid"/>
+		</item>
+		<item original="wash all the dirty dishes put them on the draining board to dry ." slot="3" text="wash on" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="the draining board" head="board"/>
+		</item>
+		<item original="empty the bowl ." slot="4" text="empty" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="take all the stuff from the dishes and throw in the garbage ." slot="1" text="take from in" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stuff" head="stuff"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+		<item original="put liquid soap ." slot="2" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="wash with water ." slot="3" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="remove dishes from table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="rinse food particles from dishes ." slot="2" text="rinse from" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food particles" head="particles"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="open dishwasher door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="place dishes in dishwasher ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="add detergent to dispenser in dishwasher ." slot="5" text="add to in" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dispenser" head="dispenser"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close dishwasher door ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="start dishwasher ." slot="7" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="place dishes in dishwasher ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="fill dishwasher with soap ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="set dishwasher to correct setting ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close and start dishwasher ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="fill sink with hot water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour liquid soap into water ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="dip dish in hot soapy water ." slot="3" text="dip in" head="dip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="rub soapy water all over dish ." slot="4" text="rub over" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="rinse dish with clean water ." slot="5" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place dish in drying rack ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="drying rack" head="rack"/>
+			<ptcp text="drying" head="drying"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="put hot water in sink ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="add a little cold water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add some detergent ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+		</item>
+		<item original="wash the non greasy dishes first ." slot="4" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="use a dish cloth ." slot="5" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a dish cloth" head="cloth"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="wash the rest of the dishes ." slot="6" text="wash of" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rest" head="rest"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse dishes with clean water ." slot="7" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="collect dishes ." slot="1" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="fill sink with water and soap ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="scrub dishes ." slot="3" text="scrub " head="scrub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scrub" head="scrub"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse dishes ." slot="4" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="dry dishes ." slot="5" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put away dishes ." slot="6" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="take dishes to kitchen ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="rinse off dishes ." slot="2" text="rinse off" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="place dishes in dishwasher ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="add detergent ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+		</item>
+		<item original="close dish washer ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish washer" head="washer"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="turn dishwasher on ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="rinse dishes with water ." slot="1" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="scrub dishes with soapy sponge ." slot="2" text="scrub with" head="scrub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scrub dishes" head="dishes"/>
+			<ptcp text="scrub" head="scrub"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="place dishes in drying rack ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="drying rack" head="rack"/>
+			<ptcp text="drying" head="drying"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add dish soap ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish soap" head="soap"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put dirty dishes in sink full of water ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe dishes with sponge and soapy water ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sponge and soapy water" head="water"/>
+		</item>
+		<item original="rinse dishes under clear running water ." slot="5" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="stack dishes in drainer to dry ." slot="6" text="stack in" head="stack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="drainer" head="drainer"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add dish soap ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish soap" head="soap"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put dirty dishes in sink full of water ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe dishes with sponge and soapy water ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sponge and soapy water" head="water"/>
+		</item>
+		<item original="rinse dishes under clear running water ." slot="5" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="stack dishes in drainer to dry ." slot="6" text="stack in" head="stack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="drainer" head="drainer"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add dish soap ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish soap" head="soap"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put dirty dishes in sink full of water ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe dishes with sponge and soapy water ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sponge and soapy water" head="water"/>
+		</item>
+		<item original="rinse dishes under clear running water ." slot="5" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="stack dishes in drainer to dry ." slot="6" text="stack in" head="stack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="drainer" head="drainer"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add dish soap ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish soap" head="soap"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put dirty dishes in sink full of water ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe dishes with sponge and soapy water ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sponge and soapy water" head="water"/>
+		</item>
+		<item original="rinse dishes under clear running water ." slot="5" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="stack dishes in drainer to dry ." slot="6" text="stack in" head="stack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="drainer" head="drainer"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add dish soap ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish soap" head="soap"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put dirty dishes in sink full of water ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe dishes with sponge and soapy water ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sponge and soapy water" head="water"/>
+		</item>
+		<item original="rinse dishes under clear running water ." slot="5" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="stack dishes in drainer to dry ." slot="6" text="stack in" head="stack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="drainer" head="drainer"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add dish soap ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish soap" head="soap"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put dirty dishes in sink full of water ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe dishes with sponge and soapy water ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sponge and soapy water" head="water"/>
+		</item>
+		<item original="rinse dishes under clear running water ." slot="5" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="stack dishes in drainer to dry ." slot="6" text="stack in" head="stack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="drainer" head="drainer"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add dish soap ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish soap" head="soap"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put dirty dishes in sink full of water ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe dishes with sponge and soapy water ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sponge and soapy water" head="water"/>
+		</item>
+		<item original="rinse dishes under clear running water ." slot="5" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="stack dishes in drainer to dry ." slot="6" text="stack in" head="stack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="drainer" head="drainer"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add dish soap ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish soap" head="soap"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put dirty dishes in sink full of water ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe dishes with sponge and soapy water ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sponge and soapy water" head="water"/>
+		</item>
+		<item original="rinse dishes under clear running water ." slot="5" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="stack dishes in drainer to dry ." slot="6" text="stack in" head="stack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="drainer" head="drainer"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add dish soap ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish soap" head="soap"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="put dirty dishes in sink full of water ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe dishes with sponge and soapy water ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sponge and soapy water" head="water"/>
+		</item>
+		<item original="rinse dishes under clear running water ." slot="5" text="rinse under" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="stack dishes in drainer to dry ." slot="6" text="stack in" head="stack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="drainer" head="drainer"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add dish soap ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish soap" head="soap"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="add dishes ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="wash dishes ." slot="4" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="turn on water ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="turn on water ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="scrape food off dishes ." slot="1" text="scrape off" head="scrape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse dishes ." slot="2" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="use soap to wash dishes ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="dry dishes ." slot="4" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="put plug in drain ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="drain" head="drain"/>
+		</item>
+		<item original="turn on water ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add dishsoap ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishsoap" head="dishsoap"/>
+		</item>
+		<item original="turn off water ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="scrub dishes ." slot="5" text="scrub " head="scrub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scrub" head="scrub"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse dishes ." slot="6" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="empty sink ." slot="7" text="empty" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="gather dishes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="open dishwasher ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="insert dishes into dishwasher ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="insert detergent into dishwasher ." slot="4" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="close dishwasher ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="set dishwasher parameters ." slot="6" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="parameters" head="parameters"/>
+		</item>
+		<item original="start dishwasher ." slot="7" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="put dishes in sink ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="fill with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wash dishes ." slot="3" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="let dishes dry ." slot="4" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="put dishes in sink ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="fill with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wash dishes ." slot="3" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="let dishes dry ." slot="4" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="fill sink with hot soapy water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place dishes in sink ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="use cloth to wask dish ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="rinse with clean water ." slot="4" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place dish in rack to dry ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="rack" head="rack"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="fill sink with hot soapy water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place dishes in sink ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="use cloth to wask dish ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="rinse with clean water ." slot="4" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place dish in rack to dry ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="rack" head="rack"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="fill sink with hot soapy water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place dishes in sink ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="use cloth to wask dish ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="rinse with clean water ." slot="4" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place dish in rack to dry ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="rack" head="rack"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="wash the dishes with soap ." slot="1" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="rinse with water ." slot="2" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="dry dishes ." slot="3" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="get dirty dishes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="fill sink with soapy water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="scrub dishes ." slot="3" text="scrub " head="scrub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scrub" head="scrub"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse dishes ." slot="4" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="dry dishes ." slot="5" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put dishes away ." slot="6" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="put dishes in sink ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="fill up with hot water ." slot="2" text="fill up with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put in 4 drops of dish detergent ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drops" head="drops"/>
+			<ptcp text="dish detergent" head="detergent"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="pick up one dish ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="wipe with cloth ." slot="5" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="until no debris rinse ." slot="6" text="until until" head="until">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="no debris rinse" head="rinse"/>
+			<ptcp text="debris" head="debris"/>
+			<ptcp text="rinse" head="rinse"/>
+		</item>
+		<item original="repeat steps4-6 ." slot="7" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps46" head="steps46"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="put dishes in sink ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="fill up with hot water ." slot="2" text="fill up with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put in 4 drops of dish detergent ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drops" head="drops"/>
+			<ptcp text="dish detergent" head="detergent"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="pick up one dish ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="wipe with cloth ." slot="5" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="until no debris rinse ." slot="6" text="until until" head="until">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="no debris rinse" head="rinse"/>
+			<ptcp text="debris" head="debris"/>
+			<ptcp text="rinse" head="rinse"/>
+		</item>
+		<item original="repeat steps4-6 ." slot="7" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps46" head="steps46"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="put dishes in sink ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="fill up with hot water ." slot="2" text="fill up with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put in 4 drops of dish detergent ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drops" head="drops"/>
+			<ptcp text="dish detergent" head="detergent"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="pick up one dish ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="wipe with cloth ." slot="5" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="until no debris rinse ." slot="6" text="until until" head="until">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="no debris rinse" head="rinse"/>
+			<ptcp text="debris" head="debris"/>
+			<ptcp text="rinse" head="rinse"/>
+		</item>
+		<item original="repeat steps4-6 ." slot="7" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps46" head="steps46"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="fill the sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour drops of detergent ." slot="2" text="pour of" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drops" head="drops"/>
+			<ptcp text="detergent" head="detergent"/>
+		</item>
+		<item original="get a sponge ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="pick up a dish ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="clean with the sponge ." slot="5" text="clean with" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="rinse until soap is gone ." slot="6" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="repeat ." slot="7" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="rinse off dishes with warm water ." slot="1" text="rinse off with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="use a sponge and detergent to wipe off the dishes ." slot="2" text="use off" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse the dishes with hot water ." slot="3" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place washed dishes on a drying rack ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washed dishes" head="dishes"/>
+			<ptcp text="a drying rack" head="rack"/>
+			<ptcp text="drying" head="drying"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="rinse off dishes with warm water ." slot="1" text="rinse off with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="use a sponge and detergent to wipe off the dishes ." slot="2" text="use off" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse the dishes with hot water ." slot="3" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place washed dishes on a drying rack ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washed dishes" head="dishes"/>
+			<ptcp text="a drying rack" head="rack"/>
+			<ptcp text="drying" head="drying"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="rinse off dishes with warm water ." slot="1" text="rinse off with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="use a sponge and detergent to wipe off the dishes ." slot="2" text="use off" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse the dishes with hot water ." slot="3" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place washed dishes on a drying rack ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washed dishes" head="dishes"/>
+			<ptcp text="a drying rack" head="rack"/>
+			<ptcp text="drying" head="drying"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="rinse off dishes with warm water ." slot="1" text="rinse off with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="use a sponge and detergent to wipe off the dishes ." slot="2" text="use off" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse the dishes with hot water ." slot="3" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place washed dishes on a drying rack ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washed dishes" head="dishes"/>
+			<ptcp text="a drying rack" head="rack"/>
+			<ptcp text="drying" head="drying"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="rinse off dishes with warm water ." slot="1" text="rinse off with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="use a sponge and detergent to wipe off the dishes ." slot="2" text="use off" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse the dishes with hot water ." slot="3" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place washed dishes on a drying rack ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washed dishes" head="dishes"/>
+			<ptcp text="a drying rack" head="rack"/>
+			<ptcp text="drying" head="drying"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="rinse off dishes with warm water ." slot="1" text="rinse off with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="use a sponge and detergent to wipe off the dishes ." slot="2" text="use off" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+			<ptcp text="detergent" head="detergent"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse the dishes with hot water ." slot="3" text="rinse with" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place washed dishes on a drying rack ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washed dishes" head="dishes"/>
+			<ptcp text="a drying rack" head="rack"/>
+			<ptcp text="drying" head="drying"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put liquid soap into water ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put dirty dishes in soapy water ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="scrub the dishes ." slot="4" text="scrub " head="scrub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scrub" head="scrub"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse the dishes ." slot="5" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put dishes aside to dry ." slot="6" text="put aside to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put liquid soap into water ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put dirty dishes in soapy water ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="scrub the dishes ." slot="4" text="scrub " head="scrub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scrub" head="scrub"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse the dishes ." slot="5" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put dishes aside to dry ." slot="6" text="put aside to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put liquid soap into water ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put dirty dishes in soapy water ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="scrub the dishes ." slot="4" text="scrub " head="scrub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scrub" head="scrub"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="rinse the dishes ." slot="5" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put dishes aside to dry ." slot="6" text="put aside to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put dishes in sink ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="wash dishes ." slot="3" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="fill sink with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put dishes in sink ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="wash dishes ." slot="3" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="take soap ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="take dishes ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="place both in sink ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="both" head="both"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="wash dishes ." slot="4" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+	</script>
+</scripts>

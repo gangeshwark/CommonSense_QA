@@ -1,0 +1,1524 @@
+<scripts>
+	<script id="1">
+		<item original="pick a restaurant ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call the restaurant ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="make the reservation ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="hang up ." slot="4" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="call a restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask to make a reservation ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="give a time for the reservation ." slot="3" text="give for" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="give the number of people to reserve for ." slot="4" text="give of to for" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="reserve" head="reserve"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="determine a restaurant for dinner ." slot="1" text="determine for" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+			<ptcp text="dinner" head="dinner"/>
+		</item>
+		<item original="telephone the restaurant ." slot="2" text="telephone" head="telephone">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask the operator if the business has any open time slots ." slot="3" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="business" head="business"/>
+			<ptcp text="any open time slots" head="slots"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="confirm a time and date for a reservation ." slot="4" text="confirm for" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="date" head="date"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="hang up the phone ." slot="5" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="decide on time ." slot="2" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide on group name ." slot="3" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="group name" head="name"/>
+			<ptcp text="group" head="group"/>
+		</item>
+		<item original="ask for availability ." slot="4" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="availability" head="availability"/>
+		</item>
+		<item original="if not available pick another time ." slot="5" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="once available time is agreed on say thanks and hang up ." slot="6" text="agreed up on" head="agreed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="thanks" head="thanks"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="decide where you would like to eat ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="decide when you would to eat ." slot="2" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="call the restaurant and ask for a reservation ." slot="3" text="call for" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="find a restaurant ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="find the phone number of the restaurant ." slot="2" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call the restaurant ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="tell them the date ." slot="4" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+		</item>
+		<item original="tell them the time ." slot="5" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="tell them the number of people in your group ." slot="6" text="tell of in" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="group" head="group"/>
+		</item>
+		<item original="hang up the phone ." slot="7" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="call the restaurant desired ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="give the information about time and number of people ." slot="2" text="give about of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="confirm that they have space ." slot="3" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="space" head="space"/>
+		</item>
+		<item original="if not ask what times are available and make a choice between those ." slot="4" text="ask between" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="times" head="times"/>
+			<ptcp text="choice" head="choice"/>
+			<ptcp text="those" head="those"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="call dinner place ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dinner place" head="place"/>
+			<ptcp text="dinner" head="dinner"/>
+		</item>
+		<item original="ask for reservation ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="give name ." slot="3" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+		</item>
+		<item original="hang up ." slot="4" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="choose a restaurant to eat at ." slot="1" text="choose at" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="choose a time at which to eat ." slot="2" text="choose at" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="find the phone number of the restaurant ." slot="3" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call the restaurant ." slot="4" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="tell the host what time you wish to eat ." slot="5" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="host" head="host"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="tell them when you want the reservation for ." slot="2" text="tell for" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="decide on restaurant and time ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="call restaurant ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask for reservation giving name time and number of guests ." slot="3" text="ask for of" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+			<ptcp text="name time" head="time"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="guests" head="guests"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="call dinner place ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dinner place" head="place"/>
+			<ptcp text="dinner" head="dinner"/>
+		</item>
+		<item original="ask to make reservation giving time and number of persons ." slot="2" text="ask giving of" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="persons" head="persons"/>
+		</item>
+		<item original="hang up ." slot="3" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="choose a restaurant ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="choose a time and date for the dinner ." slot="2" text="choose for" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="date" head="date"/>
+			<ptcp text="dinner" head="dinner"/>
+		</item>
+		<item original="search for the phone number of that restaurant ." slot="3" text="search for of" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call to the restaurant ." slot="4" text="call to" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask for a reservation ." slot="5" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="supply the info ." slot="6" text="supply" head="supply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="info" head="info"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="call a restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask for a reservation ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="state the date and time ." slot="3" text="state" head="state">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="state the number of people ." slot="4" text="state of" head="state">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="decide on time ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="count people ." slot="2" text="count" head="count">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="call restaurant ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="reserve time ." slot="4" text="reserve" head="reserve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="call restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask to make a reservation ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="answer questions of host ." slot="3" text="answer of" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+			<ptcp text="host" head="host"/>
+		</item>
+		<item original="end call ." slot="4" text="end" head="end">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="call" head="call"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="decide where to go ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find the phone number for the place ." slot="2" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="call the palce ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="palce" head="palce"/>
+		</item>
+		<item original="reserve a tabla ." slot="4" text="reserve" head="reserve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tabla" head="tabla"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="tell date and time ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="confirm avalible ." slot="4" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="avalible" head="avalible"/>
+		</item>
+		<item original="thank booker ." slot="5" text="thank" head="thank">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="booker" head="booker"/>
+		</item>
+		<item original="hang up phone ." slot="6" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="look up telephone number of the restaurant ." slot="1" text="look up of" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone number" head="number"/>
+			<ptcp text="telephone" head="telephone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="dial the telephone number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the telephone number" head="number"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="ask for availability for required number of persons ." slot="3" text="ask for for of" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="availability" head="availability"/>
+			<ptcp text="required number" head="number"/>
+			<ptcp text="persons" head="persons"/>
+		</item>
+		<item original="validate reservation ." slot="4" text="validate" head="validate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="decide time ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide number of people ." slot="2" text="decide of" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="call restuarant ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restuarant" head="restuarant"/>
+		</item>
+		<item original="tell information ." slot="4" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+		<item original="hang up ." slot="5" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="look up the restaurants phone number ." slot="1" text="look up" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the restaurants phone number" head="number"/>
+			<ptcp text="restaurants" head="restaurants"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="call the restaurant ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask for reservation ." slot="3" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="get phone number for restaurant ." slot="1" text="get for" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="use phone to call restaurant ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask to make reservation ." slot="3" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="provide hostess with number of seats and smoking preference ." slot="4" text="provide with of" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hostess" head="hostess"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="seats" head="seats"/>
+			<ptcp text="smoking preference" head="preference"/>
+			<ptcp text="smoking" head="smoking"/>
+		</item>
+		<item original="confirm reservation ." slot="5" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="identify restaurant ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="identify phone number ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="identify preferred date/time ." slot="3" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="datetime" head="datetime"/>
+		</item>
+		<item original="identify number of diners ." slot="4" text="identify of" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="diners" head="diners"/>
+		</item>
+		<item original="call restaurant ." slot="5" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request reservation ." slot="6" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="choose a restaurant ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="find the restaurant s phone number ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial the phone number ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="ask for a table ." slot="4" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="say how many people will be dining ." slot="5" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="say what time you will be dining ." slot="6" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="say 'thank you' ." slot="7" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="call resturant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resturant" head="resturant"/>
+		</item>
+		<item original="choose a time ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="confirm time ." slot="3" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="call resturant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resturant" head="resturant"/>
+		</item>
+		<item original="choose a time ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="confirm time ." slot="3" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="call resturant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resturant" head="resturant"/>
+		</item>
+		<item original="choose a time ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="confirm time ." slot="3" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="call resturant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resturant" head="resturant"/>
+		</item>
+		<item original="choose a time ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="confirm time ." slot="3" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="call resturant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resturant" head="resturant"/>
+		</item>
+		<item original="choose a time ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="confirm time ." slot="3" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="call resturant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resturant" head="resturant"/>
+		</item>
+		<item original="choose a time ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="confirm time ." slot="3" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="choose resaurant ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resaurant" head="resaurant"/>
+		</item>
+		<item original="call restaurant ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="phone call to the restaurant ." slot="1" text="phone to" head="phone">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="call" head="call"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="check availability of table seating ." slot="2" text="check of" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="availability" head="availability"/>
+			<ptcp text="table seating" head="seating"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="check arrival time ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arrival time" head="time"/>
+			<ptcp text="arrival" head="arrival"/>
+		</item>
+		<item original="check number of people attending ." slot="4" text="check of" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="confirm the reservation ." slot="5" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="end the phone call ." slot="6" text="end" head="end">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the phone call" head="call"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="find restaurant phone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="dial the number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="request the time and day you want ." slot="3" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="day" head="day"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="contact resaurant ." slot="1" text="contact" head="contact">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resaurant" head="resaurant"/>
+		</item>
+		<item original="schedule dinner ." slot="2" text="schedule" head="schedule">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dinner" head="dinner"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="choose restaurant ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="locate phone number of restaurant ." slot="2" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call restaurant ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request reservation ." slot="4" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="give name of party ." slot="5" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give number of people in party ." slot="6" text="give of in" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give desired time ." slot="7" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="choose restaurant ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="locate phone number of restaurant ." slot="2" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call restaurant ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request reservation ." slot="4" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="give name of party ." slot="5" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give number of people in party ." slot="6" text="give of in" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give desired time ." slot="7" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="choose restaurant ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="locate phone number of restaurant ." slot="2" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call restaurant ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request reservation ." slot="4" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="give name of party ." slot="5" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give number of people in party ." slot="6" text="give of in" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give desired time ." slot="7" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="choose restaurant ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="locate phone number of restaurant ." slot="2" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call restaurant ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request reservation ." slot="4" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="give name of party ." slot="5" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give number of people in party ." slot="6" text="give of in" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give desired time ." slot="7" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="choose restaurant ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="locate phone number of restaurant ." slot="2" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call restaurant ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request reservation ." slot="4" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="give name of party ." slot="5" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give number of people in party ." slot="6" text="give of in" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give desired time ." slot="7" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="choose restaurant ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="locate phone number of restaurant ." slot="2" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call restaurant ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request reservation ." slot="4" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="give name of party ." slot="5" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give number of people in party ." slot="6" text="give of in" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give desired time ." slot="7" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="choose restaurant ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="locate phone number of restaurant ." slot="2" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call restaurant ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request reservation ." slot="4" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="give name of party ." slot="5" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give number of people in party ." slot="6" text="give of in" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="party" head="party"/>
+		</item>
+		<item original="give desired time ." slot="7" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired time" head="time"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="locate a restaurant ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="locate telephone number ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone number" head="number"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="telephone restaurant ." slot="3" text="telephone" head="telephone">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request a reservation ." slot="4" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="confirm details ." slot="5" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="details" head="details"/>
+		</item>
+		<item original="write them down ." slot="6" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hang up phone ." slot="7" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="locate a restaurant ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="locate telephone number ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone number" head="number"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="telephone restaurant ." slot="3" text="telephone" head="telephone">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request a reservation ." slot="4" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="confirm details ." slot="5" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="details" head="details"/>
+		</item>
+		<item original="write them down ." slot="6" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hang up phone ." slot="7" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="decide where to go ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up phone book ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone book" head="book"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up phone ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="push in the phone number ." slot="4" text="push in" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="wait for them to pick up ." slot="5" text="wait up for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="make the reservation ." slot="6" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="ask friend who wants to go with you ." slot="1" text="ask with" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="friend" head="friend"/>
+		</item>
+		<item original="figure out which resturant ." slot="2" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resturant" head="resturant"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="call restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request reservation ." slot="2" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="make a deposit ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deposit" head="deposit"/>
+		</item>
+		<item original="show up at restaurant ." slot="4" text="show up at" head="show">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="call restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request reservation ." slot="2" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="make a deposit ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deposit" head="deposit"/>
+		</item>
+		<item original="show up at restaurant ." slot="4" text="show up at" head="show">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="locate restaurant ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a reservation ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="arrive on time ." slot="3" text="arrive on" head="arrive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="locate restaurant ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a reservation ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="arrive on time ." slot="3" text="arrive on" head="arrive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="locate restaurant ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a reservation ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="arrive on time ." slot="3" text="arrive on" head="arrive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="locate restaurant ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a reservation ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="arrive on time ." slot="3" text="arrive on" head="arrive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="locate restaurant ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a reservation ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="arrive on time ." slot="3" text="arrive on" head="arrive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="locate restaurant ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a reservation ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="arrive on time ." slot="3" text="arrive on" head="arrive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask for a reservation ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask for a reservation ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask for a reservation ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask for a reservation ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask for a reservation ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask for a reservation ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="find phone number ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="call restaurant ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="find out what restaurant ." slot="1" text="find out" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="call restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="give reservation time ." slot="2" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="give number of people ." slot="3" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="give name for reservation ." slot="4" text="give for" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="call restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="give reservation time ." slot="2" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="give number of people ." slot="3" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="give name for reservation ." slot="4" text="give for" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="pick a restaurant ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="call the restaurant ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="request a table for a certain amount of quests at a certain time ." slot="3" text="request for of at" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="quests" head="quests"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="call to confirm closer to date ." slot="4" text="call to" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="find restaurant phone number ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant phone number" head="number"/>
+			<ptcp text="restaurant" head="restaurant"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="go to phone ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial restaurant number ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant number" head="number"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="speak to host and make reservation ." slot="4" text="speak to" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="host" head="host"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="hang up phone ." slot="5" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="find restaurant phone number ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant phone number" head="number"/>
+			<ptcp text="restaurant" head="restaurant"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="go to phone ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial restaurant number ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant number" head="number"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="speak to host and make reservation ." slot="4" text="speak to" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="host" head="host"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="hang up phone ." slot="5" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask to reserve time ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="leave name and number ." slot="3" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="number" head="number"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask to reserve time ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="leave name and number ." slot="3" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="number" head="number"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask to reserve time ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="leave name and number ." slot="3" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="number" head="number"/>
+		</item>
+	</script>
+	<script id="70">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask to reserve time ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="leave name and number ." slot="3" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="number" head="number"/>
+		</item>
+	</script>
+	<script id="71">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask to reserve time ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="leave name and number ." slot="3" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="number" head="number"/>
+		</item>
+	</script>
+	<script id="72">
+		<item original="call the restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="ask to reserve time ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="leave name and number ." slot="3" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="number" head="number"/>
+		</item>
+	</script>
+	<script id="73">
+		<item original="call restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a table and time to eat ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="74">
+		<item original="call restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a table and time to eat ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="75">
+		<item original="call restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a table and time to eat ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="76">
+		<item original="call restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a table and time to eat ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="77">
+		<item original="call restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a table and time to eat ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="78">
+		<item original="call restaurant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="book a table and time to eat ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="79">
+		<item original="call resturant ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resturant" head="resturant"/>
+		</item>
+		<item original="provide name and contact ." slot="2" text="provide" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="contact" head="contact"/>
+		</item>
+	</script>
+	<script id="80">
+		<item original="phone the restaurant ." slot="1" text="phone " head="phone">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="restaurant" head="restaurant"/>
+		</item>
+		<item original="give them time and name ." slot="2" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="name" head="name"/>
+		</item>
+	</script>
+</scripts>

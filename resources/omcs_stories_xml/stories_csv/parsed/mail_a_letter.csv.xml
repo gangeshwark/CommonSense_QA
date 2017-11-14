@@ -1,0 +1,1309 @@
+<scripts>
+	<script id="1">
+		<item original="pick up a letter ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="find a mailbox ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put the letter in the mailbox ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="place the letter in an envelope ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="properly address the envelope ." slot="2" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="affix proper postage to the envelope ." slot="3" text="affix to" head="affix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage" head="postage"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="locate a mailbox ." slot="4" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="move to the mailbox ." slot="5" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="place the letter in the mailbox ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="locate the letter to be sent ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="locate an evelope ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="evelope" head="evelope"/>
+		</item>
+		<item original="place the letter in the envelope ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="properly address the envelope to the recipient ." slot="4" text="address to" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="the recipient" head="recipient"/>
+		</item>
+		<item original="place proper postage on the envelope ." slot="5" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage" head="postage"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place the envelope in a mailbox ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="write letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="seal letter ." slot="2" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="affix stamp ." slot="3" text="affix" head="affix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="move to post box ." slot="4" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="drop letter into post box ." slot="5" text="drop into" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="post box" head="box"/>
+			<ptcp text="post" head="post"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="find an envelope ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="fold letter to fit inside envelope ." slot="2" text="fold inside" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put letter in envelope and seal envelope ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="seal envelope" head="envelope"/>
+			<ptcp text="seal" head="seal"/>
+		</item>
+		<item original="place proper postage on envelope ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage" head="postage"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write destination address on envelope ." slot="5" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination address" head="address"/>
+			<ptcp text="destination" head="destination"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="find a mailbox ." slot="6" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="place letter in mailbox ." slot="7" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="write to address ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="write return address ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="return address" head="address"/>
+			<ptcp text="return" head="return"/>
+		</item>
+		<item original="stamp ." slot="3" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="drop in a mailbox ." slot="4" text="drop in" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="seal the letter in an envelope ." slot="1" text="seal in" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write the delivery address on the envelope ." slot="2" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the delivery address" head="address"/>
+			<ptcp text="delivery" head="delivery"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write the return address on the envelope ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the return address" head="address"/>
+			<ptcp text="return" head="return"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place postage stamp on the envelope ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage stamp" head="stamp"/>
+			<ptcp text="postage" head="postage"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place the envelope into a mailbox ." slot="5" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="write the address on the letter ." slot="1" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="write the return address on the letter in the upper left-hand corner ." slot="2" text="write on in" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the return address" head="address"/>
+			<ptcp text="return" head="return"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="corner" head="corner"/>
+		</item>
+		<item original="place a stamp on the letter in the upper-right-hand corner ." slot="3" text="place on in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="corner" head="corner"/>
+		</item>
+		<item original="place the letter in a mailbox ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="put completed letter in envelope ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="completed letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelope ." slot="2" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put stamp on envelope ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="go to mailbox ." slot="4" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put letter in mailbox ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get envelope and stamps ready ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="stamps" head="stamps"/>
+		</item>
+		<item original="insert letter into envelope ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelope by licking the adhesive strip or remove the protection over the adhesive ." slot="3" text="seal by over" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="strip" head="strip"/>
+			<ptcp text="protection" head="protection"/>
+			<ptcp text="adhesive" head="adhesive"/>
+		</item>
+		<item original="close envelope ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put letter in mailbox ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="put the letter into an envelope ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put the mailing address on the envelope ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the mailing address" head="address"/>
+			<ptcp text="mailing" head="mailing"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="weigh the letter ." slot="3" text="weigh" head="weigh">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put enough postage on the envelope ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage" head="postage"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="get the letter to the next mailbox ." slot="5" text="get to" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="put letter in envelope ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelope ." slot="2" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write address on envelope ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="stamp letter ." slot="4" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="drop letter in mailbox ." slot="5" text="drop in" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="put the letter in an envelope ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="address the envelope ." slot="2" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put postage on the envelope ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage" head="postage"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="drop the envelope in a mailbox ." slot="4" text="drop in" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="place letter in envelope ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelope ." slot="2" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write to address on envelope ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write return address on evelope ." slot="4" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="return address" head="address"/>
+			<ptcp text="return" head="return"/>
+			<ptcp text="evelope" head="evelope"/>
+		</item>
+		<item original="stamp envelope ." slot="5" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="drop envelope in mailbox ." slot="6" text="drop in" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="place letter in envelope ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelope ." slot="2" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write to address on envelope ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write return address on envelope ." slot="4" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="return address" head="address"/>
+			<ptcp text="return" head="return"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="stamp envelope ." slot="5" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place envelope in outgoing mailbox ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="writing a letter ." slot="1" text="writing" head="writing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="sign the letter ." slot="2" text="sign" head="sign">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put letter in envelope ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="stick stamp on envelope ." slot="4" text="stick on" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write adress on envelope ." slot="5" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="adress" head="adress"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="bring envelope to postbox ." slot="6" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="postbox" head="postbox"/>
+		</item>
+		<item original="put envelope in postbox ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="postbox" head="postbox"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="put letter in envelope ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write adresson envelope ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="stick stamp on envelope ." slot="3" text="stick on" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="walk with envelope to post box ." slot="4" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="put envelope in post box ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="post box" head="box"/>
+			<ptcp text="post" head="post"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="address the letter ." slot="1" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put stamp ." slot="2" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="put in postbox ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postbox" head="postbox"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="drop the letter into a postal dropbox ." slot="1" text="drop into" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="dropbox" head="dropbox"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="address envelope ." slot="1" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place letter in envelope ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="stamp envelope ." slot="3" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place envelope in outgoing mailbox ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="take letter ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="place stamp on letter ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="take letter to post office ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="post office" head="office"/>
+			<ptcp text="post" head="post"/>
+		</item>
+		<item original="put letter in mailbox ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="take letter to mail box ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="take letter to mail box ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="drop letter in mailbox ." slot="3" text="drop in" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="discern need for letter ." slot="1" text="discern for" head="discern">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="need" head="need"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="find paper ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find pencil or pen ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="decide what to write ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="write ." slot="5" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="fold and place in envelope ." slot="6" text="fold in" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail letter ." slot="7" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="put the letter into an envelope ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write the address on the envelope ." slot="2" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="stick a postage stamp on the envelope ." slot="3" text="stick on" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a postage stamp" head="stamp"/>
+			<ptcp text="postage" head="postage"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal the envelope ." slot="4" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put the letter in a mailbox ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="write letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="write letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="place letter in envelope ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="address envelope ." slot="3" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put stamp on envelope ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put envelope in mail box ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="address envelope ." slot="1" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put stamp on envelope ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put return address on envelope ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="return address" head="address"/>
+			<ptcp text="return" head="return"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put envelope in mail box ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="put letter in envelope ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelope ." slot="2" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put the sender s and recipient s name on the envelope ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the sender s and recipient s name" head="name"/>
+			<ptcp text="sender" head="sender"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put sufficient stamps on the envelope ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamps" head="stamps"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="drop envelope in mail box ." slot="5" text="drop in" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="write letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="address envelope ." slot="2" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="insert letter in envelope ." slot="3" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelope ." slot="4" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="affix stamp ." slot="5" text="affix" head="affix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="take letter to postbox ." slot="6" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="postbox" head="postbox"/>
+		</item>
+		<item original="insert letter in postbox slot ." slot="7" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="slot" head="slot"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="open the mailbox ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="put the letter in a mailbox ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="close the mailbox ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="write letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put letter in envelope ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="address envelope ." slot="3" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="stamp envelope ." slot="4" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="post at box or post office ." slot="5" text="post at" head="post">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box or post office" head="office"/>
+			<ptcp text="box" head="box"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="write letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put stamp on letter ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="drop letter in mailbox ." slot="3" text="drop in" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="write letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put letter in envelope ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put address and stamp on the front of the envelope ." slot="3" text="put on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="wet the edges on the back to close envelope ." slot="4" text="to on" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="drive or walk to the mail box ." slot="5" text="drive to" head="drive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="walk" head="walk"/>
+			<ptcp text="the mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="put the letter in the mail box ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="the mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="write address on envelope ." slot="1" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put letter in envelope ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelope ." slot="3" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="buy stamp ." slot="4" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="put stamp on envelope ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put letter in letter box ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="letter box" head="box"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="place postage on the letter ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage" head="postage"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="place letter in mail pickup box ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mail pickup box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="pickup" head="pickup"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="place letter in envelope ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelope ." slot="2" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="address envelope ." slot="3" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="apply postage ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage" head="postage"/>
+		</item>
+		<item original="put in mailbox ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="raise flag on mailbox ." slot="6" text="raise on" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flag" head="flag"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="fold letter into thirds ." slot="1" text="fold into" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="thirds" head="thirds"/>
+		</item>
+		<item original="place letter in envelope ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="address the envelope ." slot="3" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal the envelope ." slot="4" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place a stamp on the envelope ." slot="5" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place the envelope in the outgoing mail box ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="the outgoing mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="put letter in envilope ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envilope" head="envilope"/>
+		</item>
+		<item original="seal envilope ." slot="2" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envilope" head="envilope"/>
+		</item>
+		<item original="affix postage stamp ." slot="3" text="affix" head="affix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage stamp" head="stamp"/>
+			<ptcp text="postage" head="postage"/>
+		</item>
+		<item original="post letter in red post box ." slot="4" text="post in" head="post">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="red post box" head="box"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="get paper and pen sit down ." slot="1" text="sit down" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write information sign at the bottom ." slot="2" text="write at" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information sign" head="sign"/>
+			<ptcp text="information" head="information"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="fold and place in envelope with a stamp ." slot="3" text="fold in with" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="find mailing place ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailing place" head="place"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+		<item original="mail letter ." slot="5" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="70">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get pen ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write letter ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="fold paper ." slot="4" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put in envelope ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal and put a stamp on it ." slot="6" text="seal on" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="place in a mail box ." slot="7" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="71">
+		<item original="write letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="print letter if possible ." slot="2" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="sign letter ." slot="3" text="sign" head="sign">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put letter in envelope ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="lick end of envelope ." slot="5" text="lick of" head="lick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write address ." slot="6" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="put letter in mailbox ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="72">
+		<item original="put letter into envelope ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelope ." slot="2" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write return address ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="return address" head="address"/>
+			<ptcp text="return" head="return"/>
+		</item>
+		<item original="write forwarding address ." slot="4" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="forwarding address" head="address"/>
+			<ptcp text="forwarding" head="forwarding"/>
+		</item>
+		<item original="put stamp ." slot="5" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="go to post box ." slot="6" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="put letter in mailbox ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="73">
+		<item original="insert letter in envelope ." slot="1" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="75">
+		<item original="insert letter in envelope ." slot="1" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="adress envelope ." slot="2" text="adress" head="adress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="add stamp ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="make sure envelope is sealed ." slot="4" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put letter in postal mail box ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="postal mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="77">
+		<item original="write a letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="seal the letter in an envelope ." slot="2" text="seal in" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put the letter in the mailbox ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="79">
+		<item original="put letter in envelope ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal and address envelope ." slot="2" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="add postage ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage" head="postage"/>
+		</item>
+		<item original="put in outgoing mailbox ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="82">
+		<item original="seal envelope ." slot="1" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write address on envelope ." slot="2" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="apply postage stamp ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage stamp" head="stamp"/>
+			<ptcp text="postage" head="postage"/>
+		</item>
+		<item original="walk to mail box ." slot="4" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="drop in mailbox ." slot="5" text="drop in" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="84">
+		<item original="put letter in envelope ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="lick flap ." slot="2" text="lick" head="lick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flap" head="flap"/>
+		</item>
+		<item original="seal letter ." slot="3" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="attatch stamp ." slot="4" text="attatch" head="attatch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="drive to mail box ." slot="5" text="drive to" head="drive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="put letter into mail box ." slot="6" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="wait ." slot="7" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="85">
+		<item original="write letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put stamp on evelope ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="evelope" head="evelope"/>
+		</item>
+		<item original="put letter in mailbox ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="walk away ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="90">
+		<item original="seal letter in envelope ." slot="1" text="seal in" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="address envelope in front middle of envelope ." slot="2" text="address in of" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="middle" head="middle"/>
+		</item>
+		<item original="write return address in top left corner ." slot="3" text="write in" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="return address" head="address"/>
+			<ptcp text="return" head="return"/>
+			<ptcp text="corner" head="corner"/>
+		</item>
+		<item original="stick appropriate stamp in top right corner ." slot="4" text="stick in" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="corner" head="corner"/>
+		</item>
+		<item original="bring letter to mailbox ." slot="5" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="drop letter in mailbox ." slot="6" text="drop in" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="93">
+		<item original="write the letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put it in an envelope ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put a stamp on the envelope ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write the address to send it to ." slot="4" text="write to" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="bring it to a mail box ." slot="5" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="put it in the mail box ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="it will be sent out to the address ." slot="7" text="sent out to" head="sent">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+	</script>
+	<script id="94">
+		<item original="get letter ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put stamp on letter ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="take letter to mailbox ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="drop letter into mailbox ." slot="4" text="drop into" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="95">
+		<item original="affix stamp on front right hand corner ." slot="1" text="affix on" head="affix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="front right hand corner" head="corner"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="put letter in mailbox ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+</scripts>

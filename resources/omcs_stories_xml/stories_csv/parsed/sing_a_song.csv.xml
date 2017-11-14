@@ -1,0 +1,590 @@
+<scripts>
+	<script id="1">
+		<item original="vocalize words at different pitches ." slot="1" text="vocalize at" head="vocalize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="pitches" head="pitches"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="decide which song to sing ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="open your mouth ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mouth" head="mouth"/>
+		</item>
+		<item original="sing ." slot="3" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="remember the tones and words of a song ." slot="1" text="remember of" head="remember">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tones" head="tones"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="vocalize the words using the tones ." slot="2" text="vocalize" head="vocalize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="tones" head="tones"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="think of a song ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="rythmically speak the lyrics to the song ." slot="2" text="speak to" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lyrics" head="lyrics"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="find the text of song ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="text" head="text"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="start the music ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="sing a song by speaking ." slot="3" text="sing by" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="choose a song to sing ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="sing the song ." slot="2" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="open mouth ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mouth" head="mouth"/>
+		</item>
+		<item original="form the words ." slot="2" text="form" head="form">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="sing the melody ." slot="3" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="melody" head="melody"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="open mouth ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mouth" head="mouth"/>
+		</item>
+		<item original="form sounds ." slot="2" text="form" head="form">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sounds" head="sounds"/>
+		</item>
+		<item original="make right melody with mouth ." slot="3" text="make with" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="melody" head="melody"/>
+			<ptcp text="mouth" head="mouth"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="choose song to sing ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="read the song ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="make the melody of the song with your voice as you say the words ." slot="3" text="make of with" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="melody" head="melody"/>
+			<ptcp text="song" head="song"/>
+			<ptcp text="voice" head="voice"/>
+			<ptcp text="words" head="words"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="determine which song one wishes to sing ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="produce tones and words in a given order that match what is required by the song ." slot="2" text="produce in by" head="produce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tones" head="tones"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="a given order" head="order"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="determine what song you want to sing ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="find the lyrics to the song ." slot="2" text="find to" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lyrics" head="lyrics"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="find the music sheets for the song ." slot="3" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the music sheets" head="sheets"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="try to make the lyrics match the tone of the song ." slot="4" text="try of" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lyrics" head="lyrics"/>
+			<ptcp text="tone" head="tone"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="pick a song ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="remember lyrics ." slot="2" text="remember" head="remember">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lyrics" head="lyrics"/>
+		</item>
+		<item original="take a breath ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="breath" head="breath"/>
+		</item>
+		<item original="sing ." slot="4" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="learn the words to the song ." slot="1" text="learn to" head="learn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="learn the tune to a song ." slot="2" text="learn to" head="learn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tune" head="tune"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="sing the words ." slot="3" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="decide on a song ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="find the song lyrics ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the song lyrics" head="lyrics"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="sing the song ." slot="3" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="pick a song you would like to sing ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="start singing ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="turn on the microphone ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microphone" head="microphone"/>
+		</item>
+		<item original="pick a song ." slot="2" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="start singing ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="turn on the microphone ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="microphone" head="microphone"/>
+		</item>
+		<item original="pick a song ." slot="2" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="start singing ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="know the lyrics ." slot="1" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lyrics" head="lyrics"/>
+		</item>
+		<item original="sing ." slot="2" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="choose a song ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="sing it ." slot="2" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="select a song one wants to sing ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="have lyrics from the song ready ." slot="2" text="have from" head="have">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lyrics" head="lyrics"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="play music from the song if desired ." slot="3" text="play from" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="sing the song ." slot="4" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="opening your mouth ." slot="1" text="opening" head="opening">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mouth" head="mouth"/>
+		</item>
+		<item original="using your vocal cords ." slot="2" text="using" head="using">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cords" head="cords"/>
+		</item>
+		<item original="vibrate the sounds into melody ." slot="3" text="vibrate into" head="vibrate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sounds" head="sounds"/>
+			<ptcp text="melody" head="melody"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="purse lips into pucker mode ." slot="1" text="purse into" head="purse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="purse lips" head="lips"/>
+			<ptcp text="purse" head="purse"/>
+			<ptcp text="lips" head="lips"/>
+			<ptcp text="pucker mode" head="mode"/>
+			<ptcp text="pucker" head="pucker"/>
+			<ptcp text="mode" head="mode"/>
+		</item>
+		<item original="open lips wide ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lips" head="lips"/>
+		</item>
+		<item original="end mouth exercises ." slot="3" text="end" head="end">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mouth exercises" head="exercises"/>
+			<ptcp text="mouth" head="mouth"/>
+		</item>
+		<item original="clear your throat ." slot="4" text="clear" head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="throat" head="throat"/>
+		</item>
+		<item original="open your mouth ." slot="5" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mouth" head="mouth"/>
+		</item>
+		<item original="engage your vocal chords ." slot="6" text="engage" head="engage">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chords" head="chords"/>
+		</item>
+		<item original="push air though the throat and through the mouth doesn t matter if you re in tune ." slot="7" text="push through though through in" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air" head="air"/>
+			<ptcp text="throat" head="throat"/>
+			<ptcp text="the mouth doesn" head="doesn"/>
+			<ptcp text="mouth" head="mouth"/>
+			<ptcp text="t matter" head="matter"/>
+			<ptcp text="t" head="t"/>
+			<ptcp text="tune" head="tune"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="know the tune ." slot="1" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tune" head="tune"/>
+		</item>
+		<item original="know the lyrics ." slot="2" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lyrics" head="lyrics"/>
+		</item>
+		<item original="know the melody ." slot="3" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="melody" head="melody"/>
+		</item>
+		<item original="drink water ." slot="4" text="drink" head="drink">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="sing the lyrics with tune ." slot="5" text="sing with" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lyrics" head="lyrics"/>
+			<ptcp text="tune" head="tune"/>
+		</item>
+		<item original="clear throat ." slot="6" text="clear" head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="throat" head="throat"/>
+		</item>
+		<item original="drink water ." slot="7" text="drink" head="drink">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="sing a verse ." slot="1" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="verse" head="verse"/>
+		</item>
+		<item original="sing the chorus ." slot="2" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chorus" head="chorus"/>
+		</item>
+		<item original="repeat until all verses have been sung ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="verses" head="verses"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="sing a verse ." slot="1" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="verse" head="verse"/>
+		</item>
+		<item original="sing the chorus ." slot="2" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chorus" head="chorus"/>
+		</item>
+		<item original="repeat until all verses have been sung ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="verses" head="verses"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="think of song ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="think of words ." slot="2" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="sing ." slot="3" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="revive audience ." slot="4" text="revive" head="revive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="think of song ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="think of words ." slot="2" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="sing ." slot="3" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="revive audience ." slot="4" text="revive" head="revive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="think of song ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="think of words ." slot="2" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="sing ." slot="3" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="revive audience ." slot="4" text="revive" head="revive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="think of song ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="think of words ." slot="2" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="sing ." slot="3" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="revive audience ." slot="4" text="revive" head="revive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="think of song ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="think of words ." slot="2" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="sing ." slot="3" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="revive audience ." slot="4" text="revive" head="revive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="think of song ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="think of words ." slot="2" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="sing ." slot="3" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="revive audience ." slot="4" text="revive" head="revive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="play music ." slot="1" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="grab lyrics ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lyrics" head="lyrics"/>
+		</item>
+		<item original="sing along ." slot="3" text="sing along" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="play music ." slot="1" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="grab lyrics ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lyrics" head="lyrics"/>
+		</item>
+		<item original="sing along ." slot="3" text="sing along" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="play music ." slot="1" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="grab lyrics ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lyrics" head="lyrics"/>
+		</item>
+		<item original="sing along ." slot="3" text="sing along" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="pick a tune ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tune" head="tune"/>
+		</item>
+		<item original="hand out earplugs to those near you ." slot="2" text="hand out to near" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="earplugs" head="earplugs"/>
+			<ptcp text="those" head="those"/>
+		</item>
+		<item original="sing your heart out ." slot="3" text="sing out" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heart" head="heart"/>
+		</item>
+		<item original="pray you hit one right note ." slot="4" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="choose a song ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="begin with first line ." slot="2" text="begin with" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="line" head="line"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="think of song to sing ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="sing song ." slot="2" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="think of song to sing ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="sing song ." slot="2" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="think of song to sing ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="sing song ." slot="2" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+</scripts>

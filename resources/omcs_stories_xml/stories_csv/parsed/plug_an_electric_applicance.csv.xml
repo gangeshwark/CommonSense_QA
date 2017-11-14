@@ -1,0 +1,996 @@
+<scripts>
+	<script id="1">
+		<item original="find the appliance s electric plug ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="find an electrical outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="put the plug into the outlet ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find appliance s electric cord ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="plug cord into electrical wall outlet ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="electrical wall outlet" head="outlet"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="locate the cord on the appliance ." slot="1" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="locate the plug on the cord ." slot="2" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="locate an electrical outlet for the plug ." slot="3" text="locate for" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="insert the plug into the electrical outlet ." slot="4" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find electric outlet ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="put appliance plug in electric outlet ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance plug" head="plug"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="locate power cord ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power cord" head="cord"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="locate power outlet ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power outlet" head="outlet"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="put plug into outlet ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="find appliance plug ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance plug" head="plug"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="find power plug ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power plug" head="plug"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="insert appliance plug in power plug ." slot="3" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance plug" head="plug"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="put the appliance near an outlet ." slot="1" text="put near" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="make sure the outlet is not in use ." slot="2" text="make in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+			<ptcp text="use" head="use"/>
+		</item>
+		<item original="put the plug end of the cord into the outlet ." slot="3" text="put of into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the plug end" head="end"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="grasp the plug ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="locate the electric socket ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="press the plug into the socket ." slot="3" text="press into" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="find plug of the appliance ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="find outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="put plug in outlet ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="locate power outlet ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power outlet" head="outlet"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="locate cord ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="plug cord into power outlet ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="power outlet" head="outlet"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="find an outlet near the appliance ." slot="1" text="find near" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="turn the plug in the correct direction ." slot="2" text="turn in" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+		<item original="plug the plug into the outlet ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="pick up the cord end ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cord end" head="end"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="finding an outlet ." slot="2" text="finding" head="finding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plugging the cord into the outlet ." slot="3" text="plugging into" head="plugging">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="locate an electric outlet ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="find the power cord of the electric appliance ." slot="2" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power cord" head="cord"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="plug the power cord into the outlet ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power cord" head="cord"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="take electric plug ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="go to nearest electric outlet ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="insert plug in outlet ." slot="3" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="grab appliance plug ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance plug" head="plug"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="take to nearest power outlet moving the appliance if neccessary ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nearest power outlet" head="outlet"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="insert plug into outlet ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="find outlet ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug plug into outlet ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="find an electric appliance ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="find the appliance s power cord ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="power cord" head="cord"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="pick up the power cord by the power connector ." slot="3" text="pick up by" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power cord" head="cord"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="the power connector" head="connector"/>
+		</item>
+		<item original="plug the connector into an electrical outlet ." slot="4" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="connector" head="connector"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="find electricity socket ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="electricity socket" head="socket"/>
+			<ptcp text="electricity" head="electricity"/>
+		</item>
+		<item original="find plug on electric appliance ." slot="2" text="find on" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="put plug in socket ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="pick up the plug ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="find an outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug the plug into the outlet ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="find the electric appliance ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="find the cord on it ." slot="2" text="find on" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="find an outlet ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug the cord into the outlet ." slot="4" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="put the plug in a main outlet of the electric appliance ." slot="1" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="get cord ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="find outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="insert plug into outlet ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="locate an open electrical outlet ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="put the appliance where you want it ." slot="2" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="take the applicance s plug and insert it in the open electrical outlet ." slot="3" text="take in" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applicance" head="applicance"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="hold plug in your hand ." slot="1" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="put plug into electrical socket ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="hold plug in your hand ." slot="1" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="put plug into electrical socket ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="push the plug into the outlet ." slot="1" text="push into" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="push the plug into the outlet ." slot="1" text="push into" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="put the plug into an outlet ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="pick up the plug ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="find a wall socket ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a wall socket" head="socket"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="put the plug in the wall ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="take the appliance ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="select suitable socket ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="plug the wire ." slot="3" text="plug" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wire" head="wire"/>
+		</item>
+		<item original="swith on the appliance ." slot="4" text="swith on" head="swith">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="take the appliance ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="select suitable socket ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="plug the wire ." slot="3" text="plug" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wire" head="wire"/>
+		</item>
+		<item original="swith on the appliance ." slot="4" text="swith on" head="swith">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="locate plug socket ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug socket" head="socket"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="hold plug ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="push plug into socket ." slot="3" text="push into" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="take cord ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put plug in socket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="take cord ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put plug in socket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="take cord ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put plug in socket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="take cord ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put plug in socket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="take cord ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put plug in socket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="take cord ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put plug in socket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="take cord ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put plug in socket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="take cord ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put plug in socket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="take cord ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put plug in socket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="take cord ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put plug in socket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="locate plug ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="locate socket ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="insert plug into socket ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="switch on socket ." slot="4" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="locate plug ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="locate socket ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="insert plug into socket ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="switch on socket ." slot="4" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="locate plug ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="locate socket ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="insert plug into socket ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="switch on socket ." slot="4" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="locate plug ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="locate socket ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="insert plug into socket ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="switch on socket ." slot="4" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="locate plug ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="locate socket ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="insert plug into socket ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="switch on socket ." slot="4" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="grasp the plug ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="find an electrical outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="insert the plug into the outlet ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="grasp the plug ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="find an electrical outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="insert the plug into the outlet ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="grasp the plug ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="find an electrical outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="insert the plug into the outlet ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="grasp the plug ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="find an electrical outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="insert the plug into the outlet ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="grasp the plug ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="find an electrical outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="insert the plug into the outlet ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="grasp the plug ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="find an electrical outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="insert the plug into the outlet ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="find end of cord ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="place plug in wall socket ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="wall socket" head="socket"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="find end of cord ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="place plug in wall socket ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="wall socket" head="socket"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="find electric applicance plug ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="find proper electric socket ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="insert plug into socket ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="grasp electric cord ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put metal prongs into wall socket ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="metal prongs" head="prongs"/>
+			<ptcp text="metal" head="metal"/>
+			<ptcp text="wall socket" head="socket"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="grasp electric cord ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put metal prongs into wall socket ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="metal prongs" head="prongs"/>
+			<ptcp text="metal" head="metal"/>
+			<ptcp text="wall socket" head="socket"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="grasp electric cord ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put metal prongs into wall socket ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="metal prongs" head="prongs"/>
+			<ptcp text="metal" head="metal"/>
+			<ptcp text="wall socket" head="socket"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="grasp electric cord ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="put metal prongs into wall socket ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="metal prongs" head="prongs"/>
+			<ptcp text="metal" head="metal"/>
+			<ptcp text="wall socket" head="socket"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="grab cord ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="find electrical outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug in cord ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="grab cord ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="find electrical outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug in cord ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="grab cord ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="find electrical outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug in cord ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="grab cord ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="find electrical outlet ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug in cord ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="take cord with plug in hand ." slot="1" text="take with in" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="look for outlet ." slot="2" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="find outlet ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="move plug to outlet ." slot="4" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="align plug ." slot="5" text="align" head="align">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="push into outlet ." slot="6" text="push into" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="it s plugged in now ." slot="7" text="plugged in" head="plugged">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="s" head="s"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="obtain electric appliance ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="take appliance to nearest outlet ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug in appliance into outlet ." slot="3" text="plug in into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="obtain electric appliance ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="take appliance to nearest outlet ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug in appliance into outlet ." slot="3" text="plug in into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+</scripts>

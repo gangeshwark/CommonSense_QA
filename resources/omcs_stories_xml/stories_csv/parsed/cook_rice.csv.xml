@@ -1,0 +1,1568 @@
+<scripts>
+	<script id="1">
+		<item original="get rice ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="get pot ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="fill pot with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook water ." slot="4" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put rice into water ." slot="5" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take rice out of water ." slot="7" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="put rice in rice cooker ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice cooker" head="cooker"/>
+		</item>
+		<item original="add water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on cooker ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+		<item original="wait for rice too cook ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="remove rice from cooker ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="put rice in rice cooker ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice cooker" head="cooker"/>
+		</item>
+		<item original="add water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="select cooking speed (low or high) ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="speed" head="speed"/>
+		</item>
+		<item original="wait for rice to cook ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="remove rice from cooker ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="place rice in rice cooker ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice cooker" head="cooker"/>
+		</item>
+		<item original="add water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="select cooking speed ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="speed" head="speed"/>
+		</item>
+		<item original="turn on cooker ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+		<item original="wait for rice to cook ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="turn cooker off ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+		<item original="remove rice from cooker ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="open rice box ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice box" head="box"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="pour amount of rice needed into measuring cup ." slot="2" text="pour of into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="measuring cup" head="cup"/>
+		</item>
+		<item original="boil a pot of water ." slot="3" text="boil of" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour the needed amount of rice into the pot ." slot="4" text="pour of into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the needed amount" head="amount"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="boil the rice until cooked ." slot="5" text="boil until" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="allow the rice to soak up all the water ." slot="6" text="allow up" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="fill pot with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put pot on stove ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="heat pot ." slot="3" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put rice in pot ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="cook for predetermined length of time ." slot="5" text="cook for of" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="predetermined length" head="length"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="put rice on plate ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="allow rice to cool before serving ." slot="7" text="allow before" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="buying rice ." slot="1" text="buying" head="buying">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="opening package ." slot="2" text="opening " head="opening">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="opening" head="opening"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="put rice in pot of water ." slot="3" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cover ." slot="4" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="boil it for 20 minutes ." slot="5" text="boil for" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="remove from heat ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="put water in kettle ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="boil water ." slot="2" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add rice ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="boil rice for 7 minutes ." slot="4" text="boil for" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="remove water ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="leave rice for 5 minutes ." slot="6" text="leave for" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="serve rice ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="measure correct amount of rice ." slot="2" text="measure of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="put rice in boiling water ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait correct boiling time ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="correct boiling time" head="time"/>
+		</item>
+		<item original="drain water ." slot="5" text="drain" head="drain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put rice in bowl ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="wash required amount of raw rice ." slot="1" text="wash of" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="required amount" head="amount"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="place rice in cooker ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+		<item original="place required amount of water in same container as rice ." slot="3" text="place of in as" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="required amount" head="amount"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="plug in rice cooker and switch on plug ." slot="4" text="plug in on" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker and switch" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="rice is ready when cooker beeps (or other indication) ." slot="5" text="cooker" head="cooker">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="beeps" head="beeps"/>
+			<ptcp text="indication" head="indication"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="put rice in rice cooker ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice cooker" head="cooker"/>
+		</item>
+		<item original="put 2/3 cup of water in rice cooker for each cup of rice ." slot="2" text="put of in for of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cup" head="cup"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="close rice cooker ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="turn on rice cooker ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="fill a pan with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on the stove ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put the pan on the stove ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait for the water to boil ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="boil" head="boil"/>
+		</item>
+		<item original="put some rice in the water ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn the heat down low ." slot="6" text="turn low" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="cover the pan ." slot="7" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="measure out rice ." slot="1" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="wash rice ." slot="2" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure water ." slot="3" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on rice cooker ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="place container of rice mixture in/on heat source ." slot="1" text="place of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="rice mixture" head="mixture"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="inon heat source" head="source"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get pan ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="measure water ." slot="2" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put water in pan ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="boil water ." slot="4" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add rice ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="cover pan ." slot="6" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="wait for rice to be done ." slot="7" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="measure rice ." slot="1" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="pour rice into pot ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="measure water ." slot="3" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water into pot ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="cover pot ." slot="5" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="turn on stove ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="set timer ." slot="7" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timer" head="timer"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="measure rice ." slot="1" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="measure rice ." slot="1" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="measure rice ." slot="1" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="add water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wash rice ." slot="3" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="add water ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cover rice cooker ." slot="5" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="turn rice cooker on ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="measure rice ." slot="1" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="add water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wash rice ." slot="3" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="add water ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cover rice cooker ." slot="5" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="turn rice cooker on ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="measure rice into strainer ." slot="1" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="strainer" head="strainer"/>
+		</item>
+		<item original="rinse rice ." slot="2" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure water into pot ." slot="3" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="heat water until boiling ." slot="4" text="heat until" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour rinsed rice into pot ." slot="5" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="cover pot with lid ." slot="6" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="simmer until rice is cooked ." slot="7" text="simmer" head="simmer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="measure rice into strainer ." slot="1" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="strainer" head="strainer"/>
+		</item>
+		<item original="rinse rice ." slot="2" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure water into pot ." slot="3" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="heat water until boiling ." slot="4" text="heat until" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour rinsed rice into pot ." slot="5" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="cover pot with lid ." slot="6" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="simmer until rice is cooked ." slot="7" text="simmer" head="simmer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="measure rice into strainer ." slot="1" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="strainer" head="strainer"/>
+		</item>
+		<item original="rinse rice ." slot="2" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure water into pot ." slot="3" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="heat water until boiling ." slot="4" text="heat until" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour rinsed rice into pot ." slot="5" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="cover pot with lid ." slot="6" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="simmer until rice is cooked ." slot="7" text="simmer" head="simmer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="measure rice into strainer ." slot="1" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="strainer" head="strainer"/>
+		</item>
+		<item original="rinse rice ." slot="2" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure water into pot ." slot="3" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="heat water until boiling ." slot="4" text="heat until" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour rinsed rice into pot ." slot="5" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="cover pot with lid ." slot="6" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="simmer until rice is cooked ." slot="7" text="simmer" head="simmer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="measure rice into strainer ." slot="1" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="strainer" head="strainer"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="measure rice into strainer ." slot="1" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="strainer" head="strainer"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="rinse rice ." slot="1" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure water into pot ." slot="2" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="heat water until boiling ." slot="3" text="heat until" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour rinsed rice into pot ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="cover pot with lid ." slot="5" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="simmer until rice is cooked ." slot="6" text="simmer" head="simmer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="rinse rice ." slot="1" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure water into pot ." slot="2" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="heat water until boiling ." slot="3" text="heat until" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour rinsed rice into pot ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="cover pot with lid ." slot="5" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="simmer until rice is cooked ." slot="6" text="simmer" head="simmer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="measure rice into strainer ." slot="1" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="strainer" head="strainer"/>
+		</item>
+		<item original="rinse rice ." slot="2" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure water into pot ." slot="3" text="measure into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="heat water until boiling ." slot="4" text="heat until" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour rinsed rice into pot ." slot="5" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="cover pot with lid ." slot="6" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="simmer until rice is cooked ." slot="7" text="simmer" head="simmer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="rinse rice ." slot="1" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="place rice in rice cooker ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice cooker" head="cooker"/>
+		</item>
+		<item original="add water ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on rice cooker ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="wait until rice is cooked ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="serve ." slot="6" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="measure 1 cup rice ." slot="1" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1 cup rice" head="rice"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="wash until runs clear ." slot="2" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clear" head="clear"/>
+		</item>
+		<item original="put in pot with 2 cups water ." slot="3" text="put in with" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on burner to medium ." slot="4" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="medium" head="medium"/>
+		</item>
+		<item original="place pot on burner with the lid off ." slot="5" text="place off on with" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="burner" head="burner"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="wait 20 minutes ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="rice is done ." slot="7" text="is " head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="measure rice ." slot="1" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="wash rice ." slot="2" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="place in rice cooker ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="close lid ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="turn on rice cooker ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="boil water in a pot ." slot="1" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="remove from heat ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="pour in rice ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="cover pot ." slot="4" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="let stand 5 minutes ." slot="5" text="stand" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="fluff rice with a fork ." slot="6" text="fluff with" head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff rice" head="rice"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="fork" head="fork"/>
+		</item>
+		<item original="serve ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="boil water in a pot ." slot="1" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="remove from heat ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="pour in rice ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="cover pot ." slot="4" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="let stand 5 minutes ." slot="5" text="stand" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="fluff rice with a fork ." slot="6" text="fluff with" head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff rice" head="rice"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="fork" head="fork"/>
+		</item>
+		<item original="serve ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="boil water in a pot ." slot="1" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="remove from heat ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="pour in rice ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="cover pot ." slot="4" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="let stand 5 minutes ." slot="5" text="stand" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="fluff rice with a fork ." slot="6" text="fluff with" head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff rice" head="rice"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="fork" head="fork"/>
+		</item>
+		<item original="serve ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="boil water in a pot ." slot="1" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="remove from heat ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="pour in rice ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="cover pot ." slot="4" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="let stand 5 minutes ." slot="5" text="stand" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="fluff rice with a fork ." slot="6" text="fluff with" head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff rice" head="rice"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="fork" head="fork"/>
+		</item>
+		<item original="serve ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="boil water in a pot ." slot="1" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="remove from heat ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="pour in rice ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="cover pot ." slot="4" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="let stand 5 minutes ." slot="5" text="stand" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="fluff rice with a fork ." slot="6" text="fluff with" head="fluff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fluff rice" head="rice"/>
+			<ptcp text="fluff" head="fluff"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="fork" head="fork"/>
+		</item>
+		<item original="serve ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="add rice to bowl ." slot="1" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="add water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook rice ." slot="3" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="add rice to bowl ." slot="1" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="add water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook rice ." slot="3" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="add rice to bowl ." slot="1" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="add water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook rice ." slot="3" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="add rice to bowl ." slot="1" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="add water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook rice ." slot="3" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="add rice to bowl ." slot="1" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="add water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook rice ." slot="3" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="add rice to bowl ." slot="1" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="add water ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cook rice ." slot="3" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="add water to rice ." slot="1" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="get rice ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="get water ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="clean rice ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="put pot on stove ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="close lid ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="let it cook ." slot="7" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="get rice ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="get water ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="clean rice ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="put pot on stove ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="close lid ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="let it cook ." slot="7" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="wash rice ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="place rice in rice-cooker ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="ricecooker" head="ricecooker"/>
+		</item>
+		<item original="add water ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="close the lid ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="turn on the rice cooker ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="remove rice from pantry ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pantry" head="pantry"/>
+		</item>
+		<item original="determine how many cups of rice you are going to need ." slot="2" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure out the number of cups of rice you are going to need ." slot="3" text="measure out of of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="remove rice from pantry ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pantry" head="pantry"/>
+		</item>
+		<item original="determine how many cups of rice you are going to need ." slot="2" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure out the number of cups of rice you are going to need ." slot="3" text="measure out of of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="remove rice from pantry ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pantry" head="pantry"/>
+		</item>
+		<item original="determine how many cups of rice you are going to need ." slot="2" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure out the number of cups of rice you are going to need ." slot="3" text="measure out of of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="remove rice from pantry ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="pantry" head="pantry"/>
+		</item>
+		<item original="determine how many cups of rice you are going to need ." slot="2" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="measure out the number of cups of rice you are going to need ." slot="3" text="measure out of of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="get rice cooker ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="plug in rice cooker ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="fill cooker with water and put in rice ." slot="3" text="fill with in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooker" head="cooker"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="put on lid ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="get rice cooker ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="plug in rice cooker ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="fill cooker with water and put in rice ." slot="3" text="fill with in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooker" head="cooker"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="put on lid ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="put water and rice in rice  maker ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice maker" head="maker"/>
+		</item>
+		<item original="plug in rice maker ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="cover rice maker ." slot="3" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="put water and rice in rice  maker ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice maker" head="maker"/>
+		</item>
+		<item original="plug in rice maker ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="cover rice maker ." slot="3" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="put water and rice in rice  maker ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice maker" head="maker"/>
+		</item>
+		<item original="plug in rice maker ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="cover rice maker ." slot="3" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="put water and rice in rice  maker ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice maker" head="maker"/>
+		</item>
+		<item original="plug in rice maker ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="cover rice maker ." slot="3" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="measure out desired amount of rice ." slot="1" text="measure out of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired amount" head="amount"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="wash rice with water ." slot="2" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place rice in rice cooker ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice cooker" head="cooker"/>
+		</item>
+		<item original="start rice cooker ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="measure out desired amount of rice ." slot="1" text="measure out of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired amount" head="amount"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="wash rice with water ." slot="2" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place rice in rice cooker ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice cooker" head="cooker"/>
+		</item>
+		<item original="start rice cooker ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="measure out desired amount of rice ." slot="1" text="measure out of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired amount" head="amount"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="wash rice with water ." slot="2" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place rice in rice cooker ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice cooker" head="cooker"/>
+		</item>
+		<item original="start rice cooker ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="measure out desired amount of rice ." slot="1" text="measure out of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired amount" head="amount"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="wash rice with water ." slot="2" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place rice in rice cooker ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice cooker" head="cooker"/>
+		</item>
+		<item original="start rice cooker ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="measure out desired amount of rice ." slot="1" text="measure out of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired amount" head="amount"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="wash rice with water ." slot="2" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place rice in rice cooker ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice cooker" head="cooker"/>
+		</item>
+		<item original="start rice cooker ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="measure out desired amount of rice ." slot="1" text="measure out of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired amount" head="amount"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="wash rice with water ." slot="2" text="wash with" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place rice in rice cooker ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice cooker" head="cooker"/>
+		</item>
+		<item original="start rice cooker ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice cooker" head="cooker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="get rice maker ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="plug in rice maker ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="put water and rice in rice maker ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="rice" head="rice"/>
+			<ptcp text="rice maker" head="maker"/>
+		</item>
+		<item original="cover rice maker ." slot="4" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+		<item original="start rice maker ." slot="5" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rice maker" head="maker"/>
+			<ptcp text="rice" head="rice"/>
+		</item>
+	</script>
+</scripts>

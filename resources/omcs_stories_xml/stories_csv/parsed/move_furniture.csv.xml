@@ -1,0 +1,747 @@
+<scripts>
+	<script id="1">
+		<item original="grasp an edge or corner of the furniture ." slot="1" text="grasp of" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edge" head="edge"/>
+			<ptcp text="corner" head="corner"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="slide or shift the furniture ." slot="2" text="slide" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick it up and carry it if you can t slide it ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="put it in a different place ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find furniture ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick up furniture or push it with your hands ." slot="2" text="pick up with" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="move furniture to new location ." slot="3" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="put down furniture or stop pushing it ." slot="4" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="assess size of room ." slot="1" text="assess of" head="assess">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="size" head="size"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="determine position for new furniture placement ." slot="2" text="determine for" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+			<ptcp text="new furniture placement" head="placement"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="slowly and carefully move each piece of furniture to its new location ." slot="3" text="move of to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="move near the furniture ." slot="1" text="move near" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="grasp the furniture ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="raise the furniture from the ground ." slot="3" text="raise from" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="carry the furniture to it s new location ." slot="4" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="set the furniture down on the ground ." slot="5" text="set down on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="locate furniture to be moved ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="if possible pick up the furniture walk to the final location and put it down ." slot="2" text="pick up down to" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the furniture walk" head="walk"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="otherwise push the furniture to the final location ." slot="3" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="invite over some friends to help ." slot="1" text="invite over" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="friends" head="friends"/>
+		</item>
+		<item original="each of you grasp the item of furniture ." slot="2" text="grasp of of" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="each" head="each"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="lift the item in concert ." slot="3" text="lift in" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="concert" head="concert"/>
+		</item>
+		<item original="move the item to its new location ." slot="4" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="fetch a strong man ." slot="1" text="fetch" head="fetch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="man" head="man"/>
+		</item>
+		<item original="get a trolley ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trolley" head="trolley"/>
+		</item>
+		<item original="let the strong man put the furniture on the trolley ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="man" head="man"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="trolley" head="trolley"/>
+		</item>
+		<item original="let him roll the trolley to the destination ." slot="4" text="roll to" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trolley" head="trolley"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="let him unload the furniture ." slot="5" text="unload" head="unload">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="thank the strong man ." slot="6" text="thank" head="thank">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="man" head="man"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="make space for furniture ." slot="1" text="make for" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="space" head="space"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="lift furniture ." slot="2" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="move to new place ." slot="3" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="let furniture down ." slot="4" text="let down " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="decide new place for furniture ." slot="1" text="decide for" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="make room ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="lift furniture ." slot="3" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="move to new place ." slot="4" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="release furniture ." slot="5" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get someone to help ." slot="1" text="to" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="pick up furniture ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="carry furniture to new destination ." slot="3" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="set down furniture ." slot="4" text="set down" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="schedule movers ." slot="1" text="schedule" head="schedule">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movers" head="movers"/>
+		</item>
+		<item original="let movers carry away furniture ." slot="2" text="carry away" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movers" head="movers"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="be at destination when the movers arrive ." slot="3" text="arrive at" head="arrive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination" head="destination"/>
+			<ptcp text="movers" head="movers"/>
+		</item>
+		<item original="let movers move in furniture ." slot="4" text="let in" head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="move" head="move"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="make space for furniture ." slot="1" text="make for" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="space" head="space"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="lift up furniture ." slot="2" text="lift up" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="carry to new place ." slot="3" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="place down furniture ." slot="4" text="place down" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="grab furniture ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="push furniture ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="find a piece of furniture ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="push pull or carry the furniture to a different location ." slot="2" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="repeat until all of the furniture has been moved ." slot="3" text="repeat of" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all" head="all"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="go to the furniture to move ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="push the furniture somewhere else ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="pick up furniture ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="carry furniture ." slot="2" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="set down furniture ." slot="3" text="set down" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="select furniture to be moved ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="determine where to move furniture ." slot="2" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="push or carry furniture to desired location ." slot="3" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="desired location" head="location"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="identify furniture ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick up furniture ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="walk ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put furniture down ." slot="4" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="bend down ." slot="1" text="bend down" head="bend">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="grab ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="lift ." slot="3" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="move ." slot="4" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="drop ." slot="5" text="drop" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="adjust ." slot="6" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="go to the furniture ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick furniture up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="go to new location for furniture ." slot="3" text="go to for" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="place furniture on new location ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="pick up furniture ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="carry furniture to new location ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="put down furniture ." slot="3" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="pick up furniture ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="carry furniture to new location ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="put down furniture ." slot="3" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="identify new location ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="clear new location ." slot="2" text="clear" head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="clear path ." slot="3" text="clear " head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="path" head="path"/>
+		</item>
+		<item original="lift furniture ." slot="4" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="move furniture ." slot="5" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="set furniture down ." slot="6" text="set down" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="decide where to move the couch to ." slot="1" text="decide to" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="couch" head="couch"/>
+		</item>
+		<item original="get behind the couch ." slot="2" text="get behind" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="couch" head="couch"/>
+		</item>
+		<item original="ask your friend to get in front ." slot="3" text="ask in" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="friend" head="friend"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="both people lift the couch slightly ." slot="4" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="couch" head="couch"/>
+		</item>
+		<item original="both people walk with the couch ." slot="5" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="couch" head="couch"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="pack up all furniture ." slot="1" text="pack up" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="place furniture in vehicle ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="vehicle" head="vehicle"/>
+		</item>
+		<item original="drive vehicle to new location ." slot="3" text="drive to" head="drive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vehicle" head="vehicle"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="unpack furniture ." slot="4" text="unpack" head="unpack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="deside on where the furniture will go ." slot="1" text="deside on" head="deside">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="deside if require assistance ." slot="2" text="deside" head="deside">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="assistance" head="assistance"/>
+		</item>
+		<item original="know where each peice of furniture will go before you move it ." slot="3" text="know of before" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="peice" head="peice"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="move furniture to the position ." slot="4" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="you are done ." slot="5" text="are " head="are">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="go near furniture ." slot="1" text="go near" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="grip the furniture ." slot="2" text="grip " head="grip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grip" head="grip"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="push furniture ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="keep pushing to prefered place ." slot="4" text="keep pushing to" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="let go off the furniture ." slot="5" text="go off" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="identify the furniture ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="apply the force to move ." slot="2" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="force" head="force"/>
+		</item>
+		<item original="move the furniture in proper direction ." slot="3" text="move in" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="find the furniture ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="take a trolley ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trolley" head="trolley"/>
+		</item>
+		<item original="keep the furniture inside the trolley ." slot="3" text="keep inside" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="trolley" head="trolley"/>
+		</item>
+		<item original="move the furniture ." slot="4" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="pick up furniture ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="move to new desired location ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new desired location" head="location"/>
+		</item>
+		<item original="slowly lower piece of furniture on the ground ." slot="3" text="slowly of on" head="slowly">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slowly lower piece" head="piece"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="position piece of furniture to the desired arrangement ." slot="4" text="position of to" head="position">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="the desired arrangement" head="arrangement"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="lift the furniture ." slot="1" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="move furniture to desinated area ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="find furniture that needs moving ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick up furniture ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="walk while holding furniture ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="find furniture that needs moving ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick up furniture ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="walk while holding furniture ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="find furniture that needs moving ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick up furniture ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="carry it to wher you want it ." slot="3" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put it down ." slot="4" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="find furniture that needs moving ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick up furniture ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="carry it to wher you want it ." slot="3" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put it down ." slot="4" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="find furniture that needs moving ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick up furniture ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="carry it to wher you want it ." slot="3" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put it down ." slot="4" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="find furniture that needs moving ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick up furniture ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="carry it to wher you want it ." slot="3" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put it down ." slot="4" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="find furniture that needs moving ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick up furniture ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="carry it to wher you want it ." slot="3" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put it down ." slot="4" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="find furniture that needs moving ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="pick up furniture ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="carry it to wher you want it ." slot="3" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put it down ." slot="4" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="picking it up ." slot="1" text="picking up" head="picking">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="maneuver around corners and spaces ." slot="2" text="maneuver around" head="maneuver">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="corners" head="corners"/>
+			<ptcp text="spaces" head="spaces"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="picking it up ." slot="1" text="picking up" head="picking">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="maneuver around corners and spaces ." slot="2" text="maneuver around" head="maneuver">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="corners" head="corners"/>
+			<ptcp text="spaces" head="spaces"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="use hands ." slot="1" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="push or lift furniture ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+	</script>
+</scripts>

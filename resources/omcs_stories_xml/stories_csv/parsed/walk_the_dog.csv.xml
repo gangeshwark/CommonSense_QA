@@ -1,0 +1,1267 @@
+<scripts>
+	<script id="1">
+		<item original="take leash ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="take dog ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="attach leach to dog ." slot="3" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leach" head="leach"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="go out with dog ." slot="4" text="go out with" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put the leash on the dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk out the door ." slot="3" text="walk out" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk the dog ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="come back home ." slot="5" text="come home" head="come">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="take the leash off ." slot="6" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="find the dog ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="find a leash ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="attach the leash to the dog ." slot="3" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk the dog using the leash ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find a leash ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="attach the leash to the dog ." slot="2" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take the dog outside ." slot="3" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk on sidewalks and ground with the dog ." slot="4" text="walk on with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sidewalks" head="sidewalks"/>
+			<ptcp text="ground" head="ground"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="locate a dog leash ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a dog leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="locate a dog collar ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a dog collar" head="collar"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="locate a dog ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="securely fasten the collar to the dog ." slot="4" text="fasten to" head="fasten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="collar" head="collar"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="clip the leash to the collar ." slot="5" text="clip to" head="clip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="collar" head="collar"/>
+		</item>
+		<item original="securely grasp the leash ." slot="6" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="walk outside with the dog ." slot="7" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="put leash on dog ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog outside ." slot="2" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="choose path to walk from available choices ." slot="3" text="choose from" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="path" head="path"/>
+			<ptcp text="choices" head="choices"/>
+		</item>
+		<item original="follow selected path to its end ." slot="4" text="follow to" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="selected path" head="path"/>
+			<ptcp text="end" head="end"/>
+		</item>
+		<item original="then return back home ." slot="5" text="return home" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="attach a leash to the dog ." slot="1" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="hold leash ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="take dog along walking route ." slot="3" text="take along" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="route" head="route"/>
+		</item>
+		<item original="return to starting point ." slot="4" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="starting point" head="point"/>
+			<ptcp text="starting" head="starting"/>
+		</item>
+		<item original="remove leash from dog ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put away leash ." slot="6" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get out the leash ." slot="1" text="get out" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="hook the leash onto the dog s collar ." slot="2" text="hook onto" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="collar" head="collar"/>
+		</item>
+		<item original="grasp the leash ." slot="3" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="go outside ." slot="4" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk around the block ." slot="5" text="walk around" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="block" head="block"/>
+		</item>
+		<item original="come back inside ." slot="6" text="come" head="come">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="unhook the leash ." slot="7" text="unhook" head="unhook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get dog ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="place leash ." slot="2" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="take dog ouside ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog ouside" head="ouside"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk with dog holding leash ." slot="4" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog holding leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="get back ." slot="5" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="remove leash ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="call dog ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put leach on dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leach" head="leach"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog outside ." slot="3" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk with dog outside ." slot="4" text="walk with outside" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="come back to house ." slot="5" text="come to" head="come">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="take leach off ." slot="6" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leach" head="leach"/>
+		</item>
+		<item original="clean dog ." slot="7" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="call dog ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put leach on dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leach" head="leach"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog outside ." slot="3" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk with dog ." slot="4" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="come back to house ." slot="5" text="come to" head="come">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="enter house ." slot="6" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="take off leach ." slot="7" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leach" head="leach"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="find the dog ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="find a leash ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="attach the leash to the dog s collar ." slot="3" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="collar" head="collar"/>
+		</item>
+		<item original="talk the dog outside ." slot="4" text="talk outside" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="holding the leash move around on the sidewalks allowing the dog to walk ." slot="5" text="holding around on" head="holding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the leash move" head="move"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="sidewalks" head="sidewalks"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="get the dog ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="puth the leash on the dog ." slot="2" text="puth on" head="puth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take the dog outside ." slot="3" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="choose a place to walk to ." slot="4" text="choose to" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="have the dog walk back and forth from the location ." slot="5" text="walk from" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="call the dog ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put on its lead ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lead" head="lead"/>
+		</item>
+		<item original="take dog down the road ." slot="3" text="take down" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="road" head="road"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get a leash ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="get the dog ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put the leash on the dog ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take the dog outside ." slot="4" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk with the dog ." slot="5" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="put collar on dog ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="collar" head="collar"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="attach leash to collar ." slot="2" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="collar" head="collar"/>
+		</item>
+		<item original="go outside with dog ." slot="3" text="go with" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take a walk ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="walk" head="walk"/>
+		</item>
+		<item original="scoop poop ." slot="5" text="scoop" head="scoop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="poop" head="poop"/>
+		</item>
+		<item original="return home ." slot="6" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="remove leash and collar from dog ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="collar" head="collar"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get leash ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="put leash on dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="go outside ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk with dog while holding leash ." slot="4" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="go inside ." slot="5" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take leash off of dog ." slot="6" text="take off of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put away leash ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="attach leash to dog s collar ." slot="1" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="collar" head="collar"/>
+		</item>
+		<item original="take dog outside ." slot="2" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk dog ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="return to starting point ." slot="4" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="starting point" head="point"/>
+			<ptcp text="starting" head="starting"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="get the leash ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="put the leash on the dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="open the door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside with the dog ." slot="4" text="go with" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="close the door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk ." slot="6" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="get the leash ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="put the leash on the dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="open the door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside with the dog ." slot="4" text="go with" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="close the door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk ." slot="6" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="find the dog ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="leash the dog ." slot="2" text="leash " head="leash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog outside ." slot="3" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk with the dog ." slot="4" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="return to home ." slot="5" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="unleash dog ." slot="6" text="unleash" head="unleash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="identify the dog you need to walk ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="get the dog s leash ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="put the leash on the dog ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="open the door ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk out the door guiding the dog on the leash ." slot="5" text="walk out on" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="let the dog go to the bathroom ." slot="6" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="bathroom" head="bathroom"/>
+		</item>
+		<item original="bring the dog back in the house ." slot="7" text="bring in" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="place collar around neck of dog ." slot="1" text="place around of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="collar" head="collar"/>
+			<ptcp text="neck" head="neck"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="attach leash to collar ." slot="2" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="collar" head="collar"/>
+		</item>
+		<item original="walk dog ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="put dog on leash ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="walk with dog on leash around neighborhood ." slot="2" text="walk with on around" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="neighborhood" head="neighborhood"/>
+		</item>
+		<item original="return home ." slot="3" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="take dog off leash ." slot="4" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="call dog ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="get lead ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lead" head="lead"/>
+		</item>
+		<item original="put lead on dog ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lead" head="lead"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="hold lead ." slot="4" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lead" head="lead"/>
+		</item>
+		<item original="lead dog outside ." slot="5" text="lead outside" head="lead">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk with dog ." slot="6" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="return home ." slot="7" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="locate dog ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="put leash on dog ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="bring bags for waste ." slot="2" text="bring for" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bags" head="bags"/>
+			<ptcp text="waste" head="waste"/>
+		</item>
+		<item original="put on my shoes and coat ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+		<item original="leave house and lock door ." slot="4" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk down the walkway ." slot="5" text="walk down" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="walkway" head="walkway"/>
+		</item>
+		<item original="follow sidewalk to the park ." slot="6" text="follow to" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sidewalk" head="sidewalk"/>
+			<ptcp text="park" head="park"/>
+		</item>
+		<item original="go back home and unleash dog ." slot="7" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="put leash on dog ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog to park ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="park" head="park"/>
+		</item>
+		<item original="walk the dog ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="do not let dog run wildly or bite people ." slot="4" text="bite" head="bite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="not" head="not"/>
+			<ptcp text="dog run" head="run"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="people" head="people"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="call the dog to you ." slot="1" text="call to" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put collar on dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="collar" head="collar"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="attach leash to collar ." slot="3" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="collar" head="collar"/>
+		</item>
+		<item original="hold on to leash loop ." slot="4" text="hold on to" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash loop" head="loop"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="open door ." slot="5" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="take dog outside walk around ." slot="6" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog outside walk" head="walk"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="return dog to indoors and remove leash and collar ." slot="7" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="indoors" head="indoors"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="collar" head="collar"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="get leash ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="put on dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="go outside ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go for a walk come back inside ." slot="4" text="go for" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="walk" head="walk"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="chain dog ." slot="1" text="chain " head="chain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chain" head="chain"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog out for walk ." slot="2" text="take out for" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="walk" head="walk"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="chain dog ." slot="1" text="chain " head="chain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chain" head="chain"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog out for walk ." slot="2" text="take out for" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="walk" head="walk"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="chain dog ." slot="1" text="chain " head="chain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chain" head="chain"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog out for walk ." slot="2" text="take out for" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="walk" head="walk"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="chain dog ." slot="1" text="chain " head="chain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chain" head="chain"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog out for walk ." slot="2" text="take out for" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="walk" head="walk"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="chain dog ." slot="1" text="chain " head="chain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chain" head="chain"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog out for walk ." slot="2" text="take out for" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="walk" head="walk"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="chain dog ." slot="1" text="chain " head="chain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chain" head="chain"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog out for walk ." slot="2" text="take out for" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="walk" head="walk"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="summon dog ." slot="1" text="summon" head="summon">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put leash on dog collar ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog collar" head="collar"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="go outside ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk dog around neighbourhood ." slot="4" text="walk around" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="neighbourhood" head="neighbourhood"/>
+		</item>
+		<item original="return home ." slot="5" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="take leash off dog ." slot="6" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="give dog water to drink ." slot="7" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog water" head="water"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="summon dog ." slot="1" text="summon" head="summon">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put leash on dog collar ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog collar" head="collar"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="go outside ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk dog around neighbourhood ." slot="4" text="walk around" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="neighbourhood" head="neighbourhood"/>
+		</item>
+		<item original="return home ." slot="5" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="take leash off dog ." slot="6" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="give dog water to drink ." slot="7" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog water" head="water"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="summon dog ." slot="1" text="summon" head="summon">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put leash on dog collar ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog collar" head="collar"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="go outside ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk dog around neighbourhood ." slot="4" text="walk around" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="neighbourhood" head="neighbourhood"/>
+		</item>
+		<item original="return home ." slot="5" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="take leash off dog ." slot="6" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="give dog water to drink ." slot="7" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog water" head="water"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="leash the dog ." slot="1" text="leash " head="leash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="take dog out ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk the dog ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="bring dog back ." slot="5" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="open door ." slot="6" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="put dog in house ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="get leash ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="get dog ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="attach leash to dog ." slot="3" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog for walk ." slot="4" text="take for" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="walk" head="walk"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="take the dog outside ." slot="1" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk the dog ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="take the dog outside ." slot="1" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk the dog ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="take the dog outside ." slot="1" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk the dog ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="get the leash ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="call the dog ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="hook leash to dog collar ." slot="3" text="hook to" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog collar" head="collar"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk the dog ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="return with the dog ." slot="5" text="return with" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="unhook leash from collar ." slot="6" text="unhook from" head="unhook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="collar" head="collar"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="put the collar and leash on the dog ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="collar" head="collar"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="take the dog outside ." slot="3" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk with the dog ." slot="4" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="eventually return home ." slot="5" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="get leash ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="put leash on dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog outside ." slot="3" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk with dog ." slot="4" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="get leash ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="put leash on dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog outside ." slot="3" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk with dog ." slot="4" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="get leash ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="put leash on dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog outside ." slot="3" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="walk with dog ." slot="4" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="find the leash ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="call the dog ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put the leash on ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="walk out door with dog ." slot="4" text="walk out with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="find the leash ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="call the dog ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="put the leash on ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="walk out door with dog ." slot="4" text="walk out with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="put your dog on a leash ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="bring a bag in case he poops ." slot="2" text="bring in" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="case" head="case"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="put your dog on a leash ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="bring a bag in case he poops ." slot="2" text="bring in" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="case" head="case"/>
+		</item>
+		<item original="walk your dog ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="take coller ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coller" head="coller"/>
+		</item>
+		<item original="place coller on dog ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coller" head="coller"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="go outside ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="take leash ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="put leash on dog ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="take dog outside ." slot="3" text="take outside" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="getting a leash ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leash" head="leash"/>
+		</item>
+		<item original="bringing a bag ." slot="2" text="bringing" head="bringing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="walking ." slot="3" text="walking" head="walking">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="dragging the dog ." slot="4" text="dragging" head="dragging">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="ordering the dog ." slot="5" text="ordering" head="ordering">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dog" head="dog"/>
+		</item>
+		<item original="poop and scooping ." slot="6" text="scooping" head="scooping">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="exercise ." slot="7" text="exercise" head="exercise">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+</scripts>

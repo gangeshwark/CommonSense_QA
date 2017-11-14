@@ -1,0 +1,1104 @@
+<scripts>
+	<script id="1">
+		<item original="find some paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find a pen ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write the letter ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find writing paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing paper" head="paper"/>
+		</item>
+		<item original="find a pen or pencil ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="write a message on the paper with the pen or pencil ." slot="3" text="write on with" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="determine the recipient of the letter ." slot="1" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the recipient" head="recipient"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="determine the content of the letter ." slot="2" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="content" head="content"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="locate a few pieces of paper ." slot="3" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pieces" head="pieces"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="locate a writing implement ." slot="4" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing" head="writing"/>
+		</item>
+		<item original="using the writing implement transcribe the thoughts onto the paper ." slot="5" text="using using onto" head="using">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing" head="writing"/>
+			<ptcp text="implement" head="implement"/>
+			<ptcp text="thoughts" head="thoughts"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find a pen ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="decide who to write to ." slot="3" text="decide to" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="use pen to write words on paper ." slot="4" text="use on" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="pick up a piece of paper ." slot="1" text="pick up of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="pick up a pen ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write the letter on paper using the pen ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="put the completed letter in an envelope ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the completed letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="close the envelope ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put the receiver information ." slot="6" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the receiver information" head="information"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="put appropriate stamps ." slot="7" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamps" head="stamps"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get pencil ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="write on paper ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="fold paper ." slot="4" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put in envelope ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="find paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find pen ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write on the paper using pen ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="find envelope ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put letter in envelope ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write address on envelope ." slot="6" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put stamp on envelope ." slot="7" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="find a sheet of lined stationary paper ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+			<ptcp text="lined stationary paper" head="paper"/>
+		</item>
+		<item original="find a pencil or pen ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write letter content ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="content" head="content"/>
+		</item>
+		<item original="fold paper ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put folded paper in envelope ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelope ." slot="5" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write address on envelope ." slot="6" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="stamp and mail envelope ." slot="7" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get pen ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write text of letter ." slot="3" text="write of" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="text" head="text"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get paper and pencil ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="write message on paper ." slot="2" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="sign name and date ." slot="3" text="sign" head="sign">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="date" head="date"/>
+		</item>
+		<item original="put in envelope ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="think of content ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="content" head="content"/>
+		</item>
+		<item original="write content in wordprocessing program ." slot="2" text="write in" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="content" head="content"/>
+			<ptcp text="wordprocessing program" head="program"/>
+		</item>
+		<item original="print letter ." slot="3" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="locate paper ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="record message for letter ." slot="2" text="record for" head="record">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="print letter onto paper ." slot="3" text="print onto" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="prepare letter for mailing ." slot="4" text="prepare for" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="get a pen ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="get some paper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write the letter ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="collect paper an envelope and a writing utensil ." slot="1" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="a writing utensil" head="utensil"/>
+			<ptcp text="writing" head="writing"/>
+		</item>
+		<item original="address the letter and envelope ." slot="2" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write that which needs to be written ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="which" head="which"/>
+		</item>
+		<item original="sign it ." slot="4" text="sign" head="sign">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="fold the letter ." slot="5" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put it in the envelope ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal the envelope ." slot="7" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="get a pen ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="get some paper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write down what you want to say ." slot="3" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put it in an envelope ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put a stamp on it ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+		</item>
+		<item original="post it in a letter box ." slot="6" text="post in" head="post">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a letter box" head="box"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="find paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find pencil ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="identify who this is written to ." slot="3" text="identify to" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+		</item>
+		<item original="decide what to write ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="write ." slot="5" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="place in envelope ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail envelope ." slot="7" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get a pencil ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="write letter ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="sign ." slot="4" text="sign" head="sign">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="find a piece of paper ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find a pen or pencil ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="write words on the paper ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find a envelope ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put the paper in the envelope ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="decide who to write ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find paper ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find pen ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="address envelope ." slot="4" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write letter ." slot="5" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put stamp on envelope ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail letter ." slot="7" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="find paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put letter in envelope ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="find paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put letter in envelope ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="take out some paper ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="address the letter ." slot="2" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="write the letter on the paper ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="fold the paper and put in an envelope ." slot="4" text="fold in" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="address the envelope ." slot="5" text="address" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal the envelope ." slot="6" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put a stamp on the envelope and mail ." slot="7" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="find a piece of paper ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write a note on the paper ." slot="2" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put the note in an envelope ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write an address on the envelope ." slot="4" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put a stamp on the envelope ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelop ." slot="6" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelop" head="envelop"/>
+		</item>
+		<item original="put envelope in mail ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="find a piece of paper ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write a note on the paper ." slot="2" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put the note in an envelope ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="write an address on the envelope ." slot="4" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put a stamp on the envelope ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="seal envelop ." slot="6" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelop" head="envelop"/>
+		</item>
+		<item original="put envelope in mail ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="find paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find pen ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="sit at a desk or table ." slot="3" text="sit at" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desk" head="desk"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="use pen to write letter on to paper ." slot="4" text="use on to" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="sign your name ." slot="5" text="sign" head="sign">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+		</item>
+		<item original="write on envelope ." slot="6" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="send letter ." slot="7" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="pick up a pen ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write a letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="pick up a pen ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write a letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="pick up a pen ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write a letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="pick up a pen ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write a letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="pick up a pen ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write a letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="pick up a pen ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write a letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="pick up a pen ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write a letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="pick up a pen ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write a letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="pick up a pen ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write a letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="pick up pen ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write on paper ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put letter in envelope ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail letter ." slot="5" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get pen ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="set pen and paper on desk ." slot="3" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="desk" head="desk"/>
+		</item>
+		<item original="sit at a desk ." slot="4" text="sit at" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desk" head="desk"/>
+		</item>
+		<item original="begin writing ." slot="5" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get pen ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="set pen and paper on desk ." slot="3" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="desk" head="desk"/>
+		</item>
+		<item original="sit at a desk ." slot="4" text="sit at" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desk" head="desk"/>
+		</item>
+		<item original="begin writing ." slot="5" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get pen ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="set pen and paper on desk ." slot="3" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="desk" head="desk"/>
+		</item>
+		<item original="sit at a desk ." slot="4" text="sit at" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desk" head="desk"/>
+		</item>
+		<item original="begin writing ." slot="5" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get pen ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="sit at desk or table ." slot="3" text="sit at" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desk" head="desk"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put paper down on desk or table ." slot="4" text="put down on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="desk" head="desk"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put pen to paper to form words ." slot="5" text="put to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="words" head="words"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get pen ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="sit at desk or table ." slot="3" text="sit at" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desk" head="desk"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put paper down on desk or table ." slot="4" text="put down on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="desk" head="desk"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put pen to paper to form words ." slot="5" text="put to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="words" head="words"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get pen ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="sit at desk or table ." slot="3" text="sit at" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desk" head="desk"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put paper down on desk or table ." slot="4" text="put down on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="desk" head="desk"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put pen to paper to form words ." slot="5" text="put to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="words" head="words"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get pen ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="sit at desk or table ." slot="3" text="sit at" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desk" head="desk"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put paper down on desk or table ." slot="4" text="put down on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="desk" head="desk"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put pen to paper to form words ." slot="5" text="put to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="words" head="words"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="paper ." slot="1" text="paper " head="paper">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="penspencils ." slot="2" text="penspencils " head="penspencils">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="penspencils" head="penspencils"/>
+		</item>
+		<item original="have idea what you want to write ." slot="3" text="want" head="want">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="idea" head="idea"/>
+		</item>
+		<item original="address to whom the letter is for ." slot="4" text="address to for" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="paper ." slot="1" text="paper " head="paper">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="penspencils ." slot="2" text="penspencils " head="penspencils">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="penspencils" head="penspencils"/>
+		</item>
+		<item original="have idea what you want to write ." slot="3" text="want" head="want">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="idea" head="idea"/>
+		</item>
+		<item original="address to whom the letter is for ." slot="4" text="address to for" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="paper ." slot="1" text="paper " head="paper">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="penspencils ." slot="2" text="penspencils " head="penspencils">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="penspencils" head="penspencils"/>
+		</item>
+		<item original="have idea what you want to write ." slot="3" text="want" head="want">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="idea" head="idea"/>
+		</item>
+		<item original="address to whom the letter is for ." slot="4" text="address to for" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="find stationary ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stationary" head="stationary"/>
+		</item>
+		<item original="write letter ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="place in envelope ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="decide who to write to and why ." slot="1" text="decide to" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take out a piece of paper and a pen ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="start with a salutation ." slot="3" text="start with" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salutation" head="salutation"/>
+		</item>
+		<item original="write the body of your letter ." slot="4" text="write of" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="body" head="body"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="get a clean piece of paper ." slot="1" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write the person s address at the top ." slot="2" text="write at" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="top" head="top"/>
+		</item>
+		<item original="write the date under the address ." slot="3" text="write under" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="write 'to whom it may concern' ." slot="4" text="write to" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="get a pen ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="get paper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write letter ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="get a pen ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="get paper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write letter ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="get a pen ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="get paper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write letter ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="get address ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="add name of recipient ." slot="2" text="add of" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="recipient" head="recipient"/>
+		</item>
+		<item original="add address ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="leave room to sign ." slot="4" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="print ." slot="5" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="insert in envelope ." slot="6" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail ." slot="7" text="mail " head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+</scripts>

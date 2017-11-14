@@ -1,0 +1,1032 @@
+<scripts>
+	<script id="1">
+		<item original="pick up a camera ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="turn on the camera ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="wind the camera ." slot="3" text="wind" head="wind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="aim the camera ." slot="4" text="aim" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="focus the camera ." slot="5" text="focus" head="focus">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="press the shutter button ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the shutter button" head="button"/>
+			<ptcp text="shutter" head="shutter"/>
+		</item>
+		<item original="turn off the camera ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get a camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="find a scene or subject ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scene" head="scene"/>
+			<ptcp text="subject" head="subject"/>
+		</item>
+		<item original="frame the scene in the camera s viewfinder ." slot="3" text="frame in" head="frame">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scene" head="scene"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="viewfinder" head="viewfinder"/>
+		</item>
+		<item original="press the shutter button to take a photograph ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the shutter button" head="button"/>
+			<ptcp text="shutter" head="shutter"/>
+			<ptcp text="photograph" head="photograph"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="find a camera ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="point camera at a scene ." slot="2" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="scene" head="scene"/>
+		</item>
+		<item original="press the camera s shutter button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find something to photograph ." slot="1" text="find to" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="something" head="something"/>
+			<ptcp text="photograph" head="photograph"/>
+		</item>
+		<item original="locate a camera ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="locate film ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="film" head="film"/>
+		</item>
+		<item original="load the film into the camera ." slot="4" text="load into" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="film" head="film"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="point the camera at the item to photograph ." slot="5" text="point at to" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="photograph" head="photograph"/>
+		</item>
+		<item original="depress the shutter button on the camera shortly ." slot="6" text="depress on" head="depress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the shutter button" head="button"/>
+			<ptcp text="shutter" head="shutter"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="see subject through camera ." slot="1" text="see through" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="subject" head="subject"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="click the button ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="pick up the camera ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="move the camera so that the lens faces what should be in the picture ." slot="2" text="move in" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="lens" head="lens"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="make sure the object desired to be in the picture is in focus ." slot="3" text="make in in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="focus" head="focus"/>
+		</item>
+		<item original="press shutter release button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shutter release button" head="button"/>
+			<ptcp text="release" head="release"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="position camera to capture desired image ." slot="2" text="position" head="position">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="desired image" head="image"/>
+		</item>
+		<item original="press button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="place a camera to your eye ." slot="1" text="place to" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="eye" head="eye"/>
+		</item>
+		<item original="frame the scene you wish to photograph ." slot="2" text="frame" head="frame">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scene" head="scene"/>
+		</item>
+		<item original="press the shutter button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the shutter button" head="button"/>
+			<ptcp text="shutter" head="shutter"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="turn on camera ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="remove lens camera ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens camera" head="camera"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="aim the camera at the object you wish to take a picture of ." slot="3" text="aim at of" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="press button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get the camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="point the camera ." slot="2" text="point" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="select the camera settings ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the camera settings" head="settings"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="press the shutter button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the shutter button" head="button"/>
+			<ptcp text="shutter" head="shutter"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="turn on the camera ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="focus on the thing you want to take a photo with ." slot="2" text="focus on with" head="focus">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thing" head="thing"/>
+			<ptcp text="photo" head="photo"/>
+		</item>
+		<item original="press the shutter ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shutter" head="shutter"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="turn on camera ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="looking through viewfinder position camera ." slot="2" text="looking through" head="looking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="viewfinder position camera" head="camera"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="press button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="fetch camera ." slot="1" text="fetch" head="fetch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="turn camera on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="look through viewfinder so that desired object is in view ." slot="3" text="look through in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="viewfinder" head="viewfinder"/>
+			<ptcp text="desired object" head="object"/>
+			<ptcp text="view" head="view"/>
+		</item>
+		<item original="focus camera if needed ." slot="4" text="focus" head="focus">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="press button to take picture ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="choose scene ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scene" head="scene"/>
+		</item>
+		<item original="turn camera on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="point camera at scene ." slot="3" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="scene" head="scene"/>
+		</item>
+		<item original="adjust parameters ." slot="4" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="parameters" head="parameters"/>
+		</item>
+		<item original="click button to take photo ." slot="5" text="button" head="button">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="photo" head="photo"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="turn on camera ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="looking through viewfinder find the desired object to photograph ." slot="3" text="looking looking through to" head="looking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="viewfinder" head="viewfinder"/>
+			<ptcp text="the desired object" head="object"/>
+			<ptcp text="photograph" head="photograph"/>
+		</item>
+		<item original="press button to take photograph ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="photograph" head="photograph"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="locate a camera ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="locate an item to photograph ." slot="2" text="locate to" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="photograph" head="photograph"/>
+		</item>
+		<item original="aim the camera at the item ." slot="3" text="aim at" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="snap the shutter on the camera ." slot="4" text="snap on" head="snap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shutter" head="shutter"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="develop the film from the camera ." slot="5" text="develop from" head="develop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="film" head="film"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="turn camera on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="point camera at desired scene ." slot="3" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="desired scene" head="scene"/>
+		</item>
+		<item original="adjust settings ." slot="4" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="settings" head="settings"/>
+		</item>
+		<item original="push picturetaking button ." slot="5" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="pick up the camera ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="make sure there is film in the camera ." slot="2" text="make in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="film" head="film"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="focus the camera ." slot="3" text="focus" head="focus">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="press the button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="get a camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="locate object to be photographed ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="ensure object is in view of camera ." slot="3" text="ensure in of" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="view" head="view"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="press photo button on camera ." slot="4" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photo button" head="button"/>
+			<ptcp text="photo" head="photo"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="locate scene ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scene" head="scene"/>
+		</item>
+		<item original="prepare camera ." slot="2" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="point camera at scene ." slot="3" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="scene" head="scene"/>
+		</item>
+		<item original="adjust camera for distance and light ." slot="4" text="adjust for" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="distance" head="distance"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="press button on camera ." slot="5" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="find the camara ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camara" head="camara"/>
+		</item>
+		<item original="load the film ." slot="2" text="load" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="film" head="film"/>
+		</item>
+		<item original="line up the shot to be taken ." slot="3" text="line up" head="line">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shot" head="shot"/>
+		</item>
+		<item original="focus the camara ." slot="4" text="focus" head="focus">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camara" head="camara"/>
+		</item>
+		<item original="tell people to smile ." slot="5" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+		</item>
+		<item original="take a picture ." slot="6" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="determine the subject ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="subject" head="subject"/>
+		</item>
+		<item original="take the camara ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camara" head="camara"/>
+		</item>
+		<item original="line up the subject in the camara s viewfinder ." slot="3" text="line up in" head="line">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="subject" head="subject"/>
+			<ptcp text="camara" head="camara"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="viewfinder" head="viewfinder"/>
+		</item>
+		<item original="push the button to take a picture ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="put the camara away ." slot="5" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camara" head="camara"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="obtain camera ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="turn on camera ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="look through viewfinder ." slot="3" text="look through" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="viewfinder" head="viewfinder"/>
+		</item>
+		<item original="aim at object to be photographed ." slot="4" text="aim at" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="press shutter button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="aim camera ." slot="1" text="aim" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="find target in viewfinder ." slot="2" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="target" head="target"/>
+			<ptcp text="viewfinder" head="viewfinder"/>
+		</item>
+		<item original="press button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="choose a subject ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="subject" head="subject"/>
+		</item>
+		<item original="aim camera at subject ." slot="2" text="aim at" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="subject" head="subject"/>
+		</item>
+		<item original="push shutter button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="focus an object ." slot="1" text="focus" head="focus">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take photograph ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="photograph" head="photograph"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="operate the button/switch/etc  on the camara that takes a photo ." slot="1" text="operate on" head="operate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="buttonswitchetc" head="buttonswitchetc"/>
+			<ptcp text="camara" head="camara"/>
+			<ptcp text="photo" head="photo"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="take camera ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="aim camera ." slot="2" text="aim" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="say cheese ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cheese" head="cheese"/>
+		</item>
+		<item original="click shudder ." slot="4" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="shudder" head="shudder"/>
+		</item>
+		<item original="advance film ." slot="5" text="advance" head="advance">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="film" head="film"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="take out camera ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="remove lens cap ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens cap" head="cap"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="look through viewfinder ." slot="3" text="look through" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="viewfinder" head="viewfinder"/>
+		</item>
+		<item original="point lens towards ." slot="4" text="point towards" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="take out camera ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="remove lens cap ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens cap" head="cap"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="look through viewfinder ." slot="3" text="look through" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="viewfinder" head="viewfinder"/>
+		</item>
+		<item original="point lens towards object to be photographed while still looking through viewfinder ." slot="4" text="point towards through" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens" head="lens"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="viewfinder" head="viewfinder"/>
+		</item>
+		<item original="press shutterbutton ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shutterbutton" head="shutterbutton"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="turn on the camera ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="remove lens cap ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens cap" head="cap"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="aim camera at subject ." slot="3" text="aim at" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+			<ptcp text="subject" head="subject"/>
+		</item>
+		<item original="press the button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="take ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="pose the subject ." slot="1" text="pose" head="pose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="subject" head="subject"/>
+		</item>
+		<item original="aim the camera ." slot="2" text="aim" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="click the button ." slot="3" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="turn on camera ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="look through viewfinder ." slot="2" text="look through" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="viewfinder" head="viewfinder"/>
+		</item>
+		<item original="adjust picture until clear ." slot="3" text="adjust until" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="push capture button ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="capture button" head="button"/>
+			<ptcp text="capture" head="capture"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="turn on camera ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="look through viewfinder ." slot="2" text="look through" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="viewfinder" head="viewfinder"/>
+		</item>
+		<item original="adjust picture until clear ." slot="3" text="adjust until" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="push capture button ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="capture button" head="button"/>
+			<ptcp text="capture" head="capture"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="find a camera ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="locate the on button ." slot="2" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press the button to turn on camera ." slot="3" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="look through the lens ." slot="4" text="look through" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="find what you will take a picture of and aim ." slot="5" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="aim" head="aim"/>
+		</item>
+		<item original="find the button to take a picture ." slot="6" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="press the button ." slot="7" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="find a camera ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="locate the on button ." slot="2" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press the button to turn on camera ." slot="3" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="look through the lens ." slot="4" text="look through" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="find what you will take a picture of and aim ." slot="5" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="aim" head="aim"/>
+		</item>
+		<item original="find the button to take a picture ." slot="6" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="press the button ." slot="7" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="turn camera on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="view subject through lens ." slot="3" text="view through" head="view">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="subject" head="subject"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="press picture button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture button" head="button"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="turn camera on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="view subject through lens ." slot="3" text="view through" head="view">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="subject" head="subject"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="press picture button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture button" head="button"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="turn camera on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="view subject through lens ." slot="3" text="view through" head="view">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="subject" head="subject"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="press picture button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture button" head="button"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="ask them to pose ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hold the camera steady ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="look into the camera ." slot="3" text="look into" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="see their faces ." slot="4" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faces" head="faces"/>
+		</item>
+		<item original="shoot ." slot="5" text="shoot" head="shoot">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="ask them to pose ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hold the camera steady ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="look into the camera ." slot="3" text="look into" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="see their faces ." slot="4" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faces" head="faces"/>
+		</item>
+		<item original="shoot ." slot="5" text="shoot" head="shoot">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="find subject to take picture of ." slot="1" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="turn on camera ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="adjust zoom flash ." slot="3" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flash" head="flash"/>
+		</item>
+		<item original="take picture ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+		<item original="review ." slot="5" text="review" head="review">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take another to ensure ." slot="6" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="another" head="another"/>
+		</item>
+		<item original="turn off camera ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="find camera ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="aim at object ." slot="2" text="aim at" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="hit button ." slot="3" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="find camera ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="aim at object ." slot="2" text="aim at" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="hit button ." slot="3" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="turn camera on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="look through lens ." slot="3" text="look through" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="press the picture button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the picture button" head="button"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="turn camera on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="look through lens ." slot="3" text="look through" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="press the picture button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the picture button" head="button"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="turn camera on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="look through lens ." slot="3" text="look through" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens" head="lens"/>
+		</item>
+		<item original="press the picture button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the picture button" head="button"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="take lenscap off ." slot="2" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lenscap" head="lenscap"/>
+		</item>
+		<item original="turn flash on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flash" head="flash"/>
+		</item>
+		<item original="snap picture ." slot="4" text="snap" head="snap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="take lenscap off ." slot="2" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lenscap" head="lenscap"/>
+		</item>
+		<item original="turn flash on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flash" head="flash"/>
+		</item>
+		<item original="snap picture ." slot="4" text="snap" head="snap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="get camera ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="take lenscap off ." slot="2" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lenscap" head="lenscap"/>
+		</item>
+		<item original="turn flash on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flash" head="flash"/>
+		</item>
+		<item original="snap picture ." slot="4" text="snap" head="snap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+</scripts>

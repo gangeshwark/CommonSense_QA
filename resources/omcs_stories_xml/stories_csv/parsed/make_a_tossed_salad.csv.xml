@@ -1,0 +1,1250 @@
+<scripts>
+	<script id="1">
+		<item original="find a salad bowl ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a salad bowl" head="bowl"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="find lettuce ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="chop lettuce into bit-size pieces ." slot="3" text="chop into" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+			<ptcp text="pieces" head="pieces"/>
+		</item>
+		<item original="place lettuce into bowl ." slot="4" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="slice other salad vegetables into bowl ." slot="5" text="slice into" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="other salad vegetables" head="vegetables"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="pour salad dressing into bowl ." slot="6" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad dressing" head="dressing"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="stir salad dressing and salad in the bowl ." slot="7" text="stir in" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad dressing and salad" head="dressing"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="cut salad ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="wash salad ." slot="2" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="put cut salad in bowl ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut salad" head="salad"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="add slices of tomato ." slot="4" text="add of" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slices" head="slices"/>
+			<ptcp text="tomato" head="tomato"/>
+		</item>
+		<item original="add slices of cucumber ." slot="5" text="add of" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slices" head="slices"/>
+			<ptcp text="cucumber" head="cucumber"/>
+		</item>
+		<item original="optionally add sauce ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sauce" head="sauce"/>
+		</item>
+		<item original="add spoon ." slot="7" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spoon" head="spoon"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="get a targe bowl ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="get salad tongs ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="get salad ingredients ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad ingredients" head="ingredients"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="put ingredients in bowl ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="toss ingredients with tongs ." slot="5" text="toss with" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+			<ptcp text="tongs" head="tongs"/>
+		</item>
+		<item original="add a sauce if required ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sauce" head="sauce"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="wash vegetables ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="slice vegetables ." slot="2" text="slice" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="place vegetables in a salad spinner ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+			<ptcp text="a salad spinner" head="spinner"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="spin the salad until it is dry ." slot="4" text="spin" head="spin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="place the salad in a bowl ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="serve ." slot="6" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="wash vegetables ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="slice vegetables ." slot="2" text="slice" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="place vegetables in a salad spinner ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+			<ptcp text="a salad spinner" head="spinner"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="spin the salad until it is dry ." slot="4" text="spin" head="spin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="place the salad in a bowl ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="serve ." slot="6" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="wash vegetables ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="slice vegetables ." slot="2" text="slice" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="place vegetables in a salad spinner ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+			<ptcp text="a salad spinner" head="spinner"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="spin the salad until it is dry ." slot="4" text="spin" head="spin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="place the salad in a bowl ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="serve ." slot="6" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="place the ingredients of the salad in a bowl ." slot="1" text="place of in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="mix the ingredients thoroughly ." slot="2" text="mix" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get a bowl ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="wash some lettuce ." slot="2" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="tear the lettuce into pieces ." slot="3" text="tear into" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+			<ptcp text="pieces" head="pieces"/>
+		</item>
+		<item original="put the lettuce in the bowl ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="get some salad dressing ." slot="5" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some salad dressing" head="dressing"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="pour the dressing onto the lettuce in the bowl ." slot="6" text="pour onto in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+			<ptcp text="lettuce" head="lettuce"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="stir the lettuce with a big spoon ." slot="7" text="stir with" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+			<ptcp text="spoon" head="spoon"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get large clean bowl ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="cut up lettuce tomatoeradish ." slot="2" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce tomatoeradish" head="tomatoeradish"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="cut up cucumbermushroombrocoli ." slot="3" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cucumbermushroombrocoli" head="cucumbermushroombrocoli"/>
+		</item>
+		<item original="place all cut up foods in the large clean bowl ." slot="4" text="place up in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="foods" head="foods"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="toss together and serve with salad dressing ." slot="5" text="toss with" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad dressing" head="dressing"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get large clean bowl ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="cut up lettuce tomatoeradish ." slot="2" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce tomatoeradish" head="tomatoeradish"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="cut up cucumbermushroombrocoli ." slot="3" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cucumbermushroombrocoli" head="cucumbermushroombrocoli"/>
+		</item>
+		<item original="place all cut up foods in the large clean bowl ." slot="4" text="place up in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="foods" head="foods"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="toss together and serve with salad dressing ." slot="5" text="toss with" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad dressing" head="dressing"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="getting a bowl ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="washing the vegetables ." slot="2" text="washing " head="washing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washing" head="washing"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="cutting up the vegetables ." slot="3" text="cutting up" head="cutting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put on salad dressing ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad dressing" head="dressing"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="toss ." slot="5" text="toss" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="getting a bowl ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="washing the vegetables ." slot="2" text="washing " head="washing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="washing" head="washing"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="cutting up the vegetables ." slot="3" text="cutting up" head="cutting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put on salad dressing ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad dressing" head="dressing"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="toss ." slot="5" text="toss" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="take ingredients from fridge ." slot="1" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="wash lettuce ." slot="2" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="spin lettuce dry ." slot="3" text="spin" head="spin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="tear lettuce into pieces ." slot="4" text="tear into" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+			<ptcp text="pieces" head="pieces"/>
+		</item>
+		<item original="slice other vegetables ." slot="5" text="slice" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add dressing ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="toss together ." slot="7" text="toss" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="wash the vegetables ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="chop the vegetables ." slot="2" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="mix the vegetables ." slot="3" text="mix" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="wash the vegetables ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="chop the vegetables ." slot="2" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="mix the vegetables ." slot="3" text="mix" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="shred lettuce ." slot="1" text="shred" head="shred">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="cut tomatoes ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tomatoes" head="tomatoes"/>
+		</item>
+		<item original="cut cucumbers ." slot="3" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cucumbers" head="cucumbers"/>
+		</item>
+		<item original="cut carrots ." slot="4" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carrots" head="carrots"/>
+		</item>
+		<item original="wash lettuce ." slot="5" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="toss salad with dressing ." slot="6" text="toss with" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="serve salad ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get out a salad bowl ." slot="1" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a salad bowl" head="bowl"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="cabage ." slot="1" text="cabage" head="cabage">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="chop vegetables ." slot="1" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="add lettuce ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="add dressing ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="use salad tongs to toss all ingredients together ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad tongs" head="tongs"/>
+			<ptcp text="salad" head="salad"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="buy veggies ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="veggies" head="veggies"/>
+		</item>
+		<item original="clean ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="peel ." slot="3" text="peel" head="peel">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="cut ." slot="4" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put into bowl ." slot="5" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put in salad dressing ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad dressing" head="dressing"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="stir ." slot="7" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="tossed ." slot="1" text="tossed" head="tossed">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="salad ." slot="2" text="salad " head="salad">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="obtain salad ingredients ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad ingredients" head="ingredients"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="cut ingredients ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+		<item original="place in bowl ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="toss away ." slot="4" text="toss away" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="obtain salad ingredients ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad ingredients" head="ingredients"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="cut ingredients ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+		<item original="place in bowl ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="toss away ." slot="4" text="toss away" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="prepare ingredients for salad ." slot="1" text="prepare for" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="mix ingredients in mixing bowl ." slot="2" text="mix in" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="toss the salad ." slot="3" text="toss" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+		<item original="salad is ready to serve ." slot="4" text="to" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="find recipe ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="recipe" head="recipe"/>
+		</item>
+		<item original="find bowl ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="find ingredients ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+		<item original="follow recipe ." slot="4" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="recipe" head="recipe"/>
+		</item>
+		<item original="mix ingredients ." slot="5" text="mix" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+		<item original="add dressing ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="toss ." slot="7" text="toss" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="get vegetables ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="chop vegetables ." slot="2" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put into bowl ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put on dressing ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="serve in small bowls ." slot="5" text="serve in" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowls" head="bowls"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="get vegetables ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="chop vegetables ." slot="2" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put into bowl ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put on dressing ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="serve in small bowls ." slot="5" text="serve in" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowls" head="bowls"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="get vegetables ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="chop vegetables ." slot="2" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put into bowl ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put on dressing ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="serve in small bowls ." slot="5" text="serve in" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowls" head="bowls"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="get vegetables ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="chop vegetables ." slot="2" text="chop" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put into bowl ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put on dressing ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="serve in small bowls ." slot="5" text="serve in" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowls" head="bowls"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="chop of lettuce ." slot="1" text="chop of" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="chop up cucumbers ." slot="2" text="chop up" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cucumbers" head="cucumbers"/>
+		</item>
+		<item original="chop up tomatoes ." slot="3" text="chop up" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tomatoes" head="tomatoes"/>
+		</item>
+		<item original="chop up mushrooms ." slot="4" text="chop up" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mushrooms" head="mushrooms"/>
+		</item>
+		<item original="put all into bowl ." slot="5" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all" head="all"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="use tongs to mix ." slot="6" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tongs" head="tongs"/>
+		</item>
+		<item original="add salad dressing ." slot="7" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad dressing" head="dressing"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="chop of lettuce ." slot="1" text="chop of" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lettuce" head="lettuce"/>
+		</item>
+		<item original="chop up cucumbers ." slot="2" text="chop up" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cucumbers" head="cucumbers"/>
+		</item>
+		<item original="chop up tomatoes ." slot="3" text="chop up" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tomatoes" head="tomatoes"/>
+		</item>
+		<item original="chop up mushrooms ." slot="4" text="chop up" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mushrooms" head="mushrooms"/>
+		</item>
+		<item original="put all into bowl ." slot="5" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all" head="all"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="use tongs to mix ." slot="6" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tongs" head="tongs"/>
+		</item>
+		<item original="add salad dressing ." slot="7" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad dressing" head="dressing"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="get vegeatbles ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegeatbles" head="vegeatbles"/>
+		</item>
+		<item original="cut up vegetables ." slot="2" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put into bowl ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="pour on dressing ." slot="4" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="eat ." slot="5" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="get vegeatbles ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegeatbles" head="vegeatbles"/>
+		</item>
+		<item original="cut up vegetables ." slot="2" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put into bowl ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="pour on dressing ." slot="4" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="eat ." slot="5" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="get vegeatbles ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegeatbles" head="vegeatbles"/>
+		</item>
+		<item original="cut up vegetables ." slot="2" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put into bowl ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="pour on dressing ." slot="4" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="eat ." slot="5" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="get vegeatbles ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegeatbles" head="vegeatbles"/>
+		</item>
+		<item original="cut up vegetables ." slot="2" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put into bowl ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="pour on dressing ." slot="4" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="eat ." slot="5" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="get vegeatbles ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegeatbles" head="vegeatbles"/>
+		</item>
+		<item original="cut up vegetables ." slot="2" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put into bowl ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="pour on dressing ." slot="4" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="eat ." slot="5" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="get vegeatbles ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegeatbles" head="vegeatbles"/>
+		</item>
+		<item original="cut up vegetables ." slot="2" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put into bowl ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="pour on dressing ." slot="4" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+		</item>
+		<item original="eat ." slot="5" text="eat" head="eat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="get vegetables ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="chop up vegetables ." slot="2" text="chop up" head="chop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+		</item>
+		<item original="put choped vegetables in bowl ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetables" head="vegetables"/>
+			<ptcp text="bowl" head="bowl"/>
+		</item>
+		<item original="put dressing on sald ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dressing" head="dressing"/>
+			<ptcp text="sald" head="sald"/>
+		</item>
+		<item original="toss the salad ." slot="5" text="toss" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="salad" head="salad"/>
+		</item>
+	</script>
+</scripts>

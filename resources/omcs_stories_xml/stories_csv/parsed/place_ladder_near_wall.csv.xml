@@ -1,0 +1,973 @@
+<scripts>
+	<script id="1">
+		<item original="fetch ladder ." slot="1" text="fetch" head="fetch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="move ladder to desired location ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="desired location" head="location"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get ladder ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="lift up ladder ." slot="2" text="lift up" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="move ladder next to wall ." slot="3" text="move next to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="spread ladder legs so that ladder stable ." slot="4" text="spread" head="spread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder legs" head="legs"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="pick up  ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="walk over to near the wall ." slot="2" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="put down ladder ." slot="3" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="locate the wall ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="take a ladder ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="put the ladder close to the wall ." slot="3" text="put to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="make sure the ladder is leaning to the wall ." slot="4" text="make to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="grab ladder ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="move ladder near wall ." slot="2" text="move near" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="spread ladder legs so that it stands on its own ." slot="3" text="spread on" head="spread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder legs" head="legs"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="its own" head="own"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="take the ladder ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="decide where you want to place it ." slot="2" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk toward where you want to place the ladder ." slot="3" text="walk toward" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="take the ladder ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="decide where you want to place it ." slot="2" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk toward where you want to place the ladder ." slot="3" text="walk toward" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="place the ladder in the location that you chose ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="grab ladder by an end ." slot="1" text="grab by" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="end" head="end"/>
+		</item>
+		<item original="put it in vertical position ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="drag it up to the wall ." slot="3" text="drag up to" head="drag">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="put it against the wall ." slot="4" text="put against" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="go and get the ladder from the garage ." slot="1" text="go from" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="carry the ladder out of the garage ." slot="2" text="carry out of" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="lead the ladder on the desired wall ." slot="3" text="lead on" head="lead">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="the desired wall" head="wall"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="locate a ladder ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="place the ladder base securely on the ground ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the ladder base" head="base"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="lean the ladder against a wall ." slot="3" text="lean against" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="go to the ladder ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up the ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="go near the wall ." slot="3" text="go near" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="release the ladder ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="getting the ladder ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="place the ladder near the wall ." slot="2" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="standing the ladder up ." slot="3" text="standing up" head="standing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="securing the ladder ." slot="4" text="securing" head="securing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="getting the ladder ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="place the ladder near the wall ." slot="2" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="standing the ladder up ." slot="3" text="standing up" head="standing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="securing the ladder s legs ." slot="4" text="securing securing" head="securing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="legs" head="legs"/>
+		</item>
+		<item original="checking the condition of the ladder ." slot="5" text="checking of" head="checking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="condition" head="condition"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="climb the ladder ." slot="6" text="climb" head="climb">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="replace the ladder in its original place ." slot="7" text="replace in" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="identify ladder ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up ladder ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="identify wall ." slot="3" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place near wall ." slot="4" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="go over to wall ." slot="2" text="go over to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place ladder against wall ." slot="3" text="place against" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="find the ladder ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring it near the wall ." slot="2" text="bring near" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="make it stand vertical supporting on the wall ." slot="3" text="make supporting on" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get ladder ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="check that ground near wall is level ." slot="2" text="check near" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ground" head="ground"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="level" head="level"/>
+		</item>
+		<item original="open ladder ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="push metal support beams into place ." slot="4" text="push into" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="metal support" head="support"/>
+			<ptcp text="metal" head="metal"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="move ladder toward wall ." slot="5" text="move toward" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="check sturdiness of ladder ." slot="6" text="check of" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sturdiness" head="sturdiness"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="take the ladder out ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="lean it against the wall ." slot="2" text="lean against" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="pick the ladder up ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="take the ladder where you want it ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="put the ladder down ." slot="3" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="get ladder ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder over to wall ." slot="2" text="carry over to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="put ladder down next to wall ." slot="3" text="put down next to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="determing level spot for ladder ." slot="1" text="determing for" head="determing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="level spot" head="spot"/>
+			<ptcp text="level" head="level"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="locate ladder ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="retrieve ladder ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder to spot ." slot="4" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="spot" head="spot"/>
+		</item>
+		<item original="open legs of ladder ." slot="5" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="legs" head="legs"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="set ladder in spot ." slot="6" text="set in" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="spot" head="spot"/>
+		</item>
+		<item original="wiggle ladder to determine steadiness ." slot="7" text="wiggle" head="wiggle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="steadiness" head="steadiness"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="comprehend need for ladder ." slot="1" text="comprehend for" head="comprehend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="need" head="need"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="decide which wall to place it near ." slot="2" text="decide near" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="remember where ladder is located ." slot="3" text="remember" head="remember">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="walk to area ladder is at ." slot="4" text="is to at" head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="walk" head="walk"/>
+			<ptcp text="area ladder" head="ladder"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="retrieve ladder ." slot="5" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder to wall area ." slot="6" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall area" head="area"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place ladder near wall ." slot="7" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="walk to wall ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place end of ladder on the ground ." slot="3" text="place of on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="lean ladder against wall ." slot="4" text="lean against" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="let go of ladder ." slot="5" text="go of" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="make sure ladder has proper side facing down ." slot="1" text="make down" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="place bottom of ladder about 12 inches from wall ." slot="2" text="place of about from" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom" head="bottom"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="inches" head="inches"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="top of ladder should rest against wall ." slot="3" text="rest of against" head="rest">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="make sure when you get on ladder than it is stable ." slot="4" text="make on" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="get ladder from garage ." slot="1" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="place ladder close to wall ." slot="2" text="place to" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place it at a gentle angle ." slot="3" text="place at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="angle" head="angle"/>
+		</item>
+		<item original="test the ladder make sure it is steady ." slot="4" text="test" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="choose the wall ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="take the ladder ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="place the ladder near the wall ." slot="3" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="find the wall ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="find the ladder ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="go to the ladder ." slot="3" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up the ladder ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="find the wall ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="find the ladder ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="go to the ladder ." slot="3" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="pick up the ladder ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="go to the wall ." slot="5" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="set down ladder ." slot="6" text="set down" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry it over to the wall ." slot="2" text="carry over to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="put ladder down near the wall ." slot="3" text="put down near" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="take out ladder ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="place feet on the ground ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="feet" head="feet"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="lean ladder against wall ." slot="3" text="lean against" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="take out ladder ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="place feet on the ground ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="feet" head="feet"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="lean ladder against wall ." slot="3" text="lean against" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="extend ladder ." slot="1" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="lean ladder on wall ." slot="2" text="lean on" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder to wall ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place ladder near wall ." slot="3" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder to wall ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place ladder near wall ." slot="3" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder to wall ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place ladder near wall ." slot="3" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder to wall ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place ladder near wall ." slot="3" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder to wall ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place ladder near wall ." slot="3" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder to wall ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place ladder near wall ." slot="3" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder to wall ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="set ladder down ." slot="3" text="set down" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder to wall ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="set ladder down ." slot="3" text="set down" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry ladder to wall ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="set ladder down ." slot="3" text="set down" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="get the ladder ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="carry the ladder to the wall ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="lean the ladder up against the wall ." slot="3" text="lean up against" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="carry the ladder ." slot="1" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring it to the wall ." slot="2" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="rest it on the wall ." slot="3" text="rest on" head="rest">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="carry the ladder ." slot="1" text="carry" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring it to the wall ." slot="2" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="rest it on the wall ." slot="3" text="rest on" head="rest">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="bring to location ." slot="2" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="stand ladder up ." slot="3" text="stand up" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="spread out legs and secure ." slot="4" text="spread out" head="spread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="legs" head="legs"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="bring the ladder ." slot="1" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="place is close to the wall ." slot="2" text="is to" head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="balance it against the wall ." slot="2" text="balance against" head="balance">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="balance it against the wall ." slot="2" text="balance against" head="balance">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="pick up ladder ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="walk to wall ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="set ladder down ." slot="3" text="set down" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="lean ladder against wall ." slot="4" text="lean against" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="getting a ladder ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="putting said ladder near a wall ." slot="2" text="putting near" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="said ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="leaning the ladder against the wall at an angle ." slot="3" text="leaning against at" head="leaning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="angle" head="angle"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="getting a ladder ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="putting said ladder near a wall ." slot="2" text="putting near" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="said ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="leaning the ladder against the wall at an angle ." slot="3" text="leaning against at" head="leaning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="angle" head="angle"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="getting a ladder ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="putting said ladder near a wall ." slot="2" text="putting near" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="said ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="leaning the ladder against the wall at an angle ." slot="3" text="leaning against at" head="leaning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="angle" head="angle"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="getting a ladder ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="putting said ladder near a wall ." slot="2" text="putting near" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="said ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="leaning the ladder against the wall at an angle ." slot="3" text="leaning against at" head="leaning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="angle" head="angle"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="getting a ladder ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="putting said ladder near a wall ." slot="2" text="putting near" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="said ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="leaning the ladder against the wall at an angle ." slot="3" text="leaning against at" head="leaning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="angle" head="angle"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="get ladder ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="set ladder upright ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+		</item>
+		<item original="lean ladder against wall ." slot="3" text="lean against" head="lean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ladder" head="ladder"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="secure the bottom ." slot="4" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+	</script>
+</scripts>

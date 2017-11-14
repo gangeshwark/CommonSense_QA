@@ -1,0 +1,771 @@
+<scripts>
+	<script id="1">
+		<item original="find the person in question ." slot="1" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="question" head="question"/>
+		</item>
+		<item original="telling him or her that there is a message ." slot="2" text="telling" head="telling">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="her" head="her"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="giving the message ." slot="3" text="giving" head="giving">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="write down the message ." slot="1" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="find the person the message is intended for ." slot="2" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="tell the person the message ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="write message on a piece of paper ." slot="1" text="write on of" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find someone at home ." slot="2" text="find at" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="give piece of paper to that person ." slot="3" text="give of to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="get in touch with the someone ." slot="1" text="get in with" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="touch" head="touch"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="convey the message to the someone ." slot="2" text="convey to" head="convey">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="if at home locate the person and tell him the message ." slot="1" text="locate at" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="otherwise call home and ask to speak to the desired person ." slot="2" text="call to" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+			<ptcp text="the desired person" head="person"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="call home ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="ask to speak to the person who the message should be transmitted to ." slot="2" text="ask to to" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="tell the person the message ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="hang up ." slot="4" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="walk to person ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="tell message ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="call person ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="tell message to person ." slot="2" text="tell to" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="walk to home ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="knock door ." slot="2" text="knock" head="knock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk inside ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="walk to home ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="knock door ." slot="2" text="knock" head="knock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk inside ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="talk to someone ." slot="4" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="call home ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="tell message to person at home ." slot="2" text="tell to at" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="home" head="home"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="find person in house ." slot="1" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="go to person ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="deliver message verbally ." slot="3" text="deliver" head="deliver">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="open mail program ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail program" head="program"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+		<item original="type message ." slot="2" text="type" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="add adress ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="adress" head="adress"/>
+		</item>
+		<item original="send message ." slot="4" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="find the person s phone number ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="call the person ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="tell the person the message ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="dial the person s telephone number ." slot="1" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="telephone number" head="number"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="leave the message with the person who answers the telephone ." slot="2" text="leave with" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="retrieve message to deliver ." slot="1" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="deliver message to person ." slot="2" text="deliver to" head="deliver">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="locate the person ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="locate the message ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="hand message to the person ." slot="3" text="hand to" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="verify that the message is understandable ." slot="4" text="verify" head="verify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="answer any questions if possible ." slot="5" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="tell person you have message for them ." slot="1" text="tell for" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="tell the person the message ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="record message ." slot="1" text="record" head="record">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="find someone ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="replay message ." slot="3" text="replay " head="replay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="replay" head="replay"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="discern need to take a message ." slot="1" text="discern" head="discern">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="need" head="need"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="find something to write with ." slot="2" text="find with" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="something" head="something"/>
+		</item>
+		<item original="find something to write on ." slot="3" text="find on" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="something" head="something"/>
+		</item>
+		<item original="listen to message ." slot="4" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="record message ." slot="5" text="record" head="record">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="share message ." slot="6" text="share" head="share">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="check understanding of message ." slot="7" text="check of" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="understanding" head="understanding"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="listen to message ." slot="1" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="write down message ." slot="2" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="deliver message ." slot="3" text="deliver" head="deliver">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="greet person ." slot="3" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="give message ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="say goodbye ." slot="5" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="goodbye" head="goodbye"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="find a pen ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="find a paper ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write down the message ." slot="3" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="put the message on the refrigerator with a magnet ." slot="4" text="put on with" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+			<ptcp text="magnet" head="magnet"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="intercept message ." slot="1" text="intercept" head="intercept">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="take down ." slot="2" text="take down" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="intend to transmit ." slot="3" text="intend" head="intend">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="locate recipient ." slot="4" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="recipient" head="recipient"/>
+		</item>
+		<item original="deliver contents ." slot="5" text="deliver" head="deliver">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="find the person that you have a message for at home ." slot="1" text="find for at" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="give them the message ." slot="2" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="write the message on a notepad ." slot="1" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="notepad" head="notepad"/>
+		</item>
+		<item original="leave it on the table for person to see ." slot="2" text="leave on for" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="find paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find a pen ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write a note ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+		</item>
+		<item original="put not on the fridge ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="hear message ." slot="1" text="hear" head="hear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="write or remember the message ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="call or go home ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="find the person the message is for ." slot="4" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="give them the message ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="listen to message ." slot="1" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="obtain note paper ." slot="2" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note paper" head="paper"/>
+			<ptcp text="note" head="note"/>
+		</item>
+		<item original="obtain pen ." slot="3" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write message on paper ." slot="4" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="post message ." slot="5" text="post" head="post">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="pick up the pen ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="find a piece of paper ." slot="2" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="write down ." slot="3" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="leave the note on the counter ." slot="4" text="leave on" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+			<ptcp text="counter" head="counter"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="take a message ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="leave a note at home ." slot="2" text="leave at" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+			<ptcp text="home" head="home"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="write down message ." slot="1" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="leave message somewhere highly visible ." slot="2" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="write down message ." slot="1" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="leave message somewhere highly visible ." slot="2" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="walk to get a pen and paper ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="use pen on paper to write message ." slot="2" text="use on" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="listen to message ." slot="1" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="write message down ." slot="2" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="hand message to person ." slot="3" text="hand to" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="listen to message ." slot="1" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="write message down ." slot="2" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="hand message to person ." slot="3" text="hand to" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="listen to message ." slot="1" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="write message down ." slot="2" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="hand message to person ." slot="3" text="hand to" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="listen to message ." slot="1" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="write message down ." slot="2" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="hand message to person ." slot="3" text="hand to" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="listen to message ." slot="1" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="write message down ." slot="2" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="hand message to person ." slot="3" text="hand to" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="listen to message ." slot="1" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="write message down ." slot="2" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="hand message to person ." slot="3" text="hand to" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="recieve the message ." slot="1" text="recieve" head="recieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="take it home with you ." slot="2" text="take with" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="give it to it s intended recipient ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="s" head="s"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="find person ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="tell person message ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person message" head="message"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="find person ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="tell person message ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person message" head="message"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="write down the message ." slot="1" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="tell the person the message when they get home ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="home" head="home"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="write down the message ." slot="1" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+		<item original="tell the person the message when they get home ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="home" head="home"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="wait for person to come ." slot="1" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="repeat message ." slot="2" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="wait for person to come ." slot="1" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="repeat message ." slot="2" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="wait for person to come ." slot="1" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="repeat message ." slot="2" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to person ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="tell the person the message ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to person ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="tell the person the message ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="take messge ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="messge" head="messge"/>
+		</item>
+		<item original="find the person ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="relay message ." slot="3" text="relay " head="relay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="relay" head="relay"/>
+			<ptcp text="message" head="message"/>
+		</item>
+	</script>
+</scripts>

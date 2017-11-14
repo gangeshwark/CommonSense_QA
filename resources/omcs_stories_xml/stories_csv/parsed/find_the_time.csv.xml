@@ -1,0 +1,767 @@
+<scripts>
+	<script id="1">
+		<item original="find a clock or watch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+			<ptcp text="watch" head="watch"/>
+		</item>
+		<item original="say the time ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find a watch or clock ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="read the time from the watch or clock ." slot="2" text="read from" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="find a clock or watch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+			<ptcp text="watch" head="watch"/>
+		</item>
+		<item original="read the time from the clock or watch ." slot="2" text="read from" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="clock" head="clock"/>
+			<ptcp text="watch" head="watch"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="look at the watch/clock/computer ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watchclockcomputer" head="watchclockcomputer"/>
+		</item>
+		<item original="read the time displayed on it ." slot="2" text="read on" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="try to schedule better activities ." slot="1" text="try" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activities" head="activities"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="check your calendar ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="calendar" head="calendar"/>
+		</item>
+		<item original="change appointments if necessary ." slot="2" text="change" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appointments" head="appointments"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="treat the task as an appointment ." slot="1" text="treat as" head="treat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="task" head="task"/>
+			<ptcp text="appointment" head="appointment"/>
+		</item>
+		<item original="place task in your  appointment book for a specific time ." slot="2" text="place in for" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="task" head="task"/>
+			<ptcp text="your appointment book" head="book"/>
+			<ptcp text="appointment" head="appointment"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="do task at that time ." slot="3" text="do at" head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="task" head="task"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get calendar ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="calendar" head="calendar"/>
+		</item>
+		<item original="find a time slot for activity ." slot="2" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a time slot" head="slot"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+		<item original="move around other appoinements ." slot="3" text="move around" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appoinements" head="appoinements"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="turn on the tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="change the channel to one which shows the time ." slot="2" text="change to" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="take note of the time ." slot="3" text="take of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="find a person s watch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="look at the face of the watch to see the time ." slot="2" text="look at of" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="face" head="face"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="find an electrical appliance with a clock ." slot="1" text="find with" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="move to the appliance ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="read the time from the appliance s clock ." slot="3" text="read from" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="appliance" head="appliance"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="look at schedule ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="schedule" head="schedule"/>
+		</item>
+		<item original="determine available time slots ." slot="2" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="available time slots" head="slots"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="schedule desired activity in available slot ." slot="3" text="schedule in" head="schedule">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired activity" head="activity"/>
+			<ptcp text="slot" head="slot"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="find a time keeping device ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="device" head="device"/>
+		</item>
+		<item original="look at the device ." slot="2" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="device" head="device"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="look at the watch ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="check the clock ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="find a clock ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="look at it ." slot="2" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="arrange your time schedule ." slot="1" text="arrange" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="your time schedule" head="schedule"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="then find the time ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="look at a clock ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="check a clock ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="report the time ." slot="2" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="find a clock ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="interpret the clock ." slot="2" text="interpret" head="interpret">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="report the time ." slot="3" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="find a clock ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="interpret the clock ." slot="2" text="interpret" head="interpret">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="report the time ." slot="3" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="nothing ." slot="1" text="nothing " head="nothing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nothing" head="nothing"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="figure out what is scheduled ." slot="1" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="identify empty slots ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slots" head="slots"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="look at watch or clock ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="read the time ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="identify things to do ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+		</item>
+		<item original="assign timeslots to accomplish things to do ." slot="2" text="assign" head="assign">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="timeslots" head="timeslots"/>
+			<ptcp text="things" head="things"/>
+		</item>
+		<item original="identify open time slots ." slot="3" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="open time slots" head="slots"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="find a watch or clock ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="read the time ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="look for a clock ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="note the time ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="decide what chores can be put off a bit ." slot="3" text="decide off" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+			<ptcp text="bit" head="bit"/>
+		</item>
+		<item original="decide what chores can be skipped entirely ." slot="4" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chores" head="chores"/>
+		</item>
+		<item original="figure out if this gives you enough time to do 'x' ." slot="5" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="thinking about all obligations ." slot="1" text="thinking about" head="thinking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="obligations" head="obligations"/>
+		</item>
+		<item original="stop current activity ." slot="2" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+		<item original="find the time ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="find a clock ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="look at time ." slot="2" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="find a clock ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="look at time ." slot="2" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="looking at watch ." slot="1" text="looking at" head="looking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="looking at watch ." slot="1" text="looking at" head="looking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="looking at watch ." slot="1" text="looking at" head="looking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch" head="watch"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="check the clock ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="relay the time ." slot="2" text="relay " head="relay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="relay" head="relay"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="check the clock ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="relay the time ." slot="2" text="relay " head="relay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="relay" head="relay"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="find clock ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="look at clock ." slot="2" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="take note of the time ." slot="3" text="take of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="tell requester the time ." slot="4" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="requester" head="requester"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="find a clock ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clock" head="clock"/>
+		</item>
+		<item original="check the time ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+</scripts>

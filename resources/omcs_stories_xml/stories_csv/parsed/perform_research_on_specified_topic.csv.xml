@@ -1,0 +1,709 @@
+<scripts>
+	<script id="1">
+		<item original="identify problem ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="problem" head="problem"/>
+		</item>
+		<item original="read about relevant research in the area ." slot="2" text="read about in" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="plan course of action ." slot="3" text="plan of" head="plan">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="course" head="course"/>
+			<ptcp text="action" head="action"/>
+		</item>
+		<item original="review progress ." slot="4" text="review" head="review">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="progress" head="progress"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="go to the library ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="ask the librarian where to find books on the topic ." slot="2" text="ask on" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="librarian" head="librarian"/>
+			<ptcp text="books" head="books"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="peruse the section of books ." slot="3" text="peruse of" head="peruse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="section" head="section"/>
+			<ptcp text="books" head="books"/>
+		</item>
+		<item original="select the most relevant books ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the most relevant books" head="books"/>
+		</item>
+		<item original="check the books out of the library ." slot="5" text="check out of" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+			<ptcp text="library" head="library"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="identify keywords for topic ." slot="1" text="identify for" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="keywords" head="keywords"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="enter keywords into search engine ." slot="2" text="enter into" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="keywords" head="keywords"/>
+			<ptcp text="search engine" head="engine"/>
+			<ptcp text="search" head="search"/>
+		</item>
+		<item original="return search engine results ." slot="3" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="search engine results" head="results"/>
+			<ptcp text="search" head="search"/>
+			<ptcp text="engine" head="engine"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find relevant papers on topic ." slot="1" text="find on" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="papers" head="papers"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="summarize papers ." slot="2" text="summarize" head="summarize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="papers" head="papers"/>
+		</item>
+		<item original="find problems not solved by previous research ." slot="3" text="find by" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="problems" head="problems"/>
+			<ptcp text="research" head="research"/>
+		</item>
+		<item original="find solution for problem ." slot="4" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="solution" head="solution"/>
+			<ptcp text="problem" head="problem"/>
+		</item>
+		<item original="summarize findings in paper ." slot="5" text="summarize in" head="summarize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="findings" head="findings"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="make a literature search for the topic ." slot="1" text="make for" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a literature search" head="search"/>
+			<ptcp text="literature" head="literature"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="review the literature ." slot="2" text="review" head="review">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="literature" head="literature"/>
+		</item>
+		<item original="answer questions within the topic that haven t been answered before ." slot="3" text="answer within answered before" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+			<ptcp text="topic" head="topic"/>
+			<ptcp text="haven t" head="t"/>
+			<ptcp text="haven" head="haven"/>
+		</item>
+		<item original="write report of your findings ." slot="4" text="write of" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="report" head="report"/>
+			<ptcp text="findings" head="findings"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="go to the library ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="choose media to research by ." slot="2" text="choose to by" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="media" head="media"/>
+			<ptcp text="research" head="research"/>
+		</item>
+		<item original="thoroughly read the chosen media ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the chosen media" head="media"/>
+		</item>
+		<item original="pick out the important information ." slot="4" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+		<item original="write important information down for notes ." slot="5" text="write down for" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+			<ptcp text="notes" head="notes"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="look for a book about the specified topic ." slot="1" text="look for about" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+			<ptcp text="the specified topic" head="topic"/>
+		</item>
+		<item original="study the pages of the book to learn more about the topic ." slot="2" text="study of about" head="study">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pages" head="pages"/>
+			<ptcp text="book" head="book"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="repeat until you have found all books about the topic ." slot="3" text="repeat about" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="call someone you know on the telephone ." slot="1" text="call on" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="ask them about the specified topic ." slot="2" text="ask about" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the specified topic" head="topic"/>
+		</item>
+		<item original="repeat until you learn more about the topic from someone ." slot="3" text="repeat about from" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="more" head="more"/>
+			<ptcp text="topic" head="topic"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="identify topic ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="identify relevant material ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="material" head="material"/>
+		</item>
+		<item original="read relevant material ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="material" head="material"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="identify topic ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="search for topic in library or internet ." slot="2" text="search for in" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+			<ptcp text="library" head="library"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+		<item original="retrieve infomation ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="infomation" head="infomation"/>
+		</item>
+		<item original="present information ." slot="4" text="present" head="present">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="open google com ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="com" head="com"/>
+		</item>
+		<item original="search for the specific topic ." slot="2" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="receive topic ." slot="1" text="receive" head="receive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="go to library ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="look in card catalogue ." slot="3" text="look in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="card catalogue" head="catalogue"/>
+			<ptcp text="card" head="card"/>
+		</item>
+		<item original="find books in relation to topic ." slot="4" text="find in to" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+			<ptcp text="relation" head="relation"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="open books ." slot="5" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+		</item>
+		<item original="search in index for topic ." slot="6" text="search in for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="index" head="index"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="read book ." slot="7" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="pose query ." slot="1" text="pose" head="pose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="query" head="query"/>
+		</item>
+		<item original="find resources ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resources" head="resources"/>
+		</item>
+		<item original="seek pertaining data ." slot="3" text="seek" head="seek">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="data" head="data"/>
+		</item>
+		<item original="follow relevent threads ." slot="4" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="threads" head="threads"/>
+		</item>
+		<item original="isolate useful data ." slot="5" text="isolate" head="isolate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="data" head="data"/>
+		</item>
+		<item original="transcribe precise answers ." slot="6" text="transcribe" head="transcribe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answers" head="answers"/>
+		</item>
+		<item original="compile concluding report ." slot="7" text="compile" head="compile">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="concluding report" head="report"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="determine topic ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="determine scope of work ." slot="2" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scope" head="scope"/>
+			<ptcp text="work" head="work"/>
+		</item>
+		<item original="outline need and focus ." slot="3" text="outline" head="outline">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="need" head="need"/>
+			<ptcp text="focus" head="focus"/>
+		</item>
+		<item original="gather resources ." slot="4" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resources" head="resources"/>
+		</item>
+		<item original="perform research ." slot="5" text="perform" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+		</item>
+		<item original="record research ." slot="6" text="record" head="record">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+		</item>
+		<item original="record conclusion ." slot="7" text="record" head="record">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="conclusion" head="conclusion"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="read papers ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="papers" head="papers"/>
+		</item>
+		<item original="syntesis ." slot="2" text="syntesis " head="syntesis">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="syntesis" head="syntesis"/>
+		</item>
+		<item original="add contribution ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contribution" head="contribution"/>
+		</item>
+		<item original="publich contribution ." slot="4" text="publich" head="publich">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contribution" head="contribution"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="choose the topic ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="find the relevant documents review ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="documents" head="documents"/>
+			<ptcp text="review" head="review"/>
+		</item>
+		<item original="analyze the reviews ." slot="3" text="analyze" head="analyze">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reviews" head="reviews"/>
+		</item>
+		<item original="perform the research ." slot="4" text="perform" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="find the research topic ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the research topic" head="topic"/>
+			<ptcp text="research" head="research"/>
+		</item>
+		<item original="research it ." slot="2" text="research" head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="identify the topic ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="find subtopics and related research/incidents ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="subtopics" head="subtopics"/>
+			<ptcp text="researchincidents" head="researchincidents"/>
+		</item>
+		<item original="record information ." slot="3" text="record" head="record">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+		<item original="summarize and correlate information ." slot="4" text="summarize" head="summarize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="look in a book ." slot="1" text="look in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="go on the internet ." slot="2" text="go on" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+		<item original="google it ." slot="3" text="google" head="google">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to wikipedia ." slot="4" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wikipedia" head="wikipedia"/>
+		</item>
+		<item original="go to the library ." slot="5" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="ask someone ." slot="6" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="include a bibliography ." slot="7" text="include" head="include">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bibliography" head="bibliography"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pick topic ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="choose research method ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research method" head="method"/>
+			<ptcp text="research" head="research"/>
+		</item>
+		<item original="research ." slot="3" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="pick topic ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="choose research method ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research method" head="method"/>
+			<ptcp text="research" head="research"/>
+		</item>
+		<item original="research ." slot="3" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="find your interest ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="interest" head="interest"/>
+		</item>
+		<item original="do research ." slot="2" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+		</item>
+		<item original="find partner ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="partner" head="partner"/>
+		</item>
+		<item original="search for information ." slot="4" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+		<item original="go to library ." slot="5" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="prepare presentation ." slot="6" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="finish presentation ." slot="7" text="finish" head="finish">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="find your interest ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="interest" head="interest"/>
+		</item>
+		<item original="do research ." slot="2" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+		</item>
+		<item original="find partner ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="partner" head="partner"/>
+		</item>
+		<item original="search for information ." slot="4" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+		<item original="go to library ." slot="5" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="prepare presentation ." slot="6" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="finish presentation ." slot="7" text="finish" head="finish">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="choose topic ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="research online ." slot="2" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="online" head="online"/>
+		</item>
+		<item original="research at library ." slot="3" text="research at" head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="print required data ." slot="4" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="required data" head="data"/>
+		</item>
+		<item original="compose rough draft of report ." slot="5" text="compose of" head="compose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="draft" head="draft"/>
+			<ptcp text="report" head="report"/>
+		</item>
+		<item original="proofread rough copy ." slot="6" text="proofread" head="proofread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="edit/make changes ." slot="7" text="editmake" head="editmake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="changes" head="changes"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="choose topic ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="research online ." slot="2" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="online" head="online"/>
+		</item>
+		<item original="research at library ." slot="3" text="research at" head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="print required data ." slot="4" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="required data" head="data"/>
+		</item>
+		<item original="compose rough draft of report ." slot="5" text="compose of" head="compose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="draft" head="draft"/>
+			<ptcp text="report" head="report"/>
+		</item>
+		<item original="proofread rough copy ." slot="6" text="proofread" head="proofread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="edit/make changes ." slot="7" text="editmake" head="editmake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="changes" head="changes"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="choose topic ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="research online ." slot="2" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="online" head="online"/>
+		</item>
+		<item original="research at library ." slot="3" text="research at" head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="print required data ." slot="4" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="required data" head="data"/>
+		</item>
+		<item original="compose rough draft of report ." slot="5" text="compose of" head="compose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="draft" head="draft"/>
+			<ptcp text="report" head="report"/>
+		</item>
+		<item original="proofread rough copy ." slot="6" text="proofread" head="proofread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="copy" head="copy"/>
+		</item>
+		<item original="edit/make changes ." slot="7" text="editmake" head="editmake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="changes" head="changes"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="idetify the topic ." slot="1" text="idetify" head="idetify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="do research ." slot="2" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="access information source ." slot="1" text="access" head="access">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information source" head="source"/>
+			<ptcp text="information" head="information"/>
+		</item>
+		<item original="search for specified topic ." slot="2" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="specified topic" head="topic"/>
+		</item>
+		<item original="save or print related information ." slot="3" text="save" head="save">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+		<item original="search for related terms ." slot="4" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="terms" head="terms"/>
+		</item>
+		<item original="save or print related information ." slot="5" text="save" head="save">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="go to library ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="get books related to the topic ." slot="2" text="related to" head="related">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="read books ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="go to library ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="get books related to the topic ." slot="2" text="related to" head="related">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="read books ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="go to library ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="get books related to the topic ." slot="2" text="related to" head="related">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="read books ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="go to library ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="library" head="library"/>
+		</item>
+		<item original="get books related to the topic ." slot="2" text="related to" head="related">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="read books ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="pick a topic ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="look up information in encyclopedia ." slot="2" text="look up in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+			<ptcp text="encyclopedia" head="encyclopedia"/>
+		</item>
+		<item original="look in dictionary ." slot="3" text="look in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dictionary" head="dictionary"/>
+		</item>
+		<item original="look online ." slot="4" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="online" head="online"/>
+		</item>
+	</script>
+</scripts>

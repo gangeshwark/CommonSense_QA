@@ -1,0 +1,734 @@
+<scripts>
+	<script id="1">
+		<item original="go to where you are supposed to watch for them ." slot="1" text="go to for" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look in direction where the kids will be coming from ." slot="2" text="look in from" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="direction" head="direction"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="wait specified length of time until they arrive ." slot="3" text="wait of" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="specified length" head="length"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="look out the window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="wait for the kids to appear in the window ." slot="2" text="wait for in" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="move to entry door ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="entry door" head="door"/>
+			<ptcp text="entry" head="entry"/>
+		</item>
+		<item original="observe the entry visually ." slot="2" text="observe" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="entry" head="entry"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="stay at window ." slot="1" text="stay at" head="stay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="observe passer-by ." slot="2" text="observe" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="passerby" head="passerby"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="be at home ." slot="1" text="be at" head="be">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="wait until the kids come home ." slot="2" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="home" head="home"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="knowing when the kids are supposed to come home ." slot="1" text="knowing" head="knowing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="knowing where to look for the kids ." slot="2" text="knowing for" head="knowing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="knowing what the kids look like ." slot="3" text="knowing like" head="knowing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="going to where you can see the kids ." slot="4" text="going going to" head="going">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="looking for the kids ." slot="5" text="looking for" head="looking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="look outside window ." slot="1" text="look outside" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="check if kids are walking toward house ." slot="2" text="check toward" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="look out a window in the direction the kids come from ." slot="1" text="look out in from" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="direction" head="direction"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="look for the kids outside ." slot="2" text="look for outside" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="repeat occasionally until you see them ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="find out where the kids will be dropped off when the come home ." slot="1" text="find out off" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="go to the closest window to that location ." slot="2" text="go to to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="look out of the window ." slot="3" text="look out of" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="wait until you see the kids through the window ." slot="4" text="wait through" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="locate route kids take ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="route kids" head="kids"/>
+			<ptcp text="route" head="route"/>
+		</item>
+		<item original="watch route ." slot="2" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="route" head="route"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="stand where you can see the kids coming ." slot="1" text="stand" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="go to the window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="look out the window ." slot="2" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="wait until the children can be seen ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="watch the children until they enter the home ." slot="4" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="leave the window ." slot="5" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="walk to window when the kids are expected home ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="home" head="home"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="look out window for kids ." slot="1" text="look out for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="look out window for kids ." slot="1" text="look out for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="look out window for kids ." slot="1" text="look out for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="look out window for kids ." slot="1" text="look out for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="look out window for kids ." slot="1" text="look out for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="look out window for kids ." slot="1" text="look out for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="look out window for kids ." slot="1" text="look out for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="look out window for kids ." slot="1" text="look out for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="look out the window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="be enjoying the peace and quiet ." slot="1" text="enjoying" head="enjoying">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="peace" head="peace"/>
+		</item>
+		<item original="check the time ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="notice children will be home soon ." slot="3" text="notice" head="notice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="finish watching your program ." slot="4" text="finish" head="finish">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="program" head="program"/>
+		</item>
+		<item original="make snacks ." slot="5" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="snacks" head="snacks"/>
+		</item>
+		<item original="watch for bus ." slot="6" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bus" head="bus"/>
+		</item>
+		<item original="see children exit bus and head toward house ." slot="7" text="see toward" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="exit bus and head" head="bus"/>
+			<ptcp text="exit" head="exit"/>
+			<ptcp text="head" head="head"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="look out the window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="watch the kids walk to the steps ." slot="2" text="watch to" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="walk" head="walk"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="watch the kids walk into the house ." slot="3" text="watch into" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="look out the window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="watch the kids walk to the steps ." slot="2" text="watch to" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="walk" head="walk"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="watch the kids walk into the house ." slot="3" text="watch into" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="look out the window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="watch the kids walk to the steps ." slot="2" text="watch to" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="walk" head="walk"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="watch the kids walk into the house ." slot="3" text="watch into" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="goto window ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="wait for children to arive ." slot="2" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="arive" head="arive"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="know the usual time that the kids arrive home ." slot="1" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="start waiting ten minutes earlier ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="look at window and wait for kids ." slot="3" text="look at for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="wait for kids ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="be glad that they get home around the expected time ." slot="5" text="expected around" head="expected">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+			<ptcp text="the expected time" head="time"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="sit on the couch near a window by the front door ." slot="1" text="sit on near by" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="couch" head="couch"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="wait ." slot="2" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="sit on the couch near a window by the front door ." slot="1" text="sit on near by" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="couch" head="couch"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="wait ." slot="2" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="find a suitable vantage point ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a suitable vantage point" head="point"/>
+			<ptcp text="vantage" head="vantage"/>
+		</item>
+		<item original="approach vantage point ." slot="2" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vantage point" head="point"/>
+			<ptcp text="vantage" head="vantage"/>
+		</item>
+		<item original="wait in position ." slot="3" text="wait in" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="verify the identity of those approaching ." slot="4" text="verify of" head="verify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="identity" head="identity"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="go downstairs ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the window ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="scan the road ." slot="3" text="scan" head="scan">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="road" head="road"/>
+		</item>
+		<item original="wait ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="do something else ." slot="5" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="something" head="something"/>
+		</item>
+		<item original="repeat until you spot kids ." slot="6" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="welcome them home ." slot="7" text="welcome" head="welcome">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="go downstairs ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the window ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="scan the road ." slot="3" text="scan" head="scan">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="road" head="road"/>
+		</item>
+		<item original="wait ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="do something else ." slot="5" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="something" head="something"/>
+		</item>
+		<item original="repeat until you spot kids ." slot="6" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="welcome them home ." slot="7" text="welcome" head="welcome">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="go downstairs ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the window ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="scan the road ." slot="3" text="scan" head="scan">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="road" head="road"/>
+		</item>
+		<item original="wait ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="do something else ." slot="5" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="something" head="something"/>
+		</item>
+		<item original="repeat until you spot kids ." slot="6" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="welcome them home ." slot="7" text="welcome" head="welcome">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="go downstairs ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to the window ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="scan the road ." slot="3" text="scan" head="scan">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="road" head="road"/>
+		</item>
+		<item original="wait ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="do something else ." slot="5" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="something" head="something"/>
+		</item>
+		<item original="repeat until you spot kids ." slot="6" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="welcome them home ." slot="7" text="welcome" head="welcome">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="go to front window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="pull curtains back ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="look for kids ." slot="3" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="go to front window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="pull curtains back ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="look for kids ." slot="3" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="go to front window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="pull curtains back ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="look for kids ." slot="3" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="clean house ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="watch tv ." slot="2" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="cook dinner ." slot="3" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dinner" head="dinner"/>
+		</item>
+		<item original="make snacks ." slot="4" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="snacks" head="snacks"/>
+		</item>
+		<item original="go to window ." slot="5" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="watch bus pull in ." slot="6" text="watch in" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bus" head="bus"/>
+		</item>
+		<item original="see kids get out ." slot="7" text="see out" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="sit by window ." slot="1" text="sit by" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="look out window ." slot="2" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="wait for kids to come home ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="open the door for them ." slot="4" text="open for" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="sit by window ." slot="1" text="sit by" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="look out window ." slot="2" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="wait for kids to come home ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="open the door for them ." slot="4" text="open for" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="sit by window ." slot="1" text="sit by" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="look out window ." slot="2" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="wait for kids to come home ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="open the door for them ." slot="4" text="open for" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="look out window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="watch for kids ." slot="2" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="look out window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="watch for kids ." slot="2" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="look out window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="watch for kids ." slot="2" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="look out window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="watch for kids ." slot="2" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="look out window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="watch for kids ." slot="2" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="look out window ." slot="1" text="look out" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="watch for kids ." slot="2" text="watch for" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="send kids away ." slot="1" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="wait appropriate time ." slot="2" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="walk to window or ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="open door ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="look left and right ." slot="5" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="left" head="left"/>
+			<ptcp text="right" head="right"/>
+		</item>
+		<item original="blink ." slot="6" text="blink" head="blink">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look right and left ." slot="7" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="right" head="right"/>
+			<ptcp text="left" head="left"/>
+		</item>
+	</script>
+</scripts>

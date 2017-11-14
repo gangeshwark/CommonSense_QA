@@ -1,0 +1,724 @@
+<scripts>
+	<script id="1">
+		<item original="pick up pencil ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="find a pencil sharpener ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a pencil sharpener" head="sharpener"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="put pencil into the pencil sharpener ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="the pencil sharpener" head="sharpener"/>
+		</item>
+		<item original="turn the pencil sharpener s handle to sharpen the pencil ." slot="4" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the pencil sharpener" head="sharpener"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="s" head="s"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get pencil ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="get sharpener ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="use sharpener on pencil ." slot="3" text="use on" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener" head="sharpener"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="dispose of remnants ." slot="4" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remnants" head="remnants"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="turn pencil in sharpener ." slot="1" text="turn in" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="thow trash ." slot="2" text="thow" head="thow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="get a sharpner ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpner" head="sharpner"/>
+		</item>
+		<item original="rotate pencil to sharpen ." slot="2" text="rotate" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="take the pencil ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="put the tip of the pencil inside the sharpener ." slot="2" text="put of inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tip" head="tip"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="activate the sharpener ." slot="3" text="activate" head="activate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get pencil ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="place pencil into sharpener ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="turn on sharpener ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="pull out pencil ." slot="4" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get  pencil sharpener ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil sharpener" head="sharpener"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="stick pencil in pencil sharpener ." slot="2" text="stick in" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="pencil sharpener" head="sharpener"/>
+		</item>
+		<item original="rotate pencil so that wood is shaved off ." slot="3" text="rotate off" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="wood" head="wood"/>
+		</item>
+		<item original="take pencil out of sharpener when sharpened ." slot="4" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="walk over to electric pencil sharpener ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="electric pencil sharpener" head="sharpener"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="stick in until there is some resistance ." slot="2" text="stick in" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="resistance" head="resistance"/>
+		</item>
+		<item original="take pencil out when resistance is gone ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="resistance" head="resistance"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="take pencil ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="insert pencil into sharpener ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="press pencil so that sharpener works ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="remove pencil from sharpener when sharp ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="put pencil in pencil sharpener ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="pencil sharpener" head="sharpener"/>
+		</item>
+		<item original="rotate pencil until sharpened ." slot="2" text="rotate until" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpened" head="sharpened"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="locate a pencil sharpener ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a pencil sharpener" head="sharpener"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="stick the pencil into the hole of the pencil sharpener ." slot="2" text="stick into of" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="hole" head="hole"/>
+			<ptcp text="the pencil sharpener" head="sharpener"/>
+		</item>
+		<item original="turn the pencil for a while ." slot="3" text="turn for" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="while" head="while"/>
+		</item>
+		<item original="take the pencil out of the pencil sharpener ." slot="4" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="the pencil sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="get pencil sharpener ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil sharpener" head="sharpener"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="get pencil ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="put pencil in sharpener ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="rotate pencil ." slot="4" text="rotate" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="take pencil out of sharpener ." slot="5" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="identify pencil ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="identify sharpener ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="place pencil in sharpener ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="manipulate sharpener ." slot="4" text="manipulate" head="manipulate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="remove pencil ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="place pencil in hand ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="place end of pencil without eraser in sharpener ." slot="2" text="place of without in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="eraser" head="eraser"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="turn hand crank ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="pull out pencil ." slot="4" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="obtain pencil ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="place pencil in pencil sharpener ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="pencil sharpener" head="sharpener"/>
+		</item>
+		<item original="turn crank ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="crank" head="crank"/>
+		</item>
+		<item original="remove pencil ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="get a sharpener ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="insert the pencil ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="putting the pencil in the sharpener ." slot="1" text="putting in" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="turning the handle ." slot="2" text="turning" head="turning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="put the pencil in the sharpener ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="remove the pencil ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="repeat until the pencil is sharp ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="realize pencil needs sharperned ." slot="1" text="realize" head="realize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="find a pencil sharpener ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a pencil sharpener" head="sharpener"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="set dial to correct size ." slot="3" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="insert pencil ." slot="4" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="operate handle ." slot="5" text="operate" head="operate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="hold pencil steady ." slot="6" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="remove the sharp pencil ." slot="7" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pick up the pencil ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="pick up the pencil sharpener ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the pencil sharpener" head="sharpener"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="put the pencil into the sharpener ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="rotate the pencil ." slot="4" text="rotate" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="remove the pencil from the sharpener ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="find sharpener ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="insert pencil in opening ." slot="2" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="opening" head="opening"/>
+		</item>
+		<item original="turn crank on side ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="remove pencil ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="find pencil sharpener ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil sharpener" head="sharpener"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="place the pencil in pencil sharpener ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="pencil sharpener" head="sharpener"/>
+		</item>
+		<item original="turn pencil in relation to pencil sharpener ." slot="3" text="turn in to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="relation" head="relation"/>
+			<ptcp text="pencil sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="put the pencil in the electric sharpener ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="put the pencil in the electric sharpener ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="when the light is lit pull the pencil out ." slot="2" text="lit out" head="lit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="take pencil ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="put pencil into sharpener ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="put the pencil in the hole of the sharpener ." slot="1" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="hole" head="hole"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="when the light goes on pull the pencil out ." slot="2" text="goes on out" head="goes">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="put the pencil in the sharpener ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="when the light goes on pull it out ." slot="2" text="goes on out" head="goes">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="put it in the sharpener ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="turn the knob ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="put it in the sharpener ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="turn the knob ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="pick up pencil ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="insert writing end into sharpener ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="writing end" head="end"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="hold eraser end firmly ." slot="3" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eraser end" head="end"/>
+			<ptcp text="eraser" head="eraser"/>
+		</item>
+		<item original="turn sharpener handle ." slot="4" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener handle" head="handle"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="push pencil gently but firmly into sharpener ." slot="5" text="push into" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="check if pencil is sharp enough ." slot="6" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="sharpen until sharp enough ." slot="7" text="sharpen until" head="sharpen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharp" head="sharp"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="hold the pencil with a firm grip ." slot="1" text="hold with" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="a firm grip" head="grip"/>
+			<ptcp text="firm" head="firm"/>
+		</item>
+		<item original="push the pencil gently into the sharpener ." slot="2" text="push into" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="remove the pencil to check sharpness ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpness" head="sharpness"/>
+		</item>
+		<item original="repeat steps 1 through 3 until the pencil is sufficiently sharp ." slot="4" text="repeat through" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="3" head="3"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="hold the pencil with a firm grip ." slot="1" text="hold with" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="a firm grip" head="grip"/>
+			<ptcp text="firm" head="firm"/>
+		</item>
+		<item original="push the pencil gently into the sharpener ." slot="2" text="push into" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="remove the pencil to check sharpness ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpness" head="sharpness"/>
+		</item>
+		<item original="repeat steps 1 through 3 until the pencil is sufficiently sharp ." slot="4" text="repeat through" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="3" head="3"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="put pencil into sharpener ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="turn pencil until sharp ." slot="2" text="turn until" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="pick up pencil ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="pick up sharpener ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="insert pencil into sharpener ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="twist pencil around to sharpen ." slot="4" text="twist" head="twist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="repeat step four until desired sharpness is reached ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="desired sharpness" head="sharpness"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="put pencil into sharpener ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="turn pencil a couple of times ." slot="2" text="turn of" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="couple" head="couple"/>
+			<ptcp text="times" head="times"/>
+		</item>
+		<item original="pull out pencil from sharpener ." slot="3" text="pull out from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="blow off the pencil/lead dust ." slot="4" text="blow off" head="blow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="find a pencil and sharpen it ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="put the pencil into the pencil sharpener ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="the pencil sharpener" head="sharpener"/>
+		</item>
+		<item original="turn the crank ." slot="2" text="crank" head="crank">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+		</item>
+		<item original="remove the pencil ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="put pencil in sharpener ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="rotate pencil until sharp ." slot="2" text="rotate until" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="remove pencil from sharpener ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="put pencil in sharpener ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="rotate pencil until sharp ." slot="2" text="rotate until" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="remove pencil from sharpener ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="put pencil in sharpener ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+		<item original="rotate pencil until sharp ." slot="2" text="rotate until" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="remove pencil from sharpener ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="get pecil ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pecil" head="pecil"/>
+		</item>
+		<item original="put pencil into shapener ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="shapener" head="shapener"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="get pecil ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pecil" head="pecil"/>
+		</item>
+		<item original="put pencil into shapener ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="shapener" head="shapener"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="put pencil in sharpener ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+			<ptcp text="sharpener" head="sharpener"/>
+		</item>
+	</script>
+</scripts>

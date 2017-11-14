@@ -1,0 +1,805 @@
+<scripts>
+	<script id="1">
+		<item original="locate paint ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="locate a paintbrush ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paintbrush" head="paintbrush"/>
+		</item>
+		<item original="dip paintbrush into paint ." slot="3" text="dip into" head="dip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paintbrush" head="paintbrush"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="run paintbrush over the wall ." slot="4" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paintbrush" head="paintbrush"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="locate paint ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="locate paintbrush ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paintbrush" head="paintbrush"/>
+		</item>
+		<item original="dip paintbrush in paint ." slot="3" text="dip in" head="dip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paintbrush" head="paintbrush"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="run paintbrush across wall ." slot="4" text="run across" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paintbrush" head="paintbrush"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="open a can of paint ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="stir the paint ." slot="2" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="use a brush to apply paint to wall edges ." slot="3" text="use to" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brush" head="brush"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall edges" head="edges"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="pour some paint into a rolling pan ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="a rolling pan" head="pan"/>
+		</item>
+		<item original="use a roller to apply paint to wall surface ." slot="5" text="use to" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall surface" head="surface"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="open a can of pain ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="pain" head="pain"/>
+		</item>
+		<item original="dip paintbrush into the can ." slot="2" text="dip into" head="dip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paintbrush" head="paintbrush"/>
+			<ptcp text="can" head="can"/>
+		</item>
+		<item original="brush the paint on the wall ." slot="3" text="brush on" head="brush">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="get paint ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="get tools ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tools" head="tools"/>
+		</item>
+		<item original="start painting ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get out a bucket of paint ." slot="1" text="get out of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bucket" head="bucket"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="get out a paitbrush ." slot="2" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paitbrush" head="paitbrush"/>
+		</item>
+		<item original="dip the brush into the paint ." slot="3" text="dip into" head="dip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brush" head="brush"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="brush the paint on the wall ." slot="4" text="brush on" head="brush">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="evenly coat the entire wall with paint ." slot="5" text="evenly with" head="evenly">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coat" head="coat"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="pour some paint into a rolling pan ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="a rolling pan" head="pan"/>
+		</item>
+		<item original="use brush to apply paint to the edges of the wall ." slot="2" text="use to of" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brush" head="brush"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="use a paint roller to apply paint to area between edges ." slot="3" text="use to between" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a paint roller" head="roller"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="edges" head="edges"/>
+		</item>
+		<item original="allow paint to dry ." slot="4" text="allow" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="repeat the entire process one more time ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="process" head="process"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="clean wall ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="get paint ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="dip brush in paint ." slot="3" text="dip in" head="dip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brush" head="brush"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="move brush up and down wall so to leave paint on ." slot="4" text="move up on" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="cover all wall with paint ." slot="5" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="wait to dry ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get paint ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="put paint into tray ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="get roller ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+		</item>
+		<item original="put roller in paint ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="roll paint on wall ." slot="5" text="roll on" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="choose color of paint ." slot="1" text="choose of" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="color" head="color"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="open paint can ." slot="2" text="can " head="can">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="get brush ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brush" head="brush"/>
+		</item>
+		<item original="dip brush in paint ." slot="4" text="dip in" head="dip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brush" head="brush"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="rub brush on wall until the wall is covered ." slot="5" text="rub on" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brush" head="brush"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="repeat the painting until enough coats of paint are added ." slot="6" text="repeat of" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="painting" head="painting"/>
+			<ptcp text="coats" head="coats"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="wash the wall ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="open the paint ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="mix the paint ." slot="3" text="mix" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="apply paint with the brush ." slot="4" text="apply with" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="brush" head="brush"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="clean first the wall ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="decide what color of paint do you want ." slot="2" text="decide of" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="color" head="color"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="apply  paint with paint roller or brush ." slot="3" text="apply with" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="paint roller or brush" head="roller"/>
+			<ptcp text="brush" head="brush"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="clean the wall ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="paint the wall with primer ." slot="2" text="paint with" head="paint">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="primer" head="primer"/>
+		</item>
+		<item original="paint the wall with wall paint ." slot="3" text="paint with" head="paint">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="choose color ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="color" head="color"/>
+		</item>
+		<item original="buy paint ." slot="2" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="buy brush ." slot="3" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brush" head="brush"/>
+		</item>
+		<item original="open can ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+		</item>
+		<item original="put paint on wall with brush ." slot="5" text="put on with" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+			<ptcp text="brush" head="brush"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="cover surrounding room to protect from paint ." slot="1" text="cover from" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surrounding room to protect from paint" head="room"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="get paint can ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="get paintbrush ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paintbrush" head="paintbrush"/>
+		</item>
+		<item original="open paint can ." slot="4" text="can " head="can">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="stir paint ." slot="5" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="dip paintbrush in paint can ." slot="6" text="dip in" head="dip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paintbrush" head="paintbrush"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="use paintbrush to spread paint on wall ." slot="7" text="use on" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paintbrush" head="paintbrush"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="pour some paint into a tray ." slot="1" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="dip a paint roller into the paint ." slot="2" text="dip into" head="dip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a paint roller" head="roller"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="hold the roller against the wall ." slot="3" text="hold against" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="run the roller up and down the wall ." slot="4" text="run down up down" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="decide to paint wall ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="decide on color ." slot="2" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="color" head="color"/>
+		</item>
+		<item original="buy paint ." slot="3" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="buy brushes ." slot="4" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brushes" head="brushes"/>
+		</item>
+		<item original="move furniture ." slot="5" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="lay down plastic protection ." slot="6" text="lay down" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="protection" head="protection"/>
+		</item>
+		<item original="paint ." slot="7" text="paint" head="paint">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="decide to paint wall ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="decide on color ." slot="2" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="color" head="color"/>
+		</item>
+		<item original="buy paint ." slot="3" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="buy brushes ." slot="4" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brushes" head="brushes"/>
+		</item>
+		<item original="move furniture ." slot="5" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="furniture" head="furniture"/>
+		</item>
+		<item original="lay down plastic protection ." slot="6" text="lay down" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="protection" head="protection"/>
+		</item>
+		<item original="paint ." slot="7" text="paint" head="paint">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="open paint can ." slot="1" text="can " head="can">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="stir paint ." slot="2" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="buy paint ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="clean wall ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="open paint paint ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="clean wall ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="scrape wall ." slot="2" text="scrape" head="scrape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="cover floor with plastic or old blanket ." slot="3" text="cover with" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+			<ptcp text="plastic or old blanket" head="blanket"/>
+		</item>
+		<item original="apply paint to wall ." slot="4" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="get paint ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="put paint on wall ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="get paint ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="put paint on wall ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="brush wall to make sure it is clean ." slot="1" text="brush" head="brush">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="pry lid off paint can ." slot="2" text="pry off" head="pry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="stir paint ." slot="3" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="pour paint into tray ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="coat roller with paint from tray ." slot="5" text="coat with from" head="coat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coat" head="coat"/>
+			<ptcp text="roller" head="roller"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="roll paint onto wall ." slot="6" text="roll onto" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="apply second coat if needed ." slot="7" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="brush wall to make sure it is clean ." slot="1" text="brush" head="brush">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="pry lid off paint can ." slot="2" text="pry off" head="pry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="stir paint ." slot="3" text="stir" head="stir">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="pour paint into tray ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="coat roller with paint from tray ." slot="5" text="coat with from" head="coat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coat" head="coat"/>
+			<ptcp text="roller" head="roller"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="roll paint onto wall ." slot="6" text="roll onto" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="apply second coat if needed ." slot="7" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="clean the wall ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="buy paint of desired color ." slot="2" text="buy of" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="desired color" head="color"/>
+		</item>
+		<item original="open can of paint ." slot="3" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="put paint thinner in and mix well so color is consistent ." slot="4" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="color" head="color"/>
+		</item>
+		<item original="add primer to the wall ." slot="5" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="primer" head="primer"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="let the primer dry ." slot="6" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="primer" head="primer"/>
+		</item>
+		<item original="paint on the wall and repeat if necessary ." slot="7" text="paint on" head="paint">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="clean wall ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="pour pain in paint bin ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pain" head="pain"/>
+			<ptcp text="paint bin" head="bin"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="put roller in paint ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="spread paint evenly on wall ." slot="4" text="spread on" head="spread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="choose paint ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="poor paint in tray ." slot="2" text="paint in" head="paint">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="poor" head="poor"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="cover brush in paint ." slot="3" text="cover in" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="brush" head="brush"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="apply paint to wall ." slot="4" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="tape off carpet ." slot="1" text="tape off" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="carpet" head="carpet"/>
+		</item>
+		<item original="open can of paint ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="pour paint in to paint tray ." slot="3" text="pour" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="dip roller into paint tray ." slot="4" text="dip into" head="dip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+			<ptcp text="paint tray" head="tray"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="roll roller onto wall slowly ." slot="5" text="roll onto" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="dip roller back into paint ." slot="6" text="dip into" head="dip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="roller" head="roller"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="roll paint on wall until wall is colored ." slot="7" text="roll on" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="strip wallpaper remove posters and nails ." slot="1" text="strip" head="strip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wallpaper" head="wallpaper"/>
+			<ptcp text="posters" head="posters"/>
+			<ptcp text="nails" head="nails"/>
+		</item>
+		<item original="tape edges ." slot="2" text="tape " head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="edges" head="edges"/>
+		</item>
+		<item original="roll base paint layer ." slot="3" text="roll" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="base paint layer" head="layer"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="let dry for 24 hours ." slot="4" text="dry for" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hours" head="hours"/>
+		</item>
+		<item original="paint second coat ." slot="5" text="paint" head="paint">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="patch cracks ." slot="1" text="patch " head="patch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patch" head="patch"/>
+			<ptcp text="cracks" head="cracks"/>
+		</item>
+		<item original="let dry ." slot="2" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry" head="dry"/>
+		</item>
+		<item original="sand filler ." slot="3" text="sand " head="sand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sand" head="sand"/>
+			<ptcp text="filler" head="filler"/>
+		</item>
+		<item original="get paint ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="put down paper to protect from splatter ." slot="5" text="put down from" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="splatter" head="splatter"/>
+		</item>
+		<item original="paint walls ." slot="6" text="paint" head="paint">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="walls" head="walls"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="patch cracks ." slot="1" text="patch " head="patch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patch" head="patch"/>
+			<ptcp text="cracks" head="cracks"/>
+		</item>
+		<item original="let dry ." slot="2" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry" head="dry"/>
+		</item>
+		<item original="sand filler ." slot="3" text="sand " head="sand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sand" head="sand"/>
+			<ptcp text="filler" head="filler"/>
+		</item>
+		<item original="get paint ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="put down paper to protect from splatter ." slot="5" text="put down from" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="splatter" head="splatter"/>
+		</item>
+		<item original="paint walls ." slot="6" text="paint" head="paint">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="walls" head="walls"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="patch cracks ." slot="1" text="patch " head="patch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patch" head="patch"/>
+			<ptcp text="cracks" head="cracks"/>
+		</item>
+		<item original="let dry ." slot="2" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry" head="dry"/>
+		</item>
+		<item original="sand filler ." slot="3" text="sand " head="sand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sand" head="sand"/>
+			<ptcp text="filler" head="filler"/>
+		</item>
+		<item original="get paint ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paint" head="paint"/>
+		</item>
+		<item original="put down paper to protect from splatter ." slot="5" text="put down from" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="splatter" head="splatter"/>
+		</item>
+		<item original="paint walls ." slot="6" text="paint" head="paint">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="walls" head="walls"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="run paintbrush over walls vertically ." slot="1" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paintbrush" head="paintbrush"/>
+			<ptcp text="walls" head="walls"/>
+		</item>
+	</script>
+</scripts>

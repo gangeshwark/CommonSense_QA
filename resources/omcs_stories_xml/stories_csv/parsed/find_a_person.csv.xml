@@ -1,0 +1,347 @@
+<scripts>
+	<script id="1">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="go to person ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="announce person is found ." slot="3" text="announce" head="announce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="locate person ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="go to person ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="announce that the person is found ." slot="3" text="announce" head="announce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="figure out where the person might be ." slot="1" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="look there ." slot="2" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="yell 'where are you?' ." slot="1" text="are " head="are">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="yell" head="yell"/>
+		</item>
+		<item original="follow the persons voice ." slot="2" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the persons voice" head="voice"/>
+			<ptcp text="persons" head="persons"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="look for person in room ." slot="1" text="look for in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="continue to next room until found ." slot="2" text="continue to until" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="go to where person might be ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="look around for person ." slot="2" text="look around for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="of not found ask people if they saw person ." slot="3" text="found" head="found">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="report when person is found ." slot="2" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="enter the person s name into google ." slot="1" text="enter into" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="google" head="google"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="search for person ." slot="2" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="seek a person ." slot="3" text="seek" head="seek">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="search for person ." slot="2" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="seek a person ." slot="3" text="seek" head="seek">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="search for person ." slot="2" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="seek a person ." slot="3" text="seek" head="seek">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="search for person ." slot="2" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="seek a person ." slot="3" text="seek" head="seek">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="ask ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="ask ." slot="4" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk ." slot="5" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="ask ." slot="6" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="found person ." slot="7" text="found" head="found">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find person ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find person ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find person ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find person ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="have an idea where person is ." slot="1" text="have " head="have">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="idea" head="idea"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="go there ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look for person there ." slot="3" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="have an idea where person is ." slot="1" text="have " head="have">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="idea" head="idea"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="go there ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look for person there ." slot="3" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="have an idea where person is ." slot="1" text="have " head="have">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="idea" head="idea"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="go there ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look for person there ." slot="3" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="have an idea where person is ." slot="1" text="have " head="have">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="idea" head="idea"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="go there ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look for person there ." slot="3" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="have an idea where person is ." slot="1" text="have " head="have">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="idea" head="idea"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="go there ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look for person there ." slot="3" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="locate person ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="locate person ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="locate person ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="locate person ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="locate person ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="look for person ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="locate person ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+</scripts>

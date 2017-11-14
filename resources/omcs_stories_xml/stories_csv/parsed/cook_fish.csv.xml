@@ -1,0 +1,1336 @@
+<scripts>
+	<script id="1">
+		<item original="gut scale and filet fish ." slot="1" text="gut" head="gut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scale" head="scale"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="turn stove on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="place skillet on heated stove ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="skillet" head="skillet"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="place oil in skillet ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="skillet" head="skillet"/>
+		</item>
+		<item original="place fish in skillet ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="skillet" head="skillet"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get fish ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="marinate fish ." slot="2" text="marinate" head="marinate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="put fish on grill ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+		<item original="observe and rotate fish ." slot="4" text="observe" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="remove fish ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="get fish ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="put spices on fish ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spices" head="spices"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="place fish on grill ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+		<item original="leave to cook ." slot="4" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="turn fish ." slot="5" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="remove fish ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="clean fish ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="find pot that is large enough for fish ." slot="2" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="heat water in pot ." slot="3" text="heat in" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="put fish in ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="simmer fish until done ." slot="5" text="simmer until" head="simmer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="arrange fish on plate ." slot="6" text="arrange on" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="place fish on grill ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+		<item original="turn on grill ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+		<item original="wait for fish to cook ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="locate fish to cook ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="locate recipe for cooking fish ." slot="2" text="locate for" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="recipe" head="recipe"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="utilize recipe to properly cook fish ." slot="3" text="utilize" head="utilize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="recipe" head="recipe"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="clean fish ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="marinate fish if desired ." slot="2" text="marinate" head="marinate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="place fish on grill ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+		<item original="after a side is cooked turn onto other side ." slot="4" text="cooked onto" head="cooked">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="turn" head="turn"/>
+		</item>
+		<item original="when fish is cooked remove from grill ." slot="5" text="cooked from" head="cooked">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="getting fish ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="cleaning fish ." slot="2" text="cleaning" head="cleaning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="prepare pan ." slot="3" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place fish in prepared pan ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="getting fish ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="cleaning fish ." slot="2" text="cleaning" head="cleaning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="prepare pan ." slot="3" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place fish in prepared pan ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="heat the pan ." slot="5" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn fish often ." slot="6" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="remove fish from pan ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="buy fish ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean fish ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="slice fish ." slot="3" text="slice" head="slice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="cook fish ." slot="4" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get fish ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="pick recipe ." slot="2" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="recipe" head="recipe"/>
+		</item>
+		<item original="heat pan ." slot="3" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="oil pan ." slot="4" text="oil " head="oil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put fish in pan ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn when ready ." slot="6" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ready" head="ready"/>
+		</item>
+		<item original="remove ." slot="7" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="wash the fish ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="get the inside stuff of the fish ." slot="2" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stuff" head="stuff"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="then cook the fish ." slot="3" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="thaw fish ." slot="1" text="thaw " head="thaw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thaw" head="thaw"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="put on tray ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="heat oven ." slot="3" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+		<item original="put in oven ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+		<item original="cook for time required ." slot="5" text="cook for" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="remove from oven ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+		<item original="let cool ." slot="7" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cool" head="cool"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="scale fish ." slot="1" text="scale" head="scale">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="gut fish ." slot="2" text="gut" head="gut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="filet fish ." slot="3" text="filet" head="filet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="place frying pan on hot stove ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="place fish filet in frying pan ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish filet" head="filet"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="butcher fish ." slot="1" text="butcher " head="butcher">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="butcher" head="butcher"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="heat pan ." slot="2" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="oil pan ." slot="3" text="oil " head="oil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="season fish ." slot="4" text="season " head="season">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="season" head="season"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="sear fish ." slot="5" text="sear" head="sear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="serve ." slot="6" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="butcher fish ." slot="1" text="butcher " head="butcher">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="butcher" head="butcher"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="heat pan ." slot="2" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="oil pan ." slot="3" text="oil " head="oil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="season fish ." slot="4" text="season " head="season">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="season" head="season"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="clean fish ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="prepare ingredients ." slot="2" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+		</item>
+		<item original="obtain cooking container ." slot="3" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="cook fish ." slot="4" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="place cleaned fish on plate ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="set aside ." slot="2" text="set aside" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get 2 cups of flour ." slot="3" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="flour" head="flour"/>
+		</item>
+		<item original="place fish in flour ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="flour" head="flour"/>
+		</item>
+		<item original="take fish out ." slot="5" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="put oil in pan put fish in pan ." slot="6" text="put in in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="cook fish in pan ." slot="7" text="cook in" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="catch a fish ." slot="1" text="catch" head="catch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean the fish ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="cut the fish up ." slot="3" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="heat up a pan ." slot="4" text="heat up" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put the fish in the pan ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn the fish over ." slot="6" text="turn over" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="wait until the fish is cooked ." slot="7" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="procure fish ." slot="1" text="procure" head="procure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean scales ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scales" head="scales"/>
+		</item>
+		<item original="clean guts ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guts" head="guts"/>
+		</item>
+		<item original="put oil in pan ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="heat oil ." slot="5" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+		</item>
+		<item original="fry fish in hot oil ." slot="6" text="fry in" head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry fish" head="fish"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="oil" head="oil"/>
+		</item>
+		<item original="serve fish ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="procure fish ." slot="1" text="procure" head="procure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean scales ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scales" head="scales"/>
+		</item>
+		<item original="clean guts ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guts" head="guts"/>
+		</item>
+		<item original="put oil in pan ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="heat oil ." slot="5" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+		</item>
+		<item original="fry fish in hot oil ." slot="6" text="fry in" head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry fish" head="fish"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="oil" head="oil"/>
+		</item>
+		<item original="serve fish ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="procure fish ." slot="1" text="procure" head="procure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean scales ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scales" head="scales"/>
+		</item>
+		<item original="clean guts ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guts" head="guts"/>
+		</item>
+		<item original="put oil in pan ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="heat oil ." slot="5" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+		</item>
+		<item original="fry fish in hot oil ." slot="6" text="fry in" head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry fish" head="fish"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="oil" head="oil"/>
+		</item>
+		<item original="serve fish ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="procure fish ." slot="1" text="procure" head="procure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean scales ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scales" head="scales"/>
+		</item>
+		<item original="clean guts ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guts" head="guts"/>
+		</item>
+		<item original="put oil in pan ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="heat oil ." slot="5" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+		</item>
+		<item original="fry fish in hot oil ." slot="6" text="fry in" head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry fish" head="fish"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="oil" head="oil"/>
+		</item>
+		<item original="serve fish ." slot="7" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="catch or buy fish ." slot="1" text="catch" head="catch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean fish ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="fill pan with oil and heat ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="bread fish ." slot="4" text="bread " head="bread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bread" head="bread"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="place fish in oil ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="oil" head="oil"/>
+		</item>
+		<item original="cook ." slot="6" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="buy fish ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="marinate fish ." slot="2" text="marinate" head="marinate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="put fish on grill ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+		<item original="turn fish over ." slot="4" text="turn over" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="remove fish from grill ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="buy fish ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="marinate fish ." slot="2" text="marinate" head="marinate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="put fish on grill ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+		<item original="turn fish over ." slot="4" text="turn over" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="remove fish from grill ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="catch the fish ." slot="1" text="catch" head="catch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean the fish ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="scale the fish ." slot="3" text="scale" head="scale">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="roll the fish in corn meal ." slot="4" text="roll in" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="corn meal" head="meal"/>
+			<ptcp text="corn" head="corn"/>
+		</item>
+		<item original="place fish in skillet with oil on med heat ." slot="5" text="place in with on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="skillet" head="skillet"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="turn fish to brown each side ." slot="6" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="remove fish from skillet shut off stove ." slot="7" text="remove off from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="skillet" head="skillet"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="catch the fish ." slot="1" text="catch" head="catch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean the fish ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="scale the fish ." slot="3" text="scale" head="scale">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="roll the fish in corn meal ." slot="4" text="roll in" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="corn meal" head="meal"/>
+			<ptcp text="corn" head="corn"/>
+		</item>
+		<item original="place fish in skillet with oil on med heat ." slot="5" text="place in with on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="skillet" head="skillet"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="turn fish to brown each side ." slot="6" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="remove fish from skillet shut off stove ." slot="7" text="remove off from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="skillet" head="skillet"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="cut fish s belly open ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="belly" head="belly"/>
+		</item>
+		<item original="remove fish s guts ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="guts" head="guts"/>
+		</item>
+		<item original="cut off fish s head gills and fins ." slot="3" text="cut off" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="head gills and fins" head="gills"/>
+			<ptcp text="head" head="head"/>
+			<ptcp text="fins" head="fins"/>
+		</item>
+		<item original="scrape off fish s scales ." slot="4" text="scrape off" head="scrape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish s scales" head="scales"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="wash fish ." slot="5" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="season fish with salt and pepper ." slot="6" text="season with" head="season">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="season fish" head="fish"/>
+			<ptcp text="season" head="season"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="salt" head="salt"/>
+			<ptcp text="pepper" head="pepper"/>
+		</item>
+		<item original="fry fish in pan with butter ." slot="7" text="fry in with" head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry fish" head="fish"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="butter" head="butter"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="clean fish ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="pat fish dry ." slot="2" text="pat" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="lay fish on double thickness foil ." slot="3" text="lay on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="double thickness foil" head="foil"/>
+			<ptcp text="thickness" head="thickness"/>
+		</item>
+		<item original="sprinkle fish with salt ." slot="4" text="sprinkle with" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="salt" head="salt"/>
+		</item>
+		<item original="grind black pepper on fish ." slot="5" text="grind on" head="grind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pepper" head="pepper"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="wrap foil around fish ." slot="6" text="wrap around" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foil" head="foil"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="bake in oven until tender and flaky ." slot="7" text="bake in until" head="bake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oven" head="oven"/>
+			<ptcp text="tender" head="tender"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="buy a fresh fish ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="marinate the fish to add flavors ." slot="2" text="marinate" head="marinate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="flavors" head="flavors"/>
+		</item>
+		<item original="turn on the stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put cooking pan on top of stove ." slot="4" text="put on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour cooking oil on the pan ." slot="5" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooking oil" head="oil"/>
+			<ptcp text="cooking" head="cooking"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put the fish inside the cooking pan ." slot="6" text="put inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="cooked the fish 4 minutes per side ." slot="7" text="cooked per" head="cooked">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="minutes" head="minutes"/>
+			<ptcp text="side" head="side"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="buy a fresh fish ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="marinate the fish to add flavors ." slot="2" text="marinate" head="marinate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="flavors" head="flavors"/>
+		</item>
+		<item original="turn on the stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put cooking pan on top of stove ." slot="4" text="put on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="pour cooking oil on the pan ." slot="5" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooking oil" head="oil"/>
+			<ptcp text="cooking" head="cooking"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="put the fish inside the cooking pan ." slot="6" text="put inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="cooked the fish 4 minutes per side ." slot="7" text="cooked per" head="cooked">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="minutes" head="minutes"/>
+			<ptcp text="side" head="side"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="cut up the fish ." slot="1" text="cut up" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="fry it ." slot="2" text="fry " head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry" head="fry"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="choose the fish ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="remove unwanted portion ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="portion" head="portion"/>
+		</item>
+		<item original="cut the fish in to small pieces ." slot="3" text="cut in to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pieces" head="pieces"/>
+		</item>
+		<item original="cook the fish ." slot="4" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="prepare fish ." slot="1" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="prepare fish ." slot="1" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="put frying pan on cooker ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="cooker" head="cooker"/>
+		</item>
+		<item original="turn on cooker ring ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ring" head="ring"/>
+		</item>
+		<item original="add vegetable oil ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vegetable oil" head="oil"/>
+			<ptcp text="vegetable" head="vegetable"/>
+		</item>
+		<item original="heat pan ." slot="5" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place fish in pan ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn occasionally ." slot="7" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="find the fish ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="cut it ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="cook ." slot="3" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="place cook in pan ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cook" head="cook"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="turn on heat ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+		<item original="cook fish till half cooked ." slot="3" text="cook till" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="turn fish over ." slot="4" text="turn over" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="cook till fish totally cooked ." slot="5" text="cook till" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="serve fish ." slot="6" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="cook fish ." slot="1" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="locate fish ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="add spices and margarine ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spices" head="spices"/>
+			<ptcp text="margarine" head="margarine"/>
+		</item>
+		<item original="turn on oven to intended temperature ." slot="3" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oven" head="oven"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="place fish in pan ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place pan in oven ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+		<item original="wait until fish is cooked ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="remove fish from oven ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="locate fish ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="add spices and margarine ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spices" head="spices"/>
+			<ptcp text="margarine" head="margarine"/>
+		</item>
+		<item original="turn on oven to intended temperature ." slot="3" text="turn on to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oven" head="oven"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="place fish in pan ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place pan in oven ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+		<item original="wait until fish is cooked ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="remove fish from oven ." slot="7" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="oven" head="oven"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="rinse fish ." slot="1" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean grill ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+		<item original="oil grill ." slot="3" text="oil " head="oil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+		<item original="find grill utensils ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="utensils" head="utensils"/>
+		</item>
+		<item original="get out clean plate ." slot="5" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plate" head="plate"/>
+		</item>
+		<item original="put fish on grill ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+		<item original="flip fish until finished ." slot="7" text="flip until" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="wash and descale fish ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="place in dish ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+		</item>
+		<item original="season ." slot="3" text="season " head="season">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="season" head="season"/>
+		</item>
+		<item original="boil water in a pot ." slot="4" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="place dish in pot and steam till done ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dish" head="dish"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="steam" head="steam"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="heat oil in pan ." slot="1" text="heat in" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="remove fish from package ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="place fish in pan ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="flip fish occasionally until cooked ." slot="4" text="flip until" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="defrost fish ." slot="1" text="defrost" head="defrost">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="catch fish ." slot="1" text="catch" head="catch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean fish ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="fry fish ." slot="3" text="fry " head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="catch fish ." slot="1" text="catch" head="catch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean fish ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="fry fish ." slot="3" text="fry " head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="catch fish ." slot="1" text="catch" head="catch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean fish ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="fry fish ." slot="3" text="fry " head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="catch fish ." slot="1" text="catch" head="catch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean fish ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="fry fish ." slot="3" text="fry " head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="catch fish ." slot="1" text="catch" head="catch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean fish ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="fry fish ." slot="3" text="fry " head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="catch fish ." slot="1" text="catch" head="catch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean fish ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="fry fish ." slot="3" text="fry " head="fry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fry" head="fry"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="take out cooking tools ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cooking tools" head="tools"/>
+			<ptcp text="cooking" head="cooking"/>
+		</item>
+		<item original="take out fish ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="clean fish ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="heat pan with butter ." slot="4" text="heat with" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="butter" head="butter"/>
+		</item>
+		<item original="coat fish in batter ." slot="5" text="coat in" head="coat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coat fish" head="fish"/>
+			<ptcp text="coat" head="coat"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="batter" head="batter"/>
+		</item>
+		<item original="put fish in pan ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="cook fish ." slot="7" text="cook" head="cook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="take fish ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="place fish in pan ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="pan" head="pan"/>
+		</item>
+		<item original="place pan on stove ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pan" head="pan"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="heat fish ." slot="4" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="put fish in grill ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="grill" head="grill"/>
+		</item>
+	</script>
+</scripts>

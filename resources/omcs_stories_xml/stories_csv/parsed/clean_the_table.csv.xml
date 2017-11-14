@@ -1,0 +1,1088 @@
+<scripts>
+	<script id="1">
+		<item original="remove all items from the table surface ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="the table surface" head="surface"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place the items in a different location ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="obtain a wet rag ." slot="3" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="wipe the entire surface area of the table with the rag ." slot="4" text="wipe of with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the entire surface area" head="area"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="take a napkin ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkin" head="napkin"/>
+		</item>
+		<item original="wet the napkin ." slot="2" text="the " head="the">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkin" head="napkin"/>
+		</item>
+		<item original="wipe the table with the wet napkin ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="napkin" head="napkin"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="clear table ." slot="1" text="clear" head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wipe table with wet cloth ." slot="2" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="pick up dishes ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put dishes in sink or dishwasher ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="pick up placemats ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="placemats" head="placemats"/>
+		</item>
+		<item original="wipe table with damp cloth ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="empty cloth into trash or sink ." slot="5" text="empty into" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="trash" head="trash"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="remove dirty dishes ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put dishes into dishwasher ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+		</item>
+		<item original="remove silverware ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="silverware" head="silverware"/>
+		</item>
+		<item original="remove table cloth ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table cloth" head="cloth"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="remove all dishes ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="remove table cover ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table cover" head="cover"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wipe table top ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table top" head="top"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="remove all dishes ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="remove table cover ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table cover" head="cover"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wipe table ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put new table cover ." slot="4" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new table cover" head="cover"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get a cleaning cloth ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a cleaning cloth" head="cloth"/>
+			<ptcp text="cleaning" head="cleaning"/>
+		</item>
+		<item original="make the cleaning cloth damp ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cleaning cloth" head="cloth"/>
+			<ptcp text="cleaning" head="cleaning"/>
+		</item>
+		<item original="wipe table with cleaning cloth ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="remove everything from the table that is on it ." slot="1" text="remove from on" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="get a bucket of water ." slot="2" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bucket" head="bucket"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="get some soap ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="get a rag ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="get the rag wet and soapy ." slot="5" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="rub the table all over it until it is clean ." slot="6" text="rub over" head="rub">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="remove all objects from the table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wipe cleaning cloth around the surface of table ." slot="2" text="wipe around of" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaning cloth" head="cloth"/>
+			<ptcp text="cleaning" head="cleaning"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="replace objects that are to remain on the table ." slot="3" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="take away all the stuff from the table ." slot="1" text="take away from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stuff" head="stuff"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wipe the table ." slot="2" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="identify dishes ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="remove dishes ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="place dishes in sink ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="identify rag ." slot="4" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="use rag to wipe down table ." slot="5" text="use down" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="take all objects off table top ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+			<ptcp text="table top" head="top"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="apply cleaning fluid to table top ." slot="2" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleaning fluid" head="fluid"/>
+			<ptcp text="cleaning" head="cleaning"/>
+			<ptcp text="table top" head="top"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wipe down table top ." slot="3" text="wipe down" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table top" head="top"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="remove dishes from table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wipe table with wet rag ." slot="2" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="take any objects off the table ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="get a cloth ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="wet the cloth with water ." slot="3" text="wet with" head="wet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe the table with the cloth ." slot="4" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="pick up the objects on the table ." slot="1" text="pick up on" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="spray the table with cleaning solution ." slot="2" text="spray with" head="spray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="cleaning solution" head="solution"/>
+			<ptcp text="cleaning" head="cleaning"/>
+			<ptcp text="solution" head="solution"/>
+		</item>
+		<item original="get a cloth ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="wipe the cleaning solution over the table ." slot="4" text="wipe over" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cleaning solution" head="solution"/>
+			<ptcp text="cleaning" head="cleaning"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="remove all objects ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+		<item original="spray with cleaner ." slot="2" text="spray with" head="spray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="wipe with rag ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="remove eveything off of table ." slot="1" text="remove of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eveything" head="eveything"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wipe table with damp clothe ." slot="2" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="clothe" head="clothe"/>
+		</item>
+		<item original="apply appropriate tabe conditioner to table and allow to dry ." slot="3" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="conditioner" head="conditioner"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="remove everything from table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="add cleansor to table ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleansor" head="cleansor"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="use cloth to wipe entire surface ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="let table dry ." slot="4" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="clear the table ." slot="1" text="clear" head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wet cloth ." slot="2" text="wet " head="wet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="clean surface of table with cloth ." slot="3" text="clean of with" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="dry surface with dry cloth ." slot="4" text="dry with" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="clear all thrash from the table ." slot="1" text="thrash from" head="thrash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all" head="all"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="replace the used tablecloth with a new tablecloth ." slot="2" text="replace with" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the used tablecloth" head="tablecloth"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="clear all thrash from the table ." slot="1" text="thrash from" head="thrash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all" head="all"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="replace the used tablecloth with a new tablecloth ." slot="2" text="replace with" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the used tablecloth" head="tablecloth"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="remove all items from the table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="use a wet cloth to wipe the table ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="gather all the dishes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put in the sink ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="gather all teh napkins ." slot="3" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkins" head="napkins"/>
+		</item>
+		<item original="put in the laundry basket ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the laundry basket" head="basket"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+		<item original="grab a rag ." slot="5" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="wipe teh crumbs from the table into your hand ." slot="6" text="wipe from into" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teh crumbs" head="crumbs"/>
+			<ptcp text="teh" head="teh"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="dump crumbs in trash ." slot="7" text="dump in" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="crumbs" head="crumbs"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="gather all the dishes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="put in the sink ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="gather all teh napkins ." slot="3" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkins" head="napkins"/>
+		</item>
+		<item original="put in the laundry basket ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the laundry basket" head="basket"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+		<item original="grab a rag ." slot="5" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rag" head="rag"/>
+		</item>
+		<item original="wipe teh crumbs from the table into your hand ." slot="6" text="wipe from into" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teh crumbs" head="crumbs"/>
+			<ptcp text="teh" head="teh"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="dump crumbs in trash ." slot="7" text="dump in" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="crumbs" head="crumbs"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="remove all dishes from the table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="remoetablecloth and put in laundry room ." slot="2" text="remoetablecloth in" head="remoetablecloth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="laundry room" head="room"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="remove all dishes from the table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="remoetable cloth and put in laundry room ." slot="2" text="remoetable in" head="remoetable">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="laundry room" head="room"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+		<item original="get sponge damp ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="wipe down table with sponge ." slot="4" text="wipe down with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="get a damp cloth ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="wipe the table ." slot="2" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="remove everything from the table first ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="follow the instructions on a type of furniture cleaner appropriate for the table ." slot="2" text="follow on of for" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+			<ptcp text="type" head="type"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="use the furniture cleaner to clean the table ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the furniture cleaner" head="cleaner"/>
+			<ptcp text="furniture" head="furniture"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="remove dishes cups and utensils from the table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes cups" head="cups"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="utensils" head="utensils"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put those items in the dishwasher or sink ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="dishwasher" head="dishwasher"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="remove napkins and other items from the table ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="napkins" head="napkins"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wipe the table ." slot="4" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="take everything off the table ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="use a damp cloth and wipe surface ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="use a towel to dry table top ." slot="3" text="use to" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="dry table top" head="top"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="take everything off the table ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="use a damp cloth and wipe surface ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="use a towel to dry table top ." slot="3" text="use to" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="dry table top" head="top"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="take everything off the table ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="use a damp cloth and wipe surface ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="use a towel to dry table top ." slot="3" text="use to" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="dry table top" head="top"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="take everything off the table ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="use a damp cloth and wipe surface ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="use a towel to dry table top ." slot="3" text="use to" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="dry table top" head="top"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="take everything off the table ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="use a damp cloth and wipe surface ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="use a towel to dry table top ." slot="3" text="use to" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="dry table top" head="top"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="take everything off the table ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="use a damp cloth and wipe surface ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="use a towel to dry table top ." slot="3" text="use to" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+			<ptcp text="dry table top" head="top"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="pick up and remove all plates silverware and serving utensils ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="utensils" head="utensils"/>
+		</item>
+		<item original="remove any napkins glasses food ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="wipe the table to remove any messes ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="messes" head="messes"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="pick up and remove all plates silverware and serving utensils ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="utensils" head="utensils"/>
+		</item>
+		<item original="remove any napkins glasses food ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="wipe the table to remove any messes ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="messes" head="messes"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="pick up and remove all plates silverware and serving utensils ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="utensils" head="utensils"/>
+		</item>
+		<item original="remove any napkins glasses food ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="wipe the table to remove any messes ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="messes" head="messes"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="pick up and remove all plates silverware and serving utensils ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="utensils" head="utensils"/>
+		</item>
+		<item original="remove any napkins glasses food ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="wipe the table to remove any messes ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="messes" head="messes"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="pick up and remove all plates silverware and serving utensils ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="utensils" head="utensils"/>
+		</item>
+		<item original="remove any napkins glasses food ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="wipe the table to remove any messes ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="messes" head="messes"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="pick up and remove all plates silverware and serving utensils ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plates" head="plates"/>
+			<ptcp text="utensils" head="utensils"/>
+		</item>
+		<item original="remove any napkins glasses food ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glasses" head="glasses"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="wipe the table to remove any messes ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="messes" head="messes"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="get a sponge ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="wet the sponge ." slot="2" text="the " head="the">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="add soap to the sponge ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="wipe the table ." slot="4" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="get a sponge ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="wet the sponge ." slot="2" text="the " head="the">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="add soap to the sponge ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+			<ptcp text="sponge" head="sponge"/>
+		</item>
+		<item original="wipe the table ." slot="4" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="remove items from table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="rinse dishrag in hot water soap if preferred ." slot="2" text="rinse in" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishrag" head="dishrag"/>
+			<ptcp text="hot water soap" head="soap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe down table with dishrag ." slot="3" text="wipe down with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="dishrag" head="dishrag"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="remove items from table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="rinse dishrag in hot water soap if preferred ." slot="2" text="rinse in" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishrag" head="dishrag"/>
+			<ptcp text="hot water soap" head="soap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe down table with dishrag ." slot="3" text="wipe down with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="dishrag" head="dishrag"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="remove items from table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="rinse dishrag in hot water soap if preferred ." slot="2" text="rinse in" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishrag" head="dishrag"/>
+			<ptcp text="hot water soap" head="soap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe down table with dishrag ." slot="3" text="wipe down with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="dishrag" head="dishrag"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="remove items from table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="rinse dishrag in hot water soap if preferred ." slot="2" text="rinse in" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishrag" head="dishrag"/>
+			<ptcp text="hot water soap" head="soap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe down table with dishrag ." slot="3" text="wipe down with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="dishrag" head="dishrag"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="remove items from table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="rinse dishrag in hot water soap if preferred ." slot="2" text="rinse in" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishrag" head="dishrag"/>
+			<ptcp text="hot water soap" head="soap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe down table with dishrag ." slot="3" text="wipe down with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="dishrag" head="dishrag"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="remove items from table ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="rinse dishrag in hot water soap if preferred ." slot="2" text="rinse in" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishrag" head="dishrag"/>
+			<ptcp text="hot water soap" head="soap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wipe down table with dishrag ." slot="3" text="wipe down with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+			<ptcp text="dishrag" head="dishrag"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="get cloth for wiping ." slot="1" text="wiping for" head="wiping">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="clear off all things on table ." slot="3" text="clear off on" head="clear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put cloth on table ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wipe all area catching dirt ." slot="5" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="dirt" head="dirt"/>
+		</item>
+		<item original="take cloth and dirt and dump dirt in garbage ." slot="6" text="take in" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="dirt" head="dirt"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+		<item original="put cloth away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="take dishes off table ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put them in the sink ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="get cloth ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="wipe down table ." slot="5" text="wipe down" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="call your wife ." slot="6" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wife" head="wife"/>
+		</item>
+		<item original="tell her she missed a spot ." slot="7" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="her" head="her"/>
+			<ptcp text="spot" head="spot"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="take dishes off table ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put them in the sink ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="get cloth ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="wipe down table ." slot="5" text="wipe down" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="call your wife ." slot="6" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wife" head="wife"/>
+		</item>
+		<item original="tell her she missed a spot ." slot="7" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="her" head="her"/>
+			<ptcp text="spot" head="spot"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="take dishes off table ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="put them in the sink ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="get cloth ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="wipe down table ." slot="5" text="wipe down" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="call your wife ." slot="6" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wife" head="wife"/>
+		</item>
+		<item original="tell her she missed a spot ." slot="7" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="her" head="her"/>
+			<ptcp text="spot" head="spot"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="get towel ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wet towel ." slot="2" text="wet " head="wet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wipe table ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="get towel ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wet towel ." slot="2" text="wet " head="wet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="towel" head="towel"/>
+		</item>
+		<item original="wipe table ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="remove all dirty dishes ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="wipe table down ." slot="2" text="wipe down" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+</scripts>

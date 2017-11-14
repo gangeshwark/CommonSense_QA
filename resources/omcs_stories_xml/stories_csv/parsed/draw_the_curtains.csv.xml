@@ -1,0 +1,663 @@
+<scripts>
+	<script id="1">
+		<item original="move to window ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="look for cord ." slot="2" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="pull cord to close curtains ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find the rope for the curtains ." slot="1" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rope" head="rope"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="pull the rope in a direction which opens or closes the curtains ." slot="2" text="pull in" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rope" head="rope"/>
+			<ptcp text="direction" head="direction"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="go to window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="pull curtain cord ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find the curtains ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="find the curtain cord which opens and closes the curtains ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the curtain cord" head="cord"/>
+			<ptcp text="curtain" head="curtain"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="pull the cord to draw the curtains ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="walk to the windows with the curtains ." slot="1" text="walk to with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="grab the strings to the side of the window ." slot="2" text="grab to of" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strings" head="strings"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="pull them down ." slot="3" text="pull down" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="locate the curtain cord ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the curtain cord" head="cord"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="give the curtain cord a short jerk downwards ." slot="2" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the curtain cord" head="cord"/>
+			<ptcp text="curtain" head="curtain"/>
+			<ptcp text="a short jerk downwards" head="downwards"/>
+			<ptcp text="jerk" head="jerk"/>
+		</item>
+		<item original="let the curtain cord glide through your hand as it rises ." slot="3" text="glide through" head="glide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the curtain cord" head="cord"/>
+			<ptcp text="curtain" head="curtain"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="locate the curtains to be drawn ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="firmly but gently grasp the curtains to be drawn ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="with a moderate amount of speed bring the two curtains together in the middle of the window ." slot="3" text="bring with of in of" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="speed" head="speed"/>
+			<ptcp text="curtains" head="curtains"/>
+			<ptcp text="middle" head="middle"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="release the curtains ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="grasp the cord that is used to close the curtains with your hand ." slot="1" text="grasp with" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="curtains" head="curtains"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="pull in a downward motion ." slot="2" text="pull in" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="motion" head="motion"/>
+		</item>
+		<item original="curtains should close after pulling the cord downward ." slot="3" text="close after" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="undo the curtain clasp ." slot="1" text="undo" head="undo">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clasp" head="clasp"/>
+		</item>
+		<item original="close the curtains ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="for each curtain ." slot="1" text="for for" head="for">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="pull string so that curtains are up ." slot="2" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="move to the curtains ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="find the curtain pull cord ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="pull the cord in the way that opens or closes the curtains ." slot="3" text="pull in" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="way" head="way"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="locate the window with curtains ." slot="1" text="locate with" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="gently pull back the curtains from the window ." slot="2" text="pull back from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="secure the cutains to either side of the window ." slot="3" text="secure to of" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cutains" head="cutains"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="grab curtains ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="pull curtains ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="go to curtains ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="grab curtains ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="pull curtains ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="locate drawstring ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drawstring" head="drawstring"/>
+		</item>
+		<item original="pull string to close curtains ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="locate curtains ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="pull curtains down ." slot="2" text="pull down" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="approach curtains ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="slide curtains along rod until windows are covered ." slot="2" text="slide along" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+			<ptcp text="rod" head="rod"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="grab curtain string ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="pull curtain string ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="pull curtain string to the side to lock curtains in place ." slot="3" text="pull to in" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="curtains" head="curtains"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="find the drawstring ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drawstring" head="drawstring"/>
+		</item>
+		<item original="pull it in the proper direction ." slot="2" text="pull in" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+		<item original="stop when it can go no further ." slot="3" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="no further" head="further"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="move to the window ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="close the window ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="lower the blinds ." slot="3" text="lower" head="lower">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="draw the blinds ." slot="4" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+		<item original="close the curtains ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="place curtain in hand ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="pull curtain to side ." slot="2" text="pull to" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+			<ptcp text="side" head="side"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="get pencil ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pencil" head="pencil"/>
+		</item>
+		<item original="get paper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="draw curtains on paper ." slot="3" text="draw on" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="walk to the window ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="hold the edge of the curtain ." slot="2" text="hold of" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edge" head="edge"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="pull the curtain towards the middle of the window ." slot="3" text="pull towards of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+			<ptcp text="middle" head="middle"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="walk to the curtains ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="grasp the curtain string ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="pull the string ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="pull curtain cord ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="give medicine ." slot="1" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="walk to the curtain ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="find the string ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="pull the string ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="when it is at the desired height pull the string toward the center of the curtain ." slot="4" text="desired at toward of" head="desired">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the desired height" head="height"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="let go ." slot="5" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="go" head="go"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="locate the curtains ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="determine whether they are open or closed ." slot="2" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="open or closed" head="open"/>
+		</item>
+		<item original="if they are opened pull on the cord until they are closed ." slot="3" text="opened on" head="opened">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+		<item original="if they are closed pull on the cord until they are opened ." slot="4" text="closed on" head="closed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="go to window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="grab curtains ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="pull open ." slot="3" text="pull open" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="goto curtains ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="draw curtains ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="pull curtains ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="it opens up ." slot="2" text="opens up" head="opens">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="grab onto curtain ." slot="1" text="grab onto" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="pull toward center of curtain rod ." slot="2" text="pull toward of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="curtain rod" head="rod"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="repeat on other side ." slot="3" text="repeat on" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="grab onto curtain ." slot="1" text="grab onto" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="pull toward center of curtain rod ." slot="2" text="pull toward of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="curtain rod" head="rod"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="repeat on other side ." slot="3" text="repeat on" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="grab onto curtain ." slot="1" text="grab onto" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="pull toward center of curtain rod ." slot="2" text="pull toward of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="curtain rod" head="rod"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="repeat on other side ." slot="3" text="repeat on" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="grab onto curtain ." slot="1" text="grab onto" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="pull toward center of curtain rod ." slot="2" text="pull toward of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="curtain rod" head="rod"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+		<item original="repeat on other side ." slot="3" text="repeat on" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="pull the strings ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strings" head="strings"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="pull the strings ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strings" head="strings"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="pull the strings ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strings" head="strings"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="pull the strings ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strings" head="strings"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="pull the strings ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strings" head="strings"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="pull the strings ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strings" head="strings"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="draw curttian ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curttian" head="curttian"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="draw curttian ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curttian" head="curttian"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="draw curttian ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curttian" head="curttian"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="draw curttian ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curttian" head="curttian"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="draw curttian ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curttian" head="curttian"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="draw curttian ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curttian" head="curttian"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="locate cord or string at side of curtains ." slot="1" text="locate at of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="pull cord or string ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="make sure cord is not pulled to hard ." slot="3" text="make to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="locate cord or string at side of curtains ." slot="1" text="locate at of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+		<item original="pull cord or string ." slot="2" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="make sure cord is not pulled to hard ." slot="3" text="make to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="open the curtains ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="open the curtains ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="open the curtains ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="open the curtains ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="open the curtains ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+		</item>
+	</script>
+</scripts>

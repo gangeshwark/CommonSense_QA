@@ -1,0 +1,813 @@
+<scripts>
+	<script id="1">
+		<item original="locate ball ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="move to ball ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="kick ball ." slot="3" text="kick" head="kick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="approach ball ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="position non-kicking foot near the ball ." slot="2" text="position near" head="position">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="pull kicking foot backwards ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kicking foot" head="foot"/>
+		</item>
+		<item original="push kicking foot forward through the ball ." slot="4" text="push forward through" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kicking foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="move foot towards ball ." slot="1" text="move towards" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="make contact with ball ." slot="2" text="make with" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contact" head="contact"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="continue moving foot ." slot="3" text="continue" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find a ball ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="draw back your foot ." slot="2" text="draw back" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="apply foot to ball forcefully ." slot="3" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="locate the ball ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="go to the ball ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="kick it ." slot="3" text="kick" head="kick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="move up to the ball ." slot="1" text="move up to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="draw one leg back ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="swing the leg forward ." slot="3" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="ensure the foot strikes the ball ." slot="4" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="approach ball ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="lift foot ." slot="2" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="draw foot back ." slot="3" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="push foot forward ." slot="4" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="track ball ." slot="1" text="track" head="track">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="move close ot ball or wait for ball to be near ." slot="2" text="move for" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="pull back kicking foot ." slot="3" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="psuh kicking foot forward so to make contact with ball ." slot="4" text="psuh with" head="psuh">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="contact" head="contact"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="approach ball ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="pull leg back ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="push leg forward through ball ." slot="3" text="push forward through" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="approach ball ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="pull back kicking leg ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kicking leg" head="leg"/>
+		</item>
+		<item original="push leg forward ." slot="3" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="make contact and follow through ." slot="4" text="make through" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contact" head="contact"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get a ball ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="stand on one leg ." slot="2" text="stand on" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="swing the free leg towards the ball in a sharp movement ." slot="3" text="swing towards in" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="movement" head="movement"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="find a ball ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="move one leg backward slightly ." slot="2" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="quickly move leg forward toward the ball ." slot="3" text="move toward" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="tap the ball with the foot on the moving leg ." slot="4" text="tap with on" head="tap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="the moving leg" head="leg"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="pick up the ball ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="hold the ball in the air above one on your feet ." slot="2" text="hold in above on" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="air" head="air"/>
+			<ptcp text="feet" head="feet"/>
+		</item>
+		<item original="swing the foot up quickly to hit the ball ." slot="3" text="swing up to" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="place a ball on the ground ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="bring a foot back behind a person ." slot="2" text="bring behind" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="swing the foot forward and impact with the ball ." slot="3" text="swing with" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="impact" head="impact"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get a ball ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="put it on the floor ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="swing your leg back ." slot="3" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="swing your leg forward making contact with the ball ." slot="4" text="swing with" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+			<ptcp text="contact" head="contact"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="locate ball ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="run towards ball ." slot="2" text="run towards" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="kick ball when reaching ball ." slot="3" text="kick" head="kick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="place the ball near leg ." slot="1" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="lift the leg ." slot="2" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="touch the ball with leg ." slot="3" text="touch with" head="touch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="move leg a little backward ." slot="4" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="give a kick ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kick" head="kick"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="put the ball on the ground ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="use your foot to kick the ball ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="kick a ball using your foot ." slot="1" text="kick" head="kick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="go to the ball ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="raise your foot backwards ." slot="2" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="swing your foot forwards ." slot="3" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="place ball on the ground ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="take 3 steps back from ball ." slot="2" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="run towards ball ." slot="3" text="run towards" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="swing leg toward ball ." slot="4" text="swing toward" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="end with foot hitting through ball ." slot="5" text="end with hitting through" head="end">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="look at ball ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="pull foot back ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="aim foot at ball ." slot="3" text="aim at" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="bring foot forward quickly ." slot="4" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="put ball on the ground ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="take a step back ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+		</item>
+		<item original="stand with weight on left leg ." slot="3" text="stand with on" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weight" head="weight"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="pull right leg back ." slot="4" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="aim for ball ." slot="5" text="aim for" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="quickly move right leg forward ." slot="6" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="connect right foot with ball ." slot="7" text="connect with" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="place ball on ground ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="move back ." slot="2" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="run towards ball ." slot="3" text="run towards" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="move leg back ." slot="4" text="move back" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="move leg forward ." slot="5" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="put ball in front of feet ." slot="1" text="put in of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="feet" head="feet"/>
+		</item>
+		<item original="plant left foot next to ball ." slot="2" text="plant next to" head="plant">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="swing right foot back ." slot="3" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="swing right foot forward ." slot="4" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="strike the ball ." slot="5" text="strike" head="strike">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="raise foot ." slot="1" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="kick ball ." slot="2" text="kick" head="kick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="raise foot ." slot="1" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="kick ball ." slot="2" text="kick" head="kick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="hold the ball ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="place the ball ." slot="2" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="apply the force in proper direction ." slot="3" text="apply in" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="force" head="force"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+		<item original="kick a ball ." slot="4" text="kick" head="kick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="place the ball ." slot="1" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="back up ." slot="2" text="back up" head="back">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="run forward ." slot="3" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="kick the ball ." slot="4" text="kick" head="kick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="place ball on ground ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="line up behind ball ." slot="2" text="line up behind" head="line">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="strike ball with foot ." slot="3" text="strike with" head="strike">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="find ball ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="aim for ball ." slot="2" text="aim for" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="kick ball ." slot="3" text="kick" head="kick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="point toe at ball ." slot="1" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toe" head="toe"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="pull back foot ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="swing foot forward hard and fast ." slot="3" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="make contact with the ball ." slot="4" text="make with" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contact" head="contact"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="point toe at ball ." slot="1" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toe" head="toe"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="pull back foot ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="swing foot forward hard and fast ." slot="3" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="make contact with the ball ." slot="4" text="make with" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contact" head="contact"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="kick the ball ." slot="1" text="kick" head="kick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="find a ball ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="put it on the ground ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="stand behind it ." slot="3" text="stand behind" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="run up to it ." slot="4" text="run up to" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="swing your leg at the ball ." slot="5" text="swing at" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="hit the ball with your foot ." slot="6" text="hit with" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="find a ball ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="put it on the ground ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="stand behind it ." slot="3" text="stand behind" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="run up to it ." slot="4" text="run up to" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="swing your leg at the ball ." slot="5" text="swing at" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="hit the ball with your foot ." slot="6" text="hit with" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="find a ball ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="put it on the ground ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="stand behind it ." slot="3" text="stand behind" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="run up to it ." slot="4" text="run up to" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="swing your leg at the ball ." slot="5" text="swing at" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="hit the ball with your foot ." slot="6" text="hit with" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="find a ball ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="put it on the ground ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="stand behind it ." slot="3" text="stand behind" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="run up to it ." slot="4" text="run up to" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="swing your leg at the ball ." slot="5" text="swing at" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="hit the ball with your foot ." slot="6" text="hit with" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="place ball in front of you ." slot="1" text="place in of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="pull leg back ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="hit ball with foot ." slot="3" text="hit with" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="place ball in front of you ." slot="1" text="place in of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="pull leg back ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="hit ball with foot ." slot="3" text="hit with" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="place ball in front of you ." slot="1" text="place in of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="pull leg back ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leg" head="leg"/>
+		</item>
+		<item original="hit ball with foot ." slot="3" text="hit with" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="prepare the foot ." slot="1" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="swing foot at ball ." slot="2" text="swing at" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="take ball ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="swing foot ." slot="2" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+		<item original="hit ball ." slot="3" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="put ball on ground ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="stand in front of ball ." slot="2" text="stand in of" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="ball" head="ball"/>
+		</item>
+		<item original="lift foot off ground ." slot="3" text="lift off" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="foot" head="foot"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="hit ball with foot ." slot="4" text="hit with" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ball" head="ball"/>
+			<ptcp text="foot" head="foot"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="kicking ." slot="1" text="kicking" head="kicking">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="lifting ." slot="2" text="lifting" head="lifting">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="exercise ." slot="3" text="exercise" head="exercise">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="motion ." slot="4" text="motion " head="motion">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="motion" head="motion"/>
+		</item>
+		<item original="running ." slot="5" text="running" head="running">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="balance ." slot="6" text="balance" head="balance">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="movement ." slot="7" text="movement " head="movement">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movement" head="movement"/>
+		</item>
+	</script>
+</scripts>

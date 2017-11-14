@@ -1,0 +1,1572 @@
+<scripts>
+	<script id="1">
+		<item original="find new batteries ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="take new batteries ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="find a toy with old batteries ." slot="3" text="find with" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="take the toy ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="remove old batteries from the toy ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="put new batteries inside the toy ." slot="6" text="put inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="put old batteries in the recycle bin ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="bin" head="bin"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="open battery cover ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove expired batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="expired batteries" head="batteries"/>
+		</item>
+		<item original="replace new batteries ." slot="3" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="close battery cover ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="take out the old batteries ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="get new batteries ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="turn the batteries the right way according to the toy ." slot="3" text="turn according to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="way" head="way"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="put the new batteries into the toy ." slot="4" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="close the toy ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="locate the battery compartment on the toy ." slot="1" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="remove the old batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="locate new batteries ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in the toy ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="open toy s battery case ." slot="1" text="s" head="s">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+			<ptcp text="battery case" head="case"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="take old batteries out of toy ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="pick up new batteries ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in toy ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="close toy s battery case ." slot="5" text="s" head="s">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+			<ptcp text="battery case" head="case"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="open battery compartment ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove old batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="install fresh batteries ." slot="3" text="install" head="install">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="close battery compartment ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="open batteries compartment in toy ." slot="1" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries compartment" head="compartment"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="trash old batteries ." slot="2" text="trash" head="trash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="get new batteries ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="put new batteries ." slot="4" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="close batteries compatment in toy ." slot="5" text="close in" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries compatment" head="compatment"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="remove battery cover ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove batteries from toy ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="place new batteries inside toy ." slot="3" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="place back cover ." slot="4" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get toy ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="open battery case ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery case" head="case"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove old batteries ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="put in new batteries ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="close battery case ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery case" head="case"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="find battery compartment ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="open battery compartment ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="take batteries out ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="get new batteries of the same kind ." slot="4" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="kind" head="kind"/>
+		</item>
+		<item original="put new batteries in ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="close battery compartment ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="open the battery compartment on the toy ." slot="1" text="open on" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="remove the old batteries from the toy ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="open the new battery package ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the new battery package" head="package"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove the new batteries from the package ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="place the new batteries into the toy ." slot="5" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="locate the toy ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="locate the batteries ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="attempt to locate replacement batteries of the same type ." slot="3" text="attempt of" head="attempt">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="replacement batteries" head="batteries"/>
+			<ptcp text="replacement" head="replacement"/>
+			<ptcp text="type" head="type"/>
+		</item>
+		<item original="remove old batteries from the toy ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="insert new batteries in the toy ." slot="5" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="finding the compartment where the batteries are kept ." slot="1" text="finding" head="finding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="compartment" head="compartment"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="taking out the old batteries ." slot="2" text="taking out" head="taking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="open battery case with screwdriver if needed ." slot="1" text="open with" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery case" head="case"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="screwdriver" head="screwdriver"/>
+		</item>
+		<item original="take old batteries out ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of old batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="follow + and - directions inside the toy ." slot="4" text="follow inside" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="+" head="+"/>
+			<ptcp text="directions" head="directions"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="put new batteries in ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="replace cover for battery case ." slot="6" text="replace for" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+			<ptcp text="battery case" head="case"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get new batteries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="get toy ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="open toy ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="remove batteries ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="insert new batteries ." slot="5" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="close toy ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="get the toy ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="open battery holder ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery holder" head="holder"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove old batteries ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries ." slot="4" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="close battery holder ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery holder" head="holder"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="locate batteries ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="locate toy ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="open toy battery compartment ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy battery compartment" head="compartment"/>
+			<ptcp text="toy" head="toy"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove old batteries by prising them out ." slot="4" text="remove out by" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="fit new batteries ." slot="5" text="fit" head="fit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="close battery compartment door ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment door" head="door"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="turn on toy to check it is working again ." slot="7" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="open battery compartment ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="take out old batteries ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="find new batteries ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in compartment ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="close battery compartment ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="get batteries needed for toy ." slot="1" text="needed for" head="needed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="open battery shield from toy ." slot="2" text="open from" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery shield" head="shield"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="remove old batteries if they are there ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in toy ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="close battery shield ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery shield" head="shield"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="check if toy works with new batteries ." slot="6" text="check with" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="remove battery cover ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="find batteries of correct size ." slot="2" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="remove old batteries ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="install new batteries ." slot="4" text="install" head="install">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="recycle old batteries ." slot="6" text="recycle" head="recycle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="open toy ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="take out batteries ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="put new batteries in ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="close battery panel ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery panel" head="panel"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="play with toy ." slot="5" text="play with" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="open battery cover ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove current batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="replace with same type of battery ." slot="3" text="replace with of" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="type" head="type"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="replace battery cover ." slot="4" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="open battery compartment on toy ." slot="1" text="open on" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="remove old batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="find identical new batteries ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="discern placement of batteries ." slot="4" text="discern of" head="discern">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="placement" head="placement"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place batteries inside toy ." slot="5" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="close lid ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="check operation ." slot="7" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operation" head="operation"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="pick up the toy ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="open the battery compartment ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove the old batteries ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="find some new batteries ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="put the new batteries in the battery compartment ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="close the battery compartment ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="open battery compartment ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove old batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="insert new batteries ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="close battery compartment ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="turn on toy ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="get screwdriver ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screwdriver" head="screwdriver"/>
+		</item>
+		<item original="unscrew battery cover ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove old cells ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cells" head="cells"/>
+		</item>
+		<item original="clean out battery case ." slot="4" text="clean out" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery case" head="case"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="find fresh batteries ." slot="5" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="install new batteries ." slot="6" text="install" head="install">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="rescrew cover lid ." slot="7" text="cover" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="take out the old batteries ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="look at the size ." slot="2" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="get 2 of the same size ." slot="3" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="2" head="2"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="put the new ones in facing the same way ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ones" head="ones"/>
+			<ptcp text="way" head="way"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="open cover ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="remove old batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries with + at + and - at - ." slot="3" text="place with at at at" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="+" head="+"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="pick up the toy ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="open the battery compartment ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove the batteries ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="discard the used batteries ." slot="4" text="discard" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the used batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in the battery compartment ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="close the battery compartment ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="locate battery compartment on toy ." slot="1" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="identify type of screwdriver required ." slot="2" text="identify of" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="type" head="type"/>
+			<ptcp text="screwdriver" head="screwdriver"/>
+		</item>
+		<item original="retrieve correct screwdriver ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screwdriver" head="screwdriver"/>
+		</item>
+		<item original="unscrew battery cover ." slot="4" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove old batteries ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="insert new batteries ." slot="6" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="replace cover ." slot="7" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="remove battery cover ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place fresh batteries into the toy ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="replace the battery cover ." slot="4" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="remove battery cover ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove old batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="insert new batteries ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="replace battery cover ." slot="4" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="opening the case ." slot="1" text="opening" head="opening">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="case" head="case"/>
+		</item>
+		<item original="remove batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="put back new ones ." slot="3" text="put back" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ones" head="ones"/>
+		</item>
+		<item original="close case ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="case" head="case"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="open battery hole ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery hole" head="hole"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove dead batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of dead batteries ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in hole ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="replace cover ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="test out the new batteries ." slot="6" text="test out" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="dispose of discarded packaging ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="discarded packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="get screwdriver ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screwdriver" head="screwdriver"/>
+		</item>
+		<item original="unscrew the screw ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screw" head="screw"/>
+		</item>
+		<item original="open the battery compartment ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove battery ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="put new battery in ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="close compartment ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="screw in the screw ." slot="7" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="get screwdriver ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screwdriver" head="screwdriver"/>
+		</item>
+		<item original="unscrew the screw ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screw" head="screw"/>
+		</item>
+		<item original="open the battery compartment ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove battery ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="put new battery in ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="close compartment ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="screw in the screw ." slot="7" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="get screwdriver ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screwdriver" head="screwdriver"/>
+		</item>
+		<item original="unscrew the screw ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screw" head="screw"/>
+		</item>
+		<item original="open the battery compartment ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove battery ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="put new battery in ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="close compartment ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="screw in the screw ." slot="7" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="get screwdriver ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screwdriver" head="screwdriver"/>
+		</item>
+		<item original="unscrew the screw ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screw" head="screw"/>
+		</item>
+		<item original="open the battery compartment ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove battery ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="put new battery in ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="close compartment ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="screw in the screw ." slot="7" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="get screwdriver ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screwdriver" head="screwdriver"/>
+		</item>
+		<item original="unscrew the screw ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screw" head="screw"/>
+		</item>
+		<item original="open the battery compartment ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove battery ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="put new battery in ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="close compartment ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="screw in the screw ." slot="7" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="get screwdriver ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screwdriver" head="screwdriver"/>
+		</item>
+		<item original="unscrew the screw ." slot="2" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screw" head="screw"/>
+		</item>
+		<item original="open the battery compartment ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove battery ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="put new battery in ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="close compartment ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="screw in the screw ." slot="7" text="screw in" head="screw">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="repalce ." slot="1" text="repalce" head="repalce">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="take old batteries out ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="get new batteries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="get toy ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="open battery cover on toy ." slot="3" text="open on" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="remove batteries ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries in toy ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="replace battery cover on toy ." slot="6" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="remove old batteries ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="insert new batteries ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="remove old batteries ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="insert new batteries ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="remove old batteries ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="insert new batteries ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="open toy ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="remove old batteries ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place new batteries ." slot="3" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="removing battery cover ." slot="1" text="removing" head="removing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="removing old batteries ." slot="2" text="removing" head="removing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="putting in new batteries ." slot="3" text="putting in" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="replacing battery cover ." slot="4" text="replacing" head="replacing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery cover" head="cover"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+</scripts>

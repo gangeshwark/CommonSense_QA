@@ -1,0 +1,668 @@
+<scripts>
+	<script id="1">
+		<item original="take notes ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+		</item>
+		<item original="play piano ." slot="2" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piano" head="piano"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="put the cd in to the player ." slot="1" text="put in to" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="switch on the player ." slot="2" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="listen to the song ." slot="3" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="insert song recording into a music system ." slot="1" text="insert recording into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+			<ptcp text="a music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="turn the music system on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="press the play button to play the song ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the play button" head="button"/>
+			<ptcp text="play" head="play"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="locate archived music ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="located music device ." slot="2" text="located" head="located">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music device" head="device"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="stick the archived music--tape or cd--into the music player ." slot="3" text="stick" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="musictape" head="musictape"/>
+			<ptcp text="cdinto" head="cdinto"/>
+			<ptcp text="the music player" head="player"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="briefly depress the play button on the music player ." slot="4" text="depress on" head="depress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the play button" head="button"/>
+			<ptcp text="play" head="play"/>
+			<ptcp text="the music player" head="player"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="choose song from available selection ." slot="1" text="choose from" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+			<ptcp text="selection" head="selection"/>
+		</item>
+		<item original="choose playing device depending upon the media type involved with the song ." slot="2" text="choose depending upon with" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="playing device" head="device"/>
+			<ptcp text="the media type" head="type"/>
+			<ptcp text="media" head="media"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="use appropriate playing device for the particular media as necessary ." slot="3" text="use for as" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appropriate playing device" head="device"/>
+			<ptcp text="playing" head="playing"/>
+			<ptcp text="media" head="media"/>
+		</item>
+		<item original="activate the playing device ." slot="4" text="activate" head="activate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the playing device" head="device"/>
+			<ptcp text="playing" head="playing"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get music score for the song ." slot="1" text="get for" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music score" head="score"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="get your instrument ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="put score on a music stand ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="score" head="score"/>
+			<ptcp text="a music stand" head="stand"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="prepare to play your instrument ." slot="4" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="read the notes on the score and play them ." slot="5" text="read on" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+			<ptcp text="score" head="score"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get music ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="get instrument ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="play music for the song on instrument ." slot="3" text="play for on" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="song" head="song"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="find a musical instrument ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="play a note of the song on the instrument ." slot="2" text="play of on" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+			<ptcp text="song" head="song"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="repeat until all notes of the song have been played ." slot="3" text="repeat of" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get a radio ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="radio" head="radio"/>
+		</item>
+		<item original="choose radio station ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="radio station" head="station"/>
+			<ptcp text="radio" head="radio"/>
+		</item>
+		<item original="turn on the radio ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="radio" head="radio"/>
+		</item>
+		<item original="pick a song on that station ." slot="4" text="pick on" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+			<ptcp text="station" head="station"/>
+		</item>
+		<item original="let the song play on the radio ." slot="5" text="let on" head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the song play" head="play"/>
+			<ptcp text="song" head="song"/>
+			<ptcp text="radio" head="radio"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="locate a music playing device ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a music playing device" head="device"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="determine the song to be heard ." slot="2" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="utilize the music playing device to play the requested song ." slot="3" text="utilize" head="utilize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="device" head="device"/>
+			<ptcp text="the requested song" head="song"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get music ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="identify instrument ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="retrieve instrument ." slot="3" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="tune instrument ." slot="4" text="tune" head="tune">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="read music ." slot="5" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="play instrument ." slot="6" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="replace objects ." slot="7" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="find an instrument ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="learn to read musical notes ." slot="2" text="learn" head="learn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+		</item>
+		<item original="learn to play each note ." slot="3" text="learn" head="learn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+		</item>
+		<item original="get sheet music ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet music" head="music"/>
+			<ptcp text="sheet" head="sheet"/>
+		</item>
+		<item original="play each note on sheet music ." slot="5" text="play on" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="note" head="note"/>
+			<ptcp text="sheet music" head="music"/>
+			<ptcp text="sheet" head="sheet"/>
+		</item>
+		<item original="do it again until it sounds right ." slot="6" text="sounds" head="sounds">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="right" head="right"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="pick a cd ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="insert it ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="push play ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="identify song ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="place music storage device in music player ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music storage device" head="device"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="storage" head="storage"/>
+			<ptcp text="music player" head="player"/>
+		</item>
+		<item original="skip to correct song ." slot="3" text="skip" head="skip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="play song ." slot="4" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="choose song-playing device ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="device" head="device"/>
+		</item>
+		<item original="turn on song-playing device ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="device" head="device"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="insert a cd ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="push play on the cd player ." slot="2" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+			<ptcp text="the cd player" head="player"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="select a cd ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="put the disc in the cd player ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="disc" head="disc"/>
+			<ptcp text="the cd player" head="player"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="select the track number of the song you want to play ." slot="3" text="select of" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the track number" head="number"/>
+			<ptcp text="track" head="track"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="input the track number into the player ." slot="4" text="input into" head="input">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="the track number" head="number"/>
+			<ptcp text="track" head="track"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="press the play button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the play button" head="button"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="choose a cd ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="put the cd in the cd player ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+			<ptcp text="the cd player" head="player"/>
+		</item>
+		<item original="rpess the play button ." slot="3" text="rpess" head="rpess">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the play button" head="button"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="pick the song ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="find your instrument ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="pick up instrument ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="tune instrument ." slot="4" text="tune" head="tune">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instrument" head="instrument"/>
+		</item>
+		<item original="play song ." slot="5" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pick up a cd ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="turn cd player on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="insert cd into player ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="select song on cd player ." slot="4" text="select on" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+			<ptcp text="cd player" head="player"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="hit play button ." slot="5" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play button" head="button"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="look at the sheet music ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the sheet music" head="music"/>
+			<ptcp text="sheet" head="sheet"/>
+		</item>
+		<item original="play the music on your piano ." slot="2" text="play on" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="piano" head="piano"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="pick a cd ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="open the cd case ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cd case" head="case"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="open the top of the cd player ." slot="3" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="the cd player" head="player"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="set the cd in the player ." slot="4" text="set in" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="close the top of the cd player ." slot="5" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="the cd player" head="player"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="wait for cd player to be ready ." slot="6" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd player" head="player"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="click play ." slot="7" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="pick a song to listen to ." slot="1" text="pick to" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="take the cd out of the case ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+			<ptcp text="case" head="case"/>
+		</item>
+		<item original="put the cd in the cd player ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+			<ptcp text="the cd player" head="player"/>
+		</item>
+		<item original="press play ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="listen to the song ." slot="5" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="pick a song to listen to ." slot="1" text="pick to" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="take the cd out of the case ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+			<ptcp text="case" head="case"/>
+		</item>
+		<item original="put the cd in the cd player ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+			<ptcp text="the cd player" head="player"/>
+		</item>
+		<item original="press play ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="listen to the song ." slot="5" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="pick a song to listen to ." slot="1" text="pick to" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="take the cd out of the case ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+			<ptcp text="case" head="case"/>
+		</item>
+		<item original="put the cd in the cd player ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+			<ptcp text="the cd player" head="player"/>
+		</item>
+		<item original="press play ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="listen to the song ." slot="5" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="turn on the radio ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="radio" head="radio"/>
+		</item>
+		<item original="turn to desired song ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired song" head="song"/>
+		</item>
+		<item original="listen to the song ." slot="3" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="turn on the radio ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="radio" head="radio"/>
+		</item>
+		<item original="turn to desired song ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired song" head="song"/>
+		</item>
+		<item original="listen to the song ." slot="3" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="put cd in stereo ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+			<ptcp text="stereo" head="stereo"/>
+		</item>
+		<item original="press play ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="walk to audio system ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="system" head="system"/>
+		</item>
+		<item original="turn on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="choose song ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="push play ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="choose a song you want to play ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="start media player ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="media player" head="player"/>
+			<ptcp text="media" head="media"/>
+		</item>
+		<item original="click on music ." slot="2" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="press play ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="turn up speakers ." slot="4" text="turn up" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="speakers" head="speakers"/>
+		</item>
+		<item original="enjoy ." slot="5" text="enjoy" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="composing words ." slot="1" text="composing" head="composing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="composing the music ." slot="2" text="composing" head="composing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="putting the music with the words ." slot="3" text="putting with" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="practice ." slot="4" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="turn mp3 player on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="pick a song ." slot="2" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+		<item original="press play ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="play ." slot="1" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="songs ." slot="2" text="songs " head="songs">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="songs" head="songs"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="turn on your music device ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="your music device" head="device"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="press the play button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the play button" head="button"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+</scripts>

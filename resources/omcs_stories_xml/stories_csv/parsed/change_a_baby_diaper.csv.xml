@@ -1,0 +1,952 @@
+<scripts>
+	<script id="1">
+		<item original="find the baby ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="take present diaper out ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="dispose present diaper ." slot="3" text="dispose" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="get new diaper ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="put new diaper on baby ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="remove diaper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean diaper area thouroughly ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper area" head="area"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="apply ointment in necessary ." slot="3" text="apply in" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ointment" head="ointment"/>
+		</item>
+		<item original="place diaper under baby ." slot="4" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="rap back around to front ." slot="5" text="back around to" head="back">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rap" head="rap"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="fasten diaper holders ." slot="6" text="fasten" head="fasten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper holders" head="holders"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="remove diaper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean diaper area thouroughly ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper area" head="area"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="apply ointment if necessary ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ointment" head="ointment"/>
+		</item>
+		<item original="place diaper under baby ." slot="4" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="wrap back around to front ." slot="5" text="wrap back around to" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="fasten diaper holders ." slot="6" text="fasten" head="fasten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper holders" head="holders"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="throw away old diaper ." slot="7" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="take the baby to the change table ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="the change table" head="table"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="remove the old diaper ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="find a fresh diaper ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="put the fresh diaper on the baby ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="dress the baby ." slot="5" text="dress" head="dress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="remove diaper from baby ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="dispose diaper ." slot="2" text="dispose" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="get a new diaper ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="put new diaper on baby ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="put baby on its back on a flat surface ." slot="1" text="put on on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="take off baby s clothes ." slot="2" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby s clothes" head="clothes"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="take off baby s diaper ." slot="3" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean baby ." slot="4" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="powder baby ." slot="5" text="powder " head="powder">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="powder" head="powder"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put on clean diaper ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="put clothes on baby ." slot="7" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get a new diaper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="place baby on a surface on which the baby won t slip ." slot="2" text="place on on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="t slip" head="slip"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="remove baby s old diaper ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="put new diaper on the baby ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put the old diaper into the trash ." slot="5" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="find baby ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="find a clean diaper ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="remove baby s dirty diaper ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="put clean diaper on baby ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put dirty diaper into a trash can ." slot="5" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="a trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="retrieve baby ." slot="1" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="retrieve diaper ." slot="2" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="remove soiled diaper ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="apply clean diaper ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="dispose of soiled diaper ." slot="5" text="dispose" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="of" head="of"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="take off the old diaper ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean the baby ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put some baby powder on the baby ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some baby powder" head="powder"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="take a new diaper ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="put on the new diaper ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="place baby on bed ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="remove old diaper ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="wipe baby ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="place new diaper ." slot="4" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="put baby on changing table ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="changing table" head="table"/>
+		</item>
+		<item original="undress baby to get at diaper ." slot="2" text="baby at" head="baby">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="undress" head="undress"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="with caution take diaper off baby ." slot="3" text="take with off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="caution" head="caution"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="throw diaper away ." slot="4" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean baby ." slot="5" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put new diaper on baby ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="dress baby ." slot="7" text="dress" head="dress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="lay baby on changing table ." slot="1" text="lay on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="changing table" head="table"/>
+		</item>
+		<item original="undress baby to get at the diaper ." slot="2" text="baby at" head="baby">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="undress" head="undress"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="take old diaper off ." slot="3" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean baby ." slot="4" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put new diaper on ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="dress baby ." slot="6" text="dress" head="dress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="take baby off changing table ." slot="7" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="changing table" head="table"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="put baby on flat surface ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="remove old diaper ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="place new diaper on baby ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="undress baby ." slot="1" text="undress " head="undress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="undress" head="undress"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="take off old diaper ." slot="2" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean baby ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put on new diaper ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="throw away old diaper ." slot="5" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="dress baby ." slot="6" text="dress" head="dress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="place baby on flat surface ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="remove old diaper ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="trash old diaper ." slot="3" text="trash" head="trash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean baby ." slot="4" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put on new diaper ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="put baby on the changing mat ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="the changing mat" head="mat"/>
+		</item>
+		<item original="take off dirty nappy ." slot="2" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nappy" head="nappy"/>
+		</item>
+		<item original="put nappy in a bin ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nappy" head="nappy"/>
+			<ptcp text="bin" head="bin"/>
+		</item>
+		<item original="wipe bum ." slot="4" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bum" head="bum"/>
+		</item>
+		<item original="put cream on bum ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cream" head="cream"/>
+			<ptcp text="bum" head="bum"/>
+		</item>
+		<item original="put in clean nappy ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nappy" head="nappy"/>
+		</item>
+		<item original="take baby off changing mat ." slot="7" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="mat" head="mat"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="remove dirty diaper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean bottom ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="place clean diaper under bottom ." slot="3" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="secure clean diaper ." slot="4" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="take dirty diaper off of baby ." slot="1" text="take off of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="wipe baby s bottom ." slot="2" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="powder baby s bottom ." slot="3" text="s" head="s">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="powder baby" head="baby"/>
+			<ptcp text="powder" head="powder"/>
+		</item>
+		<item original="put clean diaper on baby ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="take the baby ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="take off the diaper ." slot="2" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="find a new diaper ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="put on the new diaper ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="lay baby down ." slot="1" text="lay down" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="get clean diaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="remove soiled diaper from baby ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="clean babys bottom with wipes ." slot="4" text="clean with" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom" head="bottom"/>
+			<ptcp text="wipes" head="wipes"/>
+		</item>
+		<item original="put on clean diaper ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="get the baby ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="get the diaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="get the wipes ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wipes" head="wipes"/>
+		</item>
+		<item original="lay the baby down ." slot="4" text="lay down" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="take off dirty diaper ." slot="5" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="wipe the baby ." slot="6" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put on new diaper ." slot="7" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="get the baby ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="get the diaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="get the wipes ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wipes" head="wipes"/>
+		</item>
+		<item original="lay the baby down ." slot="4" text="lay down" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="take off dirty diaper ." slot="5" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="wipe the baby ." slot="6" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put on new diaper ." slot="7" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="laying baby on a comfortable surface ." slot="1" text="laying on" head="laying">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="removing diaper ." slot="2" text="removing" head="removing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean/wipe messes off baby ." slot="3" text="cleanwipe off" head="cleanwipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="messes" head="messes"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="baby powder baby ." slot="4" text="baby " head="baby">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="powder" head="powder"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="dress baby in new diaper ." slot="5" text="dress in" head="dress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="change diaper ." slot="1" text="change" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="take off old diaper ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="get baby ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="get new diaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="lie baby down ." slot="3" text="lie down" head="lie">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="open diaper ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="wipe bottom ." slot="5" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="put on new diaper ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="dispose of old diaper ." slot="7" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="put baby on back ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="back" head="back"/>
+		</item>
+		<item original="remove dirty diaper ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="wipe affected area ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="use baby powder ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby powder" head="powder"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put on new diaper ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="put baby on back ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="back" head="back"/>
+		</item>
+		<item original="remove dirty diaper ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="wipe affected area ." slot="3" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="use baby powder ." slot="4" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby powder" head="powder"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put on new diaper ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="remove old diaper and properly dispose of it ." slot="1" text="remove of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean filth off of baby s bottom ." slot="2" text="clean of" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filth" head="filth"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="wipe down baby s bottom with lotion ." slot="3" text="wipe down with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="bottom" head="bottom"/>
+			<ptcp text="lotion" head="lotion"/>
+		</item>
+		<item original="powder baby with talc ." slot="4" text="powder with" head="powder">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="powder baby" head="baby"/>
+			<ptcp text="powder" head="powder"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="talc" head="talc"/>
+		</item>
+		<item original="replace diaper ." slot="5" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="genly place baby on back on change table ." slot="1" text="genly on on" head="genly">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place baby" head="baby"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="change table" head="table"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="remove baby s pants ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby s pants" head="pants"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="undo diaper ." slot="3" text="undo" head="undo">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="genly place baby on back on change table ." slot="1" text="genly on on" head="genly">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place baby" head="baby"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="change table" head="table"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="remove baby s pants ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby s pants" head="pants"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="undo diaper ." slot="3" text="undo" head="undo">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="genly place baby on back on change table ." slot="1" text="genly on on" head="genly">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place baby" head="baby"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="change table" head="table"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="remove baby s pants ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby s pants" head="pants"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="undo diaper ." slot="3" text="undo" head="undo">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="genly place baby on back on change table ." slot="1" text="genly on on" head="genly">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place baby" head="baby"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="change table" head="table"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="remove baby s pants ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby s pants" head="pants"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="undo diaper ." slot="3" text="undo" head="undo">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="prepare in advance ." slot="1" text="prepare in" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="advance" head="advance"/>
+		</item>
+		<item original="put baby on change table ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="change table" head="table"/>
+			<ptcp text="change" head="change"/>
+		</item>
+		<item original="take off baby pants ." slot="3" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby pants" head="pants"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="take off diaper ." slot="4" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="wipe baby s bottom ." slot="5" text="wipe" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="bottom" head="bottom"/>
+		</item>
+		<item original="put on new diaper ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="put back on baby pants ." slot="7" text="put back on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby pants" head="pants"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="disposing of the old diaper ." slot="1" text="disposing of" head="disposing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="securing the new diaper around baby ." slot="2" text="securing around" head="securing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="disposing of the old diaper ." slot="1" text="disposing of" head="disposing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="securing the new diaper around baby ." slot="2" text="securing around" head="securing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="disposing of the old diaper ." slot="1" text="disposing of" head="disposing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="securing the new diaper around baby ." slot="2" text="securing around" head="securing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="disposing of the old diaper ." slot="1" text="disposing of" head="disposing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="securing the new diaper around baby ." slot="2" text="securing around" head="securing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="disposing of the old diaper ." slot="1" text="disposing of" head="disposing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="securing the new diaper around baby ." slot="2" text="securing around" head="securing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="put baby on table ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="remove old diaper ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+		<item original="clean baby ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put talc on baby ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talc" head="talc"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="put new diaper on baby ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+			<ptcp text="baby" head="baby"/>
+		</item>
+		<item original="dispose of old diaper ." slot="6" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="diaper" head="diaper"/>
+		</item>
+	</script>
+</scripts>

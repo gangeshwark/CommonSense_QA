@@ -1,0 +1,477 @@
+<scripts>
+	<script id="1">
+		<item original="clean the table ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="wash the dishes ." slot="2" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+		</item>
+		<item original="clean the floor ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find objects which are not where they belong ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+		<item original="pick up each object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="put it in the place where it belongs ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="continue until all objects are put away ." slot="4" text="continue away" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="locate trash ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="take object to trash can ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find an object to be put away ." slot="1" text="find away" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="put the object into its place ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="repeat until all objects are put away ." slot="3" text="repeat away" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="choose what you want to clean up ." slot="1" text="choose up" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get the correct cleaning materials ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the correct cleaning materials" head="materials"/>
+			<ptcp text="cleaning" head="cleaning"/>
+		</item>
+		<item original="use them to clean the object or area you want to clean ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="identify mess ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="identify best method to clean mess ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="best method to clean mess" head="method"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="employ method ." slot="3" text="employ" head="employ">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="method" head="method"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="take a basket ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="basket" head="basket"/>
+		</item>
+		<item original="put water in basket ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="basket" head="basket"/>
+		</item>
+		<item original="add soap ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soap" head="soap"/>
+		</item>
+		<item original="put mop in basket ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mop" head="mop"/>
+			<ptcp text="basket" head="basket"/>
+		</item>
+		<item original="move mop over the floor ." slot="5" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="squash water out of mop ." slot="6" text="squash out" head="squash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="re-do he floor with dry mop ." slot="7" text="redo with" head="redo">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="figure out how the room should look when clean ." slot="1" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="pick up out of place objects ." slot="2" text="pick up out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place objects" head="objects"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="clean dirty things ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="put all items on the counter away ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="counter" head="counter"/>
+		</item>
+		<item original="pick up all items on the floor ." slot="2" text="pick up on" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="sweep or vacuum floor ." slot="3" text="sweep " head="sweep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sweep" head="sweep"/>
+			<ptcp text="vacuum floor" head="floor"/>
+			<ptcp text="vacuum" head="vacuum"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+		<item original="clean bathroom ." slot="4" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bathroom" head="bathroom"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="pick up a task for clean up ." slot="1" text="pick up for" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="task" head="task"/>
+		</item>
+		<item original="gather all the things that need to be cleaned up ." slot="2" text="gather up" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+		</item>
+		<item original="put items in their respective places ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="places" head="places"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="pick up toys ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toys" head="toys"/>
+		</item>
+		<item original="put toys in toy box ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toys" head="toys"/>
+			<ptcp text="toy box" head="box"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="pick up books ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+		</item>
+		<item original="return books to shelves ." slot="4" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+			<ptcp text="shelves" head="shelves"/>
+		</item>
+		<item original="take dirty dishes to kitchen ." slot="5" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dishes" head="dishes"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="put dirty clothes in hamper ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="hamper" head="hamper"/>
+		</item>
+		<item original="vacuum floor ." slot="7" text="vacuum" head="vacuum">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="clean up involves replacing moving or arranging room back to the original state ." slot="1" text="clean up to" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+			<ptcp text="state" head="state"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="clean up involves replacing moving or arranging room back to the original state ." slot="1" text="clean up to" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+			<ptcp text="state" head="state"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="find the place ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="pour the water ." slot="2" text="pour" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="cleanup ." slot="3" text="cleanup " head="cleanup">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cleanup" head="cleanup"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="pick up large objects ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+		<item original="sweep up debris ." slot="2" text="sweep " head="sweep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sweep" head="sweep"/>
+			<ptcp text="debris" head="debris"/>
+		</item>
+		<item original="straighten permanent objects ." slot="3" text="straighten" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="collect garbage ." slot="1" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+		<item original="vacuum ." slot="2" text="vacuum" head="vacuum">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="mop the floor ." slot="3" text="mop" head="mop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="floor" head="floor"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="wipe surface with paper towel to rid of crumbs ." slot="1" text="wipe with of" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="crumbs" head="crumbs"/>
+		</item>
+		<item original="spray surface with cleaner ." slot="2" text="spray with" head="spray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray surface" head="surface"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="wipe surface with paper towel ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="wipe surface with paper towel to rid of crumbs ." slot="1" text="wipe with of" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="crumbs" head="crumbs"/>
+		</item>
+		<item original="spray surface with cleaner ." slot="2" text="spray with" head="spray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray surface" head="surface"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="wipe surface with paper towel ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="wipe surface with paper towel to rid of crumbs ." slot="1" text="wipe with of" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="crumbs" head="crumbs"/>
+		</item>
+		<item original="spray surface with cleaner ." slot="2" text="spray with" head="spray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray surface" head="surface"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="wipe surface with paper towel ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="wipe surface with paper towel to rid of crumbs ." slot="1" text="wipe with of" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="crumbs" head="crumbs"/>
+		</item>
+		<item original="spray surface with cleaner ." slot="2" text="spray with" head="spray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray surface" head="surface"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="cleaner" head="cleaner"/>
+		</item>
+		<item original="wipe surface with paper towel ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+			<ptcp text="paper towel" head="towel"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="gather items that are causing mess ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="find mess ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="clean up mess ." slot="2" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="organize mess ." slot="3" text="organize" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="find mess ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="clean up mess ." slot="2" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="organize mess ." slot="3" text="organize" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="find mess ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="clean up mess ." slot="2" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="organize mess ." slot="3" text="organize" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="find mess ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="clean up mess ." slot="2" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="organize mess ." slot="3" text="organize" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="find mess ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="clean up mess ." slot="2" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="organize mess ." slot="3" text="organize" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="find mess ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="clean up mess ." slot="2" text="clean up" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="organize mess ." slot="3" text="organize" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="see the mess ." slot="1" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mess" head="mess"/>
+		</item>
+		<item original="get broom and dustpan ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="broom" head="broom"/>
+			<ptcp text="dustpan" head="dustpan"/>
+		</item>
+		<item original="set aside ." slot="3" text="set aside" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up all objects ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+		<item original="put them away ." slot="5" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take broom and sweep ." slot="6" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="broom" head="broom"/>
+			<ptcp text="sweep" head="sweep"/>
+		</item>
+		<item original="use dustpan to get dirt ." slot="7" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dustpan" head="dustpan"/>
+			<ptcp text="dirt" head="dirt"/>
+		</item>
+	</script>
+</scripts>

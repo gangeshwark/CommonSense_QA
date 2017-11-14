@@ -1,0 +1,742 @@
+<scripts>
+	<script id="1">
+		<item original="thinking of an idea ." slot="1" text="thinking of" head="thinking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="idea" head="idea"/>
+		</item>
+		<item original="organizing the idea ." slot="2" text="organizing" head="organizing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="idea" head="idea"/>
+		</item>
+		<item original="planning the idea ." slot="3" text="planning" head="planning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="idea" head="idea"/>
+		</item>
+		<item original="carrying out the presentaion ." slot="4" text="carrying out" head="carrying">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentaion" head="presentaion"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="prepare presentation ." slot="1" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="schedule presentation ." slot="2" text="schedule" head="schedule">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="talk about presentation while showing visuals ." slot="3" text="talk about" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+			<ptcp text="visuals" head="visuals"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="prepare materials for a presentation ." slot="1" text="prepare for" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="materials" head="materials"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="arrange one or more people into an audience ." slot="2" text="arrange into" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="show the presentation materials ." slot="3" text="show" head="show">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the presentation materials" head="materials"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="talk about the presentation and the materials ." slot="4" text="talk about" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+			<ptcp text="materials" head="materials"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="determine the content of the presentation ." slot="1" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="content" head="content"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="construct an outline of the material for the presentation ." slot="2" text="construct of for" head="construct">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outline" head="outline"/>
+			<ptcp text="material" head="material"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="research the material to be presented ." slot="3" text="research" head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="material" head="material"/>
+		</item>
+		<item original="write notes for the presentation ." slot="4" text="write for" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="present the presentation ." slot="5" text="present" head="present">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="research subject ." slot="1" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="subject" head="subject"/>
+		</item>
+		<item original="prepare slides ." slot="2" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slides" head="slides"/>
+		</item>
+		<item original="deliver presentation ." slot="3" text="deliver" head="deliver">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="prepare slides for the presentation ." slot="1" text="prepare for" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slides" head="slides"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="stand before the audience ." slot="2" text="stand before" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="go through the slides one by one ." slot="3" text="go through by" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slides" head="slides"/>
+		</item>
+		<item original="for each slide describe and explain its content ." slot="4" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slide" head="slide"/>
+			<ptcp text="content" head="content"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="research topic ." slot="1" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="summarize findings ." slot="2" text="summarize" head="summarize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="findings" head="findings"/>
+		</item>
+		<item original="write slides ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slides" head="slides"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="research subject of presentation ." slot="1" text="research of" head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research subject" head="subject"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="subject" head="subject"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="write presentation outlook ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation outlook" head="outlook"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="write slides on chosen topic ." slot="3" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slides" head="slides"/>
+			<ptcp text="chosen topic" head="topic"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="research subject of presentation ." slot="1" text="research of" head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research subject" head="subject"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="subject" head="subject"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="make a list with main point ." slot="2" text="make with" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="list" head="list"/>
+			<ptcp text="point" head="point"/>
+		</item>
+		<item original="write slides to illustrate those points ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slides" head="slides"/>
+			<ptcp text="points" head="points"/>
+		</item>
+		<item original="review presentation ." slot="4" text="review" head="review">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="set up presentation equipment ." slot="1" text="set up" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation equipment" head="equipment"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="greet the audience ." slot="2" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="give talk to the audience ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talk" head="talk"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="do question and answer session ." slot="4" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="question" head="question"/>
+			<ptcp text="session" head="session"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="decide what the presentation will be on ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="dicide how you will do your presentation ." slot="2" text="dicide" head="dicide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="gather all information and materials ." slot="3" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+			<ptcp text="materials" head="materials"/>
+		</item>
+		<item original="put the presentation together ." slot="4" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="get the resources ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="resources" head="resources"/>
+		</item>
+		<item original="lay out a plan ." slot="2" text="lay out" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plan" head="plan"/>
+		</item>
+		<item original="create notes ." slot="3" text="create" head="create">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+		</item>
+		<item original="memorize notes ." slot="4" text="memorize" head="memorize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+		</item>
+		<item original="do the presentation ." slot="5" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="set up the presentation equipment ." slot="1" text="set up" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the presentation equipment" head="equipment"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="get up in front of the people in the room ." slot="2" text="get up in of in" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="use the equipment to illustrate the presentation ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="use your notes to tell the information needed in the presentation ." slot="4" text="use in" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+			<ptcp text="information" head="information"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="open powerpoint ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="powerpoint" head="powerpoint"/>
+		</item>
+		<item original="compose presentation ." slot="2" text="compose" head="compose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="perform presentation in front of peers ." slot="3" text="perform in of" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="peers" head="peers"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="collect pictures ." slot="1" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pictures" head="pictures"/>
+		</item>
+		<item original="write information ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+		<item original="create slides ." slot="3" text="create" head="create">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slides" head="slides"/>
+		</item>
+		<item original="assemble an audience ." slot="4" text="assemble" head="assemble">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="show slides to audience ." slot="5" text="show to" head="show">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slides" head="slides"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="listen to questions from audience ." slot="6" text="listen to from" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="answer the questions ." slot="7" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="decide on topic ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="make notes of major points to make ." slot="2" text="make of" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+			<ptcp text="points" head="points"/>
+		</item>
+		<item original="research ." slot="3" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+		</item>
+		<item original="organize notes ." slot="4" text="organize" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+		</item>
+		<item original="write rough draft ." slot="5" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="draft" head="draft"/>
+		</item>
+		<item original="edit draft ." slot="6" text="edit" head="edit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="draft" head="draft"/>
+		</item>
+		<item original="finalize and present ." slot="7" text="finalize " head="finalize">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="decide on topic ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="make notes of major points to make ." slot="2" text="make of" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+			<ptcp text="points" head="points"/>
+		</item>
+		<item original="research ." slot="3" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+		</item>
+		<item original="organize notes ." slot="4" text="organize" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+		</item>
+		<item original="write rough draft ." slot="5" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="draft" head="draft"/>
+		</item>
+		<item original="edit draft ." slot="6" text="edit" head="edit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="draft" head="draft"/>
+		</item>
+		<item original="finalize and present ." slot="7" text="finalize " head="finalize">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="decide on topic ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="research topic ." slot="2" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="rough draft presentation ." slot="3" text="rough " head="rough">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="draft" head="draft"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="prepare hand outs ." slot="4" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand outs" head="outs"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="finalize presentation ." slot="5" text="finalize" head="finalize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="finalize hand outs ." slot="6" text="finalize" head="finalize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand outs" head="outs"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="present presentation ." slot="7" text="present" head="present">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="gather material to present ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="material" head="material"/>
+		</item>
+		<item original="choose 10 % ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="10" head="10"/>
+		</item>
+		<item original="open powerpoint ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="powerpoint" head="powerpoint"/>
+		</item>
+		<item original="create slides with material chosen ." slot="4" text="create with" head="create">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slides" head="slides"/>
+			<ptcp text="material" head="material"/>
+		</item>
+		<item original="save powerpoint to portable disk ." slot="5" text="save to" head="save">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="powerpoint" head="powerpoint"/>
+			<ptcp text="disk" head="disk"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="type in presentation to computer ." slot="1" text="type in to" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="get projector ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="gather audience ." slot="3" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="turn on projector ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="talk ." slot="5" text="talk" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="choose a topic ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="research information on that topic ." slot="2" text="research on" head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research information" head="information"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="information" head="information"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="compile the information into a presentation ." slot="3" text="compile into" head="compile">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="learn the material to be presented ." slot="4" text="learn" head="learn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="material" head="material"/>
+		</item>
+		<item original="practice reciting the speech ." slot="5" text="practice" head="practice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="speech" head="speech"/>
+		</item>
+		<item original="present the information ." slot="6" text="present" head="present">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="use projection ." slot="1" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projection" head="projection"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="use projection ." slot="1" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projection" head="projection"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="use projection ." slot="1" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projection" head="projection"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="use projection ." slot="1" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projection" head="projection"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="use projection ." slot="1" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projection" head="projection"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="use projection ." slot="1" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projection" head="projection"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="research topic ." slot="1" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="gather data ." slot="2" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="data" head="data"/>
+		</item>
+		<item original="input date ." slot="3" text="input " head="input">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="date" head="date"/>
+		</item>
+		<item original="spell check ." slot="4" text="spell" head="spell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+		<item original="prepare folders ." slot="5" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="folders" head="folders"/>
+		</item>
+		<item original="obtain media for viewing ." slot="6" text="obtain for" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="media" head="media"/>
+		</item>
+		<item original="memo attendees ." slot="7" text="memo " head="memo">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="memo" head="memo"/>
+			<ptcp text="attendees" head="attendees"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="research topic ." slot="1" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="gather data ." slot="2" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="data" head="data"/>
+		</item>
+		<item original="input date ." slot="3" text="input " head="input">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="date" head="date"/>
+		</item>
+		<item original="spell check ." slot="4" text="spell" head="spell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+		<item original="prepare folders ." slot="5" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="folders" head="folders"/>
+		</item>
+		<item original="obtain media for viewing ." slot="6" text="obtain for" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="media" head="media"/>
+		</item>
+		<item original="memo attendees ." slot="7" text="memo " head="memo">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="memo" head="memo"/>
+			<ptcp text="attendees" head="attendees"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="research topic ." slot="1" text="research " head="research">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="research" head="research"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="gather data ." slot="2" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="data" head="data"/>
+		</item>
+		<item original="input date ." slot="3" text="input " head="input">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="date" head="date"/>
+		</item>
+		<item original="spell check ." slot="4" text="spell" head="spell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+		<item original="prepare folders ." slot="5" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="folders" head="folders"/>
+		</item>
+		<item original="obtain media for viewing ." slot="6" text="obtain for" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="media" head="media"/>
+		</item>
+		<item original="memo attendees ." slot="7" text="memo " head="memo">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="memo" head="memo"/>
+			<ptcp text="attendees" head="attendees"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="gather notes and visuals ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+			<ptcp text="visuals" head="visuals"/>
+		</item>
+		<item original="stand in front of room ." slot="2" text="stand in of" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="face audience ." slot="3" text="face" head="face">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="greet audience ." slot="4" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="introduce self ." slot="5" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="self" head="self"/>
+		</item>
+		<item original="introduce topic ." slot="6" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="begin presentation ." slot="7" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="gather notes and visuals ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+			<ptcp text="visuals" head="visuals"/>
+		</item>
+		<item original="stand in front of room ." slot="2" text="stand in of" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="face audience ." slot="3" text="face" head="face">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="greet audience ." slot="4" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="introduce self ." slot="5" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="self" head="self"/>
+		</item>
+		<item original="introduce topic ." slot="6" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="begin presentation ." slot="7" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="gather notes and visuals ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+			<ptcp text="visuals" head="visuals"/>
+		</item>
+		<item original="stand in front of room ." slot="2" text="stand in of" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="face audience ." slot="3" text="face" head="face">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="greet audience ." slot="4" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="introduce self ." slot="5" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="self" head="self"/>
+		</item>
+		<item original="introduce topic ." slot="6" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="begin presentation ." slot="7" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="gather notes and visuals ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+			<ptcp text="visuals" head="visuals"/>
+		</item>
+		<item original="stand in front of room ." slot="2" text="stand in of" head="stand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="face audience ." slot="3" text="face" head="face">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="greet audience ." slot="4" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="audience" head="audience"/>
+		</item>
+		<item original="introduce self ." slot="5" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="self" head="self"/>
+		</item>
+		<item original="introduce topic ." slot="6" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="topic" head="topic"/>
+		</item>
+		<item original="begin presentation ." slot="7" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+</scripts>

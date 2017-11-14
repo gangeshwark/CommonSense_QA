@@ -1,0 +1,1203 @@
+<scripts>
+	<script id="1">
+		<item original="boil some water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put a tea bag in the cup ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="pour the hot water into the cup over the tea bag ." slot="3" text="pour into over" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+			<ptcp text="the tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="cover the cup and wait for 5 minutes ." slot="4" text="cover for" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cup" head="cup"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="remove the tea bag ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="heat water ." slot="1" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour a cup of water ." slot="2" text="pour of" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cup" head="cup"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add a tea bag to the cup of water ." slot="3" text="add to of" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="cup" head="cup"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="take a teapot ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+		<item original="put some dry tealeaves into the teapot ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tealeaves" head="tealeaves"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+		<item original="pour boiled/hot water into the teapot ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+		<item original="wait for 2 minutes ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="pour the tea into a cup ." slot="5" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add tea ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="remove teapot from stove ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapot" head="teapot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="get tea ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="boil water ." slot="2" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place tea leaves in bioling water ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea leaves" head="leaves"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn off stove ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="leave to cool down ." slot="5" text="leave down" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="pour water in pot ." slot="1" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="boil water ." slot="2" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put tea leaves in pot ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea leaves" head="leaves"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="wait for a little while ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="while" head="while"/>
+		</item>
+		<item original="remove pot from stove ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="when water boils add tea leaves ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water boils" head="boils"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="remove water from stove ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="wait for a few minutes ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="when water boils add tea leaves ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water boils" head="boils"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="wait for a couple of minutes ." slot="3" text="wait for of" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="couple" head="couple"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="remove teapot from stove ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapot" head="teapot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="boil water in tea pot ." slot="1" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="when water is boiling add tea leaves ." slot="2" text="boiling" head="boiling">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="tea leaves" head="leaves"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="remove tea pot from stove ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="leave for a few minutes ." slot="4" text="leave for" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="locate tea mix ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea mix" head="mix"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="place tea mix in an empty cup ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea mix" head="mix"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="pour water into the cup ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="mix the ingredients in the cup ." slot="4" text="mix in" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ingredients" head="ingredients"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="enjoy the tea ." slot="5" text="enjoy" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="fill pot with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="heat water ." slot="2" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water into cup ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="place tea-packet into cup ." slot="4" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapacket" head="teapacket"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="wait until water has darkened to desired color ." slot="5" text="wait to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="desired color" head="color"/>
+		</item>
+		<item original="remove tea-packet with spoon ." slot="6" text="remove with" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapacket" head="teapacket"/>
+			<ptcp text="spoon" head="spoon"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water in a mug ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="put a tea bag in the mug ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="put sugar and milk in the mug ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sugar" head="sugar"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="take out the tea bag ." slot="5" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="fill teapot with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapot" head="teapot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place teapot on stove burner ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapot" head="teapot"/>
+			<ptcp text="stove burner" head="burner"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="when water boils turn off stove ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water boils" head="boils"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="add tea to teapot ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="fill teapot with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapot" head="teapot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place teapot on stove ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapot" head="teapot"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="turn on stove ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="when water boils turn off stove ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water boils" head="boils"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="place tea in teapot ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="boil some water in a kettle ." slot="1" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="get a cup ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="get a bag of tea ." slot="3" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="put the bag of tea in the cup ." slot="4" text="put of in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="pour the boiling water into the cup ." slot="5" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the boiling water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="let the tea sit in the cup for about 2 minutes ." slot="6" text="sit in for" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="cup" head="cup"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="remove the bag of tea and discard it ." slot="7" text="remove of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add tea ." slot="2" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="add sugar ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sugar" head="sugar"/>
+		</item>
+		<item original="add cream ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cream" head="cream"/>
+		</item>
+		<item original="put it in a teapot ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="heat water ." slot="1" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="select teabag ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+		</item>
+		<item original="place teabag in cup ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="pour boiling water into cup ." slot="4" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="boiling water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="wait 3 to 10 minutes ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="remove tea bag ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="heat water ." slot="1" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="soak tea in water ." slot="2" text="soak in" head="soak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait five minutes ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="extract soaking tea ." slot="4" text="extract" head="extract">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soaking tea" head="tea"/>
+		</item>
+		<item original="drink ." slot="5" text="drink" head="drink">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour hot water ." slot="2" text="pour" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place in teabag ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add in tea ." slot="2" text="add in" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="wait 2 minutes ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add in tea ." slot="2" text="add in" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="wait 2 minutes ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="boil water in the kettle ." slot="1" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="scoop up some tea leaves into the teaball ." slot="2" text="scoop up into" head="scoop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some tea leaves" head="leaves"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="teaball" head="teaball"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="boil water in the kettle ." slot="1" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="scoop up some tea leaves into the teaball ." slot="2" text="scoop up into" head="scoop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some tea leaves" head="leaves"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="teaball" head="teaball"/>
+		</item>
+		<item original="warm the terapot with boiling water ." slot="3" text="warm with" head="warm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="terapot" head="terapot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="boil water in the kettle ." slot="1" text="boil in" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="scoop up some tea leaves into the teaball ." slot="2" text="scoop up into" head="scoop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some tea leaves" head="leaves"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="teaball" head="teaball"/>
+		</item>
+		<item original="warm the teapot with boiling water ." slot="3" text="warm with" head="warm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapot" head="teapot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour the water out of the teapot ." slot="4" text="pour out of" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+		<item original="putthe teaball into the teapot ." slot="5" text="putthe into" head="putthe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teaball" head="teaball"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="put water in tea kettle ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="tea kettle" head="kettle"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="put tea kettle on stove ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea kettle" head="kettle"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="put tea bag in mug ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="pour hot water over tea bag in mug ." slot="4" text="pour over in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="steep tea ." slot="5" text="steep " head="steep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="drink ." slot="6" text="drink" head="drink">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place tea bag in coffee cup ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="coffee cup" head="cup"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="add water ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="allow to steep ." slot="4" text="allow to" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steep" head="steep"/>
+		</item>
+		<item original="remove tea bag ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="turn stove burner on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stove burner" head="burner"/>
+			<ptcp text="stove" head="stove"/>
+		</item>
+		<item original="fill tea pot with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place tea pot on burner ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="burner" head="burner"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="fill kettle with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="boil water ." slot="2" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="warm teapot with hot water ." slot="3" text="warm with" head="warm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teapot" head="teapot"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place tea bag in teapot ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+		<item original="add boiled water to teapot ." slot="5" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+		<item original="let tea steep several minutes ." slot="6" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="pour into teacups ." slot="7" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teacups" head="teacups"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="picking the tea you want ." slot="1" text="picking picking" head="picking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="opening the package ." slot="2" text="opening" head="opening">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="putting water in a cup ." slot="3" text="putting in" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="put tea bag in cup ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="let tea seep ." slot="5" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea seep" head="seep"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="take tea bag out of cup ." slot="6" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="drink tea ." slot="7" text="drink" head="drink">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add teabag to cup ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="pour water into cup ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add teabag to cup ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="pour water into cup ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add teabag to cup ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="pour water into cup ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add teabag to cup ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="pour water into cup ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add teabag to cup ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="pour water into cup ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add teabag to cup ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="pour water into cup ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="heat tea pot ." slot="2" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="add teabag to tea pot ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="add boiled water ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="let steep ." slot="5" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steep" head="steep"/>
+		</item>
+		<item original="serve ." slot="6" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="heat tea pot ." slot="2" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="add teabag to tea pot ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="add boiled water ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="let steep ." slot="5" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steep" head="steep"/>
+		</item>
+		<item original="serve ." slot="6" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="heat tea pot ." slot="2" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="add teabag to tea pot ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="add boiled water ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="let steep ." slot="5" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steep" head="steep"/>
+		</item>
+		<item original="serve ." slot="6" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="heat tea pot ." slot="2" text="heat" head="heat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="add teabag to tea pot ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teabag" head="teabag"/>
+			<ptcp text="tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="add boiled water ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="let steep ." slot="5" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steep" head="steep"/>
+		</item>
+		<item original="serve ." slot="6" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="locate kettle ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="pour water in kettle ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="turn on kettle to boil water ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour boiled water in mug ." slot="4" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="add tea bag for as long as desired ." slot="5" text="add for" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="as long" head="long"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="locate kettle ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="pour water in kettle ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="kettle" head="kettle"/>
+		</item>
+		<item original="turn on kettle to boil water ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour boiled water in mug ." slot="4" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="mug" head="mug"/>
+		</item>
+		<item original="add tea bag for as long as desired ." slot="5" text="add for" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="as long" head="long"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place tea bag in teapot ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+		<item original="add water to teapot ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="teapot" head="teapot"/>
+		</item>
+		<item original="let tea steep ." slot="4" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="serve ." slot="5" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add tea bag to the boiled water ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait 2-3 minutes ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="remove tea bag from water ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="serve tea in a cup ." slot="5" text="serve in" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="add milk cream or sugar ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk cream or sugar" head="cream"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="sugar" head="sugar"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add tea bag to the boiled water ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait 2-3 minutes ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="remove tea bag from water ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="serve tea in a cup ." slot="5" text="serve in" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="add milk cream or sugar ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk cream or sugar" head="cream"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="sugar" head="sugar"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add tea bag to the boiled water ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait 2-3 minutes ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="minutes" head="minutes"/>
+		</item>
+		<item original="remove tea bag from water ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea bag" head="bag"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="serve tea in a cup ." slot="5" text="serve in" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="add milk cream or sugar ." slot="6" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="milk cream or sugar" head="cream"/>
+			<ptcp text="milk" head="milk"/>
+			<ptcp text="sugar" head="sugar"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="get a tea pot ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="locate a kettle to boil water ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="fill the kettle with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="boil the water ." slot="4" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put tea in the tea pot ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="the tea pot" head="pot"/>
+		</item>
+		<item original="fill the tea pot with boiled water ." slot="6" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="let the tea steep for the recommended time then enjoy ." slot="7" text="enjoy for" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="get a tea pot ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+		</item>
+		<item original="locate a kettle to boil water ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="fill the kettle with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kettle" head="kettle"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="boil the water ." slot="4" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put tea in the tea pot ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="the tea pot" head="pot"/>
+		</item>
+		<item original="fill the tea pot with boiled water ." slot="6" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the tea pot" head="pot"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="let the tea steep for the recommended time then enjoy ." slot="7" text="enjoy for" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tea" head="tea"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="boil water ." slot="1" text="boil" head="boil">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+</scripts>

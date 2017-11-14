@@ -1,0 +1,1297 @@
+<scripts>
+	<script id="1">
+		<item original="get a container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="find a tap ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="fill water in container ." slot="3" text="fill in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="find the plant ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="put some water in the pot ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="locate watering bucket ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering bucket" head="bucket"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="locate plants ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="apply water to plants ." slot="3" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="find water container ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="fill water ." slot="2" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="go to the plant ." slot="3" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="put some water in plant pot ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant pot" head="pot"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="put water container back ." slot="5" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="check plant for necesity ." slot="1" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="necesity" head="necesity"/>
+		</item>
+		<item original="fill container with get wat ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="wat" head="wat"/>
+		</item>
+		<item original="go to plant ." slot="3" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="water the plant ." slot="4" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="fill the watering can ." slot="1" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the watering can" head="can"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="walk around ." slot="2" text="walk around" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="water the plants ." slot="3" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="find indoor plants ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="get container that can hold water ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="find kitchen tap ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen tap" head="tap"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="pour water from kitchen tap into container ." slot="4" text="pour from into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="kitchen tap" head="tap"/>
+			<ptcp text="kitchen" head="kitchen"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="locate indoor plants ." slot="5" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="water indoor plants ." slot="6" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="obtain water can or other water source ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water can" head="can"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="other water source" head="source"/>
+		</item>
+		<item original="bring the water source to the plants that need to be watered ." slot="2" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the water source" head="source"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="pour or dispense water into the soil of the plants ." slot="3" text="pour into of" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get watering container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering container" head="container"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill container with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="move to an indoor plant ." slot="3" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="pour some water from container into plant ." slot="4" text="pour from into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="repeat until all plants have been watered ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get a watering can ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a watering can" head="can"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill the can with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="for each potted plant ." slot="3" text="for for" head="for">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="pour some water onto the soil ." slot="4" text="pour onto" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get a watering pot ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a watering pot" head="pot"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill the watering pot with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the watering pot" head="pot"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour the water over the indoor plants ." slot="3" text="pour over" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="stop pouring before the indoor plants s container overflows ." slot="4" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="container overflows" head="overflows"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get water jug ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water jug" head="jug"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="go to plant ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="pour water ." slot="3" text="pour" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="go to 2 until no more plants or no more water ." slot="4" text="go to until" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="2" head="2"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="fill water jug ." slot="1" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water jug" head="jug"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="take water jug to plant ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water jug" head="jug"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="pour water into plant pot ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant pot" head="pot"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="move to next plant ." slot="4" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="fill watering can ." slot="1" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="walk to plant ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="pour some water in plant pot until damp ." slot="3" text="pour in until" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant pot" head="pot"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="put water in watering can ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="can" head="can"/>
+		</item>
+		<item original="pour water into the soil of the plant pots ." slot="2" text="pour into of" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="the plant pots" head="pots"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="fill water container ." slot="1" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="carry water container to plants ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water container" head="container"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="pour water inside plant pot ." slot="3" text="pour inside" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant pot" head="pot"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="go to next plant until no more plants ." slot="4" text="go to until" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="pick up a watering pitcher ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a watering pitcher" head="pitcher"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill the pitcher with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pitcher" head="pitcher"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="pick up a watering pitcher ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a watering pitcher" head="pitcher"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill the pitcher with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pitcher" head="pitcher"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour the water into the soild around the plant ." slot="3" text="pour into around" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="soild" head="soild"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="fill a plant watering container with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a plant watering container" head="container"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="move to an indoor plant which needs water ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour some water from the container into the plant s pot ." slot="3" text="pour from into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="repeat until all indoor plants have been watered ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="fill water jug ." slot="1" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water jug" head="jug"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="take water jug to plants ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water jug" head="jug"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="pour water in plants  pots ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants pots" head="pots"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="go to next plant ." slot="4" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="fetch watering can ." slot="1" text="fetch" head="fetch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill it with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water on the plants ." slot="3" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="get a pitcher ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pitcher" head="pitcher"/>
+		</item>
+		<item original="fill the pitcher with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pitcher" head="pitcher"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="go to each plant individually ." slot="3" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="pour the appropriate amount of water from the pitcher into the plant soil for each plant individuall ." slot="4" text="pour of from into for" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pitcher" head="pitcher"/>
+			<ptcp text="the plant soil" head="soil"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="each plant individuall" head="individuall"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="get water pitcher ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water pitcher" head="pitcher"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="fill pitcher with cool water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pitcher" head="pitcher"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour enough water into plant to last for about a week ." slot="3" text="pour into for" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="week" head="week"/>
+		</item>
+		<item original="discard any unused water ." slot="4" text="discard" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="find watering can ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering can" head="can"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="turn on cool water ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="fill watering can with cool water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour two cups of water into plant ." slot="4" text="pour of into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cups" head="cups"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="empty remaining water into the sink ." slot="5" text="empty into" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remaining water" head="water"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="putaway watering can ." slot="6" text="can " head="can">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="fill bucket with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bucket" head="bucket"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="go to plant ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="poor water on plants ." slot="3" text="poor on" head="poor">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="repeat for all plants ." slot="4" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="refill bucket if needed ." slot="5" text="refill" head="refill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bucket" head="bucket"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="find watering can ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering can" head="can"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill watering can with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour some water on each indoor plant ." slot="3" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="if water is spilled clean up spill ." slot="4" text="spilled up" head="spilled">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="spill" head="spill"/>
+		</item>
+		<item original="empty watering can in sink ." slot="5" text="sink" head="sink">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="put watering can away ." slot="6" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="get a empty bottle spray ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a empty bottle spray" head="spray"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="put water on the bottle spray ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="the bottle spray" head="spray"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="spray the plants ." slot="3" text="spray " head="spray">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spray" head="spray"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="remove watering pitcher from storage ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering pitcher" head="pitcher"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="storage" head="storage"/>
+		</item>
+		<item original="turn on water ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="fill pitcher with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pitcher" head="pitcher"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn off water ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="position pitcher over plants ." slot="5" text="position over" head="position">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pitcher" head="pitcher"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="empty water onto plants ." slot="6" text="empty onto" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="return pitcher to storage ." slot="7" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pitcher" head="pitcher"/>
+			<ptcp text="storage" head="storage"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="fill container with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour on plants ." slot="2" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="fill a vessel with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vessel" head="vessel"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="carry the water to the plant ." slot="2" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="pour water slowly into the soil ." slot="3" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="stop pouring when soil is moist ." slot="4" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="put vessel away ." slot="5" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vessel" head="vessel"/>
+		</item>
+		<item original="talk to plant for a short while ." slot="6" text="talk to for" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="while" head="while"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="put water into a cup or watering can ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="pour a small amount of water onto soil ." slot="2" text="pour of onto" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="repeat step 2 for each plant ." slot="3" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="pour out access water ." slot="4" text="pour out" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="access water" head="water"/>
+			<ptcp text="access" head="access"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="fill container with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add water to plants ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="fill container with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="add water to plants ." slot="2" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="notice plants need water ." slot="1" text="notice" head="notice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="find waterer ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="waterer" head="waterer"/>
+		</item>
+		<item original="run water into waterer ." slot="3" text="run into" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="waterer" head="waterer"/>
+		</item>
+		<item original="walk to plant ." slot="4" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="water plant ." slot="5" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="check dampness ." slot="6" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dampness" head="dampness"/>
+		</item>
+		<item original="water again or return waterer to storage ." slot="7" text="water to" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="waterer" head="waterer"/>
+			<ptcp text="storage" head="storage"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="check if plants are dry ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="locate watering can ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="go to sink ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put watering can under faucet ." slot="4" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="turn water on ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="fill watering can ." slot="6" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="pour water into plant pots ." slot="7" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant pots" head="pots"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="goto plants ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="give water to plants ." slot="2" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="fill jug with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jug" head="jug"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water into plantpot ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plantpot" head="plantpot"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="fill jug with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jug" head="jug"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water into plantpot ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plantpot" head="plantpot"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="fill watering jug with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering jug" head="jug"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="walk over to plant ." slot="2" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="pour water into soil until moistened ." slot="3" text="pour into until" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="moistened" head="moistened"/>
+		</item>
+		<item original="repeat with other plants ." slot="4" text="repeat with" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="water ." slot="1" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="water ." slot="1" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="water ." slot="1" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="water ." slot="1" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="water ." slot="1" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="water ." slot="1" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="water ." slot="1" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="decide which plants to water ." slot="1" text="decide to" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="locate watering can ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill can with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="empty water onto plants ." slot="4" text="empty onto" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="put can away ." slot="5" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="decide which plants to water ." slot="1" text="decide to" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="locate watering can ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill can with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="empty water onto plants ." slot="4" text="empty onto" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="put can away ." slot="5" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="decide which plants to water ." slot="1" text="decide to" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="locate watering can ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill can with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="empty water onto plants ." slot="4" text="empty onto" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="put can away ." slot="5" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="decide which plants to water ." slot="1" text="decide to" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="locate watering can ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill can with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="empty water onto plants ." slot="4" text="empty onto" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="put can away ." slot="5" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="decide which plants to water ." slot="1" text="decide to" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="locate watering can ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill can with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="can" head="can"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="empty water onto plants ." slot="4" text="empty onto" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="put can away ." slot="5" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="get water ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour onto plant ." slot="2" text="pour onto" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="get water ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour onto plant ." slot="2" text="pour onto" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="get water ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour onto plant ." slot="2" text="pour onto" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="get water ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour onto plant ." slot="2" text="pour onto" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="get water ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour onto plant ." slot="2" text="pour onto" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="get water ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour onto plant ." slot="2" text="pour onto" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="fill container with tap ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="mix in plant food ." slot="2" text="mix in" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant food" head="food"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="water plants with adequate amount ." slot="3" text="water with" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+		<item original="place plants in sunlight ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="fill container with tap ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="mix in plant food ." slot="2" text="mix in" head="mix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant food" head="food"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="water plants with adequate amount ." slot="3" text="water with" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+		<item original="place plants in sunlight ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="find watering jug ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering jug" head="jug"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="pick up watering jug ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering jug" head="jug"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="walk to sink with jug ." slot="3" text="walk with" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jug" head="jug"/>
+		</item>
+		<item original="place under tap ." slot="4" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="turn on tap ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="fill with water ." slot="6" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="water plants ." slot="7" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="turn tap on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="pour water into jug ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="jug" head="jug"/>
+		</item>
+		<item original="carry jug into room ." slot="3" text="carry into" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jug" head="jug"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="pour water ." slot="4" text="pour" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="don t pour too much ." slot="5" text="don" head="don">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="plant will grow ." slot="6" text="grow" head="grow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="keep in sun ." slot="7" text="keep in" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="turn tap on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="pour water into jug ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="jug" head="jug"/>
+		</item>
+		<item original="carry jug into room ." slot="3" text="carry into" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jug" head="jug"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="pour water ." slot="4" text="pour" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="don t pour too much ." slot="5" text="don" head="don">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="plant will grow ." slot="6" text="grow" head="grow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="keep in sun ." slot="7" text="keep in" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="get watering can ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering can" head="can"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill watering can with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="go to plant ." slot="3" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="put water in pot until dirt is moist ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pot" head="pot"/>
+			<ptcp text="dirt" head="dirt"/>
+		</item>
+		<item original="repeat for each plant ." slot="5" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="empty watering can ." slot="6" text="can " head="can">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="put watering can away ." slot="7" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="fill watering can with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water into pots until soil is saturated ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pots" head="pots"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="fill watering can with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water into pots until soil is saturated ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pots" head="pots"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="fill watering can with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water into pots until soil is saturated ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pots" head="pots"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="fill watering can with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water into pots until soil is saturated ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pots" head="pots"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="fill watering can with water ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water into pots until soil is saturated ." slot="2" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pots" head="pots"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="take water ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water on plants ." slot="2" text="pour on" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="add water in a jug ." slot="1" text="add in" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="jug" head="jug"/>
+		</item>
+		<item original="pour water in pots ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pots" head="pots"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,1602 @@
+<scripts>
+	<script id="1">
+		<item original="pick up a story book ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a story book" head="book"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="move close to the child ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="turn to page one of the book ." slot="3" text="turn to of" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="start reading from the book ." slot="4" text="start reading from" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="once end of a page is reached move to the next page ." slot="5" text="reached of to" head="reached">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="page" head="page"/>
+			<ptcp text="move" head="move"/>
+		</item>
+		<item original="stop when child is asleep or asked to stop ." slot="6" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get book ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open at begining of story ." slot="2" text="open at of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="begining" head="begining"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="start reading from book ." slot="3" text="start reading from" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="pause at important moments ." slot="4" text="pause at" head="pause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="moments" head="moments"/>
+		</item>
+		<item original="end story ." slot="5" text="end" head="end">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="choose a story with the child ." slot="1" text="choose with" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open the book at the beginning of the story ." slot="2" text="open at of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+			<ptcp text="beginning" head="beginning"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story out loud ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="get book ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open book to desired page ." slot="2" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+			<ptcp text="desired page" head="page"/>
+		</item>
+		<item original="read story ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="close book ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="find a story ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="find a child ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="read the words on a page of the story to the child ." slot="3" text="read on of to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="page" head="page"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="turn the page ." slot="4" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="repeat until you have read all of the pages ." slot="5" text="repeat of" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all" head="all"/>
+			<ptcp text="pages" head="pages"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="choose a story to read to the child ." slot="1" text="choose to" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="sit down in a chair with the child in your lap ." slot="2" text="sit down in with in" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="lap" head="lap"/>
+		</item>
+		<item original="open the book to the beginning of the story ." slot="3" text="open to of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+			<ptcp text="beginning" head="beginning"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="begin to read the book ." slot="4" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="turn the pages when necessary ." slot="5" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pages" head="pages"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="locate a child ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="locate an appropriate children s story to read ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="recite the text from the story from beginning to end ." slot="3" text="recite from from to" head="recite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="text" head="text"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="end" head="end"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get a book ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="sit down with a child ." slot="2" text="sit down with" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open the book ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read the book out loud to the child ." slot="4" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get child in bed ." slot="1" text="get in" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="get book ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open book at the correct page ." slot="3" text="open at" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="start reading ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reading" head="reading"/>
+		</item>
+		<item original="when child is asleep stop reading ." slot="5" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="mark the page ." slot="6" text="mark" head="mark">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="close book ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="choose book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open book ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read book ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get book ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open book ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read aloud to child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="select a book ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="sit next to the child ." slot="2" text="sit to" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open the book ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read the words written in the book ." slot="4" text="read in" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="close the book ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="return the book ." slot="6" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="get a story book ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a story book" head="book"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="open the story book where you stoped yesterday (if not new) ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the story book" head="book"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="yesterday" head="yesterday"/>
+		</item>
+		<item original="breif the child about what you read yesterday ." slot="3" text="breif about" head="breif">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="yesterday" head="yesterday"/>
+		</item>
+		<item original="begine reading the story ." slot="4" text="begine" head="begine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="find the child ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="open story to first page ." slot="3" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="read story to child ." slot="4" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="find comfortable place to sit ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="sit down with child ." slot="2" text="sit down with" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="find age appropreate book for child ." slot="3" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="age" head="age"/>
+			<ptcp text="book" head="book"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open book ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read book with child ." slot="5" text="read with" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="look at pictures with child ." slot="6" text="look at with" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="tell child name or author of book ." slot="7" text="tell of" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child name or author of book" head="name"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="author" head="author"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="determine if child wants to be read to ." slot="1" text="determine to" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="ask what they want to hear ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="listen to their answer ." slot="3" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answer" head="answer"/>
+		</item>
+		<item original="find the book ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a comfortable setting to read ." slot="5" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="setting" head="setting"/>
+		</item>
+		<item original="read the story ." slot="6" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="tuck in sleeping child ." slot="7" text="tuck in" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="sit child down ." slot="1" text="sit down" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open book ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read book ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="sit child down ." slot="1" text="sit down" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open book ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read book ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="discern if child wants to hear a story ." slot="1" text="discern" head="discern">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="ask child for story suggestions ." slot="2" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="story suggestions" head="suggestions"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="decide on story ." slot="3" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="find book ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find place to read ." slot="5" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="read to child ." slot="6" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="tuck in sleeping child ." slot="7" text="tuck in" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="choose a book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="sit down next to child ." slot="2" text="sit down next to" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="read the words in the book ." slot="3" text="read in" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="put book away ." slot="4" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="sit a child down ." slot="1" text="sit down" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="sit near the child ." slot="2" text="sit near" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open book ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find first page ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="start reading sentences ." slot="5" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sentences" head="sentences"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="select a story ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="ask the child to sit and be still ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open the story to the beginning ." slot="3" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="beginning" head="beginning"/>
+		</item>
+		<item original="read the page ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="pause to let child see pictures ." slot="5" text="pause" head="pause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="pictures" head="pictures"/>
+		</item>
+		<item original="turn page ." slot="6" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="read ." slot="7" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="select a story ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="ask the child to sit and be still ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open the story to the beginning ." slot="3" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="beginning" head="beginning"/>
+		</item>
+		<item original="read the page ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="pause to let child see pictures ." slot="5" text="pause" head="pause">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="pictures" head="pictures"/>
+		</item>
+		<item original="turn page ." slot="6" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="repeat steps 4 - 6 until the story is finished ." slot="7" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="choose a book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="sit with child ." slot="2" text="sit with" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="read the first page ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="turn the page ." slot="4" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="repeat steps three and four ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="choose a book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read the book aloud ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="choose a book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read the book aloud ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="choose a book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read the book aloud ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="find a book ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="find a book ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open the book ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read the words ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="find a book ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open the book ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read the words ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="find a book ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="choose a story book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a story book" head="book"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="choose a story book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a story book" head="book"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="choose a book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="sit down with the child ." slot="2" text="sit down with" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open the book ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="turn the pages as the words are read ." slot="4" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pages" head="pages"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="show the pictures in the book to the child if there are any ." slot="5" text="show in to" head="show">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="book" head="book"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="any" head="any"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="ask the child what he/she wants to read ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="heshe" head="heshe"/>
+		</item>
+		<item original="get the book ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="have the child sit next to you ." slot="3" text="sit to" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="read the book ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="pick out a children s book ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="find a story ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the story while showing the pictures to the child ." slot="3" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="pictures" head="pictures"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="choose book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="sit on sofa ." slot="2" text="sit on" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sofa" head="sofa"/>
+		</item>
+		<item original="open book ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read words ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="point to pictures ." slot="5" text="point to" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pictures" head="pictures"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="choose book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="sit on sofa ." slot="2" text="sit on" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sofa" head="sofa"/>
+		</item>
+		<item original="open book ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read words ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="point to pictures ." slot="5" text="point to" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pictures" head="pictures"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="choose book ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="sit on sofa ." slot="2" text="sit on" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sofa" head="sofa"/>
+		</item>
+		<item original="open book ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read words ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+		</item>
+		<item original="point to pictures ." slot="5" text="point to" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pictures" head="pictures"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="read the book ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="70">
+		<item original="tuck child in bed ." slot="1" text="tuck in" head="tuck">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="select favorite bedtime book ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="favorite bedtime book" head="book"/>
+			<ptcp text="bedtime" head="bedtime"/>
+		</item>
+		<item original="read story ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="when child falls asleep stop reading ." slot="4" text="falls" head="falls">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="71">
+		<item original="go to the child s room with child ." slot="1" text="go to with" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="ask child what book she d like ." slot="2" text="ask like" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="find that book ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open the book ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read page flip page ." slot="5" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="repeat # 5 until end of book ." slot="6" text="repeat until of" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="5" head="5"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="put book away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="72">
+		<item original="go to the child s room with child ." slot="1" text="go to with" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="ask child what book she d like ." slot="2" text="ask like" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="find that book ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open the book ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read page flip page ." slot="5" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="repeat # 5 until end of book ." slot="6" text="repeat until of" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="5" head="5"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="put book away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="73">
+		<item original="go to the child s room with child ." slot="1" text="go to with" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="ask child what book she d like ." slot="2" text="ask like" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="find that book ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open the book ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read page flip page ." slot="5" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="repeat # 5 until end of book ." slot="6" text="repeat until of" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="5" head="5"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="put book away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="74">
+		<item original="go to the child s room with child ." slot="1" text="go to with" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="ask child what book she d like ." slot="2" text="ask like" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="find that book ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open the book ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read page flip page ." slot="5" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="repeat # 5 until end of book ." slot="6" text="repeat until of" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="5" head="5"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="put book away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="75">
+		<item original="choose a story to read ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="read the words in the story with enthusiasm ." slot="2" text="read in with" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="enthusiasm" head="enthusiasm"/>
+		</item>
+		<item original="include actions and sound effects ." slot="3" text="include" head="include">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="actions" head="actions"/>
+			<ptcp text="effects" head="effects"/>
+		</item>
+	</script>
+	<script id="76">
+		<item original="pick book ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read pages from begining ." slot="2" text="read from" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pages" head="pages"/>
+			<ptcp text="begining" head="begining"/>
+		</item>
+		<item original="close book when done ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="77">
+		<item original="get book ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read page 1 ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="turn the page ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="repeat step 2 adding 1 ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="close book ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="78">
+		<item original="get book ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read page 1 ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="turn the page ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="repeat step 2 adding 1 ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="close book ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="79">
+		<item original="get book ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read page 1 ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="turn the page ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="repeat step 2 adding 1 ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="close book ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="80">
+		<item original="open book ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read contents ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="close book ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="81">
+		<item original="open book ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read contents ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="close book ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="82">
+		<item original="open book ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read contents ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contents" head="contents"/>
+		</item>
+		<item original="close book ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="83">
+		<item original="have child sit ." slot="1" text="sit" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="get book ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="sit next to child ." slot="3" text="sit to" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open book ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read through book ." slot="5" text="read through" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+	</script>
+	<script id="84">
+		<item original="ask child which story to read ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="walk over to bookcase ." slot="2" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bookcase" head="bookcase"/>
+		</item>
+		<item original="pick up desired book ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired book" head="book"/>
+		</item>
+		<item original="walk over to child ." slot="4" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="sit down with child ." slot="5" text="sit down with" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open to page 1 ." slot="6" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="begin to read to child ." slot="7" text="begin to" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="85">
+		<item original="ask child which story to read ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="walk over to bookcase ." slot="2" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bookcase" head="bookcase"/>
+		</item>
+		<item original="pick up desired book ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired book" head="book"/>
+		</item>
+		<item original="walk over to child ." slot="4" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="sit down with child ." slot="5" text="sit down with" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open to page 1 ." slot="6" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+		</item>
+		<item original="begin to read to child ." slot="7" text="begin to" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+	<script id="86">
+		<item original="get book ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="open book ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read the story ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="87">
+		<item original="get a book ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="sit down with child ." slot="2" text="sit down with" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="open book ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="read book to child ." slot="4" text="read to" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="book" head="book"/>
+			<ptcp text="child" head="child"/>
+		</item>
+	</script>
+</scripts>

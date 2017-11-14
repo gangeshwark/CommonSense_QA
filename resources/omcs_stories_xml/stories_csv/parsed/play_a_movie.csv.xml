@@ -1,0 +1,1049 @@
+<scripts>
+	<script id="1">
+		<item original="locate vcr or dvd player ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vcr or dvd player" head="player"/>
+			<ptcp text="vcr" head="vcr"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="get tape or dvd ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert tape or dvd ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="press play ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find a movie casette or disc ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a movie casette or disc" head="casette"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="disc" head="disc"/>
+		</item>
+		<item original="place movie casette or disc into movie playing device ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie casette or disc" head="casette"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="disc" head="disc"/>
+			<ptcp text="movie playing device" head="device"/>
+			<ptcp text="playing" head="playing"/>
+		</item>
+		<item original="turn playing device on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="playing device" head="device"/>
+			<ptcp text="playing" head="playing"/>
+		</item>
+		<item original="press the playing device s play button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the playing device" head="device"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="turn on the dvd player ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="turn on the television ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="television" head="television"/>
+		</item>
+		<item original="put the dvd into the dvd player ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="the dvd player" head="player"/>
+		</item>
+		<item original="connect the dvd player to the television ." slot="4" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="television" head="television"/>
+		</item>
+		<item original="set the television for dvd player input ." slot="5" text="set for" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="television" head="television"/>
+			<ptcp text="dvd player input" head="input"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="press play on the dvd player remote ." slot="6" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+			<ptcp text="the dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="get movie ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="insert movie into player ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="press play ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="get movie ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="place movie into player ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="start player ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="player" head="player"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="put tape into videoplayer ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="videoplayer" head="videoplayer"/>
+		</item>
+		<item original="turn on tv on video channel ." slot="2" text="turn on on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+			<ptcp text="video channel" head="channel"/>
+			<ptcp text="video" head="video"/>
+		</item>
+		<item original="press start on videoplayer ." slot="3" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+			<ptcp text="videoplayer" head="videoplayer"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="insert movie into player ." slot="1" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="turn on tv ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="start movie player ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie player" head="player"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="turn the dvd player on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="put movie in dvd player ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="turn the tv on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="put appropriate channel ." slot="4" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="press play ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="extract movie media from case ." slot="1" text="extract from" head="extract">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie media" head="media"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="case" head="case"/>
+		</item>
+		<item original="insert movie media into player ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie media" head="media"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="press play ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="turn on tv if needed ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="locate movie ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="locate dvd player ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="turn on dvd player ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert movie into dvd player ." slot="4" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="press play ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="select movie to play ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="determine media of movie ." slot="2" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="media" head="media"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="put movie in vhs player or dvd player ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="vhs player" head="player"/>
+			<ptcp text="vhs" head="vhs"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="switch television set op ." slot="5" text="switch" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="television set" head="set"/>
+			<ptcp text="television" head="television"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="find dvd ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="put dvd into dvd player ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="press the play button on the dvd player ." slot="3" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the play button" head="button"/>
+			<ptcp text="play" head="play"/>
+			<ptcp text="the dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="find movie ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="remove movie from case ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="case" head="case"/>
+		</item>
+		<item original="put movie in player ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="start movie ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="watch movie ." slot="5" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="rewind movie (if necessary) ." slot="6" text="rewind" head="rewind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="put movie away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="acquire a dvd or vhs tape ." slot="1" text="acquire" head="acquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="put the tape or dvd in the player ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="push the play button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the play button" head="button"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="remove movie from box ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="turn on player ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="insert movie into player ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="turn on tv ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="press play button on player ." slot="5" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play button" head="button"/>
+			<ptcp text="play" head="play"/>
+			<ptcp text="player" head="player"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="put the movie in a player ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="press on to start playing the movie ." slot="2" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="choose a movie ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="put the movie in the player ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="turn the player on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="press the play button on the player ." slot="4" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the play button" head="button"/>
+			<ptcp text="play" head="play"/>
+			<ptcp text="player" head="player"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="buy/rent dvd ." slot="1" text="buyrent" head="buyrent">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="take it home ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="turn on tv ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn on dvd player ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="put dvd in dvd player ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="press play ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="select 'watch movie' from the menu ." slot="7" text="select from" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch movie" head="movie"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="menu" head="menu"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="buy/rent dvd ." slot="1" text="buyrent" head="buyrent">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="take it home ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="turn on tv ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn on dvd player ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="put dvd in dvd player ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="press play ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="select 'watch movie' from the menu ." slot="7" text="select from" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watch movie" head="movie"/>
+			<ptcp text="watch" head="watch"/>
+			<ptcp text="menu" head="menu"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="put movie in dvd player ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="push the play button ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the play button" head="button"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="put movie in dvd player ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="push the play button ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the play button" head="button"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn on player ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="insert movie ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="press play ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="insert  movie into player ." slot="1" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="turn on player ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="hit play ." slot="3" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="choose a movie ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="open the movie case ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the movie case" head="case"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="remove movie from case ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="case" head="case"/>
+		</item>
+		<item original="turn dvd player on ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="open dvd tray ." slot="5" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="insert movie ." slot="6" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="close tray ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="open dvd player door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player door" head="door"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="insert dvd ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="close dvd playe door ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="turn on tv ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="put movie in dvd player ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="press play ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="remove movie dvd from case ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie dvd" head="dvd"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="case" head="case"/>
+		</item>
+		<item original="place dvd in tray in dvd player ." slot="2" text="place in in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="tray" head="tray"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="turn tv to channel 3 ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+			<ptcp text="3" head="3"/>
+		</item>
+		<item original="press play ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="when menu shows select 'play movie' ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="menu shows" head="shows"/>
+			<ptcp text="menu" head="menu"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="turn on dvd player ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="take movie out of sleeve ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="sleeve" head="sleeve"/>
+		</item>
+		<item original="put into dvd player ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="close disc drawer ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="disc drawer" head="drawer"/>
+			<ptcp text="disc" head="disc"/>
+		</item>
+		<item original="press play on dvd player ." slot="5" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="insert dvd ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="select play ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="insert dvd ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="select play ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="insert dvd ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="select play ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="insert dvd ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="select play ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="insert dvd ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="select play ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="insert dvd ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="select play ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="turn on dvd player ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert dvd into dvd player ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="close dvd tray ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="turn on tv ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="switch to dvd mode ." slot="5" text="switch" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mode" head="mode"/>
+		</item>
+		<item original="push play ." slot="6" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="turn on dvd player ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert dvd into dvd player ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="close dvd tray ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="turn on tv ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="switch to dvd mode ." slot="5" text="switch" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mode" head="mode"/>
+		</item>
+		<item original="push play ." slot="6" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="turn on dvd player ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert dvd into dvd player ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="close dvd tray ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="turn on tv ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="switch to dvd mode ." slot="5" text="switch" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mode" head="mode"/>
+		</item>
+		<item original="push play ." slot="6" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="turn on dvd player ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert dvd into dvd player ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="close dvd tray ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="turn on tv ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="switch to dvd mode ." slot="5" text="switch" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mode" head="mode"/>
+		</item>
+		<item original="push play ." slot="6" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="turn on dvd player ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert dvd into dvd player ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="close dvd tray ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="turn on tv ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="switch to dvd mode ." slot="5" text="switch" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mode" head="mode"/>
+		</item>
+		<item original="push play ." slot="6" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="turn on dvd player ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert dvd into dvd player ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="close dvd tray ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="turn on tv ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="switch to dvd mode ." slot="5" text="switch" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mode" head="mode"/>
+		</item>
+		<item original="push play ." slot="6" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="get dvd ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert dvd into dvd player ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="turn tv on correct channel ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="press play on dvd player ." slot="4" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="watch move ." slot="5" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="move" head="move"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="acqiring the dvd ." slot="1" text="acqiring" head="acqiring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="inserting the dvd into the dvd player ." slot="2" text="inserting into" head="inserting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="the dvd player" head="player"/>
+		</item>
+		<item original="commanding the player to begin playing ." slot="3" text="to" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="player" head="player"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn on dvd player ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert dvd into dvd player ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="set machine to dvd setting ." slot="4" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+			<ptcp text="setting" head="setting"/>
+		</item>
+		<item original="set channel to correct setting ." slot="5" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="press play ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="adjust volume ." slot="7" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="volume" head="volume"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn on dvd player ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert dvd into dvd player ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="set machine to dvd setting ." slot="4" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+			<ptcp text="setting" head="setting"/>
+		</item>
+		<item original="set channel to correct setting ." slot="5" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="press play ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="adjust volume ." slot="7" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="volume" head="volume"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn on dvd player ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert dvd into dvd player ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="set machine to dvd setting ." slot="4" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+			<ptcp text="setting" head="setting"/>
+		</item>
+		<item original="set channel to correct setting ." slot="5" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="press play ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="adjust volume ." slot="7" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="volume" head="volume"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="turn on tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn on dvd player ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd player" head="player"/>
+			<ptcp text="dvd" head="dvd"/>
+		</item>
+		<item original="insert dvd into dvd player ." slot="3" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="set machine to dvd setting ." slot="4" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="machine" head="machine"/>
+			<ptcp text="setting" head="setting"/>
+		</item>
+		<item original="set channel to correct setting ." slot="5" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="channel" head="channel"/>
+		</item>
+		<item original="press play ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+		<item original="adjust volume ." slot="7" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="volume" head="volume"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="take movie ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+		</item>
+		<item original="place movie in player ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="movie" head="movie"/>
+			<ptcp text="player" head="player"/>
+		</item>
+		<item original="push play button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play button" head="button"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="insert dvd into dvd player ." slot="1" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dvd" head="dvd"/>
+			<ptcp text="dvd player" head="player"/>
+		</item>
+		<item original="press play ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+</scripts>

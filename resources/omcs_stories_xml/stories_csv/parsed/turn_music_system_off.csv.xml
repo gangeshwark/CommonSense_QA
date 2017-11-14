@@ -1,0 +1,878 @@
+<scripts>
+	<script id="1">
+		<item original="find off switch ." slot="1" text="find off" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="press off switch ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find off switch ." slot="1" text="find off" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="toggle off switch ." slot="2" text="toggle off" head="toggle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="locate off switch ." slot="1" text="locate off" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="toggle off switch ." slot="2" text="toggle off" head="toggle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="walk to stereo ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stereo" head="stereo"/>
+		</item>
+		<item original="turn power off ." slot="2" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="locate the remote control device ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the remote control device" head="device"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="position the remote properly ." slot="2" text="position" head="position">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the remote" head="remote"/>
+		</item>
+		<item original="press the off button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="keep the remote in position ." slot="4" text="keep in" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the remote" head="remote"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="locate the stereo ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stereo" head="stereo"/>
+		</item>
+		<item original="locate the front of the stereo ." slot="2" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="stereo" head="stereo"/>
+		</item>
+		<item original="locate the power button ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="depress the power button shortly ." slot="4" text="depress" head="depress">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="press the power button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="locate off button on music system ." slot="1" text="locate off on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="press off button ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="find the remote control ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="find the 'on/off' button ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the onoff button" head="button"/>
+			<ptcp text="onoff" head="onoff"/>
+		</item>
+		<item original="hit the 'on/off' button ." slot="3" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the onoff button" head="button"/>
+			<ptcp text="onoff" head="onoff"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="find music system ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="find power button ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="adjust volume ." slot="3" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="volume" head="volume"/>
+		</item>
+		<item original="turn music system on ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="find music system ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="find power button ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="turn music system off ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="go to music system ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="push off button ." slot="2" text="push off" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="approach the music system ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="locate the off button ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press the off button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="find power knob ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power knob" head="knob"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="push power knob ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power knob" head="knob"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="locate remote ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="push button to off position ." slot="2" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="find remote ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="push off button ." slot="2" text="push off" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="find remote ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="push off button ." slot="2" text="push off" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="locate the music system ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="locate the power button on the machine or on the remote control ." slot="2" text="locate on on on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="machine" head="machine"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="press the power button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="locate music system ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="locate remote ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="fetch remote ." slot="3" text="fetch" head="fetch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="poitn remote towards music system ." slot="4" text="poitn towards" head="poitn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="press power button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="locate music system ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="locate remote ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="press power button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="locate music system remote ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="locate power button on remote ." slot="2" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="locate music system remote ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="locate power button on remote ." slot="2" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="press power button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="take the remote control ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="press the 'off' button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="go over to music system ." slot="1" text="go over to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="get the music system remote control ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the music system" head="system"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="point the music system remote control at the music system ." slot="3" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the music system" head="system"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="press the off button on the music system remote control ." slot="4" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="the music system" head="system"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="control" head="control"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="locate the music system ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="search the control panel for a power or off button ." slot="2" text="search for off" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the control panel" head="panel"/>
+			<ptcp text="control" head="control"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="toggle the music system into the off position ." slot="3" text="toggle into" head="toggle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the music system" head="system"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="go to the stereo ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stereo" head="stereo"/>
+		</item>
+		<item original="switch off the music ." slot="2" text="switch off" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="go to music system ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="locate power switch ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power switch" head="switch"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="press power switch ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power switch" head="switch"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="find the power button ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="press it ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="stop the music ." slot="1" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="press power off button ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="unplug ." slot="3" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="press power off button ." slot="1" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="press the off button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="tire of listening to music ." slot="1" text="listening of to" head="listening">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tire" head="tire"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="get up from chair ." slot="2" text="get up from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="chair" head="chair"/>
+		</item>
+		<item original="walk to sound system ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sound system" head="system"/>
+			<ptcp text="sound" head="sound"/>
+		</item>
+		<item original="stop the music ." slot="4" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="remove cd ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="place in storage case ." slot="6" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="storage case" head="case"/>
+			<ptcp text="storage" head="storage"/>
+		</item>
+		<item original="turn off power to system ." slot="7" text="turn off to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="system" head="system"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="press power button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="pick up remote ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="push power button ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="locate the power switch on the music system ." slot="1" text="locate on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power switch" head="switch"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="the music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+		<item original="push it to turn it off ." slot="2" text="push off" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="press the off button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="locate on/off switch ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="push or turn switch ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="press the off button on the music system or all the electric components on the music system ." slot="1" text="press on on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="the music system" head="system"/>
+			<ptcp text="music" head="music"/>
+			<ptcp text="components" head="components"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="walk to system ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="system" head="system"/>
+		</item>
+		<item original="push power ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="press the off button on the stereo ." slot="1" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="stereo" head="stereo"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="find remote ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="press off button ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="find remote ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="press off button ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="find remote ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="press off button ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="find remote ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="press off button ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="find remote ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="press off button ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="find remote ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="press off button ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="turn music off ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="turn off music ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="press the power button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="check to make sure the music is off ." slot="2" text="check off" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="press the power button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="check to make sure the music is off ." slot="2" text="check off" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="press the power button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="check to make sure the music is off ." slot="2" text="check off" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="press the power button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="check to make sure the music is off ." slot="2" text="check off" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="stop button is indicated by a square symbol ." slot="1" text="stop by" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="symbol" head="symbol"/>
+		</item>
+		<item original="locate the stop button ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the stop button" head="button"/>
+			<ptcp text="stop" head="stop"/>
+		</item>
+		<item original="press button to turn off music system ." slot="3" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="stop button is indicated by a square symbol ." slot="1" text="stop by" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="symbol" head="symbol"/>
+		</item>
+		<item original="locate the stop button ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the stop button" head="button"/>
+			<ptcp text="stop" head="stop"/>
+		</item>
+		<item original="press button to turn off music system ." slot="3" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="music system" head="system"/>
+			<ptcp text="music" head="music"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="locate the power on/off button ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power onoff button" head="button"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="onoff" head="onoff"/>
+		</item>
+		<item original="press the button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="locate the power on/off button ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power onoff button" head="button"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="onoff" head="onoff"/>
+		</item>
+		<item original="press the button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="locate the power on/off button ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power onoff button" head="button"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="onoff" head="onoff"/>
+		</item>
+		<item original="press the button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="push stop button ." slot="1" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stop button" head="button"/>
+			<ptcp text="stop" head="stop"/>
+		</item>
+		<item original="turn power button to off ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="press stop button on cd player ." slot="2" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stop button" head="button"/>
+			<ptcp text="stop" head="stop"/>
+			<ptcp text="cd player" head="player"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="press eject ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eject" head="eject"/>
+		</item>
+		<item original="take cd out ." slot="4" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="close cd tray ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="press power button ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="press stop button on cd player ." slot="2" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stop button" head="button"/>
+			<ptcp text="stop" head="stop"/>
+			<ptcp text="cd player" head="player"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="press eject ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eject" head="eject"/>
+		</item>
+		<item original="take cd out ." slot="4" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="close cd tray ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="press power button ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="press stop button on cd player ." slot="2" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stop button" head="button"/>
+			<ptcp text="stop" head="stop"/>
+			<ptcp text="cd player" head="player"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="press eject ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eject" head="eject"/>
+		</item>
+		<item original="take cd out ." slot="4" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cd" head="cd"/>
+		</item>
+		<item original="close cd tray ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="press power button ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="press power button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="press power button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="press power button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="press power button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="press power button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+</scripts>

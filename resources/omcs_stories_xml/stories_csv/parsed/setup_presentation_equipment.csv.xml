@@ -1,0 +1,539 @@
+<scripts>
+	<script id="1">
+		<item original="ask where to find presentation equipment ." slot="1" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation equipment" head="equipment"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="get presentation equipment ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation equipment" head="equipment"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="plug presentation equipment into the wall socket ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation equipment" head="equipment"/>
+			<ptcp text="presentation" head="presentation"/>
+			<ptcp text="the wall socket" head="socket"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="switch on presentation equipment ." slot="4" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation equipment" head="equipment"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="turn on the projector ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="turn on the computer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="connect the computer to the projector with a cable ." slot="3" text="connect to with" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="projector" head="projector"/>
+			<ptcp text="cable" head="cable"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="plug components together ." slot="1" text="plug" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="components" head="components"/>
+		</item>
+		<item original="plug equipment in ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+		<item original="turn equipment on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+		<item original="adjust location of equipment and sharpness of projection ." slot="4" text="adjust of of" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="equipment" head="equipment"/>
+			<ptcp text="sharpness" head="sharpness"/>
+			<ptcp text="projection" head="projection"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="turn on the projector ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="turn on the computer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="connect the computer to the projector with a cable ." slot="3" text="connect to with" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="projector" head="projector"/>
+			<ptcp text="cable" head="cable"/>
+		</item>
+		<item original="open the slides (presentation file) ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slides" head="slides"/>
+			<ptcp text="presentation file" head="file"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="figure out where you want the equipment ." slot="1" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+		<item original="take the equipment to the location that you picked ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="arrange the equipment in the way that you want it ." slot="3" text="arrange in" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+			<ptcp text="way" head="way"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="roll in presentation cart ." slot="1" text="roll in" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation cart" head="cart"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="connect presentation cart ." slot="2" text="connect" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation cart" head="cart"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="start computer ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="connect projector to computer ." slot="1" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="test picture ." slot="2" text="test" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="picture" head="picture"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="turn on computer ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="load presentation slides into the computer program ." slot="2" text="load into" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation slides" head="slides"/>
+			<ptcp text="presentation" head="presentation"/>
+			<ptcp text="the computer program" head="program"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="turn on the overhead projector ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="place overhead sheets on the projector ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheets" head="sheets"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="pull down slide screen from the wall ." slot="5" text="pull down from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slide screen" head="screen"/>
+			<ptcp text="slide" head="slide"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="find presentation equipment ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation equipment" head="equipment"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="plug the equipment s power cord into an electrical outlet ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="power cord" head="cord"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="turn the equipment s lens toward the screen ." slot="3" text="turn toward" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+			<ptcp text="lens" head="lens"/>
+			<ptcp text="screen" head="screen"/>
+		</item>
+		<item original="focus the lens so that it shows a clear picture on the screen ." slot="4" text="focus on" head="focus">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lens" head="lens"/>
+			<ptcp text="picture" head="picture"/>
+			<ptcp text="screen" head="screen"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="find a projector ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="plugin the projector ." slot="2" text="plugin" head="plugin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="setup a the projection screen ." slot="3" text="setup " head="setup">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="setup" head="setup"/>
+			<ptcp text="a the projection screen" head="screen"/>
+			<ptcp text="projection" head="projection"/>
+			<ptcp text="screen" head="screen"/>
+		</item>
+		<item original="connect the projector to a computer ." slot="4" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="start the presentation ." slot="5" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get to presentation room ." slot="1" text="get to" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation room" head="room"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+		<item original="set up projector ." slot="2" text="set up" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="put electrical cord in the socket ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="socket" head="socket"/>
+		</item>
+		<item original="set up personal computer ." slot="4" text="set up" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="link personal computer to projector ." slot="5" text="link to" head="link">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="dim the lights ." slot="6" text="the " head="the">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lights" head="lights"/>
+		</item>
+		<item original="start presentation ." slot="7" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="identify necessary equipment ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+		<item original="secure equipment ." slot="2" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+		<item original="set up table ." slot="3" text="set up" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="place equipment on table ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="plug equipment into electrical outlet ." slot="5" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="connect cords ." slot="1" text="connect" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cords" head="cords"/>
+		</item>
+		<item original="turn on equipment ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+		<item original="position equipment correctly ." slot="3" text="position" head="position">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="connect cords ." slot="1" text="connect" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cords" head="cords"/>
+		</item>
+		<item original="turn on equipment ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+		<item original="position equipment correctly ." slot="3" text="position" head="position">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="set up projector screen ." slot="1" text="set up" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector screen" head="screen"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="plug in projector unit ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector unit" head="unit"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="focus projector onto screen ." slot="3" text="focus onto" head="focus">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+			<ptcp text="screen" head="screen"/>
+		</item>
+		<item original="put presentation material into projector ." slot="4" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation material" head="material"/>
+			<ptcp text="presentation" head="presentation"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="dim lights ." slot="5" text="dim " head="dim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lights" head="lights"/>
+		</item>
+		<item original="start presentation ." slot="6" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="presentation" head="presentation"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="plug in projector ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="connect laptop ." slot="2" text="connect" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="laptop" head="laptop"/>
+		</item>
+		<item original="point projector ." slot="3" text="point" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="turn on laptop ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="laptop" head="laptop"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="turn on projector ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="turn on projector ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="turn on projector ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="turn on projector ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="turn on projector ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="turn on projector ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="turn on projector ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="connect laptop to projector ." slot="2" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="laptop" head="laptop"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="plug projector to laptop ." slot="1" text="plug to" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+			<ptcp text="laptop" head="laptop"/>
+		</item>
+		<item original="turn on both equipment ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="gather the tools you need ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tools" head="tools"/>
+		</item>
+		<item original="hook laptop up to the projector ." slot="2" text="hook up to" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="laptop" head="laptop"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="set up screen ." slot="3" text="set up" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screen" head="screen"/>
+		</item>
+		<item original="secure settings ." slot="4" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="settings" head="settings"/>
+		</item>
+		<item original="turn everything on ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="gather notes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+		</item>
+		<item original="plug in slide machine ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slide machine" head="machine"/>
+			<ptcp text="slide" head="slide"/>
+		</item>
+		<item original="press play ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="gather notes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+		</item>
+		<item original="plug in slide machine ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slide machine" head="machine"/>
+			<ptcp text="slide" head="slide"/>
+		</item>
+		<item original="press play ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="gather notes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="notes" head="notes"/>
+		</item>
+		<item original="plug in slide machine ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slide machine" head="machine"/>
+			<ptcp text="slide" head="slide"/>
+		</item>
+		<item original="press play ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="play" head="play"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="hook computer to projector ." slot="1" text="hook to" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="turn on computer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="turn on projector ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="set the settings ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="settings" head="settings"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="hook computer to projector ." slot="1" text="hook to" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="turn on computer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="turn on projector ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="projector" head="projector"/>
+		</item>
+		<item original="set the settings ." slot="4" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="settings" head="settings"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="find equipment ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+		<item original="move it to the room ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="plug it in ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="turn it on ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="find equipment ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="equipment" head="equipment"/>
+		</item>
+		<item original="move it to the room ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="plug it in ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="turn it on ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,1080 @@
+<scripts>
+	<script id="1">
+		<item original="put originals in fax machine ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="originals" head="originals"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dial destination number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination number" head="number"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="press send on fax machine ." slot="3" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get number ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial number ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="wait for fax tone ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax tone" head="tone"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="type in fax number ." slot="1" text="type in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="put document to be faxed in paper feeder ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="paper feeder" head="feeder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="hit send ." slot="3" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+		<item original="wait until document has gone through ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="check if send was successful ." slot="5" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="successful" head="successful"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="put the paper into the fax ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dial the number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="push start ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="watch it finish sending ." slot="4" text="finish" head="finish">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="remove the sent item from the tray ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the sent item" head="item"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="take the document to the fax machine ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="the fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="put the document in the tray facing down ." slot="2" text="put down in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="dial the fax number ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press the 'start' button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="write fax ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="put fax pages into fax machine ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax pages" head="pages"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="fax machine" head="machine"/>
+		</item>
+		<item original="dial number ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="wait for fax tone ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax tone" head="tone"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+		<item original="wait for transmission to end ." slot="6" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="transmission" head="transmission"/>
+			<ptcp text="end" head="end"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="write fax ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="put fax in fax machine ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="fax machine" head="machine"/>
+		</item>
+		<item original="dial number ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="wait for fax tone ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax tone" head="tone"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+		<item original="hang up ." slot="6" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="write fax ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="insert fax into fax machine ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="fax machine" head="machine"/>
+		</item>
+		<item original="dial humber ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="humber" head="humber"/>
+		</item>
+		<item original="wait for fax tone ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax tone" head="tone"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="wait until all fax transmitted ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="hang up ." slot="7" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="write document and print ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="print" head="print"/>
+		</item>
+		<item original="take document to fax machine ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="insert document in fax machine ." slot="3" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dial number ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="wait for fax tone ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax tone" head="tone"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="6" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+		<item original="when finished hang up ." slot="7" text="finished up" head="finished">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="select options on fax machine ." slot="1" text="select on" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="options" head="options"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="punch number in fax machine ." slot="2" text="punch in" head="punch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="put document to be sent in slot ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="slot" head="slot"/>
+		</item>
+		<item original="press send ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="write fax ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="place fax in fax machine ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="fax machine" head="machine"/>
+		</item>
+		<item original="dial number ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="wait for fax tone ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax tone" head="tone"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+		<item original="wait for fax to transmit ." slot="6" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="place document to fax into fax machine ." slot="1" text="place to into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="fax machine" head="machine"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial number ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="wait for fax tone ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax tone" head="tone"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+		<item original="wait for fax to finish transmission ." slot="6" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="transmission" head="transmission"/>
+		</item>
+		<item original="hang up ." slot="7" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="locate fax number of recipient ." slot="1" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="recipient" head="recipient"/>
+		</item>
+		<item original="dial fax number of recipient on a fax machine ." slot="2" text="dial of on" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="recipient" head="recipient"/>
+			<ptcp text="a fax machine" head="machine"/>
+		</item>
+		<item original="feed message to fax into the fax machine ." slot="3" text="feed to into" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="the fax machine" head="machine"/>
+		</item>
+		<item original="transmit the fax to the recipient ." slot="4" text="transmit to" head="transmit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="the recipient" head="recipient"/>
+		</item>
+		<item original="end the call ." slot="5" text="end" head="end">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="call" head="call"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="type out the fax ." slot="1" text="type out" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="print it ." slot="2" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="enter the fax number in the machine ." slot="3" text="enter in" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="feed the fax into the document ." slot="4" text="feed into" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="press send ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="insert the fax into the fax machine ." slot="1" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="the fax machine" head="machine"/>
+		</item>
+		<item original="dial the recipient s number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the recipient s number" head="number"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="wait for 'send tone' ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tone" head="tone"/>
+		</item>
+		<item original="press 'send' button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="get  fax material to be sent ." slot="1" text="to" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax material" head="material"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="go to fax machine ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="place fax face side down in fax machine ." slot="3" text="place down in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax face side" head="side"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="face" head="face"/>
+			<ptcp text="fax machine" head="machine"/>
+		</item>
+		<item original="dial number to where fax is to be sent ." slot="4" text="dial to" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="write letter ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="print letter ." slot="2" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="put letter in fax ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="type recepient number ." slot="4" text="type" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="press send ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="place paper in fax machine ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="enter fax number ." slot="2" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="put fax in fax machine ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="fax machine" head="machine"/>
+		</item>
+		<item original="dial fax number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="load the paper in a fax machine ." slot="1" text="load in" head="load">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="a fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dial the number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="press start to send ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="put the paper to send in the fax machine ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="the fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dial the fax number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="wait for the fax to send ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="retrieve the paper from the fax machine ." slot="4" text="retrieve from" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="the fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="file the paper that went through the fax machine ." slot="5" text="file through" head="file">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="the fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="put the paper in the fax holder ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="the fax holder" head="holder"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dial the number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="press start ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="write document ." slot="1" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="dial number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="insert document ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="send ." slot="4" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="write a message in a paper ." slot="1" text="write in" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put the paper in a fax machine ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="a fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dial the number where you want to send ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="then press start ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="put paper in a tray ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="tray" head="tray"/>
+		</item>
+		<item original="dial the number and press start ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="press start" head="start"/>
+			<ptcp text="press" head="press"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="prepare fax ." slot="1" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="turn on fax machine ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="make sure the feed is clear ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="feed" head="feed"/>
+		</item>
+		<item original="place fax into feed ." slot="4" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+			<ptcp text="feed" head="feed"/>
+		</item>
+		<item original="dial the appropriate number ." slot="5" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="make sure fax call is completed ." slot="6" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax call" head="call"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="hang up ." slot="7" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="insert paper ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="input the phone number ." slot="2" text="input " head="input">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="the phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="push the start button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="insert paper ." slot="1" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="input the phone number ." slot="2" text="input " head="input">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="the phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="push the start button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the start button" head="button"/>
+			<ptcp text="start" head="start"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="write your message on paper ." slot="1" text="write on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="message" head="message"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="go to the fax machine ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="place the paper in the machine ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="dial the fax number ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press the send button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="pen mind ." slot="1" text="mind" head="mind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="feed in fax ." slot="1" text="feed in" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="type in fax number ." slot="2" text="type in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+		<item original="retrieve confirmation ." slot="4" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="confirmation" head="confirmation"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="place paper in fax ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dial number ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="send fax ." slot="3" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="remove page from fax ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="page" head="page"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="press fax number ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="insert document ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="send fax ." slot="3" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="press fax number ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="insert document ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="send fax ." slot="3" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="press fax number ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="insert document ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="send fax ." slot="3" text="send" head="send">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="find the fax ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="find the fax ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="find the fax ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="obtain document to fax ." slot="1" text="obtain to" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="walk to fax machine ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="place document face side down onto fax machine ." slot="3" text="place down onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document face side" head="side"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="face" head="face"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dail number to fax ." slot="4" text="dail to" head="dail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="watch document be faxed ." slot="6" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="validate document was faxed ." slot="7" text="validate" head="validate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="obtain document to fax ." slot="1" text="obtain to" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="walk to fax machine ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="place document face side down onto fax machine ." slot="3" text="place down onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document face side" head="side"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="face" head="face"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dail number to fax ." slot="4" text="dail to" head="dail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="watch document be faxed ." slot="6" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="validate document was faxed ." slot="7" text="validate" head="validate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="obtain document to fax ." slot="1" text="obtain to" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="walk to fax machine ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="place document face side down onto fax machine ." slot="3" text="place down onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document face side" head="side"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="face" head="face"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dail number to fax ." slot="4" text="dail to" head="dail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="watch document be faxed ." slot="6" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="validate document was faxed ." slot="7" text="validate" head="validate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="obtain document to fax ." slot="1" text="obtain to" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="walk to fax machine ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="place document face side down onto fax machine ." slot="3" text="place down onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document face side" head="side"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="face" head="face"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dail number to fax ." slot="4" text="dail to" head="dail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="watch document be faxed ." slot="6" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="validate document was faxed ." slot="7" text="validate" head="validate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="obtain document to fax ." slot="1" text="obtain to" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="walk to fax machine ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="place document face side down onto fax machine ." slot="3" text="place down onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document face side" head="side"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="face" head="face"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dail number to fax ." slot="4" text="dail to" head="dail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="watch document be faxed ." slot="6" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="validate document was faxed ." slot="7" text="validate" head="validate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="obtain document to fax ." slot="1" text="obtain to" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="walk to fax machine ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="place document face side down onto fax machine ." slot="3" text="place down onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document face side" head="side"/>
+			<ptcp text="document" head="document"/>
+			<ptcp text="face" head="face"/>
+			<ptcp text="fax machine" head="machine"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="dail number to fax ." slot="4" text="dail to" head="dail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press start ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="start" head="start"/>
+		</item>
+		<item original="watch document be faxed ." slot="6" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+		<item original="validate document was faxed ." slot="7" text="validate" head="validate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="document" head="document"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="place paper in fax tray ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="fax tray" head="tray"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="enter fax number ." slot="2" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="place paper in fax tray ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="fax tray" head="tray"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="enter fax number ." slot="2" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="place paper in fax tray ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="fax tray" head="tray"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="enter fax number ." slot="2" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="place paper in fax tray ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="fax tray" head="tray"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="enter fax number ." slot="2" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fax number" head="number"/>
+			<ptcp text="fax" head="fax"/>
+		</item>
+		<item original="press send ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="send" head="send"/>
+		</item>
+	</script>
+</scripts>

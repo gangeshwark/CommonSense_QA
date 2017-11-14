@@ -1,0 +1,1000 @@
+<scripts>
+	<script id="1">
+		<item original="find a suitcase ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="find things you want to put into the suitcase ." slot="2" text="find into" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="arrange the things in the suitcase ." slot="3" text="arrange in" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="open suitcase lid ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase lid" head="lid"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="pick up item ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="fold item ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="place item in suitcase ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase lid ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase lid" head="lid"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="retrieve suitcase ." slot="1" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="open suitcase ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="fold clothes ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place clothes in suitcase ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suticase ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suticase" head="suticase"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="open suitcase ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="put things to be packed inside ." slot="2" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+		</item>
+		<item original="make sure clothes are folded ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="close the suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="gather the items to be packed ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="place them near the suitcase ." slot="2" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="fold each item to be in as compact form as possible ." slot="3" text="fold in as" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="as compact form" head="form"/>
+		</item>
+		<item original="open the suitcase ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="place each item in the suitcase ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close the suitcase ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="gather clothes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="fold cloth ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+		</item>
+		<item original="get suitcase ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="put clothes in suitcase ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="open the suitcase ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="put the clothes in the suitcase ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="put other important things/documents in the suitcase ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thingsdocuments" head="thingsdocuments"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close the suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="open the suitcase ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="place clothes in the suitcase ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="place shampoo in the suitcase ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shampoo" head="shampoo"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="place toothbrush and other bathroom supplies in the suitcase ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toothbrush" head="toothbrush"/>
+			<ptcp text="other bathroom supplies" head="supplies"/>
+			<ptcp text="bathroom" head="bathroom"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close the suitcase ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="gather the things to be put into the suitcase ." slot="1" text="gather into" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="open the suitcase ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="put the things into the suitcase ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close the suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="fold clothes ." slot="1" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="put liquids into plastic bags ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="liquids" head="liquids"/>
+			<ptcp text="plastic bags" head="bags"/>
+			<ptcp text="plastic" head="plastic"/>
+		</item>
+		<item original="open suitcase ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="put items into suitcase in space-efficient manner ." slot="4" text="put into in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="suitcase" head="suitcase"/>
+			<ptcp text="manner" head="manner"/>
+		</item>
+		<item original="close suitcase ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="gather all items to be put into the suitcase ." slot="1" text="gather into" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="put items into the suitcase ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close the suitcase ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="gather clothes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="get suitcase ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="arrange clothes in suitcase ." slot="3" text="arrange in" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="determine what items are needed for the trip ." slot="1" text="determine for" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="trip" head="trip"/>
+		</item>
+		<item original="locate the items that are needed ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="fold clothing items ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing items" head="items"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="open the suitcase ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="place all items in a logical fashion in the suitcase ." slot="5" text="place in in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="fashion" head="fashion"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close the suitcase ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="gather clothes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="put clothes in suitcase ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="open suitcase ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="fold clothes ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place clothes in suitcase ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="secure suitcase ." slot="5" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="gather clothes ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place clothes inside suitcase ." slot="2" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitecase ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitecase" head="suitecase"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get the suitcase ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="get your clothe4s out the wardrobe ." slot="2" text="get out" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothe4s" head="clothe4s"/>
+			<ptcp text="wardrobe" head="wardrobe"/>
+		</item>
+		<item original="put them in the suitcase ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close the suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="find a suitcase ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="open the suitcase ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="find items to put into the suitcase ." slot="3" text="find into" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="put an item into the suitcase ." slot="4" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="repeat until all items are in the suitcase or until the suitcase is full ." slot="5" text="repeat in" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close the suitcase ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="get suitcase ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="identify essentials ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="essentials" head="essentials"/>
+		</item>
+		<item original="pack essentials ." slot="3" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="essentials" head="essentials"/>
+		</item>
+		<item original="check weather of destination ." slot="4" text="check of" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weather" head="weather"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="choose clothing ." slot="5" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="pack clothing ." slot="6" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="lock suitcase ." slot="7" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="find an empty suitcase ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="gather items to be packed ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="put items in suitcase ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="book trip ." slot="1" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trip" head="trip"/>
+		</item>
+		<item original="find suitcase ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="unpack suitcase from last trip ." slot="3" text="unpack from" head="unpack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+			<ptcp text="trip" head="trip"/>
+		</item>
+		<item original="gather desired clothing ." slot="4" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired clothing" head="clothing"/>
+		</item>
+		<item original="fold clothing neatly ." slot="5" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="place clothing into suitcase ." slot="6" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="open a suitcase ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="fold clothes ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="put clothes in suitcase ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="open the suitcase ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="gather up the clothes ." slot="2" text="gather up" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="put the clothes in the suitcase ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close the suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="find suitcase ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="open suitcase ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="gather items to pack ." slot="3" text="gather to" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="pack" head="pack"/>
+		</item>
+		<item original="organize items ." slot="4" text="organize" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="plan where to put items ." slot="5" text="plan" head="plan">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="put items into suitcase ." slot="6" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="select clothes ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="fold clothes ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place in suitcase ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="yell at spouse louder and longer thean usual ." slot="1" text="thean at" head="thean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="yell" head="yell"/>
+			<ptcp text="spouse" head="spouse"/>
+		</item>
+		<item original="yank suitcase out of closet ." slot="2" text="yank out of" head="yank">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+			<ptcp text="closet" head="closet"/>
+		</item>
+		<item original="spend an hour looking at wedding dress in suit case ." slot="3" text="spend looking at in" head="spend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hour" head="hour"/>
+			<ptcp text="wedding dress" head="dress"/>
+			<ptcp text="wedding" head="wedding"/>
+			<ptcp text="suit case" head="case"/>
+			<ptcp text="suit" head="suit"/>
+		</item>
+		<item original="cry ." slot="4" text="cry" head="cry">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="kiss and makeup ." slot="5" text="kiss" head="kiss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="makeup" head="makeup"/>
+		</item>
+		<item original="put suitcasr back in closet ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcasr" head="suitcasr"/>
+			<ptcp text="closet" head="closet"/>
+		</item>
+		<item original="pat robot ." slot="7" text="pat" head="pat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="robot" head="robot"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="find suitcases ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcases" head="suitcases"/>
+		</item>
+		<item original="lay out outfits ." slot="2" text="lay out" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outfits" head="outfits"/>
+		</item>
+		<item original="wrap shoes in bags ." slot="3" text="wrap in" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+			<ptcp text="bags" head="bags"/>
+		</item>
+		<item original="roll up clothing and stuff cases ." slot="4" text="roll up" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing and stuff cases" head="cases"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="stuff" head="stuff"/>
+		</item>
+		<item original="find toiletries and put in suitcase ." slot="5" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toiletries" head="toiletries"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="find jewelry and put in case ." slot="6" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jewelry" head="jewelry"/>
+			<ptcp text="case" head="case"/>
+		</item>
+		<item original="find entertainment and put in case ." slot="7" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="entertainment" head="entertainment"/>
+			<ptcp text="case" head="case"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="open suitcase ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="fill suitcase with clothes ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="close suitcase ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="locate all necessary items ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="fold clothing ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="put clothing in suitcase ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="put other stuff on top of clothing ." slot="4" text="put on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stuff" head="stuff"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="zip up suitcase ." slot="5" text="zip up" head="zip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="locate all necessary items ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+		</item>
+		<item original="fold clothing ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="put clothing in suitcase ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="put other stuff on top of clothing ." slot="4" text="put on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stuff" head="stuff"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="zip up suitcase ." slot="5" text="zip up" head="zip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="open suitcase ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="fill with clothes ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="close suitcase ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="put suitcase on bed ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="open suitcase ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="take clothes out of wardrobe ." slot="3" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="wardrobe" head="wardrobe"/>
+		</item>
+		<item original="put clothes in suitcase ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close and seal suitcase ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="pick out clean clothes you need ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="gather and bag toiletries ." slot="2" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toiletries" head="toiletries"/>
+		</item>
+		<item original="place neatly into suitcase ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="zip up suitcase ." slot="4" text="zip up" head="zip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="pick out clean clothes you need ." slot="1" text="pick out" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="gather and bag toiletries ." slot="2" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toiletries" head="toiletries"/>
+		</item>
+		<item original="place neatly into suitcase ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="zip up suitcase ." slot="4" text="zip up" head="zip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="remove clothes from closet ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="closet" head="closet"/>
+		</item>
+		<item original="open suitcase ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="fold clothes ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place folded clothes in suitcase ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="ensure even distribution ." slot="5" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="distribution" head="distribution"/>
+		</item>
+		<item original="close suitcase ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="secure zipper ." slot="7" text="secure" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="zipper" head="zipper"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="open suitcase ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="pick out wanted items for trip ." slot="2" text="pick out for" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="trip" head="trip"/>
+		</item>
+		<item original="fold them neatly ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="arrange them neatly in suitcase and pockets ." slot="4" text="arrange in" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+			<ptcp text="pockets" head="pockets"/>
+		</item>
+		<item original="close suitcase ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="take clothes from closet ." slot="1" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="closet" head="closet"/>
+		</item>
+		<item original="fold clothes ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place clothes in suitcase ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="arrange clothes carefully ." slot="4" text="arrange" head="arrange">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="close suitcase ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="walk towards suitcase ." slot="1" text="walk towards" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="pack everything you need ." slot="2" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+		</item>
+		<item original="put everything in suitcase ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="buckle everything on suitcase ." slot="5" text="buckle on" head="buckle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="done ." slot="6" text="done " head="done">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="walk towards suitcase ." slot="1" text="walk towards" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="pack everything you need ." slot="2" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+		</item>
+		<item original="put everything in suitcase ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="buckle everything on suitcase ." slot="5" text="buckle on" head="buckle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="done ." slot="6" text="done " head="done">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="choose clothing ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="fold clothes ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place clothes in suitcase ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="choose clothing ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="fold clothes ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place clothes in suitcase ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="close suitcase ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pack suitcase ." slot="2" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="pack the suit case4 ." slot="1" text="pack" head="pack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the suit case4" head="case4"/>
+			<ptcp text="suit" head="suit"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="place things to bring in suitcase ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="things" head="things"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="get suitcase ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="figure out what is needed ." slot="2" text="figure out" head="figure">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get clothes ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="fold clothes ." slot="4" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place in suitcase ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="put bathroom stuff in ziplock in suitcase ." slot="6" text="put in in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bathroom stuff" head="stuff"/>
+			<ptcp text="bathroom" head="bathroom"/>
+			<ptcp text="ziplock" head="ziplock"/>
+			<ptcp text="suitcase" head="suitcase"/>
+		</item>
+		<item original="clothes lid ." slot="7" text="lid" head="lid">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,1884 @@
+<scripts>
+	<script id="1">
+		<item original="find the phone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up the phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial the digits 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="digits" head="digits"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get phone ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 9 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="dial 1 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="dial 1 ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for answer ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answer" head="answer"/>
+		</item>
+		<item original="state emergency ." slot="6" text="state" head="state">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="go to phone ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="place receiver to ear/speaker ." slot="3" text="place to" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+			<ptcp text="earspeaker" head="earspeaker"/>
+		</item>
+		<item original="dial 9 1 1 ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="when requested state emergency ." slot="5" text="requested" head="requested">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="state emergency" head="emergency"/>
+			<ptcp text="state" head="state"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="pick up the phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="get a dialtone ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dialtone" head="dialtone"/>
+		</item>
+		<item original="press 9 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="press 1 ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="find a telephone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="lift the receiver or turn the telephone on ." slot="2" text="lift on" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="press button 9 on the telephone ." slot="3" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="press button 1 on the telephone ." slot="4" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="press button 1 on the telephone ." slot="5" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="locate a phone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pickup the receiver ." slot="2" text="pickup " head="pickup">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pickup" head="pickup"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="dial 9 on the keypad ." slot="3" text="dial on" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+			<ptcp text="keypad" head="keypad"/>
+		</item>
+		<item original="dial 1 on the keypad ." slot="4" text="dial on" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+			<ptcp text="keypad" head="keypad"/>
+		</item>
+		<item original="dial 1 on the keypad ." slot="5" text="dial on" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+			<ptcp text="keypad" head="keypad"/>
+		</item>
+		<item original="when the operator answers state the emergency and your location ." slot="6" text="answers" head="answers">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="state" head="state"/>
+			<ptcp text="emergency" head="emergency"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="follow the instructions of the 911 operator ." slot="7" text="follow of" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="locate phone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="locate phone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 9 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="dial 1 ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="dial 1 ." slot="5" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="pick up the telephone receiver and hold it to your ear ." slot="1" text="pick up to" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the telephone receiver" head="receiver"/>
+			<ptcp text="telephone" head="telephone"/>
+			<ptcp text="ear" head="ear"/>
+		</item>
+		<item original="press the numbers 9 then 1 then 1 again and wait for the call to be answered ." slot="2" text="press then for" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="numbers" head="numbers"/>
+			<ptcp text="9" head="9"/>
+			<ptcp text="then 1" head="then"/>
+			<ptcp text="call" head="call"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="find phone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="diall 911 ." slot="2" text="diall" head="diall">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="pick up the phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="tell the police what happened ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police" head="police"/>
+		</item>
+		<item original="tell the police where it happened ." slot="4" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police" head="police"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="pick up the phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="press 9 ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="press 1 again ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="give your name and address information to the emergency operator ." slot="5" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="information" head="information"/>
+			<ptcp text="the emergency operator" head="operator"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="pick up the telephone receiver ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the telephone receiver" head="receiver"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="press the button labeled as 9 ." slot="2" text="press as" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press the button labeled as 1 twice ." slot="3" text="press as" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="lift up the phone ." slot="1" text="lift up" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="check if there is a dialtone ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="dialtone" head="dialtone"/>
+		</item>
+		<item original="dial 9-1-1 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="describe your situation ." slot="4" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="situation" head="situation"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="go to the phone ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up the phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 9 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="dial 1 ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="dial 1 ." slot="5" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="say where and who you are ." slot="6" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="describe the emergency ." slot="7" text="describe" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="go to phone ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="wait for dial tone ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial tone" head="tone"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+		<item original="dial 9 ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="dial 1 ." slot="5" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="dial 1 ." slot="6" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="press talk ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talk" head="talk"/>
+		</item>
+		<item original="press 9 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="press 1 ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 9 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="dial 1 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="dial 1 ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="get the phone ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="press the number 9 once ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="press the number 1 twice ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="wait for the emergency services to answer the call ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the emergency services" head="services"/>
+			<ptcp text="emergency" head="emergency"/>
+			<ptcp text="call" head="call"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="go to a phone ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial '9 1 1' ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="respond to the operator s inquiries ." slot="3" text="respond to" head="respond">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="inquiries" head="inquiries"/>
+		</item>
+		<item original="do as the operator asks ." slot="4" text="asks" head="asks">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="find telephone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up telephone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="state emergency ." slot="4" text="state" head="state">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="state location ." slot="5" text="state" head="state">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="pick up the phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="press 9 ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="press 1 ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="find a phone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up the reciever ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reciever" head="reciever"/>
+		</item>
+		<item original="press 9 on the key pad ." slot="3" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+			<ptcp text="pad" head="pad"/>
+		</item>
+		<item original="press 1 on the key pad ." slot="4" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+			<ptcp text="pad" head="pad"/>
+		</item>
+		<item original="press 1 on the key pad ." slot="5" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+			<ptcp text="pad" head="pad"/>
+		</item>
+		<item original="tell operator the emergency ." slot="6" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="stay on phone with operator until requested services arrive ." slot="7" text="stay on with" head="stay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="requested services" head="services"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="locate telephone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up reciever ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reciever" head="reciever"/>
+		</item>
+		<item original="listen for dial tone ." slot="3" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial tone" head="tone"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="dial 911 ." slot="1" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="take the telephone off the hook ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+			<ptcp text="hook" head="hook"/>
+		</item>
+		<item original="press the buttons 9 1 and 1 ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="buttons" head="buttons"/>
+			<ptcp text="9 1 and 1" head="9"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="find a working phone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a working phone" head="phone"/>
+		</item>
+		<item original="pick up the phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="wait for answer ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answer" head="answer"/>
+		</item>
+		<item original="tell operator of the emergency ." slot="5" text="tell of" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 9 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="dial 1 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="dial 1 ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="find phone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 9 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="dial 1 ." slot="4" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="dial 1 ." slot="5" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="pick up phone receiver ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone receiver" head="receiver"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="push 'talk' or 'on' ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talk" head="talk"/>
+		</item>
+		<item original="push '9' button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="push '1' button ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="push '1' button ." slot="5" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="pick up handset ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handset" head="handset"/>
+		</item>
+		<item original="dial 9 1 1 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="locate phone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="press 9 button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press 1 button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press 1 button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="speak with dispatcher ." slot="6" text="speak with" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dispatcher" head="dispatcher"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="locate phone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="press 9 button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press 1 button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press 1 button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="speak with dispatcher ." slot="6" text="speak with" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dispatcher" head="dispatcher"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="press 9 ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="press 1 ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="go to the phone ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up the receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="press the 9 button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press the 1 button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press the 1 button ." slot="5" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="get phone ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="push 9 then 1 then 1 ." slot="2" text="push then" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+			<ptcp text="then 1" head="then"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="get phone ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="push 9 then 1 then 1 ." slot="2" text="push then" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+			<ptcp text="then 1" head="then"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="locate landline telephone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up handset ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handset" head="handset"/>
+		</item>
+		<item original="dial 9-1-1 on keypad ." slot="3" text="dial on" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+			<ptcp text="keypad" head="keypad"/>
+		</item>
+		<item original="talk to initial screener ." slot="4" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screener" head="screener"/>
+		</item>
+		<item original="choose police fire or ambulance ." slot="5" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police fire or ambulance" head="fire"/>
+			<ptcp text="police" head="police"/>
+			<ptcp text="ambulance" head="ambulance"/>
+		</item>
+		<item original="talk to dispatcher ." slot="6" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dispatcher" head="dispatcher"/>
+		</item>
+		<item original="hang up phone ." slot="7" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="locate landline telephone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up handset ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handset" head="handset"/>
+		</item>
+		<item original="dial 9-1-1 on keypad ." slot="3" text="dial on" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+			<ptcp text="keypad" head="keypad"/>
+		</item>
+		<item original="talk to initial screener ." slot="4" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screener" head="screener"/>
+		</item>
+		<item original="choose police fire or ambulance ." slot="5" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police fire or ambulance" head="fire"/>
+			<ptcp text="police" head="police"/>
+			<ptcp text="ambulance" head="ambulance"/>
+		</item>
+		<item original="talk to dispatcher ." slot="6" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dispatcher" head="dispatcher"/>
+		</item>
+		<item original="hang up phone ." slot="7" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="locate landline telephone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up handset ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handset" head="handset"/>
+		</item>
+		<item original="dial 9-1-1 on keypad ." slot="3" text="dial on" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+			<ptcp text="keypad" head="keypad"/>
+		</item>
+		<item original="talk to initial screener ." slot="4" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="screener" head="screener"/>
+		</item>
+		<item original="choose police fire or ambulance ." slot="5" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="police fire or ambulance" head="fire"/>
+			<ptcp text="police" head="police"/>
+			<ptcp text="ambulance" head="ambulance"/>
+		</item>
+		<item original="talk to dispatcher ." slot="6" text="talk to" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dispatcher" head="dispatcher"/>
+		</item>
+		<item original="hang up phone ." slot="7" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="find phone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="tell the operator the nature of the emergency ." slot="3" text="tell of" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="nature" head="nature"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="tell where you are ." slot="4" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell who you are ." slot="5" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="follow instructions from the operator ." slot="6" text="follow from" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="dial 9 ." slot="1" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="dial 1 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="dial 1 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="explain your emergency to the operator ." slot="4" text="explain to" head="explain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="follow operator s instructions ." slot="5" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator s instructions" head="instructions"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="s" head="s"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="press 9 ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="press 1 ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for response ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="response" head="response"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="press 9 ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="press 1 ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for response ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="response" head="response"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="pick up the receiver ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="listen for the dial tone ." slot="2" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the dial tone" head="tone"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+		<item original="dial 9 then 1 then 1 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for a voice at the other end ." slot="4" text="wait for at" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="voice" head="voice"/>
+			<ptcp text="end" head="end"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="pick up a telephone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="dial '911' ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="wait for operator ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="tell operator location ." slot="4" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator location" head="location"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="tell operator what has happened ." slot="5" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="follow operator s instructions ." slot="6" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator s instructions" head="instructions"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="wait for help ." slot="7" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="help" head="help"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="pick up receiver ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="talk ." slot="3" text="talk" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hang up receiver ." slot="4" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="pick up receiver ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="talk ." slot="3" text="talk" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hang up receiver ." slot="4" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="pick up or turn on phone ." slot="1" text="pick up on" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="press send (if applicable) ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="applicable" head="applicable"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="pick up the phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial the numbers 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="numbers" head="numbers"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="pick up the phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial the numbers 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="numbers" head="numbers"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="pick up the phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial the numbers 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="numbers" head="numbers"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="pick up the phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="press 9 ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 9 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="press 9 ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 9 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="say your name ." slot="5" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+		</item>
+		<item original="say your address ." slot="6" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="say what the emergency is ." slot="7" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="pick up telephone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="press 9 ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="press 1 ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for answer ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answer" head="answer"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="find phone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="pick up receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="dial 9-1-1 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="talk ." slot="4" text="talk" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="locate telephone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="push 9 ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 twice ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for operator to answer ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="report situation ." slot="6" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="situation" head="situation"/>
+		</item>
+		<item original="give address to operator ." slot="7" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="locate telephone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="push 9 ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 twice ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for operator to answer ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="report situation ." slot="6" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="situation" head="situation"/>
+		</item>
+		<item original="give address to operator ." slot="7" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="locate telephone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="push 9 ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 twice ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for operator to answer ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="report situation ." slot="6" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="situation" head="situation"/>
+		</item>
+		<item original="give address to operator ." slot="7" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="locate telephone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="push 9 ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 twice ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for operator to answer ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="report situation ." slot="6" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="situation" head="situation"/>
+		</item>
+		<item original="give address to operator ." slot="7" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="locate telephone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="push 9 ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 twice ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for operator to answer ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="report situation ." slot="6" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="situation" head="situation"/>
+		</item>
+		<item original="give address to operator ." slot="7" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="locate telephone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="push 9 ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 twice ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for operator to answer ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="report situation ." slot="6" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="situation" head="situation"/>
+		</item>
+		<item original="give address to operator ." slot="7" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="locate telephone ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="push 9 ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="9" head="9"/>
+		</item>
+		<item original="press 1 twice ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1" head="1"/>
+		</item>
+		<item original="wait for operator to answer ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="report situation ." slot="6" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="situation" head="situation"/>
+		</item>
+		<item original="give address to operator ." slot="7" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="go to the telephone ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telephone" head="telephone"/>
+		</item>
+		<item original="pick up the receiver ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="listen for the dial tone ." slot="3" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the dial tone" head="tone"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+		<item original="push the '9' button ." slot="4" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="push the '1' button ." slot="5" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="push the '1' button again ." slot="6" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="listen until someone answers ." slot="7" text="listen until" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone answers" head="answers"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="pick up the phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="tell the responder your location ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="responder" head="responder"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="wait ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="walk to phone ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="describe emergency to operator ." slot="3" text="describe to" head="describe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="answer operator s question ." slot="4" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator s question" head="question"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="follow operators instructions ." slot="5" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operators instructions" head="instructions"/>
+			<ptcp text="operators" head="operators"/>
+		</item>
+		<item original="hang up when situation is resolved ." slot="6" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="situation" head="situation"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="determine emergency ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="determine emergency ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="70">
+		<item original="determine emergency ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="71">
+		<item original="determine emergency ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="72">
+		<item original="determine emergency ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="73">
+		<item original="determine emergency ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="74">
+		<item original="determine emergency ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="75">
+		<item original="determine emergency ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="76">
+		<item original="determine emergency ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="pick up phone ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="77">
+		<item original="pick up receiver ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="receiver" head="receiver"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="explain to the operator what your emergency is ." slot="3" text="explain to" head="explain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="emergency" head="emergency"/>
+		</item>
+		<item original="follow the operator s instructions ." slot="4" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the operator s instructions" head="instructions"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="s" head="s"/>
+		</item>
+	</script>
+	<script id="78">
+		<item original="pick up the phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="remain calm ." slot="3" text="remain" head="remain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="calm" head="calm"/>
+		</item>
+		<item original="explain the emergency to the operator ." slot="4" text="explain to" head="explain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="emergency" head="emergency"/>
+			<ptcp text="operator" head="operator"/>
+		</item>
+		<item original="follow the operator s instructions ." slot="5" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the operator s instructions" head="instructions"/>
+			<ptcp text="operator" head="operator"/>
+			<ptcp text="s" head="s"/>
+		</item>
+	</script>
+	<script id="79">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="listen for dial tone ." slot="2" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial tone" head="tone"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+		<item original="press 9-1-1 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="wait for answer ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answer" head="answer"/>
+		</item>
+	</script>
+	<script id="80">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="listen for dial tone ." slot="2" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial tone" head="tone"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+		<item original="press 9-1-1 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="wait for answer ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answer" head="answer"/>
+		</item>
+	</script>
+	<script id="81">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="listen for dial tone ." slot="2" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial tone" head="tone"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+		<item original="press 9-1-1 ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="wait for answer ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answer" head="answer"/>
+		</item>
+	</script>
+	<script id="82">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="request ambulance/help ." slot="3" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ambulancehelp" head="ambulancehelp"/>
+		</item>
+		<item original="state address ." slot="4" text="state" head="state">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="state issue ." slot="5" text="state" head="state">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="issue" head="issue"/>
+		</item>
+		<item original="wait ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="83">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="request ambulance/help ." slot="3" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ambulancehelp" head="ambulancehelp"/>
+		</item>
+		<item original="state address ." slot="4" text="state" head="state">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="state issue ." slot="5" text="state" head="state">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="issue" head="issue"/>
+		</item>
+		<item original="wait ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="84">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="turn on talk ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talk" head="talk"/>
+		</item>
+		<item original="punch the digits 9-1-1 ." slot="3" text="punch" head="punch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="digits" head="digits"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="85">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="listen for tone ." slot="2" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tone" head="tone"/>
+		</item>
+		<item original="punch 9-1-1 ." slot="3" text="punch" head="punch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="listen for ring ." slot="4" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ring" head="ring"/>
+		</item>
+		<item original="listen for answer ." slot="5" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answer" head="answer"/>
+		</item>
+	</script>
+	<script id="86">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="turn on talk ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talk" head="talk"/>
+		</item>
+		<item original="punch the digits 9-1-1 ." slot="3" text="punch" head="punch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="digits" head="digits"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="87">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="listen for tone ." slot="2" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tone" head="tone"/>
+		</item>
+		<item original="punch 9-1-1 ." slot="3" text="punch" head="punch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="listen for ring ." slot="4" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ring" head="ring"/>
+		</item>
+		<item original="listen for answer ." slot="5" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answer" head="answer"/>
+		</item>
+	</script>
+	<script id="88">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="turn on talk ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="talk" head="talk"/>
+		</item>
+		<item original="punch the digits 9-1-1 ." slot="3" text="punch" head="punch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="digits" head="digits"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+	<script id="89">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="listen for tone ." slot="2" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tone" head="tone"/>
+		</item>
+		<item original="punch 9-1-1 ." slot="3" text="punch" head="punch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="listen for ring ." slot="4" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ring" head="ring"/>
+		</item>
+		<item original="listen for answer ." slot="5" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answer" head="answer"/>
+		</item>
+	</script>
+	<script id="90">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="listen for dial tone ." slot="2" text="listen for" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial tone" head="tone"/>
+			<ptcp text="dial" head="dial"/>
+		</item>
+		<item original="dial 911 ." slot="3" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+		<item original="wait for answer ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="answer" head="answer"/>
+		</item>
+	</script>
+	<script id="91">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="dial 911 ." slot="2" text="dial" head="dial">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="911" head="911"/>
+		</item>
+	</script>
+</scripts>

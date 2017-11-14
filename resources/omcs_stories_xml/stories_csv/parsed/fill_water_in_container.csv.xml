@@ -1,0 +1,1339 @@
+<scripts>
+	<script id="1">
+		<item original="open container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="hold container under faucet ." slot="2" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="turn faucet on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="turn faucet off when containter is full ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+			<ptcp text="containter" head="containter"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="hold container under tap ." slot="2" text="hold under" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="open tap ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="wait until container is filled ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="close tap ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="take container out from underneath tap ." slot="6" text="take out from underneath" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="get the container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put the container under the source of water ." slot="2" text="put under of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="source" head="source"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on the water ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put container under tap ." slot="2" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="turn on water ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait for container to fill up ." slot="4" text="wait up for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn water off ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="remove container ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="grab water container ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put under faucet ." slot="2" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="turn on water ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait until container full ." slot="4" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn water off ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="remove container ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="place water container under faucet ." slot="1" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water container" head="container"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="let water run until container is full ." slot="2" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off water faucet ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="remove container ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="take container ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put in kitchen sink ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kitchen sink" head="sink"/>
+			<ptcp text="kitchen" head="kitchen"/>
+		</item>
+		<item original="open water tap ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water tap" head="tap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="fill the container ." slot="4" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="close the container ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="find water container ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place water container under water faucet ." slot="2" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water container" head="container"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="water faucet" head="faucet"/>
+		</item>
+		<item original="turn on faucet ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="fill container with water ." slot="4" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn off faucet ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put the container under a tap or water source ." slot="2" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="a tap or water source" head="source"/>
+			<ptcp text="tap" head="tap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on tap ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="wait for the container fills up ." slot="4" text="wait up" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off the tap ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="remove the container ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="take the container ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put it under the tap ." slot="2" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="turn on the tap ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="switch of tap when the container is fulkl ." slot="4" text="switch of" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="place container under water faucet ." slot="1" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="let water run into container ." slot="2" text="run into" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="when container full turn off water ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="remove container ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="find a container for water ." slot="1" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="move to an outside water tap ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="an outside water tap" head="tap"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place the container under the tap ." slot="3" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="turn on the tap ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="when the container is full turn off the tap ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="get the container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="take it to the sink ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="turn on the tap ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="take the container to the sink ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="put it under the tap ." slot="2" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="turn on the tap ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="turn off the tap when full ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="place container under water faucet ." slot="1" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on water ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="when container is full turn off water ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="get water ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="fill in a container ." slot="2" text="fill in" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="locate water source ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water source" head="source"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place container in a position to receive water ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="position" head="position"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="start water source ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water source" head="source"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait until container is full ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="stop water source ." slot="5" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water source" head="source"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="open container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place container near water source ." slot="2" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water source" head="source"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait until container is filled ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="close container ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="open container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="fill container with water ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="close container ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place water in container ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="remove container when full ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place water in container ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="remove container when full ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place water in container ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="remove container when full ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place water in container ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="remove container when full ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place water in container ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="remove container when full ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place water in container ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="remove container when full ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place water in container ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="remove container when full ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place water in container ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="remove container when full ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn water faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put container under faucet ." slot="3" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="let water run until container is full ." slot="4" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off water ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn water faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put container under faucet ." slot="3" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="let water run until container is full ." slot="4" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off water ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn water faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put container under faucet ." slot="3" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="let water run until container is full ." slot="4" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off water ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn water faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put container under faucet ." slot="3" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="let water run until container is full ." slot="4" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off water ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn water faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put container under faucet ." slot="3" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="let water run until container is full ." slot="4" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off water ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn water faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put container under faucet ." slot="3" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="let water run until container is full ." slot="4" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off water ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn water faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put container under faucet ." slot="3" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="let water run until container is full ." slot="4" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off water ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn water faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put container under faucet ." slot="3" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="let water run until container is full ." slot="4" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off water ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn water faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put container under faucet ." slot="3" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="let water run until container is full ." slot="4" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off water ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="walk to sink ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="turn on faucet ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="fill container ." slot="4" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="go near water ." slot="1" text="go near" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="open lid of container ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="fill container with water ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="close the lid of the container off ." slot="4" text="close off of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="take water container to tap ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="put container under tap ." slot="2" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="get container with no holes/leaks ." slot="1" text="get with" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="holesleaks" head="holesleaks"/>
+		</item>
+		<item original="find water source ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water source" head="source"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place container opening against flow of water ." slot="3" text="place against of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container opening" head="opening"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="flow" head="flow"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="allow container to be filled ." slot="4" text="allow" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="remove container from water ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put container under tap ." slot="2" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="turn on the tap ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="fill the container ." slot="4" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off the tap ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="turn on water ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="place container under running water ." slot="2" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="running water" head="water"/>
+		</item>
+		<item original="fill container ." slot="3" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off water ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="open the container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn on the tap ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="hold container opening under the flow of the water ." slot="3" text="hold under of" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container opening" head="opening"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="flow" head="flow"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="when full remove and close the contariner ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="contariner" head="contariner"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="locate container which can hold liquids ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="liquids" head="liquids"/>
+		</item>
+		<item original="decide which container to fill ." slot="2" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="select container ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="find water source ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water source" head="source"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="get water from water source ." slot="5" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="water source" head="source"/>
+		</item>
+		<item original="pour water into container ." slot="6" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="fill water to desired level ." slot="7" text="fill to" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="desired level" head="level"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="locate container which can hold liquids ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="liquids" head="liquids"/>
+		</item>
+		<item original="decide which container to fill ." slot="2" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="select container ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="find water source ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water source" head="source"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="get water from water source ." slot="5" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="water source" head="source"/>
+		</item>
+		<item original="pour water into container ." slot="6" text="pour into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="fill water to desired level ." slot="7" text="fill to" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="desired level" head="level"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="pour water in container until full ." slot="1" text="pour in until" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="open container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="place open container under faucet ." slot="3" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="fill container with water until full ." slot="4" text="fill with until" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn off faucet ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="replace lid on container ." slot="6" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="open container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="place open container under faucet ." slot="3" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="fill container with water until full ." slot="4" text="fill with until" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn off faucet ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="replace lid on container ." slot="6" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="open container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="place open container under faucet ." slot="3" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="fill container with water until full ." slot="4" text="fill with until" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn off faucet ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="replace lid on container ." slot="6" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="open container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn faucet on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="place open container under faucet ." slot="3" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="fill container with water until full ." slot="4" text="fill with until" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn off faucet ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="replace lid on container ." slot="6" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="choose container ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place container below tap ." slot="2" text="place below" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="turn on tap ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="bring container to sink ." slot="1" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn on faucet ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faucet" head="faucet"/>
+		</item>
+		<item original="place container under water ." slot="3" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait until full ." slot="4" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="full" head="full"/>
+		</item>
+		<item original="turn off water ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="find container ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="pick up container ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="walk to sink ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="turn on tap ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="place container under tap ." slot="5" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="fill container ." slot="6" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off tap ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="hold container in hand ." slot="1" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="place in a sink ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sink" head="sink"/>
+		</item>
+		<item original="make sure the tap is directly above the container ." slot="3" text="make above" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn on the tap ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="turn off when desired amount of water is collected ." slot="5" text="turn off of" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired amount" head="amount"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="turn on tape ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="turn on tape ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="turn on tape ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="unscrew container lid ." slot="1" text="unscrew" head="unscrew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container lid" head="lid"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="place container under water flow ." slot="2" text="place under" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water flow" head="flow"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait until container is completely filled ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="remove from water source ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water source" head="source"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="tighten lid back on container ." slot="5" text="tighten on" head="tighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put container under tap ." slot="2" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="turn on tap ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="fill container with water ." slot="4" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put container under tap ." slot="2" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="turn on tap ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+		<item original="fill container with water ." slot="4" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="take water ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="pour water in container ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="wait until full ." slot="3" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="full" head="full"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="get container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put container under water faucet ." slot="2" text="put under" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="turn on water faucet ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water faucet" head="faucet"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="fill container ." slot="4" text="fill" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="turn off tap ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tap" head="tap"/>
+		</item>
+	</script>
+</scripts>

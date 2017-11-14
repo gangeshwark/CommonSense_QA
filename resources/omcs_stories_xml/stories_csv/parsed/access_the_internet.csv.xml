@@ -1,0 +1,962 @@
+<scripts>
+	<script id="1">
+		<item original="turn on computer ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="open browser ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="browser" head="browser"/>
+		</item>
+		<item original="connect to internet ." slot="3" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="turn on the computer ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="connect to the internet ." slot="2" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+		<item original="open the browser ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="browser" head="browser"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="attach your computer to an internet connection ." slot="1" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="connection" head="connection"/>
+		</item>
+		<item original="turn on the computer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="use software which accesses the internet ." slot="3" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="software" head="software"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="move to computer ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="turn on computer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="move mouse to icon ." slot="3" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mouse" head="mouse"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+		<item original="click on connection icon ." slot="4" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="connection icon" head="icon"/>
+			<ptcp text="connection" head="connection"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+		<item original="wait to connect to dsl ." slot="5" text="wait to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dsl" head="dsl"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="connect an internet connection to a computing device ." slot="1" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="connection" head="connection"/>
+			<ptcp text="a computing device" head="device"/>
+		</item>
+		<item original="turn on the computing device ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the computing device" head="device"/>
+			<ptcp text="computing" head="computing"/>
+		</item>
+		<item original="use software in the computing device to acess the internet ." slot="3" text="use in to" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="software" head="software"/>
+			<ptcp text="the computing device" head="device"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="turn computer on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="use mouse to click on the icon for your internet service provider on the desktop ." slot="2" text="use to on for on" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mouse" head="mouse"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+			<ptcp text="your internet service provider" head="provider"/>
+			<ptcp text="service" head="service"/>
+			<ptcp text="desktop" head="desktop"/>
+		</item>
+		<item original="sign on to your internet service provider ." slot="3" text="sign on to" head="sign">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="your internet service provider" head="provider"/>
+			<ptcp text="service" head="service"/>
+		</item>
+		<item original="begin choosing web sites to visit and explore ." slot="4" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="web sites" head="sites"/>
+			<ptcp text="web" head="web"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="go to computer ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="open web browser to activate modem ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="web browser" head="browser"/>
+			<ptcp text="web" head="web"/>
+			<ptcp text="modem" head="modem"/>
+		</item>
+		<item original="wait for modem to connect ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="modem" head="modem"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="plug in the network cable ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the network cable" head="cable"/>
+			<ptcp text="network" head="network"/>
+		</item>
+		<item original="turn on the computer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="open the web browser ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the web browser" head="browser"/>
+			<ptcp text="web" head="web"/>
+		</item>
+		<item original="type in the url ." slot="4" text="type in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="url" head="url"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="turn the computer on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="open ie ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ie" head="ie"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="plug in the network cable/card ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the network cablecard" head="cablecard"/>
+			<ptcp text="network" head="network"/>
+		</item>
+		<item original="turn on the computer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="open the browser ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="browser" head="browser"/>
+		</item>
+		<item original="type the url in the browser ." slot="4" text="type in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="url" head="url"/>
+			<ptcp text="browser" head="browser"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="turn on computer ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="start browser ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="browser" head="browser"/>
+		</item>
+		<item original="access website using browser ." slot="3" text="access" head="access">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="website" head="website"/>
+			<ptcp text="browser" head="browser"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="ensure computer is activated ." slot="1" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="ensure user is logged onto computer ." slot="2" text="ensure onto" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="user" head="user"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="ensure communication device is activated ." slot="3" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="communication device" head="device"/>
+			<ptcp text="communication" head="communication"/>
+		</item>
+		<item original="open internet enabled application ." slot="4" text="enabled" head="enabled">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="internet" head="internet"/>
+			<ptcp text="application" head="application"/>
+		</item>
+		<item original="log onto internet if necessary ." slot="5" text="log onto" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+		<item original="access internet ." slot="6" text="access" head="access">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="start computer ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="start internet program ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="program" head="program"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="plug ethernet cable into modem ." slot="1" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cable" head="cable"/>
+			<ptcp text="modem" head="modem"/>
+		</item>
+		<item original="set up connection on your computer ." slot="2" text="set up on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="connection" head="connection"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="start internet connection ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="connection" head="connection"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="check network (modem cable tv) cables ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="network modem" head="modem"/>
+			<ptcp text="network" head="network"/>
+			<ptcp text="cable tv cables" head="cables"/>
+			<ptcp text="cable" head="cable"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="turn on a computer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="run a proper software to establish connection ." slot="3" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="software" head="software"/>
+			<ptcp text="connection" head="connection"/>
+		</item>
+		<item original="run a browser or any other internet tool ." slot="4" text="run" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="browser" head="browser"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="turn on computer ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="connect computer to internet ." slot="2" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+		<item original="launch internet access program ." slot="3" text="launch" head="launch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="internet access program" head="program"/>
+			<ptcp text="access" head="access"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="establish internet connection ." slot="1" text="establish" head="establish">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="connection" head="connection"/>
+		</item>
+		<item original="open browser to access address ." slot="2" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="browser" head="browser"/>
+			<ptcp text="access address" head="address"/>
+			<ptcp text="access" head="access"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="find a computer ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="check that computer has internet access ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="access" head="access"/>
+		</item>
+		<item original="click on internet explorer ." slot="3" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="explorer" head="explorer"/>
+		</item>
+		<item original="type in desired internet address ." slot="4" text="type in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired internet address" head="address"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="identify computer ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="connect computer to modem ." slot="2" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="modem" head="modem"/>
+		</item>
+		<item original="connect modem phone jack ." slot="3" text="connect" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="modem phone jack" head="jack"/>
+			<ptcp text="modem" head="modem"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="turn on computer ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="access internet explorer ." slot="5" text="access" head="access">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="explorer" head="explorer"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="switch on computer ." slot="1" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="start connection icon ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="connection icon" head="icon"/>
+			<ptcp text="connection" head="connection"/>
+		</item>
+		<item original="enter username and password ." slot="3" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="username and password" head="username"/>
+		</item>
+		<item original="start internet explorer ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="explorer" head="explorer"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="buy a computer ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="hook up the computer ." slot="2" text="hook up" head="hook">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="buy internet access ." slot="3" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="access" head="access"/>
+		</item>
+		<item original="follow the instructions ." slot="4" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="open an internet browser ." slot="5" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="browser" head="browser"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="call telco to install dsl ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="telco" head="telco"/>
+			<ptcp text="dsl" head="dsl"/>
+		</item>
+		<item original="receive dsl modem ." slot="2" text="receive" head="receive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="modem" head="modem"/>
+		</item>
+		<item original="connect phone line to modem ." slot="3" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone line" head="line"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="modem" head="modem"/>
+		</item>
+		<item original="connect ethernet cable to computer ." slot="4" text="connect to" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cable" head="cable"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="turn on dsl modem ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dsl modem" head="modem"/>
+			<ptcp text="dsl" head="dsl"/>
+		</item>
+		<item original="turn on computer ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="check network settings ." slot="7" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="network settings" head="settings"/>
+			<ptcp text="network" head="network"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="locate the shortcut for the isp connection ." slot="1" text="locate for" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shortcut" head="shortcut"/>
+			<ptcp text="the isp connection" head="connection"/>
+			<ptcp text="isp" head="isp"/>
+		</item>
+		<item original="double click the shortcut ." slot="2" text="double" head="double">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="shortcut" head="shortcut"/>
+		</item>
+		<item original="enter your username and password ." slot="3" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="username" head="username"/>
+			<ptcp text="password" head="password"/>
+		</item>
+		<item original="click the connect button ." slot="4" text="connect" head="connect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="locate a computer that has internet access ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="access" head="access"/>
+		</item>
+		<item original="locate the icon for the internet browser i e  explorer or firefox ." slot="2" text="locate for i" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="icon" head="icon"/>
+			<ptcp text="the internet browser i e explorer or firefox" head="internet"/>
+			<ptcp text="browser" head="browser"/>
+			<ptcp text="explorer" head="explorer"/>
+			<ptcp text="firefox" head="firefox"/>
+		</item>
+		<item original="click on the icon ." slot="3" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="locate a computer that has internet access ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="access" head="access"/>
+		</item>
+		<item original="locate the icon for the internet browser i e  explorer or firefox ." slot="2" text="locate for i" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="icon" head="icon"/>
+			<ptcp text="the internet browser i e explorer or firefox" head="internet"/>
+			<ptcp text="browser" head="browser"/>
+			<ptcp text="explorer" head="explorer"/>
+			<ptcp text="firefox" head="firefox"/>
+		</item>
+		<item original="click on the icon ." slot="3" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="locate a computer that has internet access ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="access" head="access"/>
+		</item>
+		<item original="locate the icon for the internet browser i e  explorer or firefox ." slot="2" text="locate for i" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="icon" head="icon"/>
+			<ptcp text="the internet browser i e explorer or firefox" head="internet"/>
+			<ptcp text="browser" head="browser"/>
+			<ptcp text="explorer" head="explorer"/>
+			<ptcp text="firefox" head="firefox"/>
+		</item>
+		<item original="click on the icon ." slot="3" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="turn on computer ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="open internet explorer or firefox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="explorer" head="explorer"/>
+			<ptcp text="firefox" head="firefox"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="open internet explorer ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="explorer" head="explorer"/>
+		</item>
+		<item original="type a web address in the address bar ." slot="2" text="type in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a web address" head="address"/>
+			<ptcp text="web" head="web"/>
+			<ptcp text="the address bar" head="bar"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="turn computer on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="log on to computer with username and password ." slot="2" text="log on to with" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="username" head="username"/>
+			<ptcp text="password" head="password"/>
+		</item>
+		<item original="open up web browser ." slot="3" text="open up" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="web browser" head="browser"/>
+			<ptcp text="web" head="web"/>
+		</item>
+		<item original="type in an address in the address bar ." slot="4" text="type in in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="the address bar" head="bar"/>
+		</item>
+		<item original="hit enter ." slot="5" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="enter" head="enter"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="turn computer on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="log on to computer with username and password ." slot="2" text="log on to with" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="username" head="username"/>
+			<ptcp text="password" head="password"/>
+		</item>
+		<item original="open up web browser ." slot="3" text="open up" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="web browser" head="browser"/>
+			<ptcp text="web" head="web"/>
+		</item>
+		<item original="type in an address in the address bar ." slot="4" text="type in in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="the address bar" head="bar"/>
+		</item>
+		<item original="hit enter ." slot="5" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="enter" head="enter"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="turn computer on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="log on to computer with username and password ." slot="2" text="log on to with" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="username" head="username"/>
+			<ptcp text="password" head="password"/>
+		</item>
+		<item original="open up web browser ." slot="3" text="open up" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="web browser" head="browser"/>
+			<ptcp text="web" head="web"/>
+		</item>
+		<item original="type in an address in the address bar ." slot="4" text="type in in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="the address bar" head="bar"/>
+		</item>
+		<item original="hit enter ." slot="5" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="enter" head="enter"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="turn computer on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="log on to computer with username and password ." slot="2" text="log on to with" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="username" head="username"/>
+			<ptcp text="password" head="password"/>
+		</item>
+		<item original="open up web browser ." slot="3" text="open up" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="web browser" head="browser"/>
+			<ptcp text="web" head="web"/>
+		</item>
+		<item original="type in an address in the address bar ." slot="4" text="type in in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="the address bar" head="bar"/>
+		</item>
+		<item original="hit enter ." slot="5" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="enter" head="enter"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="turn computer on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="log on to computer with username and password ." slot="2" text="log on to with" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+			<ptcp text="username" head="username"/>
+			<ptcp text="password" head="password"/>
+		</item>
+		<item original="open up web browser ." slot="3" text="open up" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="web browser" head="browser"/>
+			<ptcp text="web" head="web"/>
+		</item>
+		<item original="type in an address in the address bar ." slot="4" text="type in in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="address" head="address"/>
+			<ptcp text="the address bar" head="bar"/>
+		</item>
+		<item original="hit enter ." slot="5" text="hit" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="enter" head="enter"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click on the internet icon ." slot="2" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+		<item original="enter username and password at the prompt ." slot="3" text="enter at" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the prompt" head="prompt"/>
+		</item>
+		<item original="click 'okay' ." slot="4" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click on the internet icon ." slot="2" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+		<item original="enter username and password at the prompt ." slot="3" text="enter at" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the prompt" head="prompt"/>
+		</item>
+		<item original="click 'okay' ." slot="4" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click on the internet icon ." slot="2" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+		<item original="enter username and password at the prompt ." slot="3" text="enter at" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the prompt" head="prompt"/>
+		</item>
+		<item original="click 'okay' ." slot="4" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click on the internet icon ." slot="2" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+		<item original="enter username and password at the prompt ." slot="3" text="enter at" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the prompt" head="prompt"/>
+		</item>
+		<item original="click 'okay' ." slot="4" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click on the internet icon ." slot="2" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+		<item original="enter username and password at the prompt ." slot="3" text="enter at" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the prompt" head="prompt"/>
+		</item>
+		<item original="click 'okay' ." slot="4" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click on the internet icon ." slot="2" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+		<item original="enter username and password at the prompt ." slot="3" text="enter at" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the prompt" head="prompt"/>
+		</item>
+		<item original="click 'okay' ." slot="4" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="access internet ." slot="1" text="access" head="access">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="turn on internet ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+		<item original="turn on computer ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="locate on button on computer ." slot="1" text="locate on on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="press the button to turn on computer ." slot="2" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="locate the icon for dial-up internet ." slot="3" text="locate for" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="icon" head="icon"/>
+			<ptcp text="dialup internet" head="internet"/>
+			<ptcp text="dialup" head="dialup"/>
+		</item>
+		<item original="double right click on icon ." slot="4" text="double on" head="double">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+		<item original="wait for it to connect ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="use internet ." slot="6" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="locate on button on computer ." slot="1" text="locate on on" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="press the button to turn on computer ." slot="2" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="locate the icon for dial-up internet ." slot="3" text="locate for" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="icon" head="icon"/>
+			<ptcp text="dialup internet" head="internet"/>
+			<ptcp text="dialup" head="dialup"/>
+		</item>
+		<item original="double right click on icon ." slot="4" text="double on" head="double">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="icon" head="icon"/>
+		</item>
+		<item original="wait for it to connect ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="use internet ." slot="6" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="internet" head="internet"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="make sure connection is strong ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="connection" head="connection"/>
+		</item>
+		<item original="click on the internet connection symbol ." slot="2" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="the internet connection symbol" head="symbol"/>
+			<ptcp text="connection" head="connection"/>
+			<ptcp text="symbol" head="symbol"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="make sure connection is strong ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="connection" head="connection"/>
+		</item>
+		<item original="click on the internet connection symbol ." slot="2" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="the internet connection symbol" head="symbol"/>
+			<ptcp text="connection" head="connection"/>
+			<ptcp text="symbol" head="symbol"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="make sure connection is strong ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="connection" head="connection"/>
+		</item>
+		<item original="click on the internet connection symbol ." slot="2" text="click on" head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="the internet connection symbol" head="symbol"/>
+			<ptcp text="connection" head="connection"/>
+			<ptcp text="symbol" head="symbol"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click e ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+		</item>
+		<item original="wait ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click e ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+		</item>
+		<item original="wait ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click e ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+		</item>
+		<item original="wait ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click e ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+		</item>
+		<item original="wait ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click e ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+		</item>
+		<item original="wait ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="turn on pc ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pc" head="pc"/>
+		</item>
+		<item original="click e ." slot="2" text="click " head="click">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+		</item>
+		<item original="wait ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+</scripts>

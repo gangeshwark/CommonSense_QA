@@ -1,0 +1,1194 @@
+<scripts>
+	<script id="1">
+		<item original="say hello ." slot="1" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="shake hand ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="say hello ." slot="1" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="welcome them to the location ." slot="2" text="welcome to" head="welcome">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="wave to visitor ." slot="2" text="wave to" head="wave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wave" head="wave"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say hello ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="shake visitors hand ." slot="4" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitors" head="visitors"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="invite inside ." slot="5" text="invite" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="smile ." slot="1" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="introduce yourself ." slot="2" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="state your purpose ." slot="3" text="state" head="state">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="purpose" head="purpose"/>
+		</item>
+		<item original="ask if you can be of assistance ." slot="4" text="ask of" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="assistance" head="assistance"/>
+		</item>
+		<item original="determine the person s name ." slot="5" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="name" head="name"/>
+		</item>
+		<item original="assist if no danger is present ." slot="6" text="assist" head="assist">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="danger" head="danger"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="go to visitor ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="tell visitor hello ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="walk close to the visitor ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say hello ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="offer hand for shaking ." slot="3" text="offer for" head="offer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="say your name ." slot="4" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="go to door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="make eye contact ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eye contact" head="contact"/>
+			<ptcp text="eye" head="eye"/>
+		</item>
+		<item original="say 'hi' ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hi" head="hi"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="see the visitor ." slot="1" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="hug the visitor or shake hands with him/her ." slot="2" text="shake with" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hug" head="hug"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="hands" head="hands"/>
+			<ptcp text="himher" head="himher"/>
+		</item>
+		<item original="say greetings to the visitor ." slot="3" text="say to" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="greetings" head="greetings"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="open the door for the visitor ." slot="1" text="open for" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say 'hello' to the visitor ." slot="2" text="say to" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="allow the visitor to enter ." slot="3" text="allow" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="offer to take the visitor s coat ." slot="4" text="offer" head="offer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+		<item original="show the visitor to a seat ." slot="5" text="show to" head="show">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="seat" head="seat"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say 'hello how are you ' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="invite the visitor in ." slot="3" text="invite in" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say hello to visitor ." slot="2" text="say to" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="invite visitor inside ." slot="3" text="invite" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="close door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="offer visitor a drink ." slot="5" text="offer" head="offer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="drink" head="drink"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="look at visitor ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say greeting ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="greeting" head="greeting"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="look them inthe eye ." slot="1" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eye" head="eye"/>
+		</item>
+		<item original="say something nice ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="something" head="something"/>
+		</item>
+		<item original="shake their hand ." slot="3" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say hi to visitor ." slot="2" text="say to" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hi" head="hi"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="look at visitor ." slot="2" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say hi ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hi" head="hi"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="shake hand ." slot="1" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="propose a refreshment ." slot="2" text="propose" head="propose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refreshment" head="refreshment"/>
+		</item>
+		<item original="serve the asked refreshment ." slot="3" text="serve" head="serve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the asked refreshment" head="refreshment"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="find the visitor ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say 'hello' to the visitor ." slot="2" text="say to" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="look at visitor ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say hi ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hi" head="hi"/>
+		</item>
+		<item original="answer visitor questions if any ." slot="3" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor questions" head="questions"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="any" head="any"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="find a visitor ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="face toward the visitor ." slot="2" text="face toward" head="face">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say hello or some other words of greeting to the visitor ." slot="3" text="say of to" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+			<ptcp text="words" head="words"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="go to the door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say hello to person outside of door ." slot="3" text="say to of" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="locate visitor ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="face visitor ." slot="2" text="face" head="face">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say hello ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="locate visitor ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="turn to visitor ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say hello ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="greet them with a smile and handshake ." slot="2" text="greet with" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="smile" head="smile"/>
+			<ptcp text="handshake" head="handshake"/>
+		</item>
+		<item original="let them in the house while holding the door for them ." slot="3" text="holding in for" head="holding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="close the door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="say hello ." slot="1" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="ask visitor s name ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="name" head="name"/>
+		</item>
+		<item original="say 'nice to meet you' ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nice to meet you" head="nice"/>
+		</item>
+		<item original="offer to take visitor s coat ." slot="4" text="offer" head="offer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+		<item original="offer to take visitor s parcels ." slot="5" text="offer" head="offer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="parcels" head="parcels"/>
+		</item>
+		<item original="lead visitor to resident ." slot="6" text="lead to" head="lead">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="resident" head="resident"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="look at visitor ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say hello ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="shake visitors hand ." slot="3" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitors" head="visitors"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="kiss if required ." slot="4" text="kiss" head="kiss">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="say hi to the visitor ." slot="1" text="say to" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hi" head="hi"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="walk to the visitor ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say 'hi' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hi" head="hi"/>
+		</item>
+		<item original="give handshake ." slot="3" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handshake" head="handshake"/>
+		</item>
+		<item original="walk away ." slot="4" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="verbally welcome the visitor ." slot="1" text="welcome" head="welcome">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="physically welcome the visitor as is common in your country s custom ." slot="2" text="welcome in" head="welcome">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="country" head="country"/>
+			<ptcp text="custom" head="custom"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="see who the visitor is ." slot="1" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="open the door for the visitor ." slot="2" text="open for" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say 'hello how are you' ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="reply to the visitors response ." slot="4" text="reply to" head="reply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the visitors response" head="response"/>
+			<ptcp text="visitors" head="visitors"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="see who the visitor is ." slot="1" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="open the door for the visitor ." slot="2" text="open for" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say 'hello how are you' ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say 'hello' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say 'hello' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say 'hello' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say 'hello' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say 'hello' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say 'hello' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say 'hello' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say 'hello' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say 'hello' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="answer the door ." slot="1" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say welcome ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="welcome" head="welcome"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="make eye contact ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eye contact" head="contact"/>
+			<ptcp text="eye" head="eye"/>
+		</item>
+		<item original="shake hand or hug ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="hug" head="hug"/>
+		</item>
+		<item original="say hello ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="hear arrival ." slot="1" text="hear" head="hear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arrival" head="arrival"/>
+		</item>
+		<item original="walk to location ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="open door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="extend handshake ." slot="4" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handshake" head="handshake"/>
+		</item>
+		<item original="recognition ." slot="5" text="recognition " head="recognition">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="recognition" head="recognition"/>
+		</item>
+		<item original="ask about health ." slot="6" text="ask about" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="health" head="health"/>
+		</item>
+		<item original="accept greeting in return ." slot="7" text="accept in" head="accept">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="greeting" head="greeting"/>
+			<ptcp text="return" head="return"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="shake hands ." slot="1" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="say 'hello so nice of you to visit ' ." slot="2" text="say of" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+			<ptcp text="so nice" head="nice"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="greet visitor ." slot="2" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="answer the door ." slot="1" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="extend verbal greetings ." slot="2" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="greetings" head="greetings"/>
+		</item>
+		<item original="shake hand or hug visitor ." slot="3" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand or hug visitor" head="visitor"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="hug" head="hug"/>
+		</item>
+		<item original="invite visitor in ." slot="4" text="invite in" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="take visitor s coat ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+		<item original="offer visitor a beverage ." slot="6" text="offer" head="offer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="beverage" head="beverage"/>
+		</item>
+		<item original="visit ." slot="7" text="visit" head="visit">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="answer the door ." slot="1" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="extend verbal greetings ." slot="2" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="greetings" head="greetings"/>
+		</item>
+		<item original="shake hand or hug visitor ." slot="3" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand or hug visitor" head="visitor"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="hug" head="hug"/>
+		</item>
+		<item original="invite visitor in ." slot="4" text="invite in" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="take visitor s coat ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+		<item original="offer visitor a beverage ." slot="6" text="offer" head="offer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="beverage" head="beverage"/>
+		</item>
+		<item original="visit ." slot="7" text="visit" head="visit">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="answer the door ." slot="1" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="extend verbal greetings ." slot="2" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="greetings" head="greetings"/>
+		</item>
+		<item original="shake hand or hug visitor ." slot="3" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand or hug visitor" head="visitor"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="hug" head="hug"/>
+		</item>
+		<item original="invite visitor in ." slot="4" text="invite in" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="take visitor s coat ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+		<item original="offer visitor a beverage ." slot="6" text="offer" head="offer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="beverage" head="beverage"/>
+		</item>
+		<item original="visit ." slot="7" text="visit" head="visit">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="identify visitor ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="say hi ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hi" head="hi"/>
+		</item>
+		<item original="hug them if they look like they want a hug ." slot="3" text="look" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hug" head="hug"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="say hello ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="invite guest inside ." slot="3" text="invite" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guest" head="guest"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="approach visitor ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="shake visitor s hand ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="smile and say a pleasant greeting ." slot="3" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="greeting" head="greeting"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="open front door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="invite the guest in ." slot="2" text="invite in" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="guest" head="guest"/>
+		</item>
+		<item original="shake hands ." slot="3" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+		<item original="take the visitors coat ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the visitors coat" head="coat"/>
+			<ptcp text="visitors" head="visitors"/>
+		</item>
+		<item original="hang up the visitors coat ." slot="5" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the visitors coat" head="coat"/>
+			<ptcp text="visitors" head="visitors"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="look the visitor in the eye ." slot="1" text="look in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="eye" head="eye"/>
+		</item>
+		<item original="say 'hello' ." slot="2" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="extend your right hand ." slot="3" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="firmly grasp the visitor s right hand ." slot="4" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="move your hand up and down two times ." slot="5" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="times" head="times"/>
+		</item>
+		<item original="release your grasp ." slot="6" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grasp" head="grasp"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="ask how they are ." slot="2" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open door to allow them to walk in ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="ask to take their coat ." slot="4" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coat" head="coat"/>
+		</item>
+		<item original="ask if they want a drink ." slot="5" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drink" head="drink"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="say hello ." slot="1" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="clean house ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="hear the knock or doorbell ." slot="1" text="hear" head="hear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knock" head="knock"/>
+			<ptcp text="doorbell" head="doorbell"/>
+		</item>
+		<item original="go to the door and look out peephole ." slot="2" text="go out to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="peephole" head="peephole"/>
+		</item>
+		<item original="if safe open the door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="safe" head="safe"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="if appropriate warmly greet the visitor ." slot="4" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appropriate" head="appropriate"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="hear the knock or doorbell ." slot="1" text="hear" head="hear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knock" head="knock"/>
+			<ptcp text="doorbell" head="doorbell"/>
+		</item>
+		<item original="go to the door and look out peephole ." slot="2" text="go out to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="peephole" head="peephole"/>
+		</item>
+		<item original="if safe open the door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="safe" head="safe"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="if appropriate warmly greet the visitor ." slot="4" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appropriate" head="appropriate"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="hear the knock or doorbell ." slot="1" text="hear" head="hear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knock" head="knock"/>
+			<ptcp text="doorbell" head="doorbell"/>
+		</item>
+		<item original="go to the door and look out peephole ." slot="2" text="go out to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="peephole" head="peephole"/>
+		</item>
+		<item original="if safe open the door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="safe" head="safe"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="if appropriate warmly greet the visitor ." slot="4" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appropriate" head="appropriate"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="hear the knock or doorbell ." slot="1" text="hear" head="hear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knock" head="knock"/>
+			<ptcp text="doorbell" head="doorbell"/>
+		</item>
+		<item original="go to the door and look out peephole ." slot="2" text="go out to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="peephole" head="peephole"/>
+		</item>
+		<item original="if safe open the door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="safe" head="safe"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="if appropriate warmly greet the visitor ." slot="4" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appropriate" head="appropriate"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="hear the knock or doorbell ." slot="1" text="hear" head="hear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knock" head="knock"/>
+			<ptcp text="doorbell" head="doorbell"/>
+		</item>
+		<item original="go to the door and look out peephole ." slot="2" text="go out to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="peephole" head="peephole"/>
+		</item>
+		<item original="if safe open the door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="safe" head="safe"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="if appropriate warmly greet the visitor ." slot="4" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appropriate" head="appropriate"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="hear the knock or doorbell ." slot="1" text="hear" head="hear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knock" head="knock"/>
+			<ptcp text="doorbell" head="doorbell"/>
+		</item>
+		<item original="go to the door and look out peephole ." slot="2" text="go out to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="peephole" head="peephole"/>
+		</item>
+		<item original="if safe open the door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="safe" head="safe"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="if appropriate warmly greet the visitor ." slot="4" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appropriate" head="appropriate"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="greet visitor ." slot="1" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="greet visitor ." slot="1" text="greet" head="greet">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="say hi ." slot="1" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hi" head="hi"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="open the door when you hear a doorbell ring or knock ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="ring" head="ring"/>
+			<ptcp text="knock" head="knock"/>
+		</item>
+		<item original="smile ." slot="2" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="invite visitor to please come inside ." slot="3" text="invite" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="open the door when you hear a doorbell ring or knock ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="ring" head="ring"/>
+			<ptcp text="knock" head="knock"/>
+		</item>
+		<item original="smile ." slot="2" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="invite visitor to please come inside ." slot="3" text="invite" head="invite">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="say hello to the visitor ." slot="1" text="say to" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+			<ptcp text="visitor" head="visitor"/>
+		</item>
+		<item original="smile ." slot="2" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="say hi when you see someone ." slot="1" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hi" head="hi"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="smile ." slot="1" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="shake the visitor s hand ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="say 'hello' ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="introduce yourself ." slot="4" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="70">
+		<item original="smile ." slot="1" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="shake the visitor s hand ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="say 'hello' ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="introduce yourself ." slot="4" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="71">
+		<item original="smile ." slot="1" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="shake the visitor s hand ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="say 'hello' ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="introduce yourself ." slot="4" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="72">
+		<item original="smile ." slot="1" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="shake the visitor s hand ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="say 'hello' ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="introduce yourself ." slot="4" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="73">
+		<item original="smile ." slot="1" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="shake the visitor s hand ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="say 'hello' ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="introduce yourself ." slot="4" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="74">
+		<item original="smile ." slot="1" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="shake the visitor s hand ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="visitor" head="visitor"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="say 'hello' ." slot="3" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hello" head="hello"/>
+		</item>
+		<item original="introduce yourself ." slot="4" text="introduce" head="introduce">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+</scripts>

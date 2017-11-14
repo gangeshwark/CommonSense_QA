@@ -1,0 +1,657 @@
+<scripts>
+	<script id="1">
+		<item original="get behind the person ." slot="1" text="get behind" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="move with the person ." slot="2" text="move with" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="locate person ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="go to person ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="repeat from step 1 ." slot="3" text="repeat from" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="watch the feet ." slot="1" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="feet" head="feet"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="go wherever the person goes ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="if called for remain out of their sight ." slot="2" text="called out of" head="called">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sight" head="sight"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="identify a person you wish to follow ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="walk near them as they move from one place to another ." slot="2" text="walk near from to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="another" head="another"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="find someone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="stay near that person as they move to different locations ." slot="2" text="stay near to" head="stay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="locations" head="locations"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="pick a person to follow ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="after you find a person to follow get yourself close to them ." slot="2" text="find to" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="next watch them with your eyes ." slot="3" text="watch with" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eyes" head="eyes"/>
+		</item>
+		<item original="next go wherever they go ." slot="4" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="next" head="next"/>
+		</item>
+		<item original="don t let them see you unless you want to be seen ." slot="5" text="don" head="don">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="t" head="t"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="locate the individual to follow ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="individual" head="individual"/>
+		</item>
+		<item original="keep the individual in your eyesight ." slot="2" text="keep in" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="individual" head="individual"/>
+			<ptcp text="eyesight" head="eyesight"/>
+		</item>
+		<item original="relocate yourself constantly to keep near the individual ." slot="3" text="relocate near" head="relocate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="individual" head="individual"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="find someone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="follow him ." slot="2" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="watch the person ." slot="1" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="go where the person goes ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="move next to the person to be followed ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="next" head="next"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="watch the person ." slot="2" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="move along with the person as they walk ." slot="3" text="move along with" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="keep your eyes on the person ." slot="1" text="keep on" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="eyes" head="eyes"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="whenever the person moves you move closely behind ." slot="2" text="moves" head="moves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="track person visually ." slot="1" text="track" head="track">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="if person moves move after them ." slot="2" text="move after" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person moves" head="moves"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="if person does not move stay still ." slot="3" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="locate person ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="look at person ." slot="2" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="if person moves move in the same direction ." slot="3" text="move in" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person moves" head="moves"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+		<item original="keep a reasonable distance from person ." slot="4" text="keep from" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="distance" head="distance"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="watch person ." slot="1" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="if person moves away move in the same direction ." slot="2" text="moves in" head="moves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+		<item original="keep a safe distance from person ." slot="3" text="keep from" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="distance" head="distance"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="get close to the person ." slot="1" text="get to" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="walk behind the person ." slot="2" text="walk behind" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="pick a person ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="find their location ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="walk after them everywhere ." slot="3" text="walk after" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="find the person you want to follow ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="see where the person is moving to ." slot="2" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="go in the same directionas the person you are following ." slot="3" text="go in" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="directionas" head="directionas"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="find someone to follow ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="go near them ." slot="2" text="go near" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="loiter until your someone moves ." slot="3" text="loiter" head="loiter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="repeat 2 and then step 3 ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="3" head="3"/>
+		</item>
+		<item original="quit ." slot="5" text="quit" head="quit">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="find a person ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="learn their quirks ." slot="2" text="learn" head="learn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quirks" head="quirks"/>
+		</item>
+		<item original="learn their routine ." slot="3" text="learn" head="learn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="routine" head="routine"/>
+		</item>
+		<item original="buy spy equipment ." slot="4" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spy equipment" head="equipment"/>
+			<ptcp text="spy" head="spy"/>
+		</item>
+		<item original="become invisible ." slot="5" text="become" head="become">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invisible" head="invisible"/>
+		</item>
+		<item original="hide behind objects ." slot="6" text="hide behind" head="hide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+		<item original="follow them wherever they go ." slot="7" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="find a person ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="learn their quirks ." slot="2" text="learn" head="learn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quirks" head="quirks"/>
+		</item>
+		<item original="learn their routine ." slot="3" text="learn" head="learn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="routine" head="routine"/>
+		</item>
+		<item original="buy spy equipment ." slot="4" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="spy equipment" head="equipment"/>
+			<ptcp text="spy" head="spy"/>
+		</item>
+		<item original="become invisible ." slot="5" text="become" head="become">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="invisible" head="invisible"/>
+		</item>
+		<item original="hide behind objects ." slot="6" text="hide behind" head="hide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+		<item original="follow them wherever they go ." slot="7" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="find target ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="target" head="target"/>
+		</item>
+		<item original="shadow ." slot="2" text="shadow" head="shadow">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="stay concealed ." slot="3" text="stay" head="stay">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="persist ." slot="4" text="persist" head="persist">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="observe ." slot="5" text="observe" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="react ." slot="6" text="react" head="react">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="conclude ." slot="7" text="conclude" head="conclude">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="find someone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="follow someone ." slot="2" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="find someone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="follow someone ." slot="2" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="find someone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="follow someone ." slot="2" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="find someone ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="follow someone ." slot="2" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="choose someone to follow ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="go wherever that person goes ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="identify the person ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="try to observe the path ." slot="2" text="try" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="path" head="path"/>
+		</item>
+		<item original="follw the person ." slot="3" text="follw" head="follw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="identify the person ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="try to observe the path ." slot="2" text="try" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="path" head="path"/>
+		</item>
+		<item original="follw the person ." slot="3" text="follw" head="follw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="identify the person ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="try to follow the person ." slot="2" text="try" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="locate person ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="follow behind them ." slot="2" text="follow behind" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="locate person ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="follow behind them ." slot="2" text="follow behind" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="watch someone ." slot="1" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+		<item original="notice when that person moves ." slot="2" text="notice" head="notice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="follow their path ." slot="3" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="path" head="path"/>
+		</item>
+		<item original="stop before running into them ." slot="4" text="stop before into" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="continue watching them ." slot="5" text="continue" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="if they move again follow their path again ." slot="6" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="path" head="path"/>
+		</item>
+		<item original="repeat until given another task ." slot="7" text="repeat until" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="task" head="task"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="match the person step for step ." slot="1" text="match for" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="match the person step for step ." slot="1" text="match for" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="match the person step for step ." slot="1" text="match for" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="match the person step for step ." slot="1" text="match for" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="match the person step for step ." slot="1" text="match for" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="match the person step for step ." slot="1" text="match for" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="match the person step for step ." slot="1" text="match for" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="match the person step for step ." slot="1" text="match for" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="match the person step for step ." slot="1" text="match for" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="match the person step for step ." slot="1" text="match for" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="step" head="step"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="follow person ." slot="1" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="identify the person to follow ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="follow them ." slot="2" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="follow in their footsteps ." slot="1" text="follow in" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="footsteps" head="footsteps"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="follow in their footsteps ." slot="1" text="follow in" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="footsteps" head="footsteps"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="pick your target ." slot="1" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="target" head="target"/>
+		</item>
+		<item original="know their quirks ." slot="2" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quirks" head="quirks"/>
+		</item>
+		<item original="know where they go ." slot="3" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="know if they drive a car ." slot="4" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+		<item original="choose a date to start following them ." slot="5" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+		</item>
+		<item original="be ready on that date ." slot="6" text="be on" head="be">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+		</item>
+		<item original="start following them and record observations ." slot="7" text="start following" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="record observations" head="observations"/>
+			<ptcp text="record" head="record"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="watching ." slot="1" text="watching" head="watching">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hiding ." slot="2" text="hiding " head="hiding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hiding" head="hiding"/>
+		</item>
+		<item original="peeking ." slot="3" text="peeking" head="peeking">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="peering ." slot="4" text="peering" head="peering">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="ducking ." slot="5" text="ducking" head="ducking">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="sneaking ." slot="6" text="sneaking" head="sneaking">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="trailing ." slot="7" text="trailing" head="trailing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="choose target ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="target" head="target"/>
+		</item>
+		<item original="follow that person wherever they go ." slot="2" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="spot intended victim ." slot="1" text="spot" head="spot">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="victim" head="victim"/>
+		</item>
+		<item original="go where they are ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="when the move repeat steps 2 and 3 ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="move" head="move"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="do everything the other persondoes ." slot="1" text="do " head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+			<ptcp text="persondoes" head="persondoes"/>
+		</item>
+	</script>
+</scripts>

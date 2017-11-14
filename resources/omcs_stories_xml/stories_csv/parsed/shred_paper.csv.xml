@@ -1,0 +1,756 @@
+<scripts>
+	<script id="1">
+		<item original="turn shreder on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shreder" head="shreder"/>
+		</item>
+		<item original="put paper in shreder ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shreder" head="shreder"/>
+		</item>
+		<item original="turn shreder off ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shreder" head="shreder"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="taking the paper ." slot="1" text="taking" head="taking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="putting it in the shredder ." slot="2" text="putting in" head="putting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="grab a few peices of paper ." slot="1" text="grab of" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="peices" head="peices"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="place in shredder opening ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="opening" head="opening"/>
+		</item>
+		<item original="press shredder button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="wait until all pieces have been shredded ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pieces" head="pieces"/>
+		</item>
+		<item original="if there are paper sleft go to 1 ." slot="5" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="paper sleft" head="sleft"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="1" head="1"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="find a paper shredder ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="turn on the paper shredder ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="place one piece of paper into the shredder ." slot="4" text="place of into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="repeat until all paper is shredded ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="plugin the shredder ." slot="1" text="plugin" head="plugin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="switch it on ." slot="2" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="feed the paper in the shredder ." slot="3" text="feed in" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get the paper you want to shred ." slot="1" text="want" head="want">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get a pair of scissors ." slot="2" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pair" head="pair"/>
+			<ptcp text="scissors" head="scissors"/>
+		</item>
+		<item original="cut the paper into strips with the scissors ." slot="3" text="cut into with" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="strips" head="strips"/>
+			<ptcp text="scissors" head="scissors"/>
+		</item>
+		<item original="tear up the strips with your hands ." slot="4" text="tear up with" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strips" head="strips"/>
+			<ptcp text="hands" head="hands"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="take the paper to the shredder ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="switch the shredder on ." slot="2" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="feed the paper into the shredder ." slot="3" text="feed into" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="switch the shredder off ." slot="4" text="switch off" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put paper in shredder ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="push on button ." slot="3" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="turn the shredder on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="feed the paper into the shredder ." slot="2" text="feed into" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="turn the shredder off ." slot="3" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="deny everything :) ." slot="4" text="deny" head="deny">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="everything" head="everything"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="buy shredder ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="unpack shredder ." slot="2" text="unpack" head="unpack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="plug in shredder ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="read instructions ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="feed paper ." slot="5" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="empty trash ." slot="6" text="empty" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="put the paper in a shedder ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shedder" head="shedder"/>
+		</item>
+		<item original="press on to shred ." slot="2" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="place the paper inside the shredder slot ." slot="1" text="place inside" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="the shredder slot" head="slot"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="turn the shredder on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="feed the paper through the shredder ." slot="3" text="feed through" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="turn the shredder off ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="turn on shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="put edge of paper into top of shredder ." slot="2" text="put of into of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edge" head="edge"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="watch paper get shredded ." slot="3" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="turn off shredder ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="turn on the shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="put the paper in the shredder ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="turn on paper shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="place paper in slot ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="slot" head="slot"/>
+		</item>
+		<item original="when done shredding turn off paper shredder ." slot="3" text="shredding off" head="shredding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="turn on shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="insert paper into shredder ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="take paper to shredder ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="place papaer in shredder ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="papaer" head="papaer"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="turn shredder on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="remove staples and clips ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="staples" head="staples"/>
+			<ptcp text="clips" head="clips"/>
+		</item>
+		<item original="feed the paper to the shredder ." slot="2" text="feed to" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="pick up paper to be discarded ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="take paper to shredder ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="make sure shredder is turned on ." slot="3" text="make on" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="feed paper into shredder ." slot="4" text="feed into" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="collect other papers to be discarded ." slot="5" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="papers" head="papers"/>
+		</item>
+		<item original="repeat steps 1-4 with remaining papers ." slot="6" text="repeat with" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="remaining papers" head="papers"/>
+		</item>
+		<item original="turn shredder off ." slot="7" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="select the paper ." slot="1" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="shred the paper ." slot="2" text="shred" head="shred">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="get paper ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="go to shredder ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="put paper into shreder ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shreder" head="shreder"/>
+		</item>
+		<item original="wait for the paper to be shred ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shred" head="shred"/>
+		</item>
+		<item original="report the task being done ." slot="5" text="report" head="report">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="task" head="task"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="turn on paper shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="get piece of paper ." slot="2" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put paper in the shredder s slot ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="slot" head="slot"/>
+		</item>
+		<item original="allow shredder to shred paper while you guide the piece of paper gently in ." slot="4" text="allow of in" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="piece" head="piece"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="find waste paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="waste paper" head="paper"/>
+			<ptcp text="waste" head="waste"/>
+		</item>
+		<item original="turn on paper shredder ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="feed paper through afew sheets at a time ." slot="3" text="feed through at" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="afew sheets" head="sheets"/>
+			<ptcp text="afew" head="afew"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="when all the waste paper has been shredded turn shredder off ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all the waste paper" head="paper"/>
+			<ptcp text="waste" head="waste"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="dump the shreds in the recycle bin ." slot="5" text="dump in" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shreds" head="shreds"/>
+			<ptcp text="bin" head="bin"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="gather paper that is to be shredded ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="place paper into shredder one by one ." slot="2" text="place into by" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="discard paper after it has been shredded ." slot="3" text="discard" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="turn on shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="insert paper ." slot="2" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="be careful of blades ." slot="3" text="be of" head="be">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="careful" head="careful"/>
+			<ptcp text="blades" head="blades"/>
+		</item>
+		<item original="wait for job to finish ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="job" head="job"/>
+		</item>
+		<item original="turn off shredder ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="discard shredded paper ." slot="6" text="discard" head="discard">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="plug in shredder ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="slide paper in shredder ." slot="2" text="slide in" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="dispose of paper ." slot="3" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="turn on paper shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="feed paper through shredder ." slot="2" text="feed through" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="turn on paper shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="feed paper through shredder ." slot="2" text="feed through" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="turn on paper shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="feed paper through shredder ." slot="2" text="feed through" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="turn on paper shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="feed paper through shredder ." slot="2" text="feed through" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="turn on paper shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="feed paper through shredder ." slot="2" text="feed through" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="turn on paper shredder ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper shredder" head="shredder"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="feed paper through shredder ." slot="2" text="feed through" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="turn shredder on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="place paper in the feed ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="feed" head="feed"/>
+		</item>
+		<item original="turnshredder off ." slot="3" text="turnshredder off" head="turnshredder">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="turn shredder on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="place paper in the feed ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="feed" head="feed"/>
+		</item>
+		<item original="turnshredder off ." slot="3" text="turnshredder off" head="turnshredder">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="turn shredder on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="place paper in the feed ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="feed" head="feed"/>
+		</item>
+		<item original="turnshredder off ." slot="3" text="turnshredder off" head="turnshredder">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="turn shredder on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="place paper in the feed ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="feed" head="feed"/>
+		</item>
+		<item original="turnshredder off ." slot="3" text="turnshredder off" head="turnshredder">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="get piece of paper ." slot="1" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="feed the paper into the shredder ." slot="2" text="feed into" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="get piece of paper ." slot="1" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="feed the paper into the shredder ." slot="2" text="feed into" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="take paper one at a time ." slot="1" text="take at" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="insert paper into shredder ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="take paper one at a time ." slot="1" text="take at" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="insert paper into shredder ." slot="2" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="gather papers for shredding ." slot="1" text="gather for" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="papers" head="papers"/>
+			<ptcp text="shredding" head="shredding"/>
+		</item>
+		<item original="double check they are correct papers ." slot="2" text="double" head="double">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+			<ptcp text="papers" head="papers"/>
+		</item>
+		<item original="put a paper the shredder ." slot="3" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="repeat for all documents ." slot="4" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="documents" head="documents"/>
+		</item>
+		<item original="gather the shredded pieces ." slot="5" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pieces" head="pieces"/>
+		</item>
+		<item original="put in recycle bin ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bin" head="bin"/>
+		</item>
+		<item original="sent to recycle center ." slot="7" text="sent" head="sent">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="center" head="center"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="get sheet of paper ." slot="1" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="go to shredder ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="feed paper into shredder ." slot="3" text="feed into" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="get sheet of paper ." slot="1" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="go to shredder ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="feed paper into shredder ." slot="3" text="feed into" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="get sheet of paper ." slot="1" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="go to shredder ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+		<item original="feed paper into shredder ." slot="3" text="feed into" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="put paper into shredder ." slot="1" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="shredder" head="shredder"/>
+		</item>
+	</script>
+</scripts>

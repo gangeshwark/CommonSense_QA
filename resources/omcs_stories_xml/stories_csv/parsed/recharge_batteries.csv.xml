@@ -1,0 +1,1091 @@
+<scripts>
+	<script id="1">
+		<item original="locate the battery charger ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="plug the battery into the charger ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="unplug when charging is complete ." slot="3" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="complete" head="complete"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find the battery charger ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="plug battery into charger ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="unplug when charging is complete ." slot="3" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="complete" head="complete"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="locate outlet ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug cord into outlet ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="wait for battery recharge ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery recharge" head="recharge"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="removed cord ." slot="4" text="removed" head="removed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="remove batteries from item ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="open lid of charger ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="place batteries in charger ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="close lid of charger ." slot="4" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug in charger into wall ." slot="5" text="plug in into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="place batteries in charger ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger into wall ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="remove batteries when fully charged ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="put batteries in charger ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="turn on charger ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="wait till batteries are charged ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="remove batteries ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place batteries in charger ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug in charger ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="leave to charge ." slot="4" text="leave to" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+		<item original="remove batteries from charger ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="unplug charger ." slot="6" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="put the batteries in the recharging device ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="the recharging device" head="device"/>
+		</item>
+		<item original="plug in the recharging device ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the recharging device" head="device"/>
+		</item>
+		<item original="wait until the batteries are fully charged ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="unplug the recharging device ." slot="4" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the recharging device" head="device"/>
+		</item>
+		<item original="take out the batteries ." slot="5" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="remove the batteries ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place the batteries in the recharger ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="recharger" head="recharger"/>
+		</item>
+		<item original="plug the recharger into the wall ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="recharger" head="recharger"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="wait until the batteries are recharged ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="insert batteries into battery recharger ." slot="1" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="battery recharger" head="recharger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="plug in the battery recharger into an electric outlet ." slot="2" text="plug in into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery recharger" head="recharger"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="unplug the battery recharger when the recommended amount of time has passed ." slot="3" text="unplug of" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery recharger" head="recharger"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="the recommended amount" head="amount"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="take out the batteries ." slot="4" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="remove batteries from where they are ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place batteries in charger ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug in charger ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="wait for batteries to recharge ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="recharge" head="recharge"/>
+		</item>
+		<item original="remove batteries from charger ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="place batteries in charger ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger into power outlet ." slot="2" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="power outlet" head="outlet"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="locate the batteries to recharge ." slot="1" text="locate to" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="recharge" head="recharge"/>
+		</item>
+		<item original="plug in the recharging device ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the recharging device" head="device"/>
+		</item>
+		<item original="place the batteries in the recharing device ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="device" head="device"/>
+		</item>
+		<item original="allow for time to pass ." slot="4" text="allow for" head="allow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="remove charged batteries from device ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charged batteries" head="batteries"/>
+			<ptcp text="device" head="device"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="plug in the battery charger ." slot="1" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="put dead batteries in the battery charger ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="the battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="turn the battery chargery on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery chargery" head="chargery"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="wait until the batteries have been recharged ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="remove batteries ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place batteries into charger ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger into power outlet ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="power outlet" head="outlet"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="wait for batteries to charge ." slot="4" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+		<item original="unplug charger ." slot="5" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="remove batteries from charger ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="get the batteries you want to recharge ." slot="1" text="want" head="want">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="get the battery charger ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="put the batteries into the charger ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug in the charger ." slot="4" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="turn the charger on ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="wait for the batteries to finish charging ." slot="6" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="put batteries in charger ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger in ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="wait until batteries are charged ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="take batteries out ." slot="4" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="locate empty batteries ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="get charger ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="put batteries in charger ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="wait until charger is finished ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="remove batteries from charger ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="place the batteries in the battery charger ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="the battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="make sure they are positioned correctly in regards to polarity ." slot="2" text="make in to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="polarity" head="polarity"/>
+		</item>
+		<item original="switch the battery charger on and make sure it is plugged in ." slot="3" text="switch in on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="take the charger and plug it in a energy outlet ." slot="1" text="take in" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="a energy outlet" head="outlet"/>
+			<ptcp text="energy" head="energy"/>
+		</item>
+		<item original="attach it to the batteries ." slot="2" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="place batteries in charger ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger in ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="turn charger on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="locate battery location ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery location" head="location"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="open battery compartment ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove batteries ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="locate battery charger ." slot="4" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="plug in battery charger ." slot="5" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="insert batteries into battery charger ." slot="6" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="wait for batteries to charge ." slot="7" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="locate battery location ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery location" head="location"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="open battery compartment ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery compartment" head="compartment"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="remove batteries ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="locate battery charger ." slot="4" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="plug in battery charger ." slot="5" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="insert batteries into battery charger ." slot="6" text="insert into" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="wait for batteries to charge ." slot="7" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="put the batteries in the charger in correct position ." slot="1" text="put in in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="plug the charger to plug ." slot="2" text="plug" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="switch on the plug ." slot="3" text="switch on" head="switch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="remove batteries from tool ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="place batteries in charger ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger into outlet ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="wait for charging to complete ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="replace batteries in tool ." slot="5" text="replace in" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="use tool ." slot="6" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="remove batteries from tool ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="place batteries in charger ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger into outlet ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="wait for charging to complete ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="replace batteries in tool ." slot="5" text="replace in" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="use tool ." slot="6" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="remove batteries from tool ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="place batteries in charger ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger into outlet ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="wait for charging to complete ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="replace batteries in tool ." slot="5" text="replace in" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+		<item original="use tool ." slot="6" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tool" head="tool"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="locate the discharged batteries ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the discharged batteries" head="batteries"/>
+		</item>
+		<item original="put the discharged batteries into the charger ." slot="2" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the discharged batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug the charger into the wall ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="remove the recharged batteries when done ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="put batteries in the charger ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug in the charger ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="wait for the charger to indicate that the batteries are charged ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="take old batteries from camera ." slot="1" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="camera" head="camera"/>
+		</item>
+		<item original="find battery charger ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="plug charger into wall ." slot="3" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="place batteries into the charger ." slot="4" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="wait for them to charge ." slot="5" text="wait for to" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="get pair(s) of batteries that need charging ." slot="1" text="charging of" head="charging">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pairs" head="pairs"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="put the batteries in the charger as a pair ." slot="2" text="put in as" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="pair" head="pair"/>
+		</item>
+		<item original="take charger to free outlet ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="outlet" head="outlet"/>
+		</item>
+		<item original="plug charger in ." slot="4" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="wait for charging to complete -- this can take hours ." slot="5" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="this" head="this"/>
+			<ptcp text="hours" head="hours"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="remove batteries from device ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="device" head="device"/>
+		</item>
+		<item original="place batteries in battery charger ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="plug in battery charger ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="wait til batteries are fully charged ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="til batteries" head="batteries"/>
+			<ptcp text="til" head="til"/>
+		</item>
+		<item original="remove battery charger from electricity ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery charger" head="charger"/>
+			<ptcp text="battery" head="battery"/>
+			<ptcp text="electricity" head="electricity"/>
+		</item>
+		<item original="remove batteries ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="put batteries in charger unit ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger unit" head="unit"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug in charger ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="turn on the charger ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="if batteries need charging ." slot="1" text="charging" head="charging">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="put batteries in plug ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="plug in plug ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="charge battery ." slot="4" text="charge" head="charge">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="wait ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="done ." slot="6" text="done " head="done">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="if batteries need charging ." slot="1" text="charging" head="charging">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="put batteries in plug ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="plug" head="plug"/>
+		</item>
+		<item original="plug in plug ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="charge battery ." slot="4" text="charge" head="charge">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="battery" head="battery"/>
+		</item>
+		<item original="wait ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="done ." slot="6" text="done " head="done">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="place batteries into charge ." slot="1" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+		<item original="charge until complete ." slot="2" text="charge until" head="charge">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="complete" head="complete"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="place batteries into charge ." slot="1" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+		<item original="charge until complete ." slot="2" text="charge until" head="charge">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="complete" head="complete"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="place batteries into charge ." slot="1" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+		<item original="charge until complete ." slot="2" text="charge until" head="charge">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="complete" head="complete"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="place batteries into charge ." slot="1" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+		<item original="charge until complete ." slot="2" text="charge until" head="charge">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="complete" head="complete"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="place batteries into charge ." slot="1" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+		<item original="charge until complete ." slot="2" text="charge until" head="charge">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="complete" head="complete"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="place batteries into charge ." slot="1" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+		<item original="charge until complete ." slot="2" text="charge until" head="charge">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="complete" head="complete"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="remove dead batteries from device ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="device" head="device"/>
+		</item>
+		<item original="place into charger ." slot="2" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger in ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="wait until fully recharged ." slot="4" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fully recharged" head="recharged"/>
+		</item>
+		<item original="unplug ." slot="5" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="remove batteries from charger ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="place batteries back into device ." slot="7" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="device" head="device"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="remove dead batteries from device ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="device" head="device"/>
+		</item>
+		<item original="place batteries in charger ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger in ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="wait until fully charged ." slot="4" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fully charged" head="charged"/>
+		</item>
+		<item original="unplug charger ." slot="5" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="remove charged batteries ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charged batteries" head="batteries"/>
+		</item>
+		<item original="place charged batteries in device ." slot="7" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charged batteries" head="batteries"/>
+			<ptcp text="device" head="device"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="remove dead batteries from device ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="device" head="device"/>
+		</item>
+		<item original="place batteries in charger ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger in ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="wait until fully charged ." slot="4" text="wait until" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fully charged" head="charged"/>
+		</item>
+		<item original="unplug charger ." slot="5" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="remove charged batteries ." slot="6" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charged batteries" head="batteries"/>
+		</item>
+		<item original="place charged batteries in device ." slot="7" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charged batteries" head="batteries"/>
+			<ptcp text="device" head="device"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="remove batteries from appliance ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="match positive and negative signs with signs in charger ." slot="2" text="match with in" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="positive and negative signs" head="signs"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="remove batteries from appliance ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="appliance" head="appliance"/>
+		</item>
+		<item original="match positive and negative signs with signs in charger ." slot="2" text="match with in" head="match">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="positive and negative signs" head="signs"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="put batteries in charger ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug charger into wall ." slot="4" text="plug into" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="wait until charge is complete ." slot="5" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charge" head="charge"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="get batteries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="plug in charger ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="put dead batteries in charger ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="get dead batteries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="plug in charger ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="put dead batteries in charger ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="get dead batteries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="plug in charger ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="put dead batteries in charger ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="get dead batteries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="plug in charger ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="put dead batteries in charger ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="get batteries ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+		</item>
+		<item original="place batteries in charger ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+		<item original="plug in charger ." slot="3" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="charger" head="charger"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="place batteries into recharger unit ." slot="1" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="batteries" head="batteries"/>
+			<ptcp text="recharger unit" head="unit"/>
+			<ptcp text="recharger" head="recharger"/>
+		</item>
+		<item original="plug in recharger ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="recharger" head="recharger"/>
+		</item>
+	</script>
+</scripts>

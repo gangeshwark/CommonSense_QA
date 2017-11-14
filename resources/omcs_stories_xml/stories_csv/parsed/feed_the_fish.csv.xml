@@ -1,0 +1,852 @@
+<scripts>
+	<script id="1">
+		<item original="get fish food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="go to fish tank ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="open fish tank if needed ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="take fish food from bottle ." slot="4" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="put fish food in fish tank ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="fish tank" head="tank"/>
+		</item>
+		<item original="close bottle ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="close fish tank ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="give food to the fish ." slot="1" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="measure out correct dosage of food ." slot="1" text="measure out of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dosage" head="dosage"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="pour food in water ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="pick up the container of fish food near the aquarium ." slot="1" text="pick up of near" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="aquarium" head="aquarium"/>
+		</item>
+		<item original="open the container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="shake about 5 millilitres of food into the aquarium ." slot="3" text="shake of into" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="millilitres" head="millilitres"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="aquarium" head="aquarium"/>
+		</item>
+		<item original="close the container ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put the container back near the aquarium ." slot="5" text="put near" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="aquarium" head="aquarium"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="pick up the container of fish food near the aquarium ." slot="1" text="pick up of near" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="aquarium" head="aquarium"/>
+		</item>
+		<item original="open the container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="shake about 5 millilitres of food into the aquarium ." slot="3" text="shake of into" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="millilitres" head="millilitres"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="aquarium" head="aquarium"/>
+		</item>
+		<item original="close the container ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put the container back near the aquarium ." slot="5" text="put near" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="aquarium" head="aquarium"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get fishfood ." slot="1" text="fishfood" head="fishfood">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="read label ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="label" head="label"/>
+		</item>
+		<item original="pour in fishfood ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fishfood" head="fishfood"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get fish food container ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food container" head="container"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="open cover ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="pour in food ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="open up container ." slot="1" text="open up" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="get some food ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put it in the tank ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tank" head="tank"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="open up container ." slot="1" text="open up" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="get some food ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put it in the tank ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tank" head="tank"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="give food to fish ." slot="1" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="give food to fish ." slot="1" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="make sure fish have not already been fed today ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="today" head="today"/>
+		</item>
+		<item original="open container of fish food ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="measure correct amount of food ." slot="3" text="measure of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="open lid of fish tank if it has a lid ." slot="4" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="put measured food in the water with the fish ." slot="5" text="put in with" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="measured food" head="food"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="get food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="give food to fish ." slot="2" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="find the fish food ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="take lid off aquarium ." slot="2" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="aquarium" head="aquarium"/>
+		</item>
+		<item original="pour in a measure of fish food ." slot="3" text="pour in of" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="measure" head="measure"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="replace lid of aquarium ." slot="4" text="replace of" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="aquarium" head="aquarium"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="open the lidof the tank ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lidof" head="lidof"/>
+			<ptcp text="tank" head="tank"/>
+		</item>
+		<item original="open the lid to the food ." slot="2" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take one pinch of food out ." slot="3" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pinch" head="pinch"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="drop into fish tank ." slot="4" text="drop into" head="drop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="close fish food ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="close lid to tank ." slot="6" text="close to" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="tank" head="tank"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="open fish food container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food container" head="container"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take out a pinch of foo ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pinch" head="pinch"/>
+			<ptcp text="foo" head="foo"/>
+		</item>
+		<item original="sprinkle food into the fish tank ." slot="3" text="sprinkle into" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="the fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="open fish food container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food container" head="container"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take out a pinch of food ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pinch" head="pinch"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="sprinkle food into the fish tank ." slot="3" text="sprinkle into" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="the fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="buy bait ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bait" head="bait"/>
+		</item>
+		<item original="bait on string ." slot="2" text="bait on" head="bait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bait" head="bait"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="swing in water ." slot="3" text="swing in" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="wait ." slot="4" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pull string ." slot="5" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+		</item>
+		<item original="grab fish ." slot="6" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="put in bucket ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bucket" head="bucket"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="open fish tank ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="sprinkle fish food ." slot="2" text="sprinkle" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="close fish tank ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="obtain fish food ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="sprnikle into tank ." slot="2" text="sprnikle into" head="sprnikle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tank" head="tank"/>
+		</item>
+		<item original="seal container ." slot="3" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="verify fish eats food ." slot="4" text="verify" head="verify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="open the fish food container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food container" head="container"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take a pinch of food from container ." slot="2" text="take of from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pinch" head="pinch"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="sprinkle on top of the water ." slot="3" text="sprinkle on of" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="open the fish food container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food container" head="container"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take a pinch of food from container ." slot="2" text="take of from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pinch" head="pinch"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="sprinkle on top of the water ." slot="3" text="sprinkle on of" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="open the fish food container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food container" head="container"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take a pinch of food from container ." slot="2" text="take of from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pinch" head="pinch"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="sprinkle on top of the water ." slot="3" text="sprinkle on of" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="open the fish food container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food container" head="container"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take a pinch of food from container ." slot="2" text="take of from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pinch" head="pinch"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="sprinkle on top of the water ." slot="3" text="sprinkle on of" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="open the fish food container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food container" head="container"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take a pinch of food from container ." slot="2" text="take of from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pinch" head="pinch"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="sprinkle on top of the water ." slot="3" text="sprinkle on of" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="open the fish food container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food container" head="container"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="take a pinch of food from container ." slot="2" text="take of from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pinch" head="pinch"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="sprinkle on top of the water ." slot="3" text="sprinkle on of" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="feed ." slot="1" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="fish ." slot="2" text="fish " head="fish">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="walk ." slot="3" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find the fish food ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="sprinkle fish food into tank ." slot="1" text="sprinkle into" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="tank" head="tank"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="open the lid of the fish tank ." slot="1" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="the fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="get the fish food ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="dump the fish food in the tank ." slot="3" text="dump in" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="tank" head="tank"/>
+		</item>
+		<item original="close the lid of the fish tank ." slot="4" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="the fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="find the fish food ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="open up the container ." slot="2" text="open up" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="pour some in the fish bowl ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="the fish bowl" head="bowl"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="make sure the fish eat enough food ." slot="4" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="find the fish food ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="open up the container ." slot="2" text="open up" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="pour some in the fish bowl ." slot="3" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some" head="some"/>
+			<ptcp text="the fish bowl" head="bowl"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="make sure the fish eat enough food ." slot="4" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="open fish tank ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="sprinkle fish food onto water ." slot="2" text="sprinkle onto" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="close fish tank ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="get fish food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="open lid ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="put food in tank ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="tank" head="tank"/>
+		</item>
+		<item original="close lid ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="put food away ." slot="5" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="get fish food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="open lid ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="put food in tank ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="tank" head="tank"/>
+		</item>
+		<item original="close lid ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="put food away ." slot="5" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="get fish food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="open lid ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="put food in tank ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+			<ptcp text="tank" head="tank"/>
+		</item>
+		<item original="close lid ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="put food away ." slot="5" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="get fish food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="take cover off of fish tank ." slot="2" text="take off of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="sprinkle in some fish food ." slot="3" text="sprinkle in" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="recover aquarium ." slot="4" text="recover" head="recover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aquarium" head="aquarium"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="get fish food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="take cover off of fish tank ." slot="2" text="take off of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="sprinkle in some fish food ." slot="3" text="sprinkle in" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="recover aquarium ." slot="4" text="recover" head="recover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aquarium" head="aquarium"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="get fish food ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="take cover off of fish tank ." slot="2" text="take off of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="sprinkle in some fish food ." slot="3" text="sprinkle in" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="some fish food" head="food"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="recover aquarium ." slot="4" text="recover" head="recover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="aquarium" head="aquarium"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="pick up the bottle of food ." slot="1" text="pick up of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="open the lid of the bottle ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="open the top of the fish tank ." slot="3" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="the fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="sprinkle in the food ." slot="4" text="sprinkle in" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the fish tank ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="close the bottle of food ." slot="6" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put down bottle of food ." slot="7" text="put down of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="pick up the bottle of food ." slot="1" text="pick up of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="open the lid of the bottle ." slot="2" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="open the top of the fish tank ." slot="3" text="open of" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="the fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="sprinkle in the food ." slot="4" text="sprinkle in" head="sprinkle">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the fish tank ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the fish tank" head="tank"/>
+			<ptcp text="fish" head="fish"/>
+		</item>
+		<item original="close the bottle of food ." slot="6" text="close of" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="put down bottle of food ." slot="7" text="put down of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+			<ptcp text="food" head="food"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="take the lid off the jar ." slot="1" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="jar" head="jar"/>
+		</item>
+		<item original="open the tank ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tank" head="tank"/>
+		</item>
+		<item original="dump the food in ." slot="3" text="dump in" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="close the lid ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+		</item>
+		<item original="close the jar ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jar" head="jar"/>
+		</item>
+		<item original="they enjoy the food ." slot="6" text="enjoy" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="you are done ." slot="7" text="are " head="are">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+</scripts>

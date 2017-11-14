@@ -1,0 +1,585 @@
+<scripts>
+	<script id="1">
+		<item original="think where the object is likely to be ." slot="1" text="think" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go to that location ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="look for the object ." slot="3" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="look for object ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go to object ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="announce object is found ." slot="3" text="announce" head="announce">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="look around you ." slot="1" text="look around" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="if not seen look in the table drawers ." slot="2" text="seen in" head="seen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the table drawers" head="drawers"/>
+			<ptcp text="table" head="table"/>
+		</item>
+		<item original="if not seen look on the shelves ." slot="3" text="seen on" head="seen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shelves" head="shelves"/>
+		</item>
+		<item original="if not seen look in the closet ." slot="4" text="seen in" head="seen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="closet" head="closet"/>
+		</item>
+		<item original="iif not seen look under the table ." slot="5" text="iif under" head="iif">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="look for places in which an object might be located ." slot="1" text="look for in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="look for the object in proximity to other objects ." slot="2" text="look for in to" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="proximity" head="proximity"/>
+			<ptcp text="objects" head="objects"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="determine the object to find ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="carefully search all rooms for the object ." slot="2" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rooms" head="rooms"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="search outside around the house for the object ." slot="3" text="search outside for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="look around in the current room for the object ." slot="1" text="look around in for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="if not found within a certain amount of time move to an unvisited room ." slot="2" text="found within of to" head="found">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="time move" head="move"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="room" head="room"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="look around for object ." slot="1" text="look around for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="if not found move to next room ." slot="2" text="found to" head="found">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="move" head="move"/>
+			<ptcp text="room" head="room"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="determine if you can see the object ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="change what you are looking at ." slot="2" text="change at" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="repeat ." slot="3" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="know what object you re looking for ." slot="1" text="know for" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="think about where it can be ." slot="2" text="think about" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to those places ." slot="3" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+		</item>
+		<item original="search for the object ." slot="4" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="spot the object ." slot="5" text="spot" head="spot">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="look around room ." slot="1" text="look around" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="move to next room if not found ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="if not found ask someone ." slot="3" text="found" head="found">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="someone" head="someone"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="search for the object ." slot="1" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="think where else it could be ." slot="2" text="think" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="search there ." slot="3" text="search" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="repeat until object is found ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="determine the most probable place where the object might be ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the most probable place" head="place"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="search that place looking for object ." slot="2" text="search looking for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="look in the last place you had it ." slot="1" text="look in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="look for object ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="see object ." slot="2" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="move to a location ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="look for the object in the location ." slot="2" text="look for in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="if you find the object pick it up ." slot="3" text="find up" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="if you don t find the object move to a different location ." slot="4" text="don to" head="don">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="t" head="t"/>
+			<ptcp text="the object move" head="move"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="repeat until you find the object ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="search in the places where the object should normally be ." slot="1" text="search in" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="ask the people in the place if anyone seen (or moved) the object ." slot="2" text="ask in" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="people" head="people"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="anyone" head="anyone"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="search for the object within the whole premisis ." slot="3" text="search for within" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="premisis" head="premisis"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="remember where object might be ." slot="1" text="remember" head="remember">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="search area ." slot="2" text="search" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="find object ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="choose an object to find ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="look around the room ." slot="2" text="look around" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="look in various places for object ." slot="1" text="look in for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="look in various places for object ." slot="1" text="look in for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="look in various places for object ." slot="1" text="look in for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="look in various places for object ." slot="1" text="look in for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="look in various places for object ." slot="1" text="look in for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="look in various places for object ." slot="1" text="look in for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="look in various places for object ." slot="1" text="look in for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="look in various places for object ." slot="1" text="look in for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="get object description ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object description" head="description"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="query when object last seen ." slot="2" text="query" head="query">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="query where seen ." slot="3" text="query" head="query">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="query how object handled ." slot="4" text="query" head="query">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="narrow down 1st location possiblilites ." slot="5" text="narrow down" head="narrow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1st location possiblilites" head="possiblilites"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="query possible precise locations ." slot="6" text="query" head="query">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+		</item>
+		<item original="look hard until found ." slot="7" text="look until" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hard" head="hard"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="get object description ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object description" head="description"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="query when object last seen ." slot="2" text="query" head="query">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="query where seen ." slot="3" text="query" head="query">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="query how object handled ." slot="4" text="query" head="query">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="narrow down 1st location possiblilites ." slot="5" text="narrow down" head="narrow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="1st location possiblilites" head="possiblilites"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="query possible precise locations ." slot="6" text="query" head="query">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+		</item>
+		<item original="look hard until found ." slot="7" text="look until" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hard" head="hard"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="think where it might be ." slot="1" text="think" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look in all places nearby ." slot="2" text="look in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+		</item>
+		<item original="ask a friend for help ." slot="3" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="friend" head="friend"/>
+			<ptcp text="help" head="help"/>
+		</item>
+		<item original="look in different places ." slot="4" text="look in" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="places" head="places"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="locate the objecty ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="objecty" head="objecty"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="look around ." slot="1" text="look around" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="look around ." slot="1" text="look around" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="know what you have to find ." slot="1" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="think of possible locations for object ." slot="2" text="think of for" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="search possible locations ." slot="3" text="search" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+		</item>
+		<item original="keep searching until object found ." slot="4" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="know what you have to find ." slot="1" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="think of possible locations for object ." slot="2" text="think of for" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="search possible locations ." slot="3" text="search" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+		</item>
+		<item original="keep searching until object found ." slot="4" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="know what you have to find ." slot="1" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="think of possible locations for object ." slot="2" text="think of for" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="search possible locations ." slot="3" text="search" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+		</item>
+		<item original="keep searching until object found ." slot="4" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="know what you have to find ." slot="1" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="think of possible locations for object ." slot="2" text="think of for" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="search possible locations ." slot="3" text="search" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+		</item>
+		<item original="keep searching until object found ." slot="4" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="know what you have to find ." slot="1" text="know" head="know">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="think of possible locations for object ." slot="2" text="think of for" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="search possible locations ." slot="3" text="search" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locations" head="locations"/>
+		</item>
+		<item original="keep searching until object found ." slot="4" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="search for object ." slot="1" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="decide which object to find ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="search everywhere until the object is found ." slot="2" text="search" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="look for object ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="find object ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="stop looking ." slot="3" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="look for it ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="look around ." slot="1" text="look around" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="spot the object ." slot="2" text="spot" head="spot">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="look around ." slot="1" text="look around" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="spot the object ." slot="2" text="spot" head="spot">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="think of object you need ." slot="1" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="think where it could be ." slot="2" text="think" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go there ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look for it ." slot="4" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="have object in mind to find ." slot="1" text="to in" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="mind" head="mind"/>
+		</item>
+		<item original="think of where it should be ." slot="2" text="think of" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go there ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="look for it ." slot="4" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+</scripts>

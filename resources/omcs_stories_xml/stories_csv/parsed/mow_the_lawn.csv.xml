@@ -1,0 +1,878 @@
+<scripts>
+	<script id="1">
+		<item original="get mower ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="start mower ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="mow grass ." slot="3" text="mow" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="stop mower ." slot="4" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="put mower away ." slot="5" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="go to the garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="get the lawn mower ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="take the lawn mower to the grass ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="start the mower ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="push it over the grass area ." slot="5" text="push over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the grass area" head="area"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="turn off the mower ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="put the mower back in the garage ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="get a lawn mover ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a lawn mover" head="mover"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="put the lawn mover on the lawn ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mover" head="mover"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="turn on or activate the lawn mover ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mover" head="mover"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="move the lawn mover over the lawn ." slot="4" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mover" head="mover"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="get the lawn mover ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mover" head="mover"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="move close to the lawn ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="start the lawnmower ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="use the lawnmower on the lawn ." slot="4" text="use on" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="fill lawnmower with gas ." slot="1" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+			<ptcp text="gas" head="gas"/>
+		</item>
+		<item original="start lawnmower ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="push lawnmower around lawn ." slot="3" text="push around" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="turn on the mower ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="push the mower on the area that should be mowed ." slot="2" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="turn of the mower ." slot="3" text="turn of" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get mower ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="start mover ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mover" head="mover"/>
+		</item>
+		<item original="move mower over lawn ." slot="3" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="find any missed spots ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="any missed spots" head="spots"/>
+		</item>
+		<item original="mow them ." slot="5" text="mow" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="stop mower ." slot="6" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="start mower ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="move mower over lawn ." slot="2" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="if there are patches left move over patch ." slot="3" text="left over" head="left">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="move" head="move"/>
+			<ptcp text="patch" head="patch"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="move lawnmover over lawn ." slot="1" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmover" head="lawnmover"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="start lawnmower ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="move around lawnmower so that it covers all the lawn ." slot="3" text="move around" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="when finished stop lawnmower ." slot="4" text="finished" head="finished">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="find the lawn mover ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mover" head="mover"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="move the lawn mower to the lawn ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="turn on the lawn mower ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="move the lawn mower across an unmowed section of the lawn in a straight line ." slot="4" text="move across of in" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="section" head="section"/>
+			<ptcp text="line" head="line"/>
+		</item>
+		<item original="repeat until the lawn is mowed ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="go to the garden ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garden" head="garden"/>
+		</item>
+		<item original="get the mower out he shed ." slot="2" text="shed out" head="shed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="mow the lawn ." slot="3" text="mow" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="empty the grass cuttings ." slot="4" text="empty" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the grass cuttings" head="cuttings"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="put the mower away ." slot="5" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="go back inside the house ." slot="6" text="go inside" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="get the mower out ." slot="1" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="plug it in ." slot="2" text="plug in" head="plug">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="cut the grass ." slot="3" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="empty the cutting box ." slot="4" text="empty" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="unplug the mower ." slot="5" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="put the mower away ." slot="6" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="find push lawn mower ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="push lawn mower" head="mower"/>
+			<ptcp text="push" head="push"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="move the lawn mower to the lawn ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="push the lawn mower in a straight line across the line ." slot="3" text="push in across" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="line" head="line"/>
+		</item>
+		<item original="repeat until all of the lawn is mowed ." slot="4" text="repeat of" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="all" head="all"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="get the lawn mower ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="start the lawn mower ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="begin mowing lawn ." slot="3" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="continue until grass in lawn is cut ." slot="4" text="continue in" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grass" head="grass"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="stop mower ." slot="5" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="put the lawn mower away ." slot="6" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get the lawn mower ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="move the lawn mower to the yard ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="yard" head="yard"/>
+		</item>
+		<item original="turn on the lawn mower ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="mow the lawn ." slot="4" text="mow" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="turn off the lawn mower ." slot="5" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="empty lawn mower bag in the trash ." slot="6" text="empty in" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn mower bag" head="bag"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="mower" head="mower"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="put away the lawn mower ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="get the lawnmower ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="turn the lawnmower on ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="push the lawnmower around the lawn ." slot="3" text="push around" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="turn the lawnmower off ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get mower out ." slot="1" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="fill with gas ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gas" head="gas"/>
+		</item>
+		<item original="turn mower on ." slot="3" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="mow ." slot="4" text="mow" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="take out lawn mower ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="start up mower ." slot="2" text="start up" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="mow lawn ." slot="3" text="mow" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="finish ." slot="4" text="finish" head="finish">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="win! ." slot="5" text="win" head="win">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="get out the lawn mower ." slot="1" text="get out " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="check the oil and gasoline ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+			<ptcp text="gasoline" head="gasoline"/>
+		</item>
+		<item original="prime the engine by pumping the button ." slot="3" text="pumping by" head="pumping">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="engine" head="engine"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="pull cord to start the mower ." slot="4" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cord" head="cord"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="follow the lawn perimeter once around ." slot="5" text="follow" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn perimeter" head="perimeter"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="mow the rest of the yard in even rows ." slot="6" text="mow of in" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rest" head="rest"/>
+			<ptcp text="yard" head="yard"/>
+			<ptcp text="even rows" head="rows"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="buy gas for lawamower ." slot="1" text="buy for" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gas" head="gas"/>
+			<ptcp text="lawamower" head="lawamower"/>
+		</item>
+		<item original="get lawamower out of shed ." slot="2" text="shed out of" head="shed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawamower" head="lawamower"/>
+		</item>
+		<item original="put gas in lawnmower ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gas" head="gas"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="start lawnmower ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="mow an area ." slot="5" text="mow" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="stop lawnmower ." slot="6" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="put lawnmower away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="buy gas for lawamower ." slot="1" text="buy for" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gas" head="gas"/>
+			<ptcp text="lawamower" head="lawamower"/>
+		</item>
+		<item original="get lawamower out of shed ." slot="2" text="shed out of" head="shed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawamower" head="lawamower"/>
+		</item>
+		<item original="put gas in lawnmower ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gas" head="gas"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="start lawnmower ." slot="4" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="mow an area ." slot="5" text="mow" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="stop lawnmower ." slot="6" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="put lawnmower away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="check and add oil ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="oil" head="oil"/>
+		</item>
+		<item original="check and add gas ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gas" head="gas"/>
+		</item>
+		<item original="cut grass ." slot="3" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="bag cut grass ." slot="4" text="bag" head="bag">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="put gas in the lawnmower ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gas" head="gas"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="take lawnmower to yard ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+			<ptcp text="yard" head="yard"/>
+		</item>
+		<item original="start the lawnmower ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="adjust the height of the blades ." slot="4" text="adjust of" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="height" head="height"/>
+			<ptcp text="blades" head="blades"/>
+		</item>
+		<item original="push/ride the lawnmower across lawn ." slot="5" text="pushride across" head="pushride">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="empty grass-bag when necessary ." slot="6" text="empty " head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grassbag" head="grassbag"/>
+		</item>
+		<item original="turn off lawnmower put away ." slot="7" text="turn off away" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="put gas in the lawnmower ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gas" head="gas"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="start the lawnmower ." slot="2" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="move the lawnmower over the grass in rows ." slot="3" text="move over in" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+			<ptcp text="grass" head="grass"/>
+			<ptcp text="rows" head="rows"/>
+		</item>
+		<item original="turn off the lawnmower ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+		</item>
+		<item original="empty the grass catcher on the lawnmower into the trash ." slot="5" text="empty on into" head="empty">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the grass catcher" head="catcher"/>
+			<ptcp text="grass" head="grass"/>
+			<ptcp text="lawnmower" head="lawnmower"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="get lawn mower ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="fill with gas ." slot="2" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gas" head="gas"/>
+		</item>
+		<item original="start mower ." slot="3" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="push mower around lawn ." slot="4" text="push around" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="pull string to start mower ." slot="1" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="string" head="string"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="push mower down one section of grass ." slot="2" text="push down of" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+			<ptcp text="section" head="section"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="mave slightly over and go back up section of grass ." slot="3" text="mave up of" head="mave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="section" head="section"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="mover over again and go down section ." slot="4" text="mover over down" head="mover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="continue until lawn is mowed ." slot="5" text="continue" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="start lawn mower ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="push lawn mower on grass ." slot="2" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="mow until all grass has been cut ." slot="3" text="mow" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="turn off lawn mower ." slot="4" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="start the lawn mower ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="push the lawn mower forward over the grass ." slot="2" text="push forward over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." slot="3" text="mow at" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="swath" head="swath"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="start the lawn mower ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="push the lawn mower forward over the grass ." slot="2" text="push forward over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." slot="3" text="mow at" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="swath" head="swath"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="start the lawn mower ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="push the lawn mower forward over the grass ." slot="2" text="push forward over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." slot="3" text="mow at" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="swath" head="swath"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="start the lawn mower ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="push the lawn mower forward over the grass ." slot="2" text="push forward over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." slot="3" text="mow at" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="swath" head="swath"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="start the lawn mower ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="push the lawn mower forward over the grass ." slot="2" text="push forward over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." slot="3" text="mow at" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="swath" head="swath"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="start the lawn mower ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="push the lawn mower forward over the grass ." slot="2" text="push forward over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="mow the lawn one mower-wide swath at a time until the lawn is completely mowed ." slot="3" text="mow at" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="swath" head="swath"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="turn on lawn mower ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="push over grass ." slot="2" text="push over" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="go to the garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="take out the lawn mower ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="put the lawn mower on the grass ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+		<item original="turn on the lawn mower ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="walk up and down the lawn until it is trimmed ." slot="5" text="walk up" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="turn off the mower ." slot="6" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="put the mower away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="turn on lawn mower ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="roll across grass ." slot="2" text="roll across" head="roll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grass" head="grass"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="go to shed ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take out lawn mower ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+		<item original="fill with gas ." slot="3" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gas" head="gas"/>
+		</item>
+		<item original="turn on mower ." slot="4" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+		<item original="mow grass in one direction ." slot="5" text="mow in" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grass" head="grass"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+		<item original="mow in other direction ." slot="6" text="mow in" head="mow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+		<item original="put mower away ." slot="7" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mower" head="mower"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="run lawn mower over the lawn ." slot="1" text="run over" head="run">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lawn mower" head="mower"/>
+			<ptcp text="lawn" head="lawn"/>
+		</item>
+	</script>
+</scripts>

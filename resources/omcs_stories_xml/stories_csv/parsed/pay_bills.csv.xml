@@ -1,0 +1,430 @@
+<scripts>
+	<script id="1">
+		<item original="find bill ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="write check for specific bill ." slot="2" text="write for" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="put bill in envelope with bill stub ." slot="3" text="put in with" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill" head="bill"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="bill stub" head="stub"/>
+		</item>
+		<item original="seal envelope ." slot="4" text="seal" head="seal">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="stamp envelope ." slot="5" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail envelope ." slot="6" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="for each bill ." slot="1" text="for for" head="for">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="write check and account number ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+			<ptcp text="account number" head="number"/>
+			<ptcp text="account" head="account"/>
+		</item>
+		<item original="put check in envelope along with bill stub ." slot="3" text="put in along with" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="bill stub" head="stub"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="next bill ." slot="4" text="next " head="next">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="gather bills to be paid ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bills" head="bills"/>
+		</item>
+		<item original="logon to online banking site ." slot="2" text="logon" head="logon">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="banking site" head="site"/>
+			<ptcp text="banking" head="banking"/>
+		</item>
+		<item original="input amounts to be paid to debtors ." slot="3" text="amounts to" head="amounts">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="debtors" head="debtors"/>
+		</item>
+		<item original="disburse funds to debtors from bank account ." slot="4" text="disburse to from" head="disburse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="funds" head="funds"/>
+			<ptcp text="debtors" head="debtors"/>
+			<ptcp text="bank account" head="account"/>
+			<ptcp text="bank" head="bank"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="locate the bills to pay ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bills" head="bills"/>
+		</item>
+		<item original="log on to bill payment website ." slot="2" text="log on to" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill payment website" head="website"/>
+			<ptcp text="bill" head="bill"/>
+			<ptcp text="payment" head="payment"/>
+		</item>
+		<item original="enter total amount due to each debtor ." slot="3" text="enter to" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="debtor" head="debtor"/>
+		</item>
+		<item original="disburse funds to pay debtors ." slot="4" text="disburse" head="disburse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="funds" head="funds"/>
+			<ptcp text="debtors" head="debtors"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="determine cost of one bill ." slot="1" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cost" head="cost"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="write check in the amount of this bill ." slot="2" text="write in of" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="put check into envelope ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="close envelope ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put stamp on envelope ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="address envelope to bill s creditor ." slot="6" text="address to" head="address">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="bill" head="bill"/>
+			<ptcp text="creditor" head="creditor"/>
+		</item>
+		<item original="repeat with each other bill ." slot="7" text="repeat with" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="look at bills ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bills" head="bills"/>
+		</item>
+		<item original="write check for amount on bill ." slot="2" text="write for on" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="place check in envelope provided ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="if necessary add a stamp to the envelope ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stamp" head="stamp"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="place envelope in mail box ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mail box" head="box"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="locate bill ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="locate money ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="take bill to post office ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill" head="bill"/>
+			<ptcp text="post office" head="office"/>
+			<ptcp text="post" head="post"/>
+		</item>
+		<item original="give teller bill and money ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teller bill" head="bill"/>
+			<ptcp text="teller" head="teller"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="take the reciept ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reciept" head="reciept"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="open bills ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bills" head="bills"/>
+		</item>
+		<item original="write checks ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="checks" head="checks"/>
+		</item>
+		<item original="stuff envelopes ." slot="3" text="stuff " head="stuff">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stuff" head="stuff"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="mail bills ." slot="4" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bills" head="bills"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="find a bill ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="find the amount owed ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+		<item original="write a check for the amount owed ." slot="3" text="write for" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+		<item original="sign the check ." slot="4" text="sign" head="sign">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+		<item original="put the check in an envelope ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="stamp and address the envelope ." slot="6" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="mail the envelope ." slot="7" text="mail" head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="make a check ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+		</item>
+		<item original="write the payees name ." slot="2" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+		</item>
+		<item original="write the date ." slot="3" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+		</item>
+		<item original="write the amount ." slot="4" text="write" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+		<item original="and mail ." slot="5" text="mail " head="mail">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mail" head="mail"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="go to website ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="website" head="website"/>
+		</item>
+		<item original="log in ." slot="2" text="log in" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="authorize payment ." slot="3" text="authorize" head="authorize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="payment" head="payment"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="gather bill notices ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill notices" head="notices"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="log on to bank website ." slot="2" text="log on to" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bank website" head="website"/>
+			<ptcp text="bank" head="bank"/>
+		</item>
+		<item original="select online bill pay section ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill" head="bill"/>
+			<ptcp text="section" head="section"/>
+		</item>
+		<item original="find payor that matches bill ." slot="4" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="payor" head="payor"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="put amount in payor website ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="payor website" head="website"/>
+			<ptcp text="payor" head="payor"/>
+		</item>
+		<item original="select ok or complete ." slot="6" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ok" head="ok"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="organize bills ." slot="1" text="organize" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bills" head="bills"/>
+		</item>
+		<item original="write checks for bills ." slot="2" text="write for" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="checks" head="checks"/>
+			<ptcp text="bills" head="bills"/>
+		</item>
+		<item original="put bills in envelopes ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bills" head="bills"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="stamp envelopes ." slot="4" text="stamp" head="stamp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+		</item>
+		<item original="put envelopes in mailbox ." slot="5" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelopes" head="envelopes"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="open bill ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="note the amount ." slot="2" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+		<item original="get checkbook and pen ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="checkbook" head="checkbook"/>
+			<ptcp text="pen" head="pen"/>
+		</item>
+		<item original="write check for amount of bill ." slot="4" text="write for of" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="check" head="check"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="put ckeck into envelope ." slot="5" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ckeck" head="ckeck"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put postage stamp on envelope ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="postage stamp" head="stamp"/>
+			<ptcp text="postage" head="postage"/>
+			<ptcp text="envelope" head="envelope"/>
+		</item>
+		<item original="put envelope in mailbox ." slot="7" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="envelope" head="envelope"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="identify bills that need to be paid ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bills" head="bills"/>
+		</item>
+		<item original="go to the bank with the account you pay bills with ." slot="2" text="go to with with" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bank" head="bank"/>
+			<ptcp text="account" head="account"/>
+			<ptcp text="bills" head="bills"/>
+		</item>
+		<item original="select either 4 or 5 ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="either 4 or 5" head="either"/>
+		</item>
+		<item original="go to the teller and pay your bill ." slot="4" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="teller" head="teller"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+		<item original="go to the atm machine and pay from your account ." slot="5" text="go to from" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the atm machine" head="machine"/>
+			<ptcp text="atm" head="atm"/>
+			<ptcp text="account" head="account"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="open letter ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="letter" head="letter"/>
+		</item>
+		<item original="check due date ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+		</item>
+		<item original="go to online banking ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="banking" head="banking"/>
+		</item>
+		<item original="click 'pay bills' ." slot="4" text="pay" head="pay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="click" head="click"/>
+			<ptcp text="bills" head="bills"/>
+		</item>
+		<item original="input amount due ." slot="5" text="input " head="input">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input amount" head="amount"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+		<item original="send/transfer money ." slot="6" text="sendtransfer" head="sendtransfer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+		<item original="paid bill ." slot="7" text="paid" head="paid">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bill" head="bill"/>
+		</item>
+	</script>
+</scripts>

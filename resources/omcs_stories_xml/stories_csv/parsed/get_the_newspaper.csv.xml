@@ -1,0 +1,973 @@
+<scripts>
+	<script id="1">
+		<item original="open front door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="find the newspaper ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pick up the newspaper ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="walk back to home ." slot="4" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="close front door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="go to the store ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="find the newspapers ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspapers" head="newspapers"/>
+		</item>
+		<item original="take a newspaper to the cash register ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+			<ptcp text="the cash register" head="register"/>
+			<ptcp text="cash" head="cash"/>
+		</item>
+		<item original="pay for the newspaper ." slot="4" text="pay for" head="pay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="take the newspaper home ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the newspaper home" head="home"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="locate the newspaper ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="if outside  open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="look for the newspaper ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pick it up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="locate a door ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside through the door ." slot="2" text="go through" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="locate the newspaper ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pick up the newspaper ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="move back to the door ." slot="5" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go to the inside through the door ." slot="6" text="go to through" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="inside" head="inside"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="go to the front door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pick up the newspaper ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="go to door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pick up newspaper ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="bring newspaper into house ." slot="4" text="bring into" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="put on shoes ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shoes" head="shoes"/>
+		</item>
+		<item original="walk out of the house and down the driveway ." slot="2" text="walk down out of down" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+			<ptcp text="driveway" head="driveway"/>
+		</item>
+		<item original="pick up the newspaper ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="locate the newspaper ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="walk to the newspaper ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pick it up ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="bring it to the original location ." slot="4" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="open the door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="look down ." slot="2" text="look down" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="see the newpaper on the ground ." slot="3" text="see on" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newpaper" head="newpaper"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+		<item original="pick it up ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="close the door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="get out of bed ." slot="1" text="get out of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="look for newspaper ." slot="3" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="bring newspaper inside house ." slot="4" text="bring inside" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="check if the newspaper is indoors ." slot="1" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="if not walk outside and check to see if newspaper is there ." slot="2" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="once newspaper is located pick it up ." slot="3" text="located up" head="located">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="return to the person requesting the newspaper ." slot="4" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="go to the coffee shop ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the coffee shop" head="shop"/>
+			<ptcp text="coffee" head="coffee"/>
+		</item>
+		<item original="find the rack of newspapers for sale ." slot="2" text="find of for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rack" head="rack"/>
+			<ptcp text="newspapers" head="newspapers"/>
+			<ptcp text="sale" head="sale"/>
+		</item>
+		<item original="pick one up ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take it to the cashier ." slot="4" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cashier" head="cashier"/>
+		</item>
+		<item original="pay for it ." slot="5" text="pay for" head="pay">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="go to newspaper stand ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper stand" head="stand"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pick newspaper ." slot="2" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pay ." slot="3" text="pay" head="pay">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="leave ." slot="4" text="leave" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="locate the newspaper ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="walk to the newspaper ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pickup the newspaper ." slot="3" text="pickup " head="pickup">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pickup" head="pickup"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="read the newspaper ." slot="4" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="go to newspaper stand ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper stand" head="stand"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="select newspaper ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pay ." slot="3" text="pay" head="pay">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="go to street corner ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="street corner" head="corner"/>
+			<ptcp text="street" head="street"/>
+		</item>
+		<item original="locate newspaper machine ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper machine" head="machine"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="insert coins ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+		</item>
+		<item original="get a newspaper from machine ." slot="4" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+			<ptcp text="machine" head="machine"/>
+		</item>
+		<item original="return home ." slot="5" text="return" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="home" head="home"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="locate newspaper ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pick up newspaper ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="return to owner ." slot="3" text="return to" head="return">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="owner" head="owner"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="look outside ." slot="1" text="look outside" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="if there is a newspaper then go outside ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="there" head="there"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="go over to the newspaper ." slot="3" text="go over to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pick up the newspaper ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="go back inside ." slot="5" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="take the bag off the newspaper ." slot="6" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="take the newspaper to the table ." slot="7" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+			<ptcp text="table" head="table"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="go to the news stand ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the news stand" head="stand"/>
+			<ptcp text="news" head="news"/>
+		</item>
+		<item original="select correct newspaper ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pay for the newspaper ." slot="3" text="pay for" head="pay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pick the newspaper up ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="walk to the store ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="pick up a newspaper ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="get in line ." slot="3" text="get in" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="line" head="line"/>
+		</item>
+		<item original="pay cashier ." slot="4" text="pay" head="pay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cashier" head="cashier"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="go to the newspaper stand ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the newspaper stand" head="stand"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="get the newspaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="open the front door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="locate the paper ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="walk to the paper ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="bend over and pick up the paper ." slot="4" text="bend over up" head="bend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="walk back to the house ." slot="5" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="close the door ." slot="6" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="get newspaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="finding the newspaper ." slot="1" text="finding" head="finding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="picking up the newspaper ." slot="2" text="picking up" head="picking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="placing the newspaper down where it is needed ." slot="3" text="placing down" head="placing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="finding the newspaper ." slot="1" text="finding" head="finding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="picking up the newspaper ." slot="2" text="picking up" head="picking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="placing the newspaper down where it is needed ." slot="3" text="placing down" head="placing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="put on your robe ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="robe" head="robe"/>
+		</item>
+		<item original="put on your slippers ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slippers" head="slippers"/>
+		</item>
+		<item original="walk out the door ." slot="3" text="walk out" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="look for the paper ." slot="4" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="grab the paper ." slot="5" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="put on your robe ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="robe" head="robe"/>
+		</item>
+		<item original="put on your slippers ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slippers" head="slippers"/>
+		</item>
+		<item original="walk out the door ." slot="3" text="walk out" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="look for the paper ." slot="4" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="grab the paper ." slot="5" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="go outside ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up the newspaper off the ground ." slot="2" text="pick up off" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+			<ptcp text="ground" head="ground"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="go to the front door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go out on the front steps ." slot="3" text="go out on" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+		</item>
+		<item original="close the door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk to the paper ." slot="5" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="pick it up ." slot="6" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk back to the front door ." slot="7" text="walk back to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="walk to newspaper stand ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper stand" head="stand"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="deposit coins into newstand ." slot="2" text="deposit into" head="deposit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="coins" head="coins"/>
+			<ptcp text="newstand" head="newstand"/>
+		</item>
+		<item original="open stand door ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stand door" head="door"/>
+			<ptcp text="stand" head="stand"/>
+		</item>
+		<item original="take out one paper ." slot="4" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="close stand door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stand door" head="door"/>
+			<ptcp text="stand" head="stand"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="open front door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="take newspaper bag off handle ." slot="2" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper bag" head="bag"/>
+			<ptcp text="newspaper" head="newspaper"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="bring into house ." slot="3" text="bring into" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="open door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk onto porch or to the front of the house ." slot="2" text="walk to onto to of" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="porch" head="porch"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="locate newspaper ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pick up newspaper ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="bring newspaper in house ." slot="5" text="bring in" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+			<ptcp text="house" head="house"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="go outside ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get paper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wave at neighbours ." slot="3" text="wave at" head="wave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wave" head="wave"/>
+			<ptcp text="neighbours" head="neighbours"/>
+		</item>
+		<item original="go back inside ." slot="4" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="close door ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="go to the store ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="pick the type ." slot="2" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="type" head="type"/>
+		</item>
+		<item original="pick up paper ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="give money to store ." slot="4" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+			<ptcp text="store" head="store"/>
+		</item>
+		<item original="put paper into bag ." slot="5" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="take paper home ." slot="6" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper home" head="home"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="enjoy ." slot="7" text="enjoy" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="open front door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go to mailbox ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="pick up newspaper ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="go outside ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up newspaper ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="bring it inside ." slot="3" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get newspaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get newspaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get newspaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get newspaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get newspaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get newspaper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="walk to mailbox ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="remove newspaper ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="bring newspaper inside ." slot="4" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="walk to mailbox ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="open mailbox ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mailbox" head="mailbox"/>
+		</item>
+		<item original="remove newspaper ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="bring newspaper inside ." slot="4" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="buy newspaper ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="go downstairs ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk to the newspaper ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="bend down ." slot="4" text="bend down" head="bend">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up newspaper ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="go back in ." slot="6" text="go in" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="close door ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="go downstairs ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk to the newspaper ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="bend down ." slot="4" text="bend down" head="bend">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up newspaper ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="go back in ." slot="6" text="go in" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="close door ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="go downstairs ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk to the newspaper ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="bend down ." slot="4" text="bend down" head="bend">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up newspaper ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="go back in ." slot="6" text="go in" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="close door ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="go downstairs ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open the door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="walk to the newspaper ." slot="3" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="bend down ." slot="4" text="bend down" head="bend">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pick up newspaper ." slot="5" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="go back in ." slot="6" text="go in" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="close door ." slot="7" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="open door in morning ." slot="1" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="morning" head="morning"/>
+		</item>
+		<item original="locate newspaper ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pick it up ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go back inside ." slot="4" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="open door in morning ." slot="1" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="morning" head="morning"/>
+		</item>
+		<item original="locate newspaper ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="newspaper" head="newspaper"/>
+		</item>
+		<item original="pick it up ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go back inside ." slot="4" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="open front door ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="pick up the paper ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="bring it into the house ." slot="3" text="bring into" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="close the front door ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="go to front door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="open door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="bend over and pick up paper ." slot="3" text="bend over up" head="bend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,777 @@
+<scripts>
+	<script id="1">
+		<item original="close the window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="lock the window ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="move to next window ." slot="3" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="repeat from step 1 until all windows are locked ." slot="4" text="repeat from" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="step" head="step"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="go to each window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn lock ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="for each window ." slot="1" text="for for" head="for">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="go to window ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="close if needed ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="lock ." slot="4" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="next window ." slot="5" text="next " head="next">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="locating the locking mechanism on the windows ." slot="1" text="locating on" head="locating">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mechanism" head="mechanism"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="moving the locking mechanisms in such a way that the window cannot be opened from the outside ." slot="2" text="moving in from" head="moving">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mechanisms" head="mechanisms"/>
+			<ptcp text="way" head="way"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="close windows ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="press lock on each window ." slot="2" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="go to each window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="close windows if open ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="turn lock to locked position ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="locked position" head="position"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="look for a window ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="move to the window ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="close the window ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn the window s latch to the locked position ." slot="4" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="the locked position" head="position"/>
+		</item>
+		<item original="repeat until all windows are locked ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="finding all windows in a structure ." slot="1" text="finding in" head="finding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+			<ptcp text="structure" head="structure"/>
+		</item>
+		<item original="securely closing each window ." slot="2" text="closing closing" head="closing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="engaging the locking mechanism on each window ." slot="3" text="engaging on" head="engaging">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mechanism" head="mechanism"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get the window keys ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the window keys" head="keys"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="go to each window individually ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="put the individual windows keys into the window locks ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the individual windows keys" head="keys"/>
+			<ptcp text="windows" head="windows"/>
+			<ptcp text="the window locks" head="locks"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn the keys to lock the windows in the house ." slot="4" text="turn in" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="keys" head="keys"/>
+			<ptcp text="windows" head="windows"/>
+			<ptcp text="house" head="house"/>
+		</item>
+		<item original="remove the keys from the locks ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="keys" head="keys"/>
+			<ptcp text="locks" head="locks"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="close window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="locate locking mechanism ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mechanism" head="mechanism"/>
+		</item>
+		<item original="activate locking mechanism ." slot="3" text="activate" head="activate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mechanism" head="mechanism"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="go to first window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="ensure the window is locked ." slot="2" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="repeat for other windows ." slot="3" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="locate window key ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window key" head="key"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="go to window ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="insert key ." slot="3" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+		</item>
+		<item original="turn key ." slot="4" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+		</item>
+		<item original="remove key ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="locate windows ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="locate key ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+		</item>
+		<item original="insert key in window lock ." slot="3" text="insert in" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+			<ptcp text="window lock" head="lock"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn key ." slot="4" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+		</item>
+		<item original="remove key ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="close the windows ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="lock the windows ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="turn the locks on the windows ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="locks" head="locks"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="test by trying to lift the windows to make sure the locks don t slip ." slot="2" text="test by" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+			<ptcp text="locks" head="locks"/>
+			<ptcp text="t slip" head="slip"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="close the curtains drapes or blinds ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtains" head="curtains"/>
+			<ptcp text="drapes" head="drapes"/>
+			<ptcp text="blinds" head="blinds"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="walk to window ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="close window ." slot="2" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="close latch ." slot="3" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="latch" head="latch"/>
+		</item>
+		<item original="lock latch ." slot="4" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="latch" head="latch"/>
+		</item>
+		<item original="test that window is locked ." slot="5" text="test" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="realize windows are unlocked ." slot="1" text="realize" head="realize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="rise from position ." slot="2" text="rise from" head="rise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="check all windows ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="lower windows ." slot="4" text="lower" head="lower">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="raise hand to latch ." slot="5" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="move latch to closed position ." slot="6" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="latch" head="latch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="check security of closure ." slot="7" text="check of" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="security" head="security"/>
+			<ptcp text="closure" head="closure"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="get list of all windows to lock ." slot="1" text="to of" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="list" head="list"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="turn the latch on each window ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pull the sash down ." slot="1" text="pull down" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sash" head="sash"/>
+		</item>
+		<item original="turn the right latch to the right ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="right" head="right"/>
+		</item>
+		<item original="turn the left latch to the left ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="left" head="left"/>
+		</item>
+		<item original="repeat with each window ." slot="4" text="repeat with" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="make sure window is completely closed ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="latch window ." slot="2" text="latch" head="latch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="walk to window ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn the latch ." slot="2" text="latch" head="latch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+		</item>
+		<item original="repeat with each window ." slot="3" text="repeat with" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="go to windows ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="losk windows ." slot="2" text="losk" head="losk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="go to windows ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="losk windows ." slot="2" text="losk" head="losk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="close the window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="find the latch ." slot="2" text="latch" head="latch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+		</item>
+		<item original="tunr the latch down ." slot="3" text="latch down" head="latch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+		</item>
+		<item original="check the window ." slot="4" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="close the window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="push up the lock ." slot="2" text="push up" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+		<item original="check the window ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="close windows ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="turn latch ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="latch" head="latch"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="close windows ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="turn latch ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="latch" head="latch"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="close window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn lock down ." slot="2" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+		<item original="pull window to check if locked ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="close curtain ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="close window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn lock down ." slot="2" text="turn down" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+		<item original="pull window to check if locked ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="close curtain ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="curtain" head="curtain"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="close window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn lock ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+		<item original="try to open window to make sure it s locked ." slot="3" text="try" head="try">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="close window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn lock ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="close windows ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="lock windows ." slot="2" text="lock" head="lock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="walk over to window ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn lock to locked position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="locked position" head="position"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="walk over to window ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn lock to locked position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="locked position" head="position"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="walk over to window ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn lock to locked position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="locked position" head="position"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="walk over to window ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn lock to locked position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="locked position" head="position"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="close window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="snap lock to closed/locked  position ." slot="2" text="snap to" head="snap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="check window to ensure it s secure ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="close window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="snap lock to closed/locked  position ." slot="2" text="snap to" head="snap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="check window to ensure it s secure ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="close window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="snap lock to closed/locked  position ." slot="2" text="snap to" head="snap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="check window to ensure it s secure ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="close window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="snap lock to closed/locked  position ." slot="2" text="snap to" head="snap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="check window to ensure it s secure ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="close window ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="snap lock to closed/locked  position ." slot="2" text="snap to" head="snap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="check window to ensure it s secure ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="close windows ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="push lock ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="close windows ." slot="1" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="windows" head="windows"/>
+		</item>
+		<item original="push lock ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="go to window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="push latch to the locked position ." slot="2" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="latch" head="latch"/>
+			<ptcp text="the locked position" head="position"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="go to window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="push latch to the locked position ." slot="2" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="latch" head="latch"/>
+			<ptcp text="the locked position" head="position"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="go to window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="push latch to the locked position ." slot="2" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="latch" head="latch"/>
+			<ptcp text="the locked position" head="position"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="go to window ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="push latch to the locked position ." slot="2" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="latch" head="latch"/>
+			<ptcp text="the locked position" head="position"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to window ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="push lever to lock position ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lever" head="lever"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to window ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="push lever to lock position ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lever" head="lever"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to window ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="push lever to lock position ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lever" head="lever"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to window ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="push lever to lock position ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lever" head="lever"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="get up ." slot="1" text="get up " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="go to window ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="push lever to lock position ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lever" head="lever"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="turn the lock to secure clasp ." slot="1" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lock" head="lock"/>
+			<ptcp text="clasp" head="clasp"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,717 @@
+<scripts>
+	<script id="1">
+		<item original="walk to the air conditioner ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="locate the on/off switch ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the onoff switch" head="switch"/>
+			<ptcp text="onoff" head="onoff"/>
+		</item>
+		<item original="turn the switch into off position ." slot="3" text="turn into" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="pick up the remote control ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="push off button ." slot="2" text="push off" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="approach the air conditioner ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="move the power knob to the off position ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power knob" head="knob"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="go to air conditioner ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="push button to off position ." slot="2" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="go to air conditioner ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="push button to off position ." slot="2" text="push to" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="locate the air conditioner ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="locate the power switch/button ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power switchbutton" head="switchbutton"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="turn the power switch to 'off' or press the 'power' button ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="the power button" head="button"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="go to the air conditioner control panel place ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+			<ptcp text="panel place" head="place"/>
+			<ptcp text="panel" head="panel"/>
+		</item>
+		<item original="grab hold of the switch that controls the air conditioner ." slot="2" text="grab of" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hold" head="hold"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="move the switch to the off position with your hand ." slot="3" text="move to with" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="move to the air conditioner ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="find the air conditioner s power switch ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air" head="air"/>
+			<ptcp text="conditioner" head="conditioner"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="power switch" head="switch"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="turn the switch to the off position ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="find thermostat ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="turn thermostat to off position ." slot="2" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="locate the air conditioner remote control ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="pick the air conditioner remote control ." slot="2" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="push the off button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="release the air conditioner remote control ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+			<ptcp text="control" head="control"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="go to the thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="identify the on-off switch ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the onoff switch" head="switch"/>
+			<ptcp text="onoff" head="onoff"/>
+		</item>
+		<item original="turn the switch to off ." slot="3" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="locate air conditioner ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="locate power switch ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power switch" head="switch"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="press power switch to off position ." slot="3" text="press to" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power switch" head="switch"/>
+			<ptcp text="power" head="power"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="go to air conditioner ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="locate on/off switch ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="set switch to off ." slot="3" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="press the off button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="go to the thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="set the thermostat to off to turn off the air conditioner and heat ." slot="2" text="set off to off" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+			<ptcp text="heat" head="heat"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="locate air conditioner ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="locate buttons ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="buttons" head="buttons"/>
+		</item>
+		<item original="press the off button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="go to thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="program to turn off ." slot="2" text="program off" head="program">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="walk to immediate vicinity of air conditioner ." slot="1" text="walk to of" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="vicinity" head="vicinity"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="press off button or turn switch to off ." slot="2" text="press off to" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="locate air conditioner ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="locate off switch ." slot="2" text="locate off" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="press off switch ." slot="3" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="find the thermostat ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="set the heat/off/cool switch to off ." slot="2" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="find any window units ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="any window units" head="units"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="turn the power switch on them to off ." slot="4" text="turn on to off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power switch" head="switch"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="find the switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="turn the switch off ." slot="2" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="identify air conditioner ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="identify power button ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="press power button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="notice the temperature ." slot="1" text="notice" head="notice">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="find the control panel ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the control panel" head="panel"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="decide on a setting ." slot="3" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="setting" head="setting"/>
+		</item>
+		<item original="turn the dial to desired setting ." slot="4" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dial" head="dial"/>
+			<ptcp text="desired setting" head="setting"/>
+		</item>
+		<item original="adjust the fan ." slot="5" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fan" head="fan"/>
+		</item>
+		<item original="monitor changes in temperature ." slot="6" text="monitor in" head="monitor">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="changes" head="changes"/>
+			<ptcp text="temperature" head="temperature"/>
+		</item>
+		<item original="enjoy the comfort ." slot="7" text="enjoy" head="enjoy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comfort" head="comfort"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="go to the air conditioner ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="locate the control panel ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the control panel" head="panel"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="locate the power button ." slot="3" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+		<item original="press the power button ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the power button" head="button"/>
+			<ptcp text="power" head="power"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="find switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip switch to off ." slot="2" text="flip to" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="find switch ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="flip switch to off ." slot="2" text="flip to" head="flip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="walk to air conditioner ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="push or turn knob ." slot="2" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="knob" head="knob"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="find on/off button ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="press on/off button ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="wait for unit to stop ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="unit" head="unit"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="locate the remote for the air conditioner ." slot="1" text="locate for" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the remote for the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="push the off button on the remote ." slot="2" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="the remote" head="remote"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="walk to the thermostat ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="move switch to 'off ' ." slot="2" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="go to the thermostat ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="move switch from 'cool' to 'off' ." slot="2" text="move from" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+			<ptcp text="cool to" head="cool"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="locate air conditioner ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="locate on/off button or switch ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="set to off position ." slot="3" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="locate air conditioner ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="locate on/off button or switch ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+		<item original="set to off position ." slot="3" text="set to" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="walk over to air conditioner ." slot="1" text="walk over to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="press off button ." slot="2" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="press off button ." slot="1" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="walk to thermostat ." slot="1" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thermostat" head="thermostat"/>
+		</item>
+		<item original="change air condition setting to off ." slot="2" text="change to" head="change">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air condition" head="condition"/>
+			<ptcp text="air" head="air"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="turn off switch ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="goto air conditioner control panel ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+			<ptcp text="control panel" head="panel"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="find off button ." slot="2" text="find off" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="push button ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="get the ac remote controller ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="controller" head="controller"/>
+		</item>
+		<item original="point at the air conditioner ." slot="2" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="press the off button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="get the ac remote controller ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="controller" head="controller"/>
+		</item>
+		<item original="point at the air conditioner ." slot="2" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="press the off button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="get the ac remote controller ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="controller" head="controller"/>
+		</item>
+		<item original="point at the air conditioner ." slot="2" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="press the off button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="get the ac remote controller ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="controller" head="controller"/>
+		</item>
+		<item original="point at the air conditioner ." slot="2" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="press the off button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="get the ac remote controller ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="controller" head="controller"/>
+		</item>
+		<item original="point at the air conditioner ." slot="2" text="point at" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="press the off button ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="turn air conditioner knob to off ." slot="1" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner knob" head="knob"/>
+			<ptcp text="air" head="air"/>
+			<ptcp text="conditioner" head="conditioner"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="turn air conditioner knob to off ." slot="1" text="turn to" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner knob" head="knob"/>
+			<ptcp text="air" head="air"/>
+			<ptcp text="conditioner" head="conditioner"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="turn air off ." slot="1" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air" head="air"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="turn air conditioner on ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="go to air conditioner ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="look for off buton ." slot="2" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="buton" head="buton"/>
+		</item>
+		<item original="press off button ." slot="3" text="press off" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="go to air conditioner ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="turn knob counter clockwise ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="select off ." slot="3" text="select off" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="go to air conditioner ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="turn knob counter clockwise ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="select off ." slot="3" text="select off" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="go to air conditioner ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="turn knob counter clockwise ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="select off ." slot="3" text="select off" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="go to air conditioner ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="air conditioner" head="conditioner"/>
+			<ptcp text="air" head="air"/>
+		</item>
+		<item original="turn knob counter clockwise ." slot="2" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clockwise" head="clockwise"/>
+		</item>
+		<item original="select off ." slot="3" text="select off" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+</scripts>

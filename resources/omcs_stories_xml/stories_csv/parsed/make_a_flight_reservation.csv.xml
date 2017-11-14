@@ -1,0 +1,1339 @@
+<scripts>
+	<script id="1">
+		<item original="call a flight reservation agency ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a flight reservation agency" head="agency"/>
+			<ptcp text="flight" head="flight"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="select a flight ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="ask to reserve that flight ." slot="3" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find the phone number for a travel agency ." slot="1" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="a travel agency" head="agency"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="call the agency ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="agency" head="agency"/>
+		</item>
+		<item original="give flight details ." slot="3" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight details" head="details"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="give payment details ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="payment details" head="details"/>
+			<ptcp text="payment" head="payment"/>
+		</item>
+		<item original="give adress details ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="details" head="details"/>
+		</item>
+		<item original="hang up ." slot="6" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="call travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="inquire about flights ." slot="2" text="inquire" head="inquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flights" head="flights"/>
+		</item>
+		<item original="make decision ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="decision" head="decision"/>
+		</item>
+		<item original="pay ." slot="4" text="pay" head="pay">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hang up ." slot="5" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="pick a date and time to travel ." slot="1" text="pick to" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="contact an airline ." slot="2" text="contact" head="contact">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="tell them you destination and desired travel time ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination" head="destination"/>
+			<ptcp text="desired travel time" head="time"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="select the best flight option that they present ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the best flight option" head="option"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="visin an online travel site ." slot="1" text="visin" head="visin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="an online travel site" head="site"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="enter the date and location of your flight ." slot="2" text="enter of" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="search for flights ." slot="3" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flights" head="flights"/>
+		</item>
+		<item original="select the flight you like ." slot="4" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="pay for the flight ." slot="5" text="pay for" head="pay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="decide on travel dates ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel dates" head="dates"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="access travel website and enter dates and destination ." slot="2" text="access" head="access">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel website" head="website"/>
+			<ptcp text="travel" head="travel"/>
+			<ptcp text="dates" head="dates"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="modify dates and/or destinations until price is acceptable ." slot="3" text="modify" head="modify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+			<ptcp text="destinations" head="destinations"/>
+			<ptcp text="price" head="price"/>
+		</item>
+		<item original="book tickets ." slot="4" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tickets" head="tickets"/>
+		</item>
+		<item original="give credit card number and mailing address ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="credit card" head="card"/>
+			<ptcp text="credit" head="credit"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="mailing address" head="address"/>
+			<ptcp text="mailing" head="mailing"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="decide on travel dates ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel dates" head="dates"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="access travel website and enter dates and destination ." slot="2" text="access" head="access">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel website" head="website"/>
+			<ptcp text="travel" head="travel"/>
+			<ptcp text="dates" head="dates"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="if price is acceptable reserve tickets ." slot="3" text="is " head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="price" head="price"/>
+			<ptcp text="acceptable reserve tickets" head="tickets"/>
+			<ptcp text="reserve" head="reserve"/>
+		</item>
+		<item original="provide credit card number ." slot="4" text="provide" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="credit card number" head="number"/>
+			<ptcp text="credit" head="credit"/>
+			<ptcp text="card" head="card"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="decide on travel dates ." slot="1" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel dates" head="dates"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="access travel website and enter dates and destination ." slot="2" text="access" head="access">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel website" head="website"/>
+			<ptcp text="travel" head="travel"/>
+			<ptcp text="dates" head="dates"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="if price is acceptable reserve tickets ." slot="3" text="is " head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="price" head="price"/>
+			<ptcp text="acceptable reserve tickets" head="tickets"/>
+			<ptcp text="reserve" head="reserve"/>
+		</item>
+		<item original="provide credit card number ." slot="4" text="provide" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="credit card number" head="number"/>
+			<ptcp text="credit" head="credit"/>
+			<ptcp text="card" head="card"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="call travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="inquire about flight on desired dates ." slot="2" text="inquire about on" head="inquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+			<ptcp text="desired dates" head="dates"/>
+		</item>
+		<item original="if price acceptable make reservation ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="price" head="price"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="go to travel website ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="website" head="website"/>
+		</item>
+		<item original="search for desired flights ." slot="2" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired flights" head="flights"/>
+		</item>
+		<item original="select flight ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="press  make reservation ." slot="4" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="enter credit card information ." slot="5" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="credit card information" head="information"/>
+			<ptcp text="credit" head="credit"/>
+			<ptcp text="card" head="card"/>
+		</item>
+		<item original="save confirmation number ." slot="6" text="save" head="save">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="confirmation number" head="number"/>
+			<ptcp text="confirmation" head="confirmation"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="find airline reservation phone number in phone book ." slot="1" text="find in" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline reservation" head="reservation"/>
+			<ptcp text="airline" head="airline"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="phone book" head="book"/>
+		</item>
+		<item original="call airline reservation phone number ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline reservation" head="reservation"/>
+			<ptcp text="airline" head="airline"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="ask to reserve a flight on the date and time you wish ." slot="3" text="ask on" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+			<ptcp text="date" head="date"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="call airline ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="tell them where you want to fly ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell them when you want to fly ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find out which flights are available ." slot="4" text="find out" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flights" head="flights"/>
+		</item>
+		<item original="reserve best flight ." slot="5" text="reserve" head="reserve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="start internet application ." slot="1" text="start" head="start">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="application" head="application"/>
+		</item>
+		<item original="go to site of airline ." slot="2" text="go to of" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="site" head="site"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="fill out reservation form ." slot="3" text="fill out" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation form" head="form"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="fill out credit card information ." slot="4" text="fill out" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="credit card information" head="information"/>
+			<ptcp text="credit" head="credit"/>
+			<ptcp text="card" head="card"/>
+		</item>
+		<item original="fill out adress details ." slot="5" text="fill out" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="details" head="details"/>
+		</item>
+		<item original="confirm reservation ." slot="6" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="call flight reservation office ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight reservation office" head="office"/>
+			<ptcp text="flight" head="flight"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="give your name ." slot="2" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+		</item>
+		<item original="ask for flight reservation ." slot="3" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight reservation" head="reservation"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="give the number of person ." slot="4" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="give the date and time when to fly ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+			<ptcp text="time" head="time"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="call travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="tell source of travel ." slot="2" text="tell of" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="source" head="source"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="tell destination of travel ." slot="3" text="tell of" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination" head="destination"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="ask for available flights ." slot="4" text="ask for" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flights" head="flights"/>
+		</item>
+		<item original="select best available flight ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="call travel agent ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="speak with travel agent ." slot="3" text="speak with" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="request flight reservation ." slot="4" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight reservation" head="reservation"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="hang up phone ." slot="5" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="pick up phone ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="call travel agent ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="speak with travel agent ." slot="3" text="speak with" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="request flight reservation ." slot="4" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight reservation" head="reservation"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="hang up phone ." slot="5" text="hang up" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="find the airline s phone number ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline" head="airline"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="phone number" head="number"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="call the airline on the phone ." slot="2" text="call on" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline" head="airline"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="tell the person when you want to fly ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="give the person your credit card number ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="your credit card" head="card"/>
+			<ptcp text="credit" head="credit"/>
+			<ptcp text="number" head="number"/>
+		</item>
+		<item original="say thank you ." slot="5" text="say" head="say">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="call find travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="specify date/time of travel ." slot="2" text="specify of" head="specify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="datetime" head="datetime"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="specify origin ." slot="3" text="specify" head="specify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="origin" head="origin"/>
+		</item>
+		<item original="specify destination ." slot="4" text="specify" head="specify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="review flight/travel options ." slot="5" text="review" head="review">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="options" head="options"/>
+		</item>
+		<item original="contract for a flight reservation ." slot="6" text="contract for" head="contract">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a flight reservation" head="reservation"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="call find travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="specify date/time of travel ." slot="2" text="specify of" head="specify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="datetime" head="datetime"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="specify origin ." slot="3" text="specify" head="specify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="origin" head="origin"/>
+		</item>
+		<item original="specify destination ." slot="4" text="specify" head="specify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="review flight/travel options ." slot="5" text="review" head="review">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="options" head="options"/>
+		</item>
+		<item original="contract for a flight reservation ." slot="6" text="contract for" head="contract">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a flight reservation" head="reservation"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="call travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="give time of flight ." slot="2" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="give number of persons flying ." slot="3" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="persons" head="persons"/>
+		</item>
+		<item original="answer any questions ." slot="4" text="answer" head="answer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="questions" head="questions"/>
+		</item>
+		<item original="confirm reservation ." slot="5" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="goto website ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="website" head="website"/>
+		</item>
+		<item original="make reservation ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="confirm reservation ." slot="3" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="goto website ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="website" head="website"/>
+		</item>
+		<item original="make reservation ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="confirm reservation ." slot="3" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="go online ." slot="1" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="online" head="online"/>
+		</item>
+		<item original="find airline website ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline website" head="website"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="check flight availability ." slot="3" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight availability" head="availability"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="note flight times ." slot="4" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight times" head="times"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="compare prices with competitors ." slot="5" text="compare with" head="compare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="prices" head="prices"/>
+			<ptcp text="competitors" head="competitors"/>
+		</item>
+		<item original="choose preferred flight ." slot="6" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="provide credit card details ." slot="7" text="provide" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="credit card details" head="details"/>
+			<ptcp text="credit" head="credit"/>
+			<ptcp text="card" head="card"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="find the number for an airline ." slot="1" text="find for" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="call the airline ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="book your flight ." slot="3" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="log on the airline site ." slot="1" text="log on" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the airline site" head="site"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="check times for flight ." slot="2" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="times" head="times"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="choose appropriate time ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="type in name and address ." slot="4" text="type in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="write down confirmation number ." slot="5" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="confirmation number" head="number"/>
+			<ptcp text="confirmation" head="confirmation"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="log on the airline site ." slot="1" text="log on" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the airline site" head="site"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="check times for flight ." slot="2" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="times" head="times"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="choose appropriate time ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="type in name and address ." slot="4" text="type in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="write down confirmation number ." slot="5" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="confirmation number" head="number"/>
+			<ptcp text="confirmation" head="confirmation"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="log on the airline site ." slot="1" text="log on" head="log">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the airline site" head="site"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="check times for flight ." slot="2" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="times" head="times"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="choose appropriate time ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="type in name and address ." slot="4" text="type in" head="type">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="name" head="name"/>
+			<ptcp text="address" head="address"/>
+		</item>
+		<item original="write down confirmation number ." slot="5" text="write down" head="write">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="confirmation number" head="number"/>
+			<ptcp text="confirmation" head="confirmation"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="calling a travel agent ." slot="1" text="calling" head="calling">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="telling the travel agent the dates and times of travel ." slot="2" text="telling telling of" head="telling">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+			<ptcp text="dates" head="dates"/>
+			<ptcp text="times" head="times"/>
+		</item>
+		<item original="accepting the term and conditions of the airline ." slot="3" text="accepting of" head="accepting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="term" head="term"/>
+			<ptcp text="conditions" head="conditions"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="phone call to flight reservation specialist ." slot="1" text="phone to" head="phone">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone call" head="call"/>
+			<ptcp text="phone" head="phone"/>
+			<ptcp text="call" head="call"/>
+			<ptcp text="flight reservation" head="reservation"/>
+			<ptcp text="flight" head="flight"/>
+			<ptcp text="reservation" head="reservation"/>
+			<ptcp text="specialist" head="specialist"/>
+		</item>
+		<item original="request flight ." slot="2" text="request" head="request">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="make payment ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="payment" head="payment"/>
+		</item>
+		<item original="receive reservation number ." slot="4" text="receive" head="receive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation number" head="number"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="thank reservation specialist ." slot="5" text="thank" head="thank">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation specialist" head="specialist"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+		<item original="end phone call ." slot="6" text="end" head="end">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone call" head="call"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="go to airline website ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline website" head="website"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="choose flight destination ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight destination" head="destination"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="choose flight time ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight time" head="time"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="enter personal information ." slot="4" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="information" head="information"/>
+		</item>
+		<item original="give payment information ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="payment information" head="information"/>
+			<ptcp text="payment" head="payment"/>
+		</item>
+		<item original="note confirmation number ." slot="6" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="confirmation number" head="number"/>
+			<ptcp text="confirmation" head="confirmation"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="choose flight ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="call travel agent ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="book flight ." slot="3" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="determine destination ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="check flight schedules ." slot="2" text="check" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight schedules" head="schedules"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="price comparison ." slot="3" text="price" head="price">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comparison" head="comparison"/>
+		</item>
+		<item original="call agent or book online ." slot="4" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="agent" head="agent"/>
+			<ptcp text="book online" head="online"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="confirm reservation ." slot="5" text="confirm" head="confirm">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="comparison shop ." slot="1" text="comparison " head="comparison">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comparison" head="comparison"/>
+			<ptcp text="shop" head="shop"/>
+		</item>
+		<item original="decide on best deal ." slot="2" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deal" head="deal"/>
+		</item>
+		<item original="purchase ticket ." slot="3" text="purchase" head="purchase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+		<item original="pick up ticket ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="comparison shop ." slot="1" text="comparison " head="comparison">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comparison" head="comparison"/>
+			<ptcp text="shop" head="shop"/>
+		</item>
+		<item original="comparison shop ." slot="2" text="comparison " head="comparison">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comparison" head="comparison"/>
+			<ptcp text="shop" head="shop"/>
+		</item>
+		<item original="decide on best deal ." slot="3" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deal" head="deal"/>
+		</item>
+		<item original="decide on best deal ." slot="4" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deal" head="deal"/>
+		</item>
+		<item original="purchase ticket ." slot="5" text="purchase" head="purchase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+		<item original="purchase ticket ." slot="6" text="purchase" head="purchase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+		<item original="pick up ticket ." slot="7" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+		<item original="pick up ticket ." slot="8" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="comparison shop ." slot="1" text="comparison " head="comparison">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comparison" head="comparison"/>
+			<ptcp text="shop" head="shop"/>
+		</item>
+		<item original="decide on best deal ." slot="2" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deal" head="deal"/>
+		</item>
+		<item original="purchase ticket ." slot="3" text="purchase" head="purchase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+		<item original="pick up ticket ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="comparison shop ." slot="1" text="comparison " head="comparison">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comparison" head="comparison"/>
+			<ptcp text="shop" head="shop"/>
+		</item>
+		<item original="decide on best deal ." slot="2" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deal" head="deal"/>
+		</item>
+		<item original="purchase ticket ." slot="3" text="purchase" head="purchase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+		<item original="pick up ticket ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="comparison shop ." slot="1" text="comparison " head="comparison">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comparison" head="comparison"/>
+			<ptcp text="shop" head="shop"/>
+		</item>
+		<item original="decide on best deal ." slot="2" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deal" head="deal"/>
+		</item>
+		<item original="purchase ticket ." slot="3" text="purchase" head="purchase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+		<item original="pick up ticket ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="comparison shop ." slot="1" text="comparison " head="comparison">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comparison" head="comparison"/>
+			<ptcp text="shop" head="shop"/>
+		</item>
+		<item original="decide on best deal ." slot="2" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deal" head="deal"/>
+		</item>
+		<item original="purchase ticket ." slot="3" text="purchase" head="purchase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+		<item original="pick up ticket ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="comparison shop ." slot="1" text="comparison " head="comparison">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comparison" head="comparison"/>
+			<ptcp text="shop" head="shop"/>
+		</item>
+		<item original="decide on best deal ." slot="2" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deal" head="deal"/>
+		</item>
+		<item original="purchase ticket ." slot="3" text="purchase" head="purchase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+		<item original="pick up ticket ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="comparison shop ." slot="1" text="comparison " head="comparison">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="comparison" head="comparison"/>
+			<ptcp text="shop" head="shop"/>
+		</item>
+		<item original="decide on best deal ." slot="2" text="decide on" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deal" head="deal"/>
+		</item>
+		<item original="purchase ticket ." slot="3" text="purchase" head="purchase">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+		<item original="pick up ticket ." slot="4" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ticket" head="ticket"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="walk toward phone ." slot="1" text="walk toward" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="phone" head="phone"/>
+		</item>
+		<item original="call flight ." slot="2" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="make flight plan ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight plan" head="plan"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="go to airline website ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline website" head="website"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="choose departure city ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="departure city" head="city"/>
+			<ptcp text="departure" head="departure"/>
+		</item>
+		<item original="choose destination city ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination city" head="city"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="choose dates ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+		</item>
+		<item original="select flight ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="enter payment information ." slot="6" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="payment information" head="information"/>
+			<ptcp text="payment" head="payment"/>
+		</item>
+		<item original="note confirmation number ." slot="7" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="confirmation number" head="number"/>
+			<ptcp text="confirmation" head="confirmation"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="go to airline website ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline website" head="website"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="choose departure city ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="departure city" head="city"/>
+			<ptcp text="departure" head="departure"/>
+		</item>
+		<item original="choose destination city ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination city" head="city"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="choose dates ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+		</item>
+		<item original="select flight ." slot="5" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="enter payment information ." slot="6" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="payment information" head="information"/>
+			<ptcp text="payment" head="payment"/>
+		</item>
+		<item original="note confirmation number ." slot="7" text="note" head="note">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="confirmation number" head="number"/>
+			<ptcp text="confirmation" head="confirmation"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="book flight ." slot="1" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="call travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="book fight ." slot="2" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fight" head="fight"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="make flight ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="go to airline website ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline website" head="website"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="select dates for departure and arrival ." slot="2" text="select for" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+			<ptcp text="departure" head="departure"/>
+			<ptcp text="arrival" head="arrival"/>
+		</item>
+		<item original="input credit card information ." slot="3" text="information" head="information">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input credit card" head="card"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="credit" head="credit"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="go to airline website ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline website" head="website"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="select dates for departure and arrival ." slot="2" text="select for" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+			<ptcp text="departure" head="departure"/>
+			<ptcp text="arrival" head="arrival"/>
+		</item>
+		<item original="input credit card information ." slot="3" text="information" head="information">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input credit card" head="card"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="credit" head="credit"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="go to airline website ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline website" head="website"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="select dates for departure and arrival ." slot="2" text="select for" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+			<ptcp text="departure" head="departure"/>
+			<ptcp text="arrival" head="arrival"/>
+		</item>
+		<item original="input credit card information ." slot="3" text="information" head="information">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input credit card" head="card"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="credit" head="credit"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="go to airline website ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline website" head="website"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="select dates for departure and arrival ." slot="2" text="select for" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+			<ptcp text="departure" head="departure"/>
+			<ptcp text="arrival" head="arrival"/>
+		</item>
+		<item original="input credit card information ." slot="3" text="information" head="information">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="input credit card" head="card"/>
+			<ptcp text="input" head="input"/>
+			<ptcp text="credit" head="credit"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="call travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="give pertinent info ." slot="2" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="info" head="info"/>
+		</item>
+		<item original="book the flight ." slot="3" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="get online ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="online" head="online"/>
+		</item>
+		<item original="search for cheap flight ." slot="2" text="search for" head="search">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="select flight ." slot="3" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="pay for flight ." slot="4" text="pay for" head="pay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="find out destination ." slot="1" text="find out" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="find out date ." slot="2" text="find out" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="date" head="date"/>
+		</item>
+		<item original="call airline ." slot="3" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="tell airline information ." slot="4" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airline information" head="information"/>
+			<ptcp text="airline" head="airline"/>
+		</item>
+		<item original="book seating ." slot="5" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="seating" head="seating"/>
+		</item>
+		<item original="get info on departure and arrival ." slot="6" text="get on" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="info" head="info"/>
+			<ptcp text="departure" head="departure"/>
+			<ptcp text="arrival" head="arrival"/>
+		</item>
+		<item original="reservation is set ." slot="7" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="reservation" head="reservation"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="call the travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="tell them where you want to go ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell them dates ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+		</item>
+		<item original="give them money ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="call the travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="tell them where you want to go ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell them dates ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+		</item>
+		<item original="give them money ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="call the travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="tell them where you want to go ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell them dates ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+		</item>
+		<item original="give them money ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="call the travel agent ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the travel agent" head="agent"/>
+			<ptcp text="travel" head="travel"/>
+		</item>
+		<item original="tell them where you want to go ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell them dates ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+		</item>
+		<item original="give them money ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="money" head="money"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="decide where you want to go ." slot="1" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="check airfares through expedia com ." slot="2" text="check through" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="airfares" head="airfares"/>
+			<ptcp text="com" head="com"/>
+		</item>
+		<item original="enter source and destination airports ." slot="3" text="enter" head="enter">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="source" head="source"/>
+			<ptcp text="destination airports" head="airports"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="choose dates ." slot="4" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dates" head="dates"/>
+		</item>
+		<item original="pick flight ." slot="5" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="book flight ." slot="6" text="book" head="book">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flight" head="flight"/>
+		</item>
+		<item original="print tickets ." slot="7" text="print" head="print">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tickets" head="tickets"/>
+		</item>
+	</script>
+</scripts>

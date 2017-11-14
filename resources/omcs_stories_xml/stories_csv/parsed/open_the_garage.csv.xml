@@ -1,0 +1,851 @@
+<scripts>
+	<script id="1">
+		<item original="press the garage door opener ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find the remote control ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="control" head="control"/>
+		</item>
+		<item original="drive close to the garage door ." slot="2" text="drive to" head="drive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="close to the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="hit the button on the remote control ." slot="3" text="hit on" head="hit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="control" head="control"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="locate garage ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="locate remote ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote" head="remote"/>
+		</item>
+		<item original="press open ." slot="3" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="open" head="open"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="move to the garage door ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="release the garage door s latch ." slot="2" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="s" head="s"/>
+		</item>
+		<item original="raise thw garage door to an open position ." slot="3" text="raise to" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="thw garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="get close to garage door ." slot="1" text="get to" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="close to garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="use remote to open ." slot="2" text="use" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="remote to open" head="remote"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="approach garrage ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garrage" head="garrage"/>
+		</item>
+		<item original="press open button on remote ." slot="2" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="approach garrage ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garrage" head="garrage"/>
+		</item>
+		<item original="press open on remote button ." slot="2" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="open" head="open"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="wait for door to open ." slot="3" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="approach garrage ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garrage" head="garrage"/>
+		</item>
+		<item original="holding handle ." slot="2" text="holding" head="holding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="pull up garage door ." slot="3" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="go close to garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="hold handle ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="pull up handle so that door opens ." slot="3" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="push garage door opener button ." slot="1" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door opener button" head="button"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="opener" head="opener"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="go to garage door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="press handle and open door ." slot="2" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="go near garage door ." slot="1" text="go near" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="unlock door if locked ." slot="2" text="unlock" head="unlock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="lift door handle so that door opens ." slot="3" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="get close to garage ." slot="1" text="get to" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="aim remote control to garage door ." slot="2" text="aim to" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="control" head="control"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="press open button on remote ." slot="3" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+		<item original="wait for door to open ." slot="4" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="locate the garage opener ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="utilize the garage opener until the door starts to open ." slot="2" text="utilize" head="utilize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="approach the garage door ." slot="1" text="approach" head="approach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="turn the handle on the garage door ." slot="2" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="lift upwards to open the garage door ." slot="3" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="move to the garage door ." slot="1" text="move to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="grasp the garage door handle ." slot="2" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="pull the handle upwards to open the garage door ." slot="3" text="pull" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get the garage door opener control ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="opener control" head="control"/>
+			<ptcp text="opener" head="opener"/>
+		</item>
+		<item original="get the garage door keys ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door keys" head="keys"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="go outside ." slot="3" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="walk to the garage ." slot="4" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="unlock the garage door ." slot="5" text="unlock" head="unlock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="push the garage door opener button ." slot="6" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door opener button" head="button"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="opener" head="opener"/>
+		</item>
+		<item original="wait for the garage door to open ." slot="7" text="wait for" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="locate the garage ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="point the garage remote to the garage door ." slot="2" text="point to" head="point">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="the garage door" head="door"/>
+		</item>
+		<item original="press the 'up' button on the garage remote ." slot="3" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the up button" head="button"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="getting close to garage ." slot="1" text="getting to" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="retreiving garage door opener ." slot="2" text="retreiving" head="retreiving">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="press button on garage door opener ." slot="3" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="identify garage door ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="grab handle ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="lift ." slot="3" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="stop when door is open ." slot="4" text="stop" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="grab the garage door handle ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="open the garage door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="go to garage door ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="unlock garage door ." slot="2" text="unlock" head="unlock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="lift garage door ." slot="3" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="push the open button on the garage door opener ." slot="1" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="the garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="press button to open the garage ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="press the button on the garage door opener ." slot="1" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="the garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="walk up to the garage door ." slot="1" text="walk up to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="take key out of pocket ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+			<ptcp text="pocket" head="pocket"/>
+		</item>
+		<item original="put key in lock ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+			<ptcp text="lock" head="lock"/>
+		</item>
+		<item original="turn key ." slot="4" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="key" head="key"/>
+		</item>
+		<item original="turn handle ." slot="5" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="lift garage door ." slot="6" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="the garage is now open ." slot="7" text="is " head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="push button on garage door opener ." slot="1" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="drive car ." slot="2" text="drive" head="drive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="push button on garage door opener ." slot="1" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="drive car ." slot="2" text="drive" head="drive">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="car" head="car"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="press the garage door opener button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="opener button" head="button"/>
+			<ptcp text="opener" head="opener"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="press the garage door button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door button" head="button"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="press the garage door button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door button" head="button"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="place hand on handle ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="lift handle up until door is open ." slot="2" text="lift up" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="go to garage switch ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage switch" head="switch"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="operate switch ." slot="2" text="operate" head="operate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="switch" head="switch"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="press the button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="press the button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="go to garage ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="face door ." slot="2" text="face" head="face">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="grab handle on door ." slot="3" text="grab on" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="lift ." slot="4" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="raise garage door ." slot="1" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="raise garage door ." slot="1" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="raise garage door ." slot="1" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="raise garage door ." slot="1" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="put hand on garage door handle ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="pull up hard on handle ." slot="2" text="pull up on" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="when garage is at waist level ." slot="3" text="is at" head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="waist level" head="level"/>
+			<ptcp text="waist" head="waist"/>
+		</item>
+		<item original="grab bottom of garage door ." slot="4" text="grab of" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom" head="bottom"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="heave up ." slot="5" text="heave up" head="heave">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="put hand on garage door handle ." slot="1" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="pull up hard on handle ." slot="2" text="pull up on" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="when garage is at waist level ." slot="3" text="is at" head="is">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="waist level" head="level"/>
+			<ptcp text="waist" head="waist"/>
+		</item>
+		<item original="grab bottom of garage door ." slot="4" text="grab of" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottom" head="bottom"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="heave up ." slot="5" text="heave up" head="heave">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="push button on garage door opener ." slot="1" text="push on" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="choose one of the below ." slot="1" text="choose of below" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+		</item>
+		<item original="lift garage door up ." slot="2" text="lift up" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="push open button for garage door ." slot="3" text="push for" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="open door to garage ." slot="4" text="open to" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="walking into garage ." slot="1" text="walking into" head="walking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="turning on the light ." slot="2" text="turning on" head="turning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="waiting of light to turn on ." slot="3" text="waiting on of" head="waiting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="pushing the button for the door ." slot="4" text="pushing for" head="pushing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="door" head="door"/>
+		</item>
+		<item original="waiting for it to open ." slot="5" text="waiting" head="waiting">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="turn handle of garage door ." slot="1" text="turn of" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="lift door upwards ." slot="2" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="turn handle of garage door ." slot="1" text="turn of" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="lift door upwards ." slot="2" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="turn handle of garage door ." slot="1" text="turn of" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="lift door upwards ." slot="2" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="turn handle of garage door ." slot="1" text="turn of" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="lift door upwards ." slot="2" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="turn handle of garage door ." slot="1" text="turn of" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="lift door upwards ." slot="2" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="turn handle of garage door ." slot="1" text="turn of" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="lift door upwards ." slot="2" text="lift" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="press button on garage door opener ." slot="1" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="press button on garage door opener ." slot="1" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="press button on garage door opener ." slot="1" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="press button on garage door opener ." slot="1" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="press button on garage door opener ." slot="1" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="press button on garage door opener ." slot="1" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="button" head="button"/>
+			<ptcp text="garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="press the garage door opener ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="press the garage door opener ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="press the garage door opener ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door opener" head="opener"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="door" head="door"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="unlock garage ." slot="1" text="unlock" head="unlock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="grab handle ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="pull garage door up ." slot="3" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="unlock garage ." slot="1" text="unlock" head="unlock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="grab handle ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="pull garage door up ." slot="3" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="unlock garage ." slot="1" text="unlock" head="unlock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+		<item original="grab handle ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="handle" head="handle"/>
+		</item>
+		<item original="pull garage door up ." slot="3" text="pull up" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="press the garage door opener button ." slot="1" text="press" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the garage door" head="door"/>
+			<ptcp text="garage" head="garage"/>
+			<ptcp text="opener button" head="button"/>
+			<ptcp text="opener" head="opener"/>
+		</item>
+	</script>
+</scripts>

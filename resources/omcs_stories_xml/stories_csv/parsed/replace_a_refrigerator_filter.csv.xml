@@ -1,0 +1,615 @@
+<scripts>
+	<script id="1">
+		<item original="find new filter ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="remove old filter ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="remove packaging from new filter ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="packaging" head="packaging"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="insert new filter ." slot="4" text="insert" head="insert">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="find refrigerator filter ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="remove refrigerator filter ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="find new refrigerator filter ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="put new refrigerator filter into its proper position ." slot="4" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="move the refrigerator away from the wall ." slot="1" text="move from" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+		<item original="pull out the refrigerator filter ." slot="2" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="clean the refrigerator filter ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="replace the refrigerator filter ." slot="4" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="move the refrigerator back toward the wall ." slot="5" text="move back toward" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+			<ptcp text="wall" head="wall"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="move over to the fridge ." slot="1" text="move over to" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="turn the fridge off ." slot="2" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="take out the refridgerator filter ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refridgerator filter" head="filter"/>
+			<ptcp text="refridgerator" head="refridgerator"/>
+		</item>
+		<item original="dispose of the old filter ." slot="4" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="remove new filter from container ." slot="5" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="put new filter into the fridge ." slot="6" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="turn on the fridge ." slot="7" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="remove old filter ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put in new filter ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="locate the filter ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="remove the filter ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="clean the filter ." slot="3" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="replace the filter in the fridge ." slot="4" text="replace in" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="remove old filter ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="place new filter ." slot="2" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="remove old filter ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put in new filter ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="remove old filter ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put in new filter ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="go to refrigerator ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="open filter casing ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter casing" head="casing"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="remove old filter ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="place new filter in ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put back filter casing ." slot="5" text="put back" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter casing" head="casing"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="throw away old filter ." slot="6" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="find new refrigerator filter ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="new refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="remove old refrigerator filter from refrigerator ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="old refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="placenew refrigerator filter into refrigerator ." slot="3" text="placenew into" head="placenew">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="locate the refrigerator filter ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="locate the refrigerator filter ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the refrigerator filter" head="filter"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="dispose of used filter ." slot="2" text="dispose of" head="dispose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="used filter" head="filter"/>
+		</item>
+		<item original="place new filter inside ." slot="3" text="place" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="locate old filter ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="take out old filter ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put in new filter ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="obtain replacement filter ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="replacement filter" head="filter"/>
+			<ptcp text="replacement" head="replacement"/>
+		</item>
+		<item original="turn off refrigerator ." slot="2" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="remove old filter ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="install replacement filter ." slot="4" text="install" head="install">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="replacement filter" head="filter"/>
+			<ptcp text="replacement" head="replacement"/>
+		</item>
+		<item original="turn on refrigerator ." slot="5" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="identify that filter needs changing ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="remove old filter ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="replace with new filter ." slot="3" text="replace with" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="buy new filter ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="turn off refrigerator ." slot="2" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="find old filter ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="remove old filter ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="install new filter ." slot="5" text="install" head="install">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="turn on refrigerator ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="buy new filter ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="turn off refrigerator ." slot="2" text="turn off" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="find old filter ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="remove old filter ." slot="4" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="install new filter ." slot="5" text="install" head="install">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="turn on refrigerator ." slot="6" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="goto refrigerator ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="refrigerator" head="refrigerator"/>
+		</item>
+		<item original="take out old filter ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put in new filter ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pull out filter ." slot="1" text="pull out" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="throw in garbage ." slot="2" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+		<item original="take new filter from package ." slot="3" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="slide into filter slot ." slot="4" text="slide into" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter slot" head="slot"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="pull filter out from compartment ." slot="1" text="pull out from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="slide new filter into compartment ." slot="2" text="slide into" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="pull filter out from compartment ." slot="1" text="pull out from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="slide new filter into compartment ." slot="2" text="slide into" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="pull filter out from compartment ." slot="1" text="pull out from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="slide new filter into compartment ." slot="2" text="slide into" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="pull filter out from compartment ." slot="1" text="pull out from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="slide new filter into compartment ." slot="2" text="slide into" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="pull filter out from compartment ." slot="1" text="pull out from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="slide new filter into compartment ." slot="2" text="slide into" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="pull filter out from compartment ." slot="1" text="pull out from" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+		<item original="slide new filter into compartment ." slot="2" text="slide into" head="slide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+			<ptcp text="compartment" head="compartment"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="open filter ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="take out filter ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="place new filter in ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="close filter ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="open filter ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="take out filter ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="place new filter in ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="close filter ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="open filter ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="take out filter ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="place new filter in ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="close filter ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="open filter ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="take out filter ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="place new filter in ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="close filter ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="open filter ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="take out filter ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="place new filter in ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="close filter ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="open filter ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="take out filter ." slot="2" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="place new filter in ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="close filter ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="take out old filter ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="replace with new filter ." slot="2" text="replace with" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="take out old filter ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put in new filter ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="throw away old filter ." slot="3" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="full fridge forward ." slot="1" text="fridge" head="fridge">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="full" head="full"/>
+		</item>
+		<item original="unplug fridge ." slot="2" text="unplug" head="unplug">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fridge" head="fridge"/>
+		</item>
+		<item original="remove filter ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="clean area ." slot="4" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="prepare new filter ." slot="5" text="prepare" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="put in new filter ." slot="6" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="adjust and finish ." slot="7" text="adjust" head="adjust">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="remove old filter ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="buy new filter ." slot="2" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+		<item original="replace filter ." slot="3" text="replace" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="filter" head="filter"/>
+		</item>
+	</script>
+</scripts>

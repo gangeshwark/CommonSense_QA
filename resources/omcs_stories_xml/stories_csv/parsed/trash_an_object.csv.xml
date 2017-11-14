@@ -1,0 +1,740 @@
+<scripts>
+	<script id="1">
+		<item original="go to trashcan ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trashcan" head="trashcan"/>
+		</item>
+		<item original="dump the trash ." slot="2" text="dump" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="locate the trash can ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="place the object in the trash can ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="take object to trash can ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="take the object ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go the trashcan ." slot="2" text="go" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trashcan" head="trashcan"/>
+		</item>
+		<item original="dump the object in the trashcan ." slot="3" text="dump in" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trashcan" head="trashcan"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="take object to garbage bin ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage bin" head="bin"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+		<item original="put object inside bin ." slot="2" text="put inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="bin" head="bin"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="locate the object ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take the object ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="put the object into the trash can ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="take the object ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="locate the trash can ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="put the object into the trash can ." slot="3" text="put into" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="grab object ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take object to trash can ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="dump object into trash can ." slot="3" text="dump into" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="pick the object up ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="locate the trash can ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="take the object to the trash can ." slot="3" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="put the object in the trash can ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take the object to the trash bin ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the trash bin" head="bin"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="place object into the trash bin ." slot="3" text="place into" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the trash bin" head="bin"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="close the trash bin ." slot="4" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the trash bin" head="bin"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="locate object to trash ." slot="1" text="locate to" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="locate a dumpster or trash receptacle ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dumpster" head="dumpster"/>
+			<ptcp text="trash receptacle" head="receptacle"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="place object in the trash receptacle ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the trash receptacle" head="receptacle"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="locate trash can ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="place object in trash can ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="go to trash can ." slot="2" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="open trash can lid ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can lid" head="lid"/>
+			<ptcp text="trash" head="trash"/>
+			<ptcp text="can" head="can"/>
+		</item>
+		<item original="place object in trash can ." slot="4" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="close trash can lid ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can lid" head="lid"/>
+			<ptcp text="trash" head="trash"/>
+			<ptcp text="can" head="can"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="get object ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="take object to garbage ." slot="2" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+		<item original="put object in garbage ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="put the object inside the trash can ." slot="1" text="put inside" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="put it in a trash ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="grasp object ." slot="1" text="grasp" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick up object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="carry object to trash can ." slot="3" text="carry to" head="carry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="position object over trash can ." slot="4" text="position over" head="position">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="release object into trash can ." slot="5" text="release into" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="throw it in waste basket ." slot="1" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="waste basket" head="basket"/>
+			<ptcp text="waste" head="waste"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="select object to trash ." slot="1" text="select to" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="find trash can ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="open trash can ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="throw the object in the trash can ." slot="4" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="place in trash ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="put object in trash can ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="put object in trash can ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="put object in trash can ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="put object in trash can ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="put object in trash can ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="put it in a trash can ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="find the object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="trash it ." slot="2" text="trash" head="trash">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="walk to trash can ." slot="2" text="walk to" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="open trash can ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="toss item into trash can ." slot="4" text="toss into" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+		<item original="close trash can ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="pick up ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="throw ." slot="2" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="*falls in trash can* ." slot="3" text="falls in" head="falls">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="trash can" head="can"/>
+			<ptcp text="trash" head="trash"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="take object to garbage ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+		<item original="toss object into garbage can ." slot="2" text="toss into" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="take object to garbage ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+		<item original="toss object into garbage can ." slot="2" text="toss into" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="take object to garbage ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+		<item original="toss object into garbage can ." slot="2" text="toss into" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="take object to garbage ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+		<item original="toss object into garbage can ." slot="2" text="toss into" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="take object to garbage ." slot="1" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+		<item original="toss object into garbage can ." slot="2" text="toss into" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="throw it in the garbage can ." slot="1" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="throw it in the garbage can ." slot="1" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="throw it in the garbage can ." slot="1" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="throw it in the garbage can ." slot="1" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="throw it in the garbage can ." slot="1" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="throw it in the garbage can ." slot="1" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="throw it in the garbage can ." slot="1" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="throw it in the garbage can ." slot="1" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="throw it in the garbage can ." slot="1" text="throw in" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="take object ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dump object ." slot="2" text="dump" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="take object ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dump object ." slot="2" text="dump" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="take object ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dump object ." slot="2" text="dump" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="take object ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dump object ." slot="2" text="dump" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="take object ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dump object ." slot="2" text="dump" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="take object ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="dump object ." slot="2" text="dump" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="crumple object up into as small a bundle as possible ." slot="1" text="crumple into as" head="crumple">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="as small a bundle" head="bundle"/>
+		</item>
+		<item original="throw object into the garbage can ." slot="2" text="throw into" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the garbage can" head="can"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="crumple object up into as small a bundle as possible ." slot="1" text="crumple into as" head="crumple">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="as small a bundle" head="bundle"/>
+		</item>
+		<item original="throw object into the garbage can ." slot="2" text="throw into" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the garbage can" head="can"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="crumple object up into as small a bundle as possible ." slot="1" text="crumple into as" head="crumple">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="as small a bundle" head="bundle"/>
+		</item>
+		<item original="throw object into the garbage can ." slot="2" text="throw into" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="the garbage can" head="can"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="take out garbage ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garbage" head="garbage"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="dump item ." slot="1" text="dump" head="dump">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="remove any pieces or items from the object that one wishes to retain ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pieces" head="pieces"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="crumple or fold object as much as possible to decrease its size ." slot="3" text="crumple as" head="crumple">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="put object in the trashcan or if too large a dumpster ." slot="4" text="put in if" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trashcan" head="trashcan"/>
+			<ptcp text="too large a dumpster" head="dumpster"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="remove any pieces or items from the object that one wishes to retain ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pieces" head="pieces"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="crumple or fold object as much as possible to decrease its size ." slot="3" text="crumple as" head="crumple">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="put object in the trashcan or if too large a dumpster ." slot="4" text="put in if" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trashcan" head="trashcan"/>
+			<ptcp text="too large a dumpster" head="dumpster"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="remove any pieces or items from the object that one wishes to retain ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pieces" head="pieces"/>
+			<ptcp text="items" head="items"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="crumple or fold object as much as possible to decrease its size ." slot="3" text="crumple as" head="crumple">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="put object in the trashcan or if too large a dumpster ." slot="4" text="put in if" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="trashcan" head="trashcan"/>
+			<ptcp text="too large a dumpster" head="dumpster"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="take object put in bag ." slot="1" text="take put in" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="put outside ." slot="2" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="outside" head="outside"/>
+		</item>
+	</script>
+</scripts>

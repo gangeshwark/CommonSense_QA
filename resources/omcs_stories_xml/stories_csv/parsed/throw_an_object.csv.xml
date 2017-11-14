@@ -1,0 +1,935 @@
+<scripts>
+	<script id="1">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pull your arm back behind your head ." slot="2" text="pull back behind" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+			<ptcp text="head" head="head"/>
+		</item>
+		<item original="move your arm forward quickly ." slot="3" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="release the object at the arc of the motion ." slot="4" text="release at of" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="arc" head="arc"/>
+			<ptcp text="motion" head="motion"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="pick up the object with your hand ." slot="1" text="pick up with" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="draw your arm back ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="find an object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick up the object ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="fling object away from you using your arm ." slot="3" text="object from" head="object">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fling" head="fling"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="draw back the arm that is holding the object ." slot="2" text="draw back" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring the arm forward releasing the object ." slot="3" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="find an object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick object up ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="lift arm up ." slot="3" text="lift up" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="bend elbo to the side ." slot="4" text="bend to" head="bend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="elbo" head="elbo"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="put forward motion onto object ." slot="5" text="put onto" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="motion" head="motion"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="release grip of object when arm is at full forward length ." slot="6" text="release of at" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grip" head="grip"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="arm" head="arm"/>
+			<ptcp text="length" head="length"/>
+		</item>
+		<item original="relax arm ." slot="7" text="relax" head="relax">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="grab object with hand ." slot="1" text="grab with" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="pull back object ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="push object forward ." slot="3" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="release ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="throw object ." slot="2" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="take object ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="move hand backward ." slot="2" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="push hand forward ." slot="3" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="release object when hand in motion ." slot="4" text="release in" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="motion" head="motion"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="grab object with hand ." slot="1" text="grab with" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="pull hand back behind head ." slot="2" text="pull back behind" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="head" head="head"/>
+		</item>
+		<item original="push hand forward ." slot="3" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="release object ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="hold object ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="balance hand ." slot="2" text="balance" head="balance">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="when hand at highest position release object ." slot="3" text="object at" head="object">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="highest position release" head="release"/>
+			<ptcp text="position" head="position"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="grab object ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="swing arm back ." slot="2" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="swing arm forward ." slot="3" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="release object ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="grab the object ." slot="1" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="aim where to throw ." slot="2" text="aim" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="throw it ." slot="3" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="fetch object ." slot="1" text="fetch" head="fetch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="swing arm back ." slot="2" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="when arm goes forward release object ." slot="3" text="goes" head="goes">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="fetch object ." slot="1" text="fetch" head="fetch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="swing arm ." slot="2" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="release object ." slot="3" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="swing your arm ." slot="2" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="when you hand is futhest away from your body release the object ." slot="3" text="release from" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="futhest" head="futhest"/>
+			<ptcp text="body" head="body"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="accelerate object to desired horizontal and vertical velocities ." slot="2" text="accelerate to" head="accelerate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="desired horizontal and vertical velocities" head="velocities"/>
+		</item>
+		<item original="release object ." slot="3" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="pick up object in hand ." slot="1" text="pick up in" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="bring up arm ." slot="2" text="bring up" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="release object as arm comes forward ." slot="3" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="pick of object ." slot="1" text="pick of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="aim throwing mechanism at destination ." slot="2" text="aim at" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="throwing mechanism" head="mechanism"/>
+			<ptcp text="destination" head="destination"/>
+		</item>
+		<item original="propel object ." slot="3" text="propel" head="propel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="release object ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pull hand backward for more acceleration room ." slot="2" text="pull for" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="more acceleration room" head="room"/>
+			<ptcp text="acceleration" head="acceleration"/>
+		</item>
+		<item original="push hand forward to launch object ." slot="3" text="push" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="let go of object ." slot="4" text="go of" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="throw the object ." slot="2" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="throw the object ." slot="2" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="place object on hand ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="throw the object ." slot="2" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="discern need to throw object ." slot="1" text="discern" head="discern">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="need" head="need"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="decide what to throw ." slot="2" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find item to throw ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="retrieve item to throw ." slot="4" text="retrieve" head="retrieve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+		<item original="clutch item in hand ." slot="5" text="clutch in" head="clutch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="move arm backward ." slot="6" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="pitch arm forward and release item ." slot="7" text="pitch" head="pitch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="hold the object in your hand ." slot="2" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="look at the target where the object is to be thrown ." slot="3" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="target" head="target"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="raise your hand holding the object ." slot="4" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring your hand forward ." slot="5" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="release the object from your hand ." slot="6" text="release from" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="hold the object in your hand ." slot="2" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="look at the target where the object is to be thrown ." slot="3" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="target" head="target"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="raise your hand holding the object ." slot="4" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring your hand forward ." slot="5" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="release the object from your hand ." slot="6" text="release from" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="throw ." slot="2" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="pick object up on hand ." slot="1" text="pick up on" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="toss object in air ." slot="2" text="toss in" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="air" head="air"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="see the object ." slot="1" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="touch the object ." slot="2" text="touch" head="touch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pick up the object ." slot="3" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="put arm back ." slot="4" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="move arm forward quickly ." slot="5" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="release object ." slot="6" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="watch it fly ." slot="7" text="fly" head="fly">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="set your target ." slot="2" text="set" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="target" head="target"/>
+		</item>
+		<item original="throw away the object to the target ." slot="3" text="throw away to" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="target" head="target"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="throw the object ." slot="1" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="bring arm back ." slot="2" text="bring" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="swing arm forward ." slot="3" text="swing" head="swing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="release the object ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="select target ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="target" head="target"/>
+		</item>
+		<item original="throw object towards target ." slot="3" text="throw towards" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="target" head="target"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="raise your arm ." slot="2" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="throw your arm forward ." slot="3" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="release the object ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="raise your arm ." slot="2" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="push your arm forward ." slot="3" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="release the object ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="find the object ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="hold the object ." slot="2" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="see the direction ." slot="3" text="see" head="see">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="direction" head="direction"/>
+		</item>
+		<item original="apply the force ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="force" head="force"/>
+		</item>
+		<item original="throw the object ." slot="5" text="throw" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="hold object in hand ." slot="1" text="hold in" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="pull hand back over head ." slot="2" text="pull back over" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="head" head="head"/>
+		</item>
+		<item original="swiftly move hand over head ." slot="3" text="move over" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="head" head="head"/>
+		</item>
+		<item original="let loose of object ." slot="4" text="let of" head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="loose" head="loose"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="look at object ." slot="1" text="look at" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="grab object ." slot="2" text="grab" head="grab">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="lift object up ." slot="3" text="lift up" head="lift">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="feel how heavy object is ." slot="4" text="feel" head="feel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="raise your arm ." slot="5" text="raise" head="raise">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="move arm fast ." slot="6" text="move" head="move">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="and leave go of object ." slot="7" text="leave of" head="leave">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="go" head="go"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="decide where you are aiming ." slot="2" text="decide" head="decide">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="cock arm back ." slot="3" text="cock" head="cock">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="sling arm forward then release object ." slot="4" text="sling" head="sling">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="when object is released your pointer finger should be pointing at your target ." slot="5" text="released at" head="released">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="your pointer finger" head="finger"/>
+			<ptcp text="pointer" head="pointer"/>
+			<ptcp text="target" head="target"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="grasp object in prominent hand ." slot="1" text="grasp in" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="wind arm back ." slot="2" text="wind" head="wind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="aim ." slot="3" text="aim" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="release grasp and fingers ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grasp" head="grasp"/>
+			<ptcp text="fingers" head="fingers"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="grasp object in prominent hand ." slot="1" text="grasp in" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="wind arm back ." slot="2" text="wind" head="wind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="aim ." slot="3" text="aim" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="release grasp and fingers ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grasp" head="grasp"/>
+			<ptcp text="fingers" head="fingers"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="grasp object in prominent hand ." slot="1" text="grasp in" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="wind arm back ." slot="2" text="wind" head="wind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="aim ." slot="3" text="aim" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="release grasp and fingers ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grasp" head="grasp"/>
+			<ptcp text="fingers" head="fingers"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="grasp object in prominent hand ." slot="1" text="grasp in" head="grasp">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="wind arm back ." slot="2" text="wind" head="wind">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="aim ." slot="3" text="aim" head="aim">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="release grasp and fingers ." slot="4" text="release" head="release">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="grasp" head="grasp"/>
+			<ptcp text="fingers" head="fingers"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="pick up the object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="toss the object ." slot="2" text="toss" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="pull arm back ." slot="2" text="pull back" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="toss object away with great force ." slot="3" text="toss with" head="toss">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="force" head="force"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="pick it up ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="extend your arm ." slot="2" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="pick it up ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="extend your arm ." slot="2" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="pick it up ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="extend your arm ." slot="2" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="pick it up ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="extend your arm ." slot="2" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="pick it up ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="extend your arm ." slot="2" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="extend arm ." slot="2" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="let go ." slot="3" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="go" head="go"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="extend arm ." slot="2" text="extend" head="extend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="let go ." slot="3" text="let " head="let">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="go" head="go"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="draw arm back ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="push hand forward ." slot="3" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="realease object when arm is fully extended ." slot="4" text="realease" head="realease">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="draw arm back ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="push hand forward ." slot="3" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="realease object when arm is fully extended ." slot="4" text="realease" head="realease">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="draw arm back ." slot="2" text="draw" head="draw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+		<item original="push hand forward ." slot="3" text="push forward" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="realease object when arm is fully extended ." slot="4" text="realease" head="realease">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+			<ptcp text="arm" head="arm"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="pick up object ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="hurl it across room ." slot="2" text="hurl across" head="hurl">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="room" head="room"/>
+		</item>
+	</script>
+</scripts>

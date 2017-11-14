@@ -1,0 +1,607 @@
+<scripts>
+	<script id="1">
+		<item original="playing with toys ." slot="1" text="playing with" head="playing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toys" head="toys"/>
+		</item>
+		<item original="singing songs ." slot="2" text="singing" head="singing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="songs" head="songs"/>
+		</item>
+		<item original="reading books ." slot="3" text="reading" head="reading">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="books" head="books"/>
+		</item>
+		<item original="going to zoo ." slot="4" text="going going to" head="going">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="zoo" head="zoo"/>
+		</item>
+		<item original="going to playgrounds ." slot="5" text="going going to" head="going">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="playgrounds" head="playgrounds"/>
+		</item>
+		<item original="eating ice-cream ." slot="6" text="eating" head="eating">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="icecream" head="icecream"/>
+		</item>
+		<item original="watching childrens programs ." slot="7" text="watching" head="watching">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="programs" head="programs"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="get to know what the children think is interesting ." slot="1" text="to" head="to">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="think of a related activity that involves what they are interested in ." slot="2" text="think of in" head="think">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+		<item original="do the activity with the children ." slot="3" text="do with" head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="consider appropriate entertainment ." slot="1" text="consider" head="consider">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="entertainment" head="entertainment"/>
+		</item>
+		<item original="involve children in fun activities ." slot="2" text="involve in" head="involve">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="fun activities" head="activities"/>
+			<ptcp text="fun" head="fun"/>
+		</item>
+		<item original="tell children a story ." slot="3" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="dance with the children ." slot="4" text="dance with" head="dance">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="make sure children are properly fed ." slot="5" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="make sure children are properly rested ." slot="6" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="thinking of something that will make children happy and get their attention ." slot="1" text="thinking of" head="thinking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="something" head="something"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="attention" head="attention"/>
+		</item>
+		<item original="performing actions previously thought up ." slot="2" text="performing up" head="performing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="performing actions" head="actions"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="get children attention ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children attention" head="attention"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="perform some activity that makes children laugh ." slot="2" text="perform" head="perform">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="find out what the children like to do ." slot="1" text="find out" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="play with the children ." slot="2" text="play with" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="call children ." slot="1" text="call" head="call">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="tell story to children ." slot="2" text="tell to" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="smile ." slot="1" text="smile" head="smile">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="fidget a great deal ." slot="2" text="fidget" head="fidget">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="deal" head="deal"/>
+		</item>
+		<item original="incite them to follow ." slot="3" text="incite" head="incite">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="gather children ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="tell story ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="stop and ask children what they think will happen in the story ." slot="3" text="stop in" head="stop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="story" head="story"/>
+		</item>
+		<item original="continue with story ." slot="4" text="continue with" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="story" head="story"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="choose a game to play with the children ." slot="1" text="choose with" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="game" head="game"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="open the game box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the game box" head="box"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="read the rules of the game ." slot="3" text="read of" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="rules" head="rules"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="set up the game board ." slot="4" text="set up" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the game board" head="board"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="set up the game pieces ." slot="5" text="set up" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the game pieces" head="pieces"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="begin to play the game with the children ." slot="6" text="begin with" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="game" head="game"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="set the children down in front of you ." slot="1" text="set down in of" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="get a joke book ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a joke book" head="book"/>
+			<ptcp text="joke" head="joke"/>
+		</item>
+		<item original="read the children the jokes in the book ." slot="3" text="read in" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+			<ptcp text="jokes" head="jokes"/>
+			<ptcp text="book" head="book"/>
+		</item>
+		<item original="make different voices for the characters in the jokes ." slot="4" text="make for in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="voices" head="voices"/>
+			<ptcp text="characters" head="characters"/>
+			<ptcp text="jokes" head="jokes"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="find children to be entertained ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="determine method of entertainment ." slot="2" text="determine of" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="method" head="method"/>
+			<ptcp text="entertainment" head="entertainment"/>
+		</item>
+		<item original="get childrens attention ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="attention" head="attention"/>
+		</item>
+		<item original="entertain child with method selected ." slot="4" text="entertain with" head="entertain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="method" head="method"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="turn on the tv ." slot="1" text="turn on" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tv" head="tv"/>
+		</item>
+		<item original="find a kids show ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a kids show" head="show"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+		<item original="pop kids some popcorn ." slot="3" text="pop" head="pop">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="popcorn" head="popcorn"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="play a toy ." slot="1" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="toy" head="toy"/>
+		</item>
+		<item original="sing a song ." slot="2" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="gather all the children ." slot="1" text="gather" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="sing a song to them ." slot="2" text="sing to" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="song" head="song"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="determine how old the children are ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="find out what interests each child ." slot="2" text="find out" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="prepare activity for each child ." slot="3" text="prepare for" head="prepare">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="do activity with each child ." slot="4" text="do with" head="do">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="activity" head="activity"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="repeat steps 3 and 4 for each activity ." slot="5" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="steps" head="steps"/>
+			<ptcp text="activity" head="activity"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="sing a kids  song ." slot="1" text="sing" head="sing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a kids song" head="song"/>
+			<ptcp text="kids" head="kids"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="goto children ." slot="1" text="goto" head="goto">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+		<item original="make children laugh ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="children" head="children"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="give food ." slot="1" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="food" head="food"/>
+		</item>
+		<item original="games ." slot="2" text="games " head="games">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="games" head="games"/>
+		</item>
+		<item original="computer ." slot="3" text="computer " head="computer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="computer" head="computer"/>
+		</item>
+		<item original="play ." slot="4" text="play" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="park ." slot="5" text="park" head="park">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="bowling ." slot="6" text="bowling " head="bowling">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bowling" head="bowling"/>
+		</item>
+		<item original="swimming ." slot="7" text="swimming " head="swimming">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="swimming" head="swimming"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="act goofy ." slot="1" text="act" head="act">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell appropriate stories and jokes ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stories" head="stories"/>
+			<ptcp text="jokes" head="jokes"/>
+		</item>
+		<item original="listen to them when they talk ." slot="3" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="speak to them like adults dont be condescending ." slot="4" text="speak to like" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="adults dont" head="dont"/>
+			<ptcp text="adults" head="adults"/>
+			<ptcp text="condescending" head="condescending"/>
+		</item>
+		<item original="occasionally give each child a verbal stroke ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="stroke" head="stroke"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="act goofy ." slot="1" text="act" head="act">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell appropriate stories and jokes ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stories" head="stories"/>
+			<ptcp text="jokes" head="jokes"/>
+		</item>
+		<item original="listen to them when they talk ." slot="3" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="speak to them like adults dont be condescending ." slot="4" text="speak to like" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="adults dont" head="dont"/>
+			<ptcp text="adults" head="adults"/>
+			<ptcp text="condescending" head="condescending"/>
+		</item>
+		<item original="occasionally give each child a verbal stroke ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="stroke" head="stroke"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="act goofy ." slot="1" text="act" head="act">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell appropriate stories and jokes ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stories" head="stories"/>
+			<ptcp text="jokes" head="jokes"/>
+		</item>
+		<item original="listen to them when they talk ." slot="3" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="speak to them like adults dont be condescending ." slot="4" text="speak to like" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="adults dont" head="dont"/>
+			<ptcp text="adults" head="adults"/>
+			<ptcp text="condescending" head="condescending"/>
+		</item>
+		<item original="occasionally give each child a verbal stroke ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="stroke" head="stroke"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="act goofy ." slot="1" text="act" head="act">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell appropriate stories and jokes ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stories" head="stories"/>
+			<ptcp text="jokes" head="jokes"/>
+		</item>
+		<item original="listen to them when they talk ." slot="3" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="speak to them like adults dont be condescending ." slot="4" text="speak to like" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="adults dont" head="dont"/>
+			<ptcp text="adults" head="adults"/>
+			<ptcp text="condescending" head="condescending"/>
+		</item>
+		<item original="occasionally give each child a verbal stroke ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="stroke" head="stroke"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="act goofy ." slot="1" text="act" head="act">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell appropriate stories and jokes ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stories" head="stories"/>
+			<ptcp text="jokes" head="jokes"/>
+		</item>
+		<item original="listen to them when they talk ." slot="3" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="speak to them like adults dont be condescending ." slot="4" text="speak to like" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="adults dont" head="dont"/>
+			<ptcp text="adults" head="adults"/>
+			<ptcp text="condescending" head="condescending"/>
+		</item>
+		<item original="occasionally give each child a verbal stroke ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="stroke" head="stroke"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="act goofy ." slot="1" text="act" head="act">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="tell appropriate stories and jokes ." slot="2" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="stories" head="stories"/>
+			<ptcp text="jokes" head="jokes"/>
+		</item>
+		<item original="listen to them when they talk ." slot="3" text="listen to" head="listen">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="speak to them like adults dont be condescending ." slot="4" text="speak to like" head="speak">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="adults dont" head="dont"/>
+			<ptcp text="adults" head="adults"/>
+			<ptcp text="condescending" head="condescending"/>
+		</item>
+		<item original="occasionally give each child a verbal stroke ." slot="5" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="stroke" head="stroke"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="make faces ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="faces" head="faces"/>
+		</item>
+		<item original="tell jokes kids like ." slot="2" text="tell like" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="jokes kids" head="kids"/>
+			<ptcp text="jokes" head="jokes"/>
+		</item>
+		<item original="be silly and goofy ." slot="3" text="be " head="be">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="silly and goofy" head="silly"/>
+		</item>
+		<item original="talk to kids like adults ." slot="4" text="talk to like" head="talk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="kids" head="kids"/>
+			<ptcp text="adults" head="adults"/>
+		</item>
+		<item original="side with them against elders ." slot="5" text="side with against" head="side">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="elders" head="elders"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="take out a game ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="open game box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="game box" head="box"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="read instructions ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="give game pieces to each child ." slot="4" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="game pieces" head="pieces"/>
+			<ptcp text="game" head="game"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="take turns according to the directions ." slot="5" text="take according to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="turns" head="turns"/>
+			<ptcp text="directions" head="directions"/>
+		</item>
+		<item original="play to end of game ." slot="6" text="play to of" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="congratdulate the winner ." slot="7" text="congratdulate" head="congratdulate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="winner" head="winner"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="take out a game ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="open game box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="game box" head="box"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="read instructions ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="give game pieces to each child ." slot="4" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="game pieces" head="pieces"/>
+			<ptcp text="game" head="game"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="take turns according to the directions ." slot="5" text="take according to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="turns" head="turns"/>
+			<ptcp text="directions" head="directions"/>
+		</item>
+		<item original="play to end of game ." slot="6" text="play to of" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="congratdulate the winner ." slot="7" text="congratdulate" head="congratdulate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="winner" head="winner"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="take out a game ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="open game box ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="game box" head="box"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="read instructions ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="give game pieces to each child ." slot="4" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="game pieces" head="pieces"/>
+			<ptcp text="game" head="game"/>
+			<ptcp text="child" head="child"/>
+		</item>
+		<item original="take turns according to the directions ." slot="5" text="take according to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="turns" head="turns"/>
+			<ptcp text="directions" head="directions"/>
+		</item>
+		<item original="play to end of game ." slot="6" text="play to of" head="play">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="end" head="end"/>
+			<ptcp text="game" head="game"/>
+		</item>
+		<item original="congratdulate the winner ." slot="7" text="congratdulate" head="congratdulate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="winner" head="winner"/>
+		</item>
+	</script>
+</scripts>

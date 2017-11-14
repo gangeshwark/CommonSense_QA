@@ -1,0 +1,1201 @@
+<scripts>
+	<script id="1">
+		<item original="get gift ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="get wrap ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrap" head="wrap"/>
+		</item>
+		<item original="wrap gift ." slot="3" text="wrap" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="buy the gift ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="get wrapping paper ." slot="2" text="wrapping" head="wrapping">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+		</item>
+		<item original="get tape ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="cut the paper to the correct size ." slot="4" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="wrap the paper around the gift ." slot="5" text="wrap around" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape the paper in place ." slot="6" text="tape in" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="put a bow on the package ." slot="7" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bow" head="bow"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="buy wrapping paper and ribbon ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="ribbon" head="ribbon"/>
+		</item>
+		<item original="cut paper ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="fold and tape paper ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="cut and tape ribbon ." slot="4" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="ribbon" head="ribbon"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="getting the wraping paper ." slot="1" text="getting" head="getting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="placing the gift on the plain side of the paper ." slot="2" text="placing on of" head="placing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="covering the gift in paper ." slot="3" text="covering in" head="covering">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="cutting the excess paper away ." slot="4" text="cutting" head="cutting">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="taping the paper so that it does not come off of the gift ." slot="5" text="taping off of" head="taping">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="get the gift ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="get the wrapping paper ." slot="2" text="wrapping" head="wrapping">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wrapping paper" head="paper"/>
+		</item>
+		<item original="get the scissors and tape ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scissors" head="scissors"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="get the gift ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="get the wrapping paper ." slot="2" text="wrapping" head="wrapping">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wrapping paper" head="paper"/>
+		</item>
+		<item original="get the scissors and tape ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scissors" head="scissors"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="place the gift on the wrapping paper ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="the wrapping paper" head="paper"/>
+		</item>
+		<item original="cut out enough wrapping paper to wrap the gift up in ." slot="5" text="cut out up in" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape the wrapping paper onto the gift ." slot="6" text="tape onto" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get gift ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="get appropriate wrapping paper ." slot="2" text="wrapping" head="wrapping">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appropriate wrapping paper" head="paper"/>
+		</item>
+		<item original="spread paper on flat surface ." slot="3" text="spread on" head="spread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="put gift on paper ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="fold paper so as to cover gift ." slot="5" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="fold ribbon over wrapping paper ." slot="6" text="fold over" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ribbon" head="ribbon"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get gift ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="get appropriate wrapping paper ." slot="2" text="wrapping" head="wrapping">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="appropriate wrapping paper" head="paper"/>
+		</item>
+		<item original="spread paper on flat surface ." slot="3" text="spread on" head="spread">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="put gift on paper ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="fold paper so as to cover gift ." slot="5" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="fold ribbon over wrapping paper ." slot="6" text="fold over" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ribbon" head="ribbon"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="take wrapping paper ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+		</item>
+		<item original="place on flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="place gift on wrapping paper ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="fold paper around gift ." slot="4" text="fold around" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tie together with ribbon ." slot="5" text="tie with" head="tie">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ribbon" head="ribbon"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="put gift in a box ." slot="1" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="select a wrapping paper ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a wrapping paper" head="paper"/>
+		</item>
+		<item original="wrap the box with the paper ." slot="3" text="wrap with" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="box" head="box"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="tie the paper with a string ." slot="4" text="tie with" head="tie">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="string" head="string"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="put gift in a box big enough to fit the gift in ." slot="1" text="put in in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="choose decorative bag for gift ." slot="2" text="choose for" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="put gift in decorative bag ." slot="3" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="bag" head="bag"/>
+		</item>
+		<item original="put tissue paper into bag on top of gift ." slot="4" text="put into on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tissue paper" head="paper"/>
+			<ptcp text="tissue" head="tissue"/>
+			<ptcp text="bag" head="bag"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="take wrapping paper and place on flat surface ." slot="1" text="take on" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper and place on flat surface" head="place"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="place gift on wrapping paper ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="fold paper aroung gift ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="use tape to hold paper in place ." slot="4" text="use in" head="use">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="get a gift ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="get some paper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put paper round the gift ." slot="3" text="put round" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="put label on the gift ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="label" head="label"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="get gift ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="find a piece of wrapping paper that is large enough ." slot="2" text="find of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put wrapping paper around gift until fully covered ." slot="3" text="put around until" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape end of the paper so it doesn t fall off ." slot="4" text="doesn off of" head="doesn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape end of the paper so it doesn t fall off" head="fall"/>
+			<ptcp text="tape end" head="end"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="t" head="t"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get enough wrapping paper to cover gift ." slot="1" text="wrapping" head="wrapping">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="get scotch tape ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scotch tape" head="tape"/>
+			<ptcp text="scotch" head="scotch"/>
+		</item>
+		<item original="measure wrapping paper and place around gift ." slot="3" text="measure around" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape into place ." slot="4" text="tape into" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="attach a ribbon ." slot="5" text="attach" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ribbon" head="ribbon"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="measure size of gift ." slot="1" text="measure of" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="size" head="size"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="cut wrapping paper to cover gift ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="place gift on opened wrapping paper ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="opened wrapping paper" head="paper"/>
+		</item>
+		<item original="fold wrapping paper around gift ." slot="4" text="fold around" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape any loose edges ." slot="5" text="tape" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="get gift ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="get paper ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="cut large piece of paper ." slot="3" text="cut of" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wrap paper around gift ." slot="4" text="wrap around" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="attach tape to paper ." slot="5" text="attach to" head="attach">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="put decoration on gift ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="decoration" head="decoration"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="cut paper ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="place gift in paper ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="fold in sides ." slot="3" text="fold in" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sides" head="sides"/>
+		</item>
+		<item original="tape together ." slot="4" text="tape" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="take sheet of wrapping paper ." slot="1" text="take of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sheet" head="sheet"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="place wrapping paper face down on flat surface ." slot="2" text="place down on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper face" head="face"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="place gift in center of wrapping paper ." slot="3" text="place in of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="fold paper over gift ." slot="4" text="fold over" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape paper closed ." slot="5" text="closed" head="closed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape paper" head="paper"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="unroll the wrapping paper ." slot="1" text="unroll" head="unroll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wrapping paper" head="paper"/>
+		</item>
+		<item original="cut out desired amount of paper ." slot="2" text="cut out of" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired amount" head="amount"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="fold paper over gift ." slot="3" text="fold over" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape the ends down ." slot="4" text="ends down" head="ends">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="the" head="the"/>
+		</item>
+		<item original="fold over other sides of paper ." slot="5" text="fold over of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sides" head="sides"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="tape those ends together ." slot="6" text="tape" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ends" head="ends"/>
+		</item>
+		<item original="place bow on gift ." slot="7" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bow" head="bow"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="lay the wrapping paper out flat ." slot="1" text="lay" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the wrapping paper" head="paper"/>
+		</item>
+		<item original="place the gift on the paper ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="bring the paper up around the gift ." slot="3" text="bring up around" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="stick the seams together with tape ." slot="4" text="stick with" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="seams" head="seams"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="wrap a ribbon around the gift ." slot="5" text="wrap around" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ribbon" head="ribbon"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tie the ribbon in a bow ." slot="6" text="tie in" head="tie">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ribbon" head="ribbon"/>
+			<ptcp text="bow" head="bow"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="partially unroll wrapping paper ." slot="1" text="unroll" head="unroll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="partially unroll wrapping paper ." slot="1" text="unroll" head="unroll">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="find a gift ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="choose a gift wrapper ." slot="2" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a gift wrapper" head="wrapper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="cut the gift wrapper ." slot="3" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the gift wrapper" head="wrapper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="measure the gift wrapper ." slot="4" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the gift wrapper" head="wrapper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="cover the gift with a wrapper and tape it in place ." slot="5" text="cover with in" head="cover">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="wrapper" head="wrapper"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="tie a matching ribbon ." slot="6" text="tie" head="tie">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ribbon" head="ribbon"/>
+		</item>
+		<item original="accessorize with a matching bow ." slot="7" text="accessorize with" head="accessorize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bow" head="bow"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="determine wrapping method ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping method" head="method"/>
+			<ptcp text="wrapping" head="wrapping"/>
+		</item>
+		<item original="collect wrapping materials ." slot="2" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping materials" head="materials"/>
+			<ptcp text="wrapping" head="wrapping"/>
+		</item>
+		<item original="collect scissors tape etc ." slot="3" text="collect" head="collect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scissors tape" head="tape"/>
+			<ptcp text="scissors" head="scissors"/>
+		</item>
+		<item original="cut wrapping paper to fit ." slot="4" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="enclose gift in wrapping paper ." slot="5" text="enclose in" head="enclose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="tape paper closed ." slot="6" text="closed" head="closed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape paper" head="paper"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="tie ribbon ." slot="7" text="tie" head="tie">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ribbon" head="ribbon"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="choose gift wrap ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift wrap" head="wrap"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="cut correct size of wrap ." slot="2" text="cut of" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="size" head="size"/>
+			<ptcp text="wrap" head="wrap"/>
+		</item>
+		<item original="place gift in center of wrap ." slot="3" text="place in of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="wrap" head="wrap"/>
+		</item>
+		<item original="fold wrap around gift ." slot="4" text="fold around" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape wrap in place ." slot="5" text="wrap in" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="adorn with ribbons and bows ." slot="6" text="adorn with" head="adorn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ribbons" head="ribbons"/>
+			<ptcp text="bows" head="bows"/>
+		</item>
+		<item original="label gift or attach card ." slot="7" text="label" head="label">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="card" head="card"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="cut gift wrap to appropriate size ." slot="1" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift wrap" head="wrap"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="tape gift wrap around object ." slot="2" text="wrap around" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape gift" head="gift"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="object" head="object"/>
+		</item>
+		<item original="fold and tape ends of gift wrap ." slot="3" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape ends" head="ends"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="gift wrap" head="wrap"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="add a bow ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bow" head="bow"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="get gift ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="wrap gift ." slot="2" text="wrap" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="obtain wrapping paper ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+		</item>
+		<item original="verify needed length ." slot="2" text="verify" head="verify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="needed length" head="length"/>
+		</item>
+		<item original="cut paper ." slot="3" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="wrap around gift ." slot="4" text="wrap around" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape edges closed ." slot="5" text="closed" head="closed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape edges" head="edges"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="verify ." slot="6" text="verify" head="verify">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="obtain gift ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="obtain wrapping paper ." slot="2" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+		</item>
+		<item original="obtain tape ." slot="3" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="remove price from gift ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="price" head="price"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="wrap gift ." slot="5" text="wrap" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape gift ." slot="6" text="tape " head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="buy gift ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="cut paper ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="tape papaer around gift ." slot="3" text="tape around" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape papaer" head="papaer"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="papaer" head="papaer"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="buy gift ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="cut paper ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="tape papaer around gift ." slot="3" text="tape around" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape papaer" head="papaer"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="papaer" head="papaer"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="buy gift ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="cut paper ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="tape papaer around gift ." slot="3" text="tape around" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape papaer" head="papaer"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="papaer" head="papaer"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="buy gift ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="cut paper ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="tape papaer around gift ." slot="3" text="tape around" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape papaer" head="papaer"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="papaer" head="papaer"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="buy gift ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="cut paper ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="tape papaer around gift ." slot="3" text="tape around" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape papaer" head="papaer"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="papaer" head="papaer"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="buy gift ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="cut paper ." slot="2" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="tape papaer around gift ." slot="3" text="tape around" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape papaer" head="papaer"/>
+			<ptcp text="tape" head="tape"/>
+			<ptcp text="papaer" head="papaer"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="cut wrap to the right dimensions ." slot="1" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="dimensions" head="dimensions"/>
+		</item>
+		<item original="lay gift in center of wrap ." slot="2" text="lay in of" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="wrap" head="wrap"/>
+		</item>
+		<item original="fold edges of wrap to entirely cover gift ." slot="3" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape the wrapping shut ." slot="4" text="tape" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping" head="wrapping"/>
+		</item>
+		<item original="add a giftcard and abow ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="giftcard" head="giftcard"/>
+			<ptcp text="abow" head="abow"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="cut wrap to the right dimensions ." slot="1" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="dimensions" head="dimensions"/>
+		</item>
+		<item original="lay gift in center of wrap ." slot="2" text="lay in of" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="wrap" head="wrap"/>
+		</item>
+		<item original="fold edges of wrap to entirely cover gift ." slot="3" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape the wrapping shut ." slot="4" text="tape" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping" head="wrapping"/>
+		</item>
+		<item original="add a giftcard and abow ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="giftcard" head="giftcard"/>
+			<ptcp text="abow" head="abow"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="cut wrap to the right dimensions ." slot="1" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="dimensions" head="dimensions"/>
+		</item>
+		<item original="lay gift in center of wrap ." slot="2" text="lay in of" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="wrap" head="wrap"/>
+		</item>
+		<item original="fold edges of wrap to entirely cover gift ." slot="3" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape the wrapping shut ." slot="4" text="tape" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping" head="wrapping"/>
+		</item>
+		<item original="add a giftcard and abow ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="giftcard" head="giftcard"/>
+			<ptcp text="abow" head="abow"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="cut wrap to the right dimensions ." slot="1" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="dimensions" head="dimensions"/>
+		</item>
+		<item original="lay gift in center of wrap ." slot="2" text="lay in of" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="wrap" head="wrap"/>
+		</item>
+		<item original="fold edges of wrap to entirely cover gift ." slot="3" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape the wrapping shut ." slot="4" text="tape" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping" head="wrapping"/>
+		</item>
+		<item original="add a giftcard and abow ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="giftcard" head="giftcard"/>
+			<ptcp text="abow" head="abow"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="cut wrap to the right dimensions ." slot="1" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="dimensions" head="dimensions"/>
+		</item>
+		<item original="lay gift in center of wrap ." slot="2" text="lay in of" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="wrap" head="wrap"/>
+		</item>
+		<item original="fold edges of wrap to entirely cover gift ." slot="3" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape the wrapping shut ." slot="4" text="tape" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping" head="wrapping"/>
+		</item>
+		<item original="add a giftcard and abow ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="giftcard" head="giftcard"/>
+			<ptcp text="abow" head="abow"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="cut wrap to the right dimensions ." slot="1" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="dimensions" head="dimensions"/>
+		</item>
+		<item original="lay gift in center of wrap ." slot="2" text="lay in of" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="wrap" head="wrap"/>
+		</item>
+		<item original="fold edges of wrap to entirely cover gift ." slot="3" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape the wrapping shut ." slot="4" text="tape" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping" head="wrapping"/>
+		</item>
+		<item original="add a giftcard and abow ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="giftcard" head="giftcard"/>
+			<ptcp text="abow" head="abow"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="cut wrapping paper to size ." slot="1" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="set gift on paper ." slot="2" text="set on" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="fold edges of wrap to entirely cover gift ." slot="3" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="wrap" head="wrap"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape the wrapping shut ." slot="4" text="tape" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping" head="wrapping"/>
+		</item>
+		<item original="add a giftcard and a bow ." slot="5" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="giftcard" head="giftcard"/>
+			<ptcp text="bow" head="bow"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="cut wrapping paper ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+		</item>
+		<item original="wrap gift ." slot="2" text="wrap" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="secure paper with tape ." slot="3" text="secure with" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="cut wrapping paper ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+		</item>
+		<item original="wrap gift ." slot="2" text="wrap" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="secure paper with tape ." slot="3" text="secure with" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="cut wrapping paper ." slot="1" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+		</item>
+		<item original="wrap gift ." slot="2" text="wrap" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="secure paper with tape ." slot="3" text="secure with" head="secure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="choose wrapping paper ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+		</item>
+		<item original="cut to desired size ." slot="2" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired size" head="size"/>
+		</item>
+		<item original="wrap paper around gift ." slot="3" text="wrap around" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape in place ." slot="4" text="tape in" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="choose wrapping paper ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+		</item>
+		<item original="cut to desired size ." slot="2" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired size" head="size"/>
+		</item>
+		<item original="wrap paper around gift ." slot="3" text="wrap around" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape in place ." slot="4" text="tape in" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="choose wrapping paper ." slot="1" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+		</item>
+		<item original="cut to desired size ." slot="2" text="cut to" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="desired size" head="size"/>
+		</item>
+		<item original="wrap paper around gift ." slot="3" text="wrap around" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="tape in place ." slot="4" text="tape in" head="tape">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="find paper ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="make sure will fit gift ." slot="2" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="find tape ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="wrap paper around gift ." slot="4" text="wrap around" head="wrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="put tape to hold it together ." slot="5" text="put" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="buy wrapping paper ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapping paper" head="paper"/>
+		</item>
+		<item original="get scotch tape ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scotch tape" head="tape"/>
+			<ptcp text="scotch" head="scotch"/>
+		</item>
+		<item original="get ruler ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ruler" head="ruler"/>
+		</item>
+		<item original="get scissors ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="scissors" head="scissors"/>
+		</item>
+		<item original="measure gift ." slot="5" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+		</item>
+		<item original="cut paper ." slot="6" text="cut" head="cut">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="place gift on paper and tape up ." slot="7" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="gift" head="gift"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+	</script>
+</scripts>

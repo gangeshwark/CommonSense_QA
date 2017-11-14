@@ -1,0 +1,1424 @@
+<scripts>
+	<script id="1">
+		<item original="give plants water ." slot="1" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="give plants mineral nutrients ." slot="2" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="mineral nutrients" head="nutrients"/>
+			<ptcp text="mineral" head="mineral"/>
+		</item>
+		<item original="place plants in light ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="preen and cut dead parts ." slot="4" text="preen" head="preen">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="parts" head="parts"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="examine plants daily ." slot="1" text="examine" head="examine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="water dry plants ." slot="2" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="expose plants to sunlight daily ." slot="3" text="expose to" head="expose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="remove dry leaves ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+		</item>
+		<item original="put water in plant ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="water plants ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="remove old leaves ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="water plants ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="keep plants in sun ." slot="2" text="keep in" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="keep the plants in the correct amount of sunlight ." slot="1" text="keep in of" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="water the plants as needed ." slot="2" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="make sure the plants are in enough soil ." slot="3" text="make in" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="observe state of plants ." slot="1" text="observe of" head="observe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="state" head="state"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="if dry water ." slot="2" text="dry " head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="remove old leaves ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+		</item>
+		<item original="add soil if needed ." slot="4" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="for each plant ." slot="1" text="for for" head="for">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="water plant ." slot="2" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="remove old leaves ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+		</item>
+		<item original="put more soil in pot if needed ." slot="4" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="water plants ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="remove dead leaves ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+		</item>
+		<item original="add soil if needed ." slot="3" text="add" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="read the care instructions on label ." slot="1" text="read on" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the care instructions" head="instructions"/>
+			<ptcp text="care" head="care"/>
+			<ptcp text="label" head="label"/>
+		</item>
+		<item original="water often ." slot="2" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="place in sunny position ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="position" head="position"/>
+		</item>
+		<item original="place out of drafts ." slot="4" text="place out of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drafts" head="drafts"/>
+		</item>
+		<item original="place out of direct sunlight ." slot="5" text="place out of" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="feed often in the summer and less often in the winter ." slot="6" text="feed in in" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="summer" head="summer"/>
+			<ptcp text="winter" head="winter"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="water plants ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="repot plant ." slot="2" text="repot" head="repot">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="prune plant ." slot="3" text="prune" head="prune">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="identify plants ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="provide appropriate lighting ." slot="2" text="provide" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lighting" head="lighting"/>
+		</item>
+		<item original="provide appropriate quantity of water ." slot="3" text="provide of" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="quantity" head="quantity"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="water the plants regularly ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="have the plants exposed to sunlight regularly ." slot="2" text="exposed to" head="exposed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="providing sun ." slot="1" text="providing" head="providing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+		<item original="watering ." slot="2" text="watering " head="watering">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fertilizing ." slot="3" text="fertilizing" head="fertilizing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="potting ." slot="4" text="potting" head="potting">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="weeding ." slot="5" text="weeding" head="weeding">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pruning ." slot="6" text="pruning " head="pruning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pruning" head="pruning"/>
+		</item>
+		<item original="trimming ." slot="7" text="trimming" head="trimming">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="providing sun ." slot="1" text="providing" head="providing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+		<item original="watering ." slot="2" text="watering " head="watering">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fertilizing ." slot="3" text="fertilizing" head="fertilizing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="potting ." slot="4" text="potting" head="potting">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="weeding ." slot="5" text="weeding" head="weeding">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pruning ." slot="6" text="pruning " head="pruning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pruning" head="pruning"/>
+		</item>
+		<item original="trimming ." slot="7" text="trimming" head="trimming">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="providing sun ." slot="1" text="providing" head="providing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+		<item original="watering ." slot="2" text="watering " head="watering">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fertilizing ." slot="3" text="fertilizing" head="fertilizing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="potting ." slot="4" text="potting" head="potting">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="weeding ." slot="5" text="weeding" head="weeding">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pruning ." slot="6" text="pruning " head="pruning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pruning" head="pruning"/>
+		</item>
+		<item original="trimming ." slot="7" text="trimming" head="trimming">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="providing sun ." slot="1" text="providing" head="providing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+		<item original="watering ." slot="2" text="watering " head="watering">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fertilizing ." slot="3" text="fertilizing" head="fertilizing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="potting ." slot="4" text="potting" head="potting">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="weeding ." slot="5" text="weeding" head="weeding">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pruning ." slot="6" text="pruning " head="pruning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pruning" head="pruning"/>
+		</item>
+		<item original="trimming ." slot="7" text="trimming" head="trimming">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="providing sun ." slot="1" text="providing" head="providing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+		<item original="watering ." slot="2" text="watering " head="watering">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fertilizing ." slot="3" text="fertilizing" head="fertilizing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="potting ." slot="4" text="potting" head="potting">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="weeding ." slot="5" text="weeding" head="weeding">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pruning ." slot="6" text="pruning " head="pruning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pruning" head="pruning"/>
+		</item>
+		<item original="trimming ." slot="7" text="trimming" head="trimming">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="providing sun ." slot="1" text="providing" head="providing">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+		<item original="watering ." slot="2" text="watering " head="watering">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fertilizing ." slot="3" text="fertilizing" head="fertilizing">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="potting ." slot="4" text="potting" head="potting">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="weeding ." slot="5" text="weeding" head="weeding">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="pruning ." slot="6" text="pruning " head="pruning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pruning" head="pruning"/>
+		</item>
+		<item original="trimming ." slot="7" text="trimming" head="trimming">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="water ." slot="1" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="give plantfood ." slot="2" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plantfood" head="plantfood"/>
+		</item>
+		<item original="test soil ." slot="3" text="test" head="test">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="provide proper soil ." slot="1" text="provide" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="provide proper sunlight ." slot="2" text="provide" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="provide proper amounts of water ." slot="3" text="provide of" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amounts" head="amounts"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="provide proper soil ." slot="1" text="provide" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="provide proper sunlight ." slot="2" text="provide" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="provide proper amounts of water ." slot="3" text="provide of" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amounts" head="amounts"/>
+			<ptcp text="water" head="water"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="water the plants ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="feed the plants ." slot="2" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="provide light ." slot="3" text="provide" head="provide">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="light" head="light"/>
+		</item>
+		<item original="trim dead leaves ." slot="4" text="trim" head="trim">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="dig a hole ." slot="1" text="dig" head="dig">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+		<item original="place seeds/plants in hole ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="seedsplants" head="seedsplants"/>
+			<ptcp text="hole" head="hole"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="water plants ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="feed plants ." slot="2" text="feed" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="prune plants ." slot="3" text="prune" head="prune">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="remove dead leaves ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+		</item>
+		<item original="kill bugs ." slot="2" text="kill" head="kill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bugs" head="bugs"/>
+		</item>
+		<item original="turn soil ." slot="3" text="turn" head="turn">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="fertilize ." slot="4" text="fertilize" head="fertilize">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="water plant ." slot="5" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="make sure the plants are getting enough light ." slot="1" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="water the plants sufficiently and regularly ." slot="2" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="once in a while add nutrients such as phosphates and nitrates to the soil ." slot="3" text="add in as to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="while" head="while"/>
+			<ptcp text="nutrients" head="nutrients"/>
+			<ptcp text="phosphates" head="phosphates"/>
+			<ptcp text="nitrates" head="nitrates"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="water plant regularily ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="keep plant in sunlight ." slot="2" text="keep in" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="water them ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="hold them up if slagging ." slot="2" text="hold up" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="slagging" head="slagging"/>
+		</item>
+		<item original="wait ." slot="3" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="dust plants leaves gently ." slot="1" text="leaves" head="leaves">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dust plants" head="plants"/>
+			<ptcp text="dust" head="dust"/>
+		</item>
+		<item original="pick weeds out of pot ." slot="2" text="pick out of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="weeds" head="weeds"/>
+			<ptcp text="pot" head="pot"/>
+		</item>
+		<item original="water the soil w/water at room temperature ." slot="3" text="water at" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the soil wwater" head="wwater"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="room temperature" head="temperature"/>
+			<ptcp text="room" head="room"/>
+		</item>
+		<item original="add fertilizer to soil bi-weekly ." slot="4" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil biweekly" head="biweekly"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+	</script>
+	<script id="60">
+		<item original="water plants when soil is dry ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="prune dead leaves and stems from plants ." slot="2" text="prune from" head="prune">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="add fertilizer to the soil according t directions ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="t directions" head="directions"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="make sure plants get sunlight according to their needs ." slot="4" text="make according to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sunlight" head="sunlight"/>
+			<ptcp text="needs" head="needs"/>
+		</item>
+	</script>
+	<script id="61">
+		<item original="water plants when soil is dry ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="prune dead leaves and stems from plants ." slot="2" text="prune from" head="prune">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="add fertilizer to the soil according t directions ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="t directions" head="directions"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="make sure plants get sunlight according to their needs ." slot="4" text="make according to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sunlight" head="sunlight"/>
+			<ptcp text="needs" head="needs"/>
+		</item>
+	</script>
+	<script id="62">
+		<item original="water plants when soil is dry ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="prune dead leaves and stems from plants ." slot="2" text="prune from" head="prune">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="add fertilizer to the soil according t directions ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="t directions" head="directions"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="make sure plants get sunlight according to their needs ." slot="4" text="make according to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sunlight" head="sunlight"/>
+			<ptcp text="needs" head="needs"/>
+		</item>
+	</script>
+	<script id="63">
+		<item original="water plants when soil is dry ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="prune dead leaves and stems from plants ." slot="2" text="prune from" head="prune">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="add fertilizer to the soil according t directions ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="t directions" head="directions"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="make sure plants get sunlight according to their needs ." slot="4" text="make according to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sunlight" head="sunlight"/>
+			<ptcp text="needs" head="needs"/>
+		</item>
+	</script>
+	<script id="64">
+		<item original="water plants when soil is dry ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="prune dead leaves and stems from plants ." slot="2" text="prune from" head="prune">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="add fertilizer to the soil according t directions ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="t directions" head="directions"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="make sure plants get sunlight according to their needs ." slot="4" text="make according to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sunlight" head="sunlight"/>
+			<ptcp text="needs" head="needs"/>
+		</item>
+	</script>
+	<script id="65">
+		<item original="water plants when soil is dry ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="prune dead leaves and stems from plants ." slot="2" text="prune from" head="prune">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="add fertilizer to the soil according t directions ." slot="3" text="add to" head="add">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+			<ptcp text="soil" head="soil"/>
+			<ptcp text="t directions" head="directions"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="make sure plants get sunlight according to their needs ." slot="4" text="make according to" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sunlight" head="sunlight"/>
+			<ptcp text="needs" head="needs"/>
+		</item>
+	</script>
+	<script id="66">
+		<item original="keep plants watered ." slot="1" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="remove dead leaves and stems ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+		</item>
+		<item original="make sure plants get appropriate sunlight ." slot="3" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="occasionally feed plants with fertilizer ." slot="4" text="feed with" head="feed">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="fertilizer" head="fertilizer"/>
+		</item>
+	</script>
+	<script id="67">
+		<item original="water plant ." slot="1" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="place plant in sunlight ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="rotate plant occasionally ." slot="3" text="rotate" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="68">
+		<item original="water plant ." slot="1" text="water " head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+		<item original="place plant in sunlight ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="rotate plant occasionally ." slot="3" text="rotate" head="rotate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="69">
+		<item original="water the plants daily ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="ensure adequate sunlight ." slot="2" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="protect them from insects and animals if necessary ." slot="3" text="protect from" head="protect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="insects" head="insects"/>
+			<ptcp text="animals" head="animals"/>
+		</item>
+	</script>
+	<script id="70">
+		<item original="water the plants daily ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="ensure adequate sunlight ." slot="2" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="protect them from insects and animals if necessary ." slot="3" text="protect from" head="protect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="insects" head="insects"/>
+			<ptcp text="animals" head="animals"/>
+		</item>
+	</script>
+	<script id="71">
+		<item original="water the plants daily ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="ensure adequate sunlight ." slot="2" text="ensure" head="ensure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="protect them from insects and animals if necessary ." slot="3" text="protect from" head="protect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="insects" head="insects"/>
+			<ptcp text="animals" head="animals"/>
+		</item>
+	</script>
+	<script id="72">
+		<item original="fill up water jug ." slot="1" text="fill up" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water jug" head="jug"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="water plants ." slot="2" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="73">
+		<item original="water plants ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="place plants in sun ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+	</script>
+	<script id="74">
+		<item original="water plants ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="place plants in sun ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+	</script>
+	<script id="75">
+		<item original="water plants ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="place plants in sun ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+	</script>
+	<script id="76">
+		<item original="water plants ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="place plants in sun ." slot="2" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="sun" head="sun"/>
+		</item>
+	</script>
+	<script id="77">
+		<item original="water the plant ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="78">
+		<item original="place plants near window ." slot="1" text="place near" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="window" head="window"/>
+		</item>
+		<item original="check dampness of soil ." slot="2" text="check of" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dampness" head="dampness"/>
+			<ptcp text="soil" head="soil"/>
+		</item>
+		<item original="if dry get a watering can ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dry" head="dry"/>
+			<ptcp text="watering" head="watering"/>
+		</item>
+		<item original="fill with water ." slot="4" text="fill with" head="fill">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="lightly water soil of plants avoiding leaves ." slot="5" text="avoiding of" head="avoiding">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water soil" head="soil"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+	<script id="79">
+		<item original="place the plant in the sunlight ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="water the plant every couple of days ." slot="2" text="water of" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="couple" head="couple"/>
+			<ptcp text="days" head="days"/>
+		</item>
+	</script>
+	<script id="80">
+		<item original="place the plant in the sunlight ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="water the plant every couple of days ." slot="2" text="water of" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="couple" head="couple"/>
+			<ptcp text="days" head="days"/>
+		</item>
+	</script>
+	<script id="81">
+		<item original="place the plant in the sunlight ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="water the plant every couple of days ." slot="2" text="water of" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plant" head="plant"/>
+			<ptcp text="couple" head="couple"/>
+			<ptcp text="days" head="days"/>
+		</item>
+	</script>
+	<script id="82">
+		<item original="water plants regularly ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="find out of they need sunlight or not ." slot="2" text="find out of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="give plants plant food regularly ." slot="3" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="plant food" head="food"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="83">
+		<item original="water plants regularly ." slot="1" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+		<item original="find out of they need sunlight or not ." slot="2" text="find out of" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="sunlight" head="sunlight"/>
+		</item>
+		<item original="give plants plant food regularly ." slot="3" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="plant food" head="food"/>
+			<ptcp text="plant" head="plant"/>
+		</item>
+	</script>
+	<script id="84">
+		<item original="place plan ts in sunny location ." slot="1" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plan ts" head="ts"/>
+			<ptcp text="plan" head="plan"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="fertilize plants every two weeks ." slot="2" text="fertilize" head="fertilize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="weeks" head="weeks"/>
+		</item>
+		<item original="water plants every few days ." slot="3" text="water" head="water">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plants" head="plants"/>
+			<ptcp text="days" head="days"/>
+		</item>
+		<item original="remove any dead leaves from the plants daily ." slot="4" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="leaves" head="leaves"/>
+			<ptcp text="plants" head="plants"/>
+		</item>
+	</script>
+</scripts>

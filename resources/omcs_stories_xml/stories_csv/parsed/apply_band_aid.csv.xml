@@ -1,0 +1,1223 @@
+<scripts>
+	<script id="1">
+		<item original="wash cut ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open band aid ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="place band aid over cut ." slot="3" text="place over" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="locate a package of band aids ." slot="1" text="locate of" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+			<ptcp text="band aids" head="aids"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="remove a band aid from the package ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="remove a band aid from its protective covering ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="covering" head="covering"/>
+		</item>
+		<item original="peel off the backing of the band aid ." slot="4" text="peel off of" head="peel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="backing" head="backing"/>
+			<ptcp text="the band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="apply the band aid to the skin ." slot="5" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="open a band aid ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="stick band aid to wound ." slot="2" text="stick to" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find a band aid ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="open the band aid ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="find the cut ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="put the band aid on the cut ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="tear off the protection paper ." slot="5" text="tear off" head="tear">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the protection paper" head="paper"/>
+			<ptcp text="protection" head="protection"/>
+		</item>
+		<item original="affix the band aid on the skin ." slot="6" text="affix on" head="affix">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="remove band aid from wrap ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wrap" head="wrap"/>
+		</item>
+		<item original="apply band aid ." slot="2" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="find a band aid ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="remove band aid from packaging ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="packaging" head="packaging"/>
+		</item>
+		<item original="remove non-stick backing from band aid ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="nonstick backing" head="backing"/>
+			<ptcp text="nonstick" head="nonstick"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="press band aid lightly onto a person s wound ." slot="4" text="press onto" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="s" head="s"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="find the injury ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="injury" head="injury"/>
+		</item>
+		<item original="select an appropriate band aid ." slot="2" text="select" head="select">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="an appropriate band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="remove wrapper from band aid ." slot="3" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="remove cover for band aid adhesives ." slot="4" text="remove for" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+			<ptcp text="band aid adhesives" head="adhesives"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="aid" head="aid"/>
+		</item>
+		<item original="press band aid against the injury ." slot="5" text="press against" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="injury" head="injury"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="take a band aid out of the box ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="unpack the band aid ." slot="2" text="unpack" head="unpack">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="take the white strips off the band aid (making sure not to touch the part that will touch the wound) ." slot="3" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strips" head="strips"/>
+			<ptcp text="the band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="part" head="part"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="put band aid  on the wound ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get band aid ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="remove cover ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="place band aid on wound ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="press band aid to attach to skin ." slot="4" text="press to" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid to attach to skin" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="inspect the wound ." slot="1" text="inspect" head="inspect">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="clean the wound ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="open the bandaid package ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="place the bandaid on the wound ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="throw away the packaging ." slot="5" text="throw away" head="throw">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="packaging" head="packaging"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="clean affected area ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="get band aid ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="remove band aid packaging ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid packaging" head="packaging"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="aid" head="aid"/>
+		</item>
+		<item original="put on band aid so that it covers affected area ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="affected area" head="area"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="get plasters ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plasters" head="plasters"/>
+		</item>
+		<item original="clean wound ." slot="2" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="put on plaster ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plaster" head="plaster"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="locate a band aid ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="locate the location for the band aid to be placed ." slot="2" text="locate for" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="location" head="location"/>
+			<ptcp text="the band aid to be placed" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="remove protective paper from back of band aid ." slot="3" text="remove from of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="back" head="back"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="apply adhesive of band aid to skin ." slot="4" text="apply of to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="adhesive" head="adhesive"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="go to the aid kit ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the aid kit" head="kit"/>
+			<ptcp text="aid" head="aid"/>
+		</item>
+		<item original="pick a band aid ." slot="2" text="pick" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="choose place to put it ." slot="3" text="choose" head="choose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+		</item>
+		<item original="apply the band aid ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="aquire band-aid ." slot="1" text="aquire" head="aquire">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="locate wound ." slot="2" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="remove adhesive strips ." slot="3" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strips" head="strips"/>
+		</item>
+		<item original="press band-aid on wound ." slot="4" text="press on" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="locate band aid ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="remove packaging around band aid ." slot="2" text="remove around" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="packaging" head="packaging"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="place band aid over wound ." slot="3" text="place over" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="apply pressure to band aid ." slot="4" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pressure" head="pressure"/>
+			<ptcp text="aid" head="aid"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="buy a band aid ." slot="1" text="buy" head="buy">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="take it out of the cover ." slot="2" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cover" head="cover"/>
+		</item>
+		<item original="peel the strips covering the adhesive portion ." slot="3" text="peel" head="peel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strips" head="strips"/>
+			<ptcp text="portion" head="portion"/>
+		</item>
+		<item original="put it on the wound ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="remove bandaid wrapper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="remove adhesive strips ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strips" head="strips"/>
+		</item>
+		<item original="apply bandaid to wound ." slot="3" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="cry over injury ." slot="1" text="cry over" head="cry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="injury" head="injury"/>
+		</item>
+		<item original="find antibacterial medicines ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicines" head="medicines"/>
+		</item>
+		<item original="apply medicines ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicines" head="medicines"/>
+		</item>
+		<item original="discern need to cover wound ." slot="4" text="discern" head="discern">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="need" head="need"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="find bandaids ." slot="5" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaids" head="bandaids"/>
+		</item>
+		<item original="remove bandaid from packet ." slot="6" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="packet" head="packet"/>
+		</item>
+		<item original="apply bandaid ." slot="7" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="rip open package ." slot="1" text="rip" head="rip">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="package" head="package"/>
+		</item>
+		<item original="peel off adhesive paper ." slot="2" text="peel off" head="peel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+		</item>
+		<item original="apply band aid ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="remove protective wrapper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="remove protective plastic ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+		</item>
+		<item original="apply band aid ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="remove protective wrapper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="remove protective plastic ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+		</item>
+		<item original="apply band aid ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="remove protective wrapper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="remove protective plastic ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+		</item>
+		<item original="apply band aid ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="remove protective wrapper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="remove protective plastic ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+		</item>
+		<item original="apply band aid ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="remove protective wrapper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="remove protective plastic ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+		</item>
+		<item original="apply band aid ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="remove protective wrapper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="remove protective plastic ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+		</item>
+		<item original="apply band aid ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="remove protective wrapper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="remove protective plastic ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+		</item>
+		<item original="apply band aid ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="remove protective wrapper ." slot="1" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="remove protective plastic ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+		</item>
+		<item original="apply band aid ." slot="3" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="clean wound ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="dry wound ." slot="2" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="unwrap band aid ." slot="3" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="place on wound ." slot="4" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="take band aid from wrapper ." slot="1" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="place band aid on wound ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="take band aid from wrapper ." slot="1" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="place band aid on wound ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="taking band aid from box ." slot="1" text="taking from" head="taking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="cleaning the are you put the bandaid ." slot="2" text="cleaning cleaning" head="cleaning">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="taking wraper of of bandaid ." slot="3" text="taking of of" head="taking">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wraper" head="wraper"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="apply to area you want it ." slot="4" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="find wound ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="wash out the wound and dry it ." slot="2" text="wash out" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="or wipe with alcohol ." slot="3" text="wipe with" head="wipe">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="alcohol" head="alcohol"/>
+		</item>
+		<item original="unwrap bandaid ." slot="4" text="unwrap" head="unwrap">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="remove flaps ." slot="5" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="flaps" head="flaps"/>
+		</item>
+		<item original="place gauzy part over wound ." slot="6" text="place over" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="part" head="part"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="gently press sticky part to hold band aid in place ." slot="7" text="press in" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="part" head="part"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="place" head="place"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="open band aid box ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid box" head="box"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="aid" head="aid"/>
+		</item>
+		<item original="remove band aid ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="take wrapper off band aid ." slot="3" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="remove strips on sticky part ." slot="4" text="remove on" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strips" head="strips"/>
+			<ptcp text="part" head="part"/>
+		</item>
+		<item original="place band aid on wound ." slot="5" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="open band aid box ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid box" head="box"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="aid" head="aid"/>
+		</item>
+		<item original="remove band aid ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="take wrapper off band aid ." slot="3" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="remove strips on sticky part ." slot="4" text="remove on" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="strips" head="strips"/>
+			<ptcp text="part" head="part"/>
+		</item>
+		<item original="place band aid on wound ." slot="5" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="clean the wound ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="take the wax paper on one side off ." slot="2" text="take on" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="place the piece of fabric from the band aid over the wound and stick the one revealed side down ." slot="3" text="place revealed down of from over" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="fabric" head="fabric"/>
+			<ptcp text="the band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="the one revealed side" head="side"/>
+		</item>
+		<item original="take off wax paper on the other side off ." slot="4" text="take off on" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="side" head="side"/>
+		</item>
+		<item original="stick ban aid down ." slot="5" text="stick down" head="stick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="ban aid" head="aid"/>
+			<ptcp text="ban" head="ban"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="clean area where bandaid will be applied ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="dry the area ." slot="2" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open bandage package ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage package" head="package"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+		<item original="take plastic off sticky tabs ." slot="4" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+			<ptcp text="tabs" head="tabs"/>
+		</item>
+		<item original="place bandage over cut and press onto skin ." slot="5" text="place over onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage" head="bandage"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="press" head="press"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="clean area where bandaid will be applied ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="dry the area ." slot="2" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open bandage package ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage package" head="package"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+		<item original="take plastic off sticky tabs ." slot="4" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+			<ptcp text="tabs" head="tabs"/>
+		</item>
+		<item original="place bandage over cut and press onto skin ." slot="5" text="place over onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage" head="bandage"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="press" head="press"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="clean area where bandaid will be applied ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="dry the area ." slot="2" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open bandage package ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage package" head="package"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+		<item original="take plastic off sticky tabs ." slot="4" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+			<ptcp text="tabs" head="tabs"/>
+		</item>
+		<item original="place bandage over cut and press onto skin ." slot="5" text="place over onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage" head="bandage"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="press" head="press"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="clean area where bandaid will be applied ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="dry the area ." slot="2" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open bandage package ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage package" head="package"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+		<item original="take plastic off sticky tabs ." slot="4" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+			<ptcp text="tabs" head="tabs"/>
+		</item>
+		<item original="place bandage over cut and press onto skin ." slot="5" text="place over onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage" head="bandage"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="press" head="press"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="clean area where bandaid will be applied ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="dry the area ." slot="2" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open bandage package ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage package" head="package"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+		<item original="take plastic off sticky tabs ." slot="4" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+			<ptcp text="tabs" head="tabs"/>
+		</item>
+		<item original="place bandage over cut and press onto skin ." slot="5" text="place over onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage" head="bandage"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="press" head="press"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="clean area where bandaid will be applied ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="dry the area ." slot="2" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+		<item original="open bandage package ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage package" head="package"/>
+			<ptcp text="bandage" head="bandage"/>
+		</item>
+		<item original="take plastic off sticky tabs ." slot="4" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="plastic" head="plastic"/>
+			<ptcp text="tabs" head="tabs"/>
+		</item>
+		<item original="place bandage over cut and press onto skin ." slot="5" text="place over onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandage" head="bandage"/>
+			<ptcp text="cut" head="cut"/>
+			<ptcp text="press" head="press"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="remove band aid from package ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="package" head="package"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="wash wound ." slot="1" text="wash" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="apply disinfectant ." slot="2" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="disinfectant" head="disinfectant"/>
+		</item>
+		<item original="open bandaid ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="pull paper of tape ." slot="4" text="pull of" head="pull">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="paper" head="paper"/>
+			<ptcp text="tape" head="tape"/>
+		</item>
+		<item original="apply to finger with the cotton part over the wound ." slot="5" text="apply with over" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the cotton part" head="part"/>
+			<ptcp text="cotton" head="cotton"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="peel open band aid ." slot="1" text="peel" head="peel">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="open band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="gently place over cut ." slot="2" text="place over" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+		<item original="apply pressure to make sure bandaid is stuck onto skin ." slot="3" text="apply onto" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pressure" head="pressure"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="skin" head="skin"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="clean wound ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="dry wound ." slot="2" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="get band aid ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="open band aid ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="put band aid on wound ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="clean wound ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="dry wound ." slot="2" text="dry" head="dry">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="get band aid ." slot="3" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="open band aid ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+		</item>
+		<item original="put band aid on wound ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="rinse the wound ." slot="1" text="rinse" head="rinse">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="clean the wound with alcohol swab ." slot="2" text="clean with" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+			<ptcp text="alcohol swab" head="swab"/>
+			<ptcp text="alcohol" head="alcohol"/>
+		</item>
+		<item original="find a proper size bandaid ." slot="3" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="a proper size bandaid" head="bandaid"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="open bandaid wrapper ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="apply bandaid ." slot="5" text="apply" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="press down ." slot="6" text="press down" head="press">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="keep bandaid dry ." slot="7" text="keep" head="keep">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="clean cut ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get banaid ." slot="2" text="banaid" head="banaid">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open bandaid ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="put bandaid on cut ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="clean cut ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get banaid ." slot="2" text="banaid" head="banaid">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open bandaid ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="put bandaid on cut ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="clean cut ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="get banaid ." slot="2" text="banaid" head="banaid">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open bandaid ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="put bandaid on cut ." slot="4" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="find a bandaid ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="get correct size ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="apply to area ." slot="3" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="find a bandaid ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="get correct size ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="size" head="size"/>
+		</item>
+		<item original="apply to area ." slot="3" text="apply to" head="apply">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="area" head="area"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="clean wound ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="get bandaid ." slot="2" text="bandaid" head="bandaid">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open wrapper ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="open bandaid ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="put bandaid on cut ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="clean wound ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="get bandaid ." slot="2" text="bandaid" head="bandaid">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open wrapper ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="open bandaid ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="put bandaid on cut ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="clean wound ." slot="1" text="clean" head="clean">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+		<item original="get bandaid ." slot="2" text="bandaid" head="bandaid">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="open wrapper ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="open bandaid ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+		</item>
+		<item original="put bandaid on cut ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="cut" head="cut"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="remove bandaid from box ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bandaid" head="bandaid"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="open wrapper ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrapper" head="wrapper"/>
+		</item>
+		<item original="place band aid on wound ." slot="3" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="band aid" head="aid"/>
+			<ptcp text="band" head="band"/>
+			<ptcp text="wound" head="wound"/>
+		</item>
+	</script>
+</scripts>

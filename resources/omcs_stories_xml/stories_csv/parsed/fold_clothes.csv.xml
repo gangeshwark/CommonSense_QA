@@ -1,0 +1,858 @@
+<scripts>
+	<script id="1">
+		<item original="hold the clothes ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="straighten the clothes out ." slot="2" text="straighten out" head="straighten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="fold the clothes neatly ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="set in a different pile ." slot="4" text="set in" head="set">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pile" head="pile"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="place clothes on a flat surface ." slot="1" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="flatten the clothing ." slot="2" text="flatten" head="flatten">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="bend the clothing over itself ." slot="3" text="bend over" head="bend">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="repeat until the desired shape appears ." slot="4" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the desired shape" head="shape"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="take an item out of dryer or basket ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="dryer" head="dryer"/>
+			<ptcp text="basket" head="basket"/>
+		</item>
+		<item original="shake out the wrinkles ." slot="2" text="shake out" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrinkles" head="wrinkles"/>
+		</item>
+		<item original="lay the item down on something flat ." slot="3" text="lay down on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="something" head="something"/>
+		</item>
+		<item original="fold the item into a flat compact rectangular shape ." slot="4" text="fold into" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="shape" head="shape"/>
+		</item>
+		<item original="repeat ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="remove an item of clothing from the hamper ." slot="1" text="remove of from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="the" head="the"/>
+		</item>
+		<item original="fold the item in half ." slot="2" text="fold in" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="fold it in half again ." slot="3" text="fold in" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="place the article of clothing in a pile ." slot="4" text="place of in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="article" head="article"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="pile" head="pile"/>
+		</item>
+		<item original="place each pile in its appropriate drawer or shelf ." slot="5" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pile" head="pile"/>
+			<ptcp text="drawer" head="drawer"/>
+			<ptcp text="shelf" head="shelf"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="lay piece  of clothing on flat surface ." slot="1" text="lay of on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="fold piece of clothing ." slot="2" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="take next piece of clothing and repeat 1 and  2 ." slot="3" text="take of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="1 and 2" head="1"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="take cloth and lat flat on bed ." slot="1" text="take on" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cloth" head="cloth"/>
+			<ptcp text="bed" head="bed"/>
+		</item>
+		<item original="fold and put aside ." slot="2" text="fold aside" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="take clothes one by one ." slot="1" text="take by" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="lay on flat surface ." slot="2" text="lay on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="fold into a regular shape ." slot="3" text="fold into" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shape" head="shape"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="find clean clothes ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="pick up a piece of clothing ." slot="2" text="pick up of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="fold the piece of clothing upon itselt into a rectangular shape ." slot="3" text="fold of upon into" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="itselt" head="itselt"/>
+			<ptcp text="shape" head="shape"/>
+		</item>
+		<item original="place the folded clothing onto a stack ." slot="4" text="place onto" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="a stack" head="stack"/>
+		</item>
+		<item original="repeat until all clothes are folded ." slot="5" text="repeat" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="locate the unfolded clothes ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the" head="the"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="take one item at a time to fold ." slot="2" text="take at" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="time" head="time"/>
+		</item>
+		<item original="fold each item neatly placing it aside ." slot="3" text="fold aside" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="locate improperly situated clothes ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="improperly situated clothes" head="clothes"/>
+		</item>
+		<item original="gather clothes to one location ." slot="2" text="gather to" head="gather">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="location" head="location"/>
+		</item>
+		<item original="organize each piece of clothing in a neat manner folding the clothes over on themselves ." slot="3" text="organize of in over on" head="organize">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="manner" head="manner"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="store clothes in the appropriate location ." slot="4" text="store in" head="store">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="location" head="location"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="pick up piece of garment ." slot="1" text="pick up of" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piece" head="piece"/>
+			<ptcp text="garment" head="garment"/>
+		</item>
+		<item original="fold garment ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garment" head="garment"/>
+		</item>
+		<item original="put garment on pile ." slot="3" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garment" head="garment"/>
+			<ptcp text="pile" head="pile"/>
+		</item>
+		<item original="repeat for all garments ." slot="4" text="repeat for" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="garments" head="garments"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="locate clothes ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="fold clothes ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="fold the left side of the clothes ." slot="1" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="fold the right side of the clothes ." slot="2" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="side" head="side"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="fold the center of the cothes ." slot="3" text="fold of" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="center" head="center"/>
+			<ptcp text="cothes" head="cothes"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="take clothes from dryer ." slot="1" text="take from" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="fold clothes ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="put clothes away ." slot="3" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="get clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="fold clothes ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="fold clothes ." slot="1" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="put them in the drawer ." slot="2" text="put in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drawer" head="drawer"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="hold corners ." slot="1" text="hold" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="corners" head="corners"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="remove clothes from dryer ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="flod clothes ." slot="2" text="flod" head="flod">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place in closet ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="closet" head="closet"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="fodl cothes ." slot="1" text="fodl" head="fodl">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cothes" head="cothes"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="iron clothes ." slot="1" text="iron" head="iron">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="fold pant ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pant" head="pant"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="take clothes out of dryer ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="fold clothes ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place in pile ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pile" head="pile"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="remove clothes from drier ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="drier" head="drier"/>
+		</item>
+		<item original="put on flat surface ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="begin folding ." slot="3" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="folding" head="folding"/>
+		</item>
+		<item original="continue folding ." slot="4" text="continue" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="folding" head="folding"/>
+		</item>
+		<item original="when done put on hangers ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hangers" head="hangers"/>
+		</item>
+		<item original="take hangers to closet ." slot="6" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hangers" head="hangers"/>
+			<ptcp text="closet" head="closet"/>
+		</item>
+		<item original="hang hangers ." slot="7" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hangers" head="hangers"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="remove clothes from drier ." slot="1" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="drier" head="drier"/>
+		</item>
+		<item original="put on flat surface ." slot="2" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="begin folding ." slot="3" text="begin" head="begin">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="folding" head="folding"/>
+		</item>
+		<item original="continue folding ." slot="4" text="continue" head="continue">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="folding" head="folding"/>
+		</item>
+		<item original="when done put on hangers ." slot="5" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hangers" head="hangers"/>
+		</item>
+		<item original="take hangers to closet ." slot="6" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hangers" head="hangers"/>
+			<ptcp text="closet" head="closet"/>
+		</item>
+		<item original="hang hangers ." slot="7" text="hang" head="hang">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="hangers" head="hangers"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="find a flat surface ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="lay an item of clothing ." slot="2" text="lay of" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="fold it in half ." slot="3" text="fold in" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="fold in half once again ." slot="4" text="fold in" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="half" head="half"/>
+		</item>
+		<item original="pu tin a pile ." slot="5" text="pu" head="pu">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tin" head="tin"/>
+			<ptcp text="pile" head="pile"/>
+		</item>
+		<item original="separate piles for different kinds of clothes ." slot="6" text="separate for of" head="separate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="piles" head="piles"/>
+			<ptcp text="kinds" head="kinds"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="repeat with each item ." slot="7" text="repeat with" head="repeat">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="hold item in front of you and shake ." slot="1" text="hold in of" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="place on a flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="smooth out wrinkles with open hand ." slot="3" text="smooth out with" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrinkles" head="wrinkles"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="bring edges of garment together to fold lengthwise ." slot="4" text="bring of" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="garment" head="garment"/>
+		</item>
+		<item original="bring edges of garment together to fold other way ." slot="5" text="bring of" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="garment" head="garment"/>
+			<ptcp text="way" head="way"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="hold item in front of you and shake ." slot="1" text="hold in of" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="place on a flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="smooth out wrinkles with open hand ." slot="3" text="smooth out with" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrinkles" head="wrinkles"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="bring edges of garment together to fold lengthwise ." slot="4" text="bring of" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="garment" head="garment"/>
+		</item>
+		<item original="bring edges of garment together to fold other way ." slot="5" text="bring of" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="garment" head="garment"/>
+			<ptcp text="way" head="way"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="hold item in front of you and shake ." slot="1" text="hold in of" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="place on a flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="smooth out wrinkles with open hand ." slot="3" text="smooth out with" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrinkles" head="wrinkles"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="bring edges of garment together to fold lengthwise ." slot="4" text="bring of" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="garment" head="garment"/>
+		</item>
+		<item original="bring edges of garment together to fold other way ." slot="5" text="bring of" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="garment" head="garment"/>
+			<ptcp text="way" head="way"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="hold item in front of you and shake ." slot="1" text="hold in of" head="hold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="item" head="item"/>
+			<ptcp text="front" head="front"/>
+		</item>
+		<item original="place on a flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="smooth out wrinkles with open hand ." slot="3" text="smooth out with" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrinkles" head="wrinkles"/>
+			<ptcp text="hand" head="hand"/>
+		</item>
+		<item original="bring edges of garment together to fold lengthwise ." slot="4" text="bring of" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="garment" head="garment"/>
+		</item>
+		<item original="bring edges of garment together to fold other way ." slot="5" text="bring of" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="edges" head="edges"/>
+			<ptcp text="garment" head="garment"/>
+			<ptcp text="way" head="way"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="get clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place on flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="fold clothes ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="get clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place on flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="fold clothes ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="get clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place on flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="fold clothes ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="get clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place on flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="fold clothes ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="get clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place on flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="fold clothes ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="get clothes ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="place on flat surface ." slot="2" text="place on" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="fold clothes ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="take clothes out of dryer ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="shake them ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put in pile on top of dryer ." slot="3" text="put in on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pile" head="pile"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="sneak upstairs ." slot="4" text="sneak" head="sneak">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="sit in front of t v ." slot="5" text="sit in of" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="t v" head="v"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="wait til wife gets home ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wife" head="wife"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="tell her the laundry needs folded ." slot="7" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="her" head="her"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="take clothes out of dryer ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="shake them ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="put in pile on top of dryer ." slot="3" text="put in on of" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pile" head="pile"/>
+			<ptcp text="top" head="top"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="sneak upstairs ." slot="4" text="sneak" head="sneak">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="sit in front of t v ." slot="5" text="sit in of" head="sit">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="front" head="front"/>
+			<ptcp text="t v" head="v"/>
+			<ptcp text="t" head="t"/>
+		</item>
+		<item original="wait til wife gets home ." slot="6" text="wait" head="wait">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wife" head="wife"/>
+			<ptcp text="home" head="home"/>
+		</item>
+		<item original="tell her the laundry needs folded ." slot="7" text="tell" head="tell">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="her" head="her"/>
+			<ptcp text="laundry" head="laundry"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="pick up clothing ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="shake clothing ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="check for wrinkles ." slot="3" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrinkles" head="wrinkles"/>
+		</item>
+		<item original="smooth clothign with one hand while holding it with the other ." slot="4" text="smooth with with" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothign" head="clothign"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="the other" head="other"/>
+		</item>
+		<item original="chose a place to make a crease ." slot="5" text="chose" head="chose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="crease" head="crease"/>
+		</item>
+		<item original="fold clothing at crease ." slot="6" text="fold at" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="crease" head="crease"/>
+		</item>
+		<item original="fold clothing again and pat ." slot="7" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="pick up clothing ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="shake clothing ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="check for wrinkles ." slot="3" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrinkles" head="wrinkles"/>
+		</item>
+		<item original="smooth clothign with one hand while holding it with the other ." slot="4" text="smooth with with" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothign" head="clothign"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="the other" head="other"/>
+		</item>
+		<item original="chose a place to make a crease ." slot="5" text="chose" head="chose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="crease" head="crease"/>
+		</item>
+		<item original="fold clothing at crease ." slot="6" text="fold at" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="crease" head="crease"/>
+		</item>
+		<item original="fold clothing again and pat ." slot="7" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="pick up clothing ." slot="1" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="shake clothing ." slot="2" text="shake" head="shake">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+		<item original="check for wrinkles ." slot="3" text="check for" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="wrinkles" head="wrinkles"/>
+		</item>
+		<item original="smooth clothign with one hand while holding it with the other ." slot="4" text="smooth with with" head="smooth">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothign" head="clothign"/>
+			<ptcp text="hand" head="hand"/>
+			<ptcp text="the other" head="other"/>
+		</item>
+		<item original="chose a place to make a crease ." slot="5" text="chose" head="chose">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="crease" head="crease"/>
+		</item>
+		<item original="fold clothing at crease ." slot="6" text="fold at" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+			<ptcp text="crease" head="crease"/>
+		</item>
+		<item original="fold clothing again and pat ." slot="7" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothing" head="clothing"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="get shirt ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shirt" head="shirt"/>
+		</item>
+		<item original="lay shirt out on flat surface ." slot="2" text="lay out on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shirt" head="shirt"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="fold shirt ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shirt" head="shirt"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="get shirt ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shirt" head="shirt"/>
+		</item>
+		<item original="lay shirt out on flat surface ." slot="2" text="lay out on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shirt" head="shirt"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="fold shirt ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shirt" head="shirt"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="get shirt ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shirt" head="shirt"/>
+		</item>
+		<item original="lay shirt out on flat surface ." slot="2" text="lay out on" head="lay">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shirt" head="shirt"/>
+			<ptcp text="surface" head="surface"/>
+		</item>
+		<item original="fold shirt ." slot="3" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="shirt" head="shirt"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="take clothes out of dryer ." slot="1" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+			<ptcp text="dryer" head="dryer"/>
+		</item>
+		<item original="fold clothes ." slot="2" text="fold" head="fold">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+		<item original="put clothes away ." slot="3" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="clothes" head="clothes"/>
+		</item>
+	</script>
+</scripts>

@@ -1,0 +1,1075 @@
+<scripts>
+	<script id="1">
+		<item original="go to the place where medicine is kept ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="place" head="place"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="identify the appropriate medicine ." slot="2" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="if it is in a container open the container ." slot="3" text="open in" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="dispense the appropriate amount ." slot="4" text="dispense" head="dispense">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+	</script>
+	<script id="2">
+		<item original="determine what medicine is needed ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="determine how much medicine is needed ." slot="2" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="get the medicine from the bottle ." slot="3" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="have the person take the medicine ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="3">
+		<item original="acquiring the medicine ." slot="1" text="acquiring" head="acquiring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="determining the proper dosage ." slot="2" text="determining" head="determining">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dosage" head="dosage"/>
+		</item>
+		<item original="administering the dose ." slot="3" text="administering" head="administering">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dose" head="dose"/>
+		</item>
+	</script>
+	<script id="4">
+		<item original="find a medicine ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="find a person ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="measure a dose of the medicine into a spoon ." slot="3" text="measure of into" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dose" head="dose"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="spoon" head="spoon"/>
+		</item>
+		<item original="pour the medicine from the spoon into the person s mouth ." slot="4" text="pour from into" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="spoon" head="spoon"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="mouth" head="mouth"/>
+		</item>
+	</script>
+	<script id="5">
+		<item original="read the instructions on the medicine ." slot="1" text="read on" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="remove the correct dosage from the bottle or box ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dosage" head="dosage"/>
+			<ptcp text="bottle" head="bottle"/>
+			<ptcp text="box" head="box"/>
+		</item>
+		<item original="give the dose to the patient ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dose" head="dose"/>
+			<ptcp text="patient" head="patient"/>
+		</item>
+		<item original="put away the medicine ." slot="4" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="6">
+		<item original="read instructions for dosage ." slot="1" text="read for" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+			<ptcp text="dosage" head="dosage"/>
+		</item>
+		<item original="open medicine container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine container" head="container"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="take out the right amount of medicine ." slot="3" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="give it to the person taking the medicine ." slot="4" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="make sure the person takes the medicine ." slot="5" text="make" head="make">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="7">
+		<item original="get medicine ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="get water ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="give them to person ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="8">
+		<item original="get glass of water ." slot="1" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glass" head="glass"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="get medicine ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="give water and medicine to person ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="9">
+		<item original="get medicine ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="get glass of water ." slot="2" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glass" head="glass"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="take medicine out of container ." slot="3" text="take out of" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="give medicine and water to person ." slot="4" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="10">
+		<item original="get medicine ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="pour water in cup ." slot="2" text="pour in" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="cup" head="cup"/>
+		</item>
+		<item original="bring medicine and water to person ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="11">
+		<item original="go to medicine cabinet ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine cabinet" head="cabinet"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="remove medicine ." slot="2" text="remove" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="get cup of water ." slot="3" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cup" head="cup"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="take medicine and water to person ." slot="4" text="take to" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="12">
+		<item original="read the label ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="label" head="label"/>
+		</item>
+		<item original="measure the correct dose ." slot="2" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dose" head="dose"/>
+		</item>
+		<item original="administer the dose ." slot="3" text="administer" head="administer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dose" head="dose"/>
+		</item>
+		<item original="put the medicine away in a child proof place ." slot="4" text="put away in" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="a child proof place" head="place"/>
+			<ptcp text="child" head="child"/>
+			<ptcp text="proof" head="proof"/>
+		</item>
+	</script>
+	<script id="13">
+		<item original="go to medicine cabinet ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine cabinet" head="cabinet"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="remove medicine from cabinet ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="cabinet" head="cabinet"/>
+		</item>
+		<item original="get medicine dose from medicine bottle ." slot="3" text="get from" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine dose" head="dose"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="medicine bottle" head="bottle"/>
+		</item>
+		<item original="get water ." slot="4" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="give water and pills to person ." slot="5" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pills" head="pills"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="14">
+		<item original="find out what medicine ." slot="1" text="find out" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="aquire medicine ." slot="2" text="aquire" head="aquire">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="bring to individual ." slot="3" text="bring to" head="bring">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="individual" head="individual"/>
+		</item>
+	</script>
+	<script id="15">
+		<item original="reading label on medicine to get directions ." slot="1" text="reading on" head="reading">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="label" head="label"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="directions" head="directions"/>
+		</item>
+		<item original="open medicine ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="dispense amount necessary ." slot="3" text="dispense" head="dispense">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+		<item original="give medicine to recipient ." slot="4" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="close medicine ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="put medicine away ." slot="6" text="put away" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="16">
+		<item original="find medicine ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="give medicine to correct person ." slot="2" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="watch while person takes medicine ." slot="3" text="watch" head="watch">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="17">
+		<item original="take out medicine ." slot="1" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="open medicine container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine container" head="container"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="follow directions for proper dose ." slot="3" text="follow for" head="follow">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="directions" head="directions"/>
+			<ptcp text="dose" head="dose"/>
+		</item>
+	</script>
+	<script id="18">
+		<item original="find medicine to be given ." slot="1" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="pick up medicine container ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine container" head="container"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="open medicine container ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine container" head="container"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="remove appropriate amount of medicine ." slot="4" text="remove of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="close medicine container ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine container" head="container"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="put down medicine container ." slot="6" text="put down" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine container" head="container"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="give medicine to appropriate person ." slot="7" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="19">
+		<item original="pour out correct dosage ." slot="1" text="pour out" head="pour">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dosage" head="dosage"/>
+		</item>
+		<item original="administer dosage to patient ." slot="2" text="administer to" head="administer">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dosage" head="dosage"/>
+			<ptcp text="patient" head="patient"/>
+		</item>
+	</script>
+	<script id="20">
+		<item original="identify medicine ." slot="1" text="identify" head="identify">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="remove medicine from container ." slot="2" text="remove from" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="obtain a cup of water ." slot="3" text="obtain of" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cup" head="cup"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="give medicine and water to patient ." slot="4" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="patient" head="patient"/>
+		</item>
+	</script>
+	<script id="21">
+		<item original="measure out medicine ." slot="1" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="give to patient ." slot="2" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patient" head="patient"/>
+		</item>
+	</script>
+	<script id="22">
+		<item original="read label ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="label" head="label"/>
+		</item>
+		<item original="open bottle ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="measure dosage ." slot="3" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dosage" head="dosage"/>
+		</item>
+	</script>
+	<script id="23">
+		<item original="read directions on medicine container ." slot="1" text="read on" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="directions" head="directions"/>
+			<ptcp text="medicine container" head="container"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="measure or count appropriate dose for the patient ." slot="2" text="measure for" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dose" head="dose"/>
+			<ptcp text="patient" head="patient"/>
+		</item>
+		<item original="give as directed on container ." slot="3" text="give on" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="24">
+		<item original="read directions on medicine container ." slot="1" text="read on" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="directions" head="directions"/>
+			<ptcp text="medicine container" head="container"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="measure or count appropriate dose for the patient ." slot="2" text="measure for" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dose" head="dose"/>
+			<ptcp text="patient" head="patient"/>
+		</item>
+		<item original="give as directed on container ." slot="3" text="give on" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="25">
+		<item original="read directions on medicine container ." slot="1" text="read on" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="directions" head="directions"/>
+			<ptcp text="medicine container" head="container"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="measure or count appropriate dose for the patient ." slot="2" text="measure for" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dose" head="dose"/>
+			<ptcp text="patient" head="patient"/>
+		</item>
+		<item original="give as directed on container ." slot="3" text="give on" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+	</script>
+	<script id="26">
+		<item original="look for correct medicine ." slot="1" text="look for" head="look">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="check dosage on bottle ." slot="2" text="check on" head="check">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dosage" head="dosage"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="take out correct number of pills per dosage ." slot="3" text="take out of per" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="number" head="number"/>
+			<ptcp text="pills" head="pills"/>
+			<ptcp text="dosage" head="dosage"/>
+		</item>
+		<item original="get a glass of water ." slot="4" text="get of" head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="glass" head="glass"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="give pills and glass of water to patient ." slot="5" text="give of to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pills" head="pills"/>
+			<ptcp text="glass" head="glass"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="patient" head="patient"/>
+		</item>
+		<item original="ask patient to use water to swallow pills ." slot="6" text="ask" head="ask">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patient" head="patient"/>
+			<ptcp text="water" head="water"/>
+			<ptcp text="pills" head="pills"/>
+		</item>
+	</script>
+	<script id="27">
+		<item original="push down and turn the cap ." slot="1" text="push down" head="push">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cap" head="cap"/>
+		</item>
+		<item original="take off the cap ." slot="2" text="take off" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cap" head="cap"/>
+		</item>
+		<item original="read the bottle for the required dosage ." slot="3" text="read for" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+			<ptcp text="dosage" head="dosage"/>
+		</item>
+		<item original="remove the required number of pills ." slot="4" text="remove of" head="remove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="the required number" head="number"/>
+			<ptcp text="pills" head="pills"/>
+		</item>
+		<item original="give the pills to the person ." slot="5" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pills" head="pills"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="put the cap back on ." slot="6" text="put on" head="put">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cap" head="cap"/>
+		</item>
+	</script>
+	<script id="28">
+		<item original="get medicine ." slot="1" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="open medicine ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="give medcine ." slot="3" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medcine" head="medcine"/>
+		</item>
+	</script>
+	<script id="29">
+		<item original="locate medicine ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="pick up medicine ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="give medicine to person ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="30">
+		<item original="locate medicine ." slot="1" text="locate" head="locate">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="pick up medicine ." slot="2" text="pick up" head="pick">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="give medicine to person ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="31">
+		<item original="determine proper dosage ." slot="1" text="determine" head="determine">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dosage" head="dosage"/>
+		</item>
+		<item original="measure medicine ." slot="2" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="give medicine to patient ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+			<ptcp text="patient" head="patient"/>
+		</item>
+	</script>
+	<script id="32">
+		<item original="read instructions ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="measure proper amount ." slot="2" text="measure" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+		<item original="give to person ." slot="3" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person" head="person"/>
+		</item>
+		<item original="give person water ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="person water" head="water"/>
+			<ptcp text="person" head="person"/>
+		</item>
+	</script>
+	<script id="33">
+		<item original="read instructions ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="measure out doses ." slot="3" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doses" head="doses"/>
+		</item>
+		<item original="take medicine ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="34">
+		<item original="read instructions ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="measure out doses ." slot="3" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doses" head="doses"/>
+		</item>
+		<item original="take medicine ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="35">
+		<item original="read instructions ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="measure out doses ." slot="3" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doses" head="doses"/>
+		</item>
+		<item original="take medicine ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="36">
+		<item original="read instructions ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="measure out doses ." slot="3" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doses" head="doses"/>
+		</item>
+		<item original="take medicine ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="37">
+		<item original="read instructions ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="read instructions ." slot="2" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="open container ." slot="3" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="measure out doses ." slot="4" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doses" head="doses"/>
+		</item>
+		<item original="take medicine ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="open container ." slot="6" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="measure out doses ." slot="7" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doses" head="doses"/>
+		</item>
+		<item original="take medicine ." slot="8" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="38">
+		<item original="read instructions ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="measure out doses ." slot="3" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doses" head="doses"/>
+		</item>
+		<item original="take medicine ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="39">
+		<item original="read instructions ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="measure out doses ." slot="3" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doses" head="doses"/>
+		</item>
+		<item original="take medicine ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="40">
+		<item original="read instructions ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="instructions" head="instructions"/>
+		</item>
+		<item original="open container ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="measure out doses ." slot="3" text="measure out" head="measure">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="doses" head="doses"/>
+		</item>
+		<item original="take medicine ." slot="4" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="41">
+		<item original="read bottle to determine proper dosage ." slot="1" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+			<ptcp text="dosage" head="dosage"/>
+		</item>
+		<item original="open bottle and remove that amount ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+			<ptcp text="amount" head="amount"/>
+		</item>
+		<item original="place medication in person s mouth ." slot="3" text="place in" head="place">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medication" head="medication"/>
+			<ptcp text="person" head="person"/>
+			<ptcp text="s" head="s"/>
+			<ptcp text="mouth" head="mouth"/>
+		</item>
+		<item original="have them wash it down with a drink of water ." slot="4" text="wash down with of" head="wash">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="drink" head="drink"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="replace the lid on the medication ." slot="5" text="replace on" head="replace">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="lid" head="lid"/>
+			<ptcp text="medication" head="medication"/>
+		</item>
+	</script>
+	<script id="42">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="read ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="give medicine ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="43">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="read ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="give medicine ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="44">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="read ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="give medicine ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="45">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="read ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="give medicine ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="46">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="read ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="give medicine ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="47">
+		<item original="walk ." slot="1" text="walk" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="find ." slot="2" text="find" head="find">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="read ." slot="3" text="read" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+		<item original="give medicine ." slot="4" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="48">
+		<item original="giove medicine ." slot="1" text="giove" head="giove">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="49">
+		<item original="walk towards medicine cabinet ." slot="1" text="walk towards" head="walk">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine cabinet" head="cabinet"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="open cabinet door ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="cabinet door" head="door"/>
+			<ptcp text="cabinet" head="cabinet"/>
+		</item>
+		<item original="take the medicine ." slot="3" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="open medicine cap ." slot="4" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine cap" head="cap"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="take medicine ." slot="5" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="done ." slot="6" text="done " head="done">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="50">
+		<item original="open the medicine ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="take what is needed ." slot="2" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+		</item>
+	</script>
+	<script id="51">
+		<item original="tale the medicine ." slot="1" text="tale " head="tale">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tale" head="tale"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="hand the mdecine ." slot="2" text="hand" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mdecine" head="mdecine"/>
+		</item>
+	</script>
+	<script id="52">
+		<item original="tale the medicine ." slot="1" text="tale " head="tale">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tale" head="tale"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="hand the mdecine ." slot="2" text="hand" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mdecine" head="mdecine"/>
+		</item>
+	</script>
+	<script id="53">
+		<item original="tale the medicine ." slot="1" text="tale " head="tale">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tale" head="tale"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="hand the mdecine ." slot="2" text="hand" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mdecine" head="mdecine"/>
+		</item>
+	</script>
+	<script id="54">
+		<item original="tale the medicine ." slot="1" text="tale " head="tale">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="tale" head="tale"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="hand the mdecine ." slot="2" text="hand" head="hand">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="mdecine" head="mdecine"/>
+		</item>
+	</script>
+	<script id="55">
+		<item original="obtain medicine ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="dispense proper dosage ." slot="2" text="dispense" head="dispense">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dosage" head="dosage"/>
+		</item>
+	</script>
+	<script id="56">
+		<item original="obtain medicine ." slot="1" text="obtain" head="obtain">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="dispense proper dosage ." slot="2" text="dispense" head="dispense">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="dosage" head="dosage"/>
+		</item>
+	</script>
+	<script id="57">
+		<item original="open medicine container ." slot="1" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine container" head="container"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="read directions on container ." slot="2" text="read on" head="read">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="directions" head="directions"/>
+			<ptcp text="container" head="container"/>
+		</item>
+		<item original="give patient medicine as directed ." slot="3" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="give patient a glass of water ." slot="4" text="give of" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="patient" head="patient"/>
+			<ptcp text="glass" head="glass"/>
+			<ptcp text="water" head="water"/>
+		</item>
+		<item original="close medicine ." slot="5" text="close" head="close">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+	<script id="58">
+		<item original="go to medicine cabinet ." slot="1" text="go to" head="go">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine cabinet" head="cabinet"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="get medicine ." slot="2" text="get " head="get">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+		<item original="take out a pill ." slot="3" text="take out" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pill" head="pill"/>
+		</item>
+		<item original="give pill to patient ." slot="4" text="give to" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="pill" head="pill"/>
+			<ptcp text="patient" head="patient"/>
+		</item>
+	</script>
+	<script id="59">
+		<item original="take bottle ." slot="1" text="take" head="take">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="open bottle ." slot="2" text="open" head="open">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="bottle" head="bottle"/>
+		</item>
+		<item original="give the medicine ." slot="3" text="give" head="give">
+			<ptcp text="imp_participant" head="imp_"/>
+			<ptcp text="medicine" head="medicine"/>
+		</item>
+	</script>
+</scripts>
